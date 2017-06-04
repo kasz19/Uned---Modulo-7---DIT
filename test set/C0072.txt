@@ -1,0 +1,1129 @@
+ID=C0072
+URL=http://www.scottishfriendly.co.uk/ifa/faq.html
+SIZE=55877
+DATE=10/07/2002
+TIME=13:17:49
+DATASET=Insurance Agencies
+HTML=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Scottish Friendly</title>
+	
+	<META NAME="keywords" CONTENT="bonus ISA, child bond, children's savings, childrens savings, city of glasgow friendly society, friendly society, glasgow, growth and security bond, IFA, IFAs, investment, investments, ISA, ISAs, lump sum investments, mutual, mutuality, prosperity savings plan, regular savings, savings, savings bonds, savings plans, scotland, scottish, scottish bond, scottish investment bond, stocks and shares, stocks and shares ISA, tax free, term assurance">
+	<META NAME="description" CONTENT="Offers a range of products including tax exempt savings plans, lump sum investment plans and other products including life and pension plans.">
+
+	<SCRIPT>
+<!--
+function windowOpen(windowname,xsize,ysize) {
+        var thiswin= open('',windowname,'width='+xsize+',height='+ysize+',resizable=no,scrollbars=no');
+        if (thiswin.focus) thiswin.focus();
+}
+//-->
+</SCRIPT>
+<LINK REL=STYLESHEET HREF="../master_style.css" type="text/css">
+
+</head>
+
+<body bgcolor="#ffffff" MARGINWIDTH=0 MARGINHEIGHT=0 TOPMARGIN=0 LEFTMARGIN=0>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH="100%">
+
+				<TR>
+					<TD ROWSPAN=2 ALIGN="LEFT" width="164"><a href="../index.html"><img src="../img/logo.gif" width="164" height="87" alt="Scottish Friendly" border="0"></a></TD>
+					<TD ROWSPAN=2 ALIGN="LEFT"><img src="../img/curve.gif" width="250" height="87" alt="" border="0"></TD>
+					<TD bgcolor="#8D6AE8" ALIGN=RIGHT WIDTH="80%"><img src="../img/clear.gif" width="176" height="1" alt="" border="0"><img src="../img/swing.gif" width="153" height="75" alt="" border="0"></TD>
+				</TR>
+
+				<TR>
+					<TD bgcolor="#00CC00"><img src="../img/clear.gif" width="153" height="12" alt="" border="0"></TD>
+				</TR>
+
+</TABLE>
+
+<!-- breadcrumb table-->
+<TABLE BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+
+				<TR>
+				<TD colspan=2><img src="../img/clear.gif" width="1" height="21" alt="" border="0"></TD>
+				</TR>
+
+				<TR>
+				<TD><img src="../img/clear.gif" width="21" height="1" alt="" border="0"></TD>
+				<TD CLASS=bread><a href="../index.html">home</a> &#62; <a href="index.html">ifa centre</a> &#62; faqs</TD>
+				</TR>
+
+				<TR>
+				<TD colspan=2><img src="../img/clear.gif" width="1" height="3" alt="" border="0"></TD>
+				</TR>
+
+				<TR>
+				<td><img src="../img/clear.gif" width="21" height="1" alt="" border="0"></td>
+				<TD bgcolor="#00CC00"><img src="../img/clear.gif" width="746" height="1" alt="" border="0"></TD>
+				</TR>
+</TABLE>
+<!-- main table-->
+<TABLE BORDER=0  WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+
+				<TR>
+				<TD><img src="../img/clear.gif" width="25" height="1" alt="" border="0"></TD>
+
+				<TD VALIGN=TOP>
+<!-- menu table-->
+		<TABLE BORDER=0 WIDTH=175 CELLPADDING=2 CELLSPACING=0>
+				<TR>
+					<TD><img src="../img/clear.gif" width="1" height="32" alt="" border="0"></TD>
+				</TR>
+				<TR>
+					<TD VALIGN=BOTTOM><A HREF="../index.html" OnMouseOver= "image1.src='../img/home.gif'" OnMouseOut="image1.src='../img/home-new.gif'"><img src="../img/home-new.gif" NAME="image1" width="36" height="15" alt="Home" border="0"></A></TD>
+				</TR>
+
+				<TR>
+					<TD><A HREF="../products/index.html" OnMouseOver= "image2.src='../img/whatweprovide-new.gif'" OnMouseOut="image2.src='../img/whatweprovide.gif'"><img src="../img/whatweprovide.gif" NAME="image2" width="99" height="15" alt="What we provide" border="0"></A></TD>
+				</TR>
+
+				<TR>
+					<TD><A HREF="../guide/index.html" OnMouseOver= "image12.src='../img/guideto-new.gif'" OnMouseOut="image12.src='../img/guideto.gif'"><img src="../img/guideto.gif"  NAME="image12" width="127" height="15" alt="Guide to investments" border="0"></A></TD>
+				</TR>
+
+				<TR>
+					<TD><A HREF="../fundprices/index.html" OnMouseOver= "image13.src='../img/fundprices-new.gif'" OnMouseOut="image13.src='../img/fundprices.gif'"><img src="../img/fundprices.gif" NAME="image13" width="69" height="15" alt="Fund Prices" border="0"></A></TD>
+				</TR>
+
+				<TR>
+					<TD><A HREF="../about/index.html" OnMouseOver= "image14.src='../img/aboutus-new.gif'" OnMouseOut="image14.src='../img/aboutus.gif'"><img src="../img/aboutus.gif" NAME="image14" width="53" height="15" alt="About us" border="0"></A></TD>
+				</TR>
+				<TR>
+					<TD><A HREF="../contact/index.html" OnMouseOver= "image22.src='../img/contactus-new.gif'" OnMouseOut="image22.src='../img/contactus.gif'"><img src="../img/contactus.gif" NAME="image22" width="63" height="15" alt="Contact us" border="0"></A></TD>
+				</TR>
+
+				<TR>
+					<TD><A HREF="../ifa/index.html" OnMouseOver= "image23.src='../img/ifa-new.gif'" OnMouseOut="image23.src='../img/ifa.gif'"><img src="../img/ifa.gif" NAME="image23" width="62" height="15" alt="IFA Centre" border="0"></A></TD>
+				</TR>
+
+				<TR>
+					<TD><A HREF="products.html" OnMouseOver= "image24.src='../img/products-new.gif'" OnMouseOut="image24.src='../img/products.gif'"><img src="../img/products.gif" NAME="image24" width="60" height="15" alt="Products" border="0"></A></TD>
+				</TR>
+
+				<TR>
+					<TD><A HREF="resources.html" OnMouseOver= "image25.src='../img/resource-centre-new.gif'" OnMouseOut="image25.src='../img/resource-centre.gif'"><img src="../img/resource-centre.gif" NAME="image25" width="102" height="15" alt="IFA Resource Centre" border="0"></A></TD>
+				</TR>
+
+				<TR>
+					<TD><a href="ifa-literaturerequest.html" OnMouseOver= "image26.src='../img/litrequest-new.gif'" OnMouseOut="image26.src='../img/litrequest.gif'"><img src="../img/litrequest.gif" NAME="image26" width="132" height="15" alt="Literature Request" border="0"></A></TD>
+				</TR>
+
+				<TR>
+					<TD><A HREF="faq.html" OnMouseOver= "image27.src='../img/faq-new.gif'" OnMouseOut="image27.src='../img/faq-new.gif'"><img src="../img/faq-new.gif" NAME="image27" width="40" height="15" alt="FAQs" border="0"></A></TD>
+				</TR>
+
+				<TR>
+					<TD><A HREF="enquiries.html" OnMouseOver= "image28.src='../img/enquiries-new.gif'" OnMouseOut="image28.src='../img/enquiries.gif'"><img src="../img/enquiries.gif" NAME="image28" width="62" height="15" alt="Enquiries" border="0"></A></TD>
+				</TR>
+				<TR>
+					<TD><A HREF="../mediacentre/index.html" OnMouseOver= "image36.src='../img/mediacentre-new.gif'"  OnMouseOut="image36.src='../img/mediacentre.gif'"><img src="../img/mediacentre.gif" NAME="image36" width="77" height="15" alt="Media Centre" border="0"></A></TD>
+				</TR>
+				<TR>
+					<TD><A HREF="../sitemap/index.html" OnMouseOver= "image29.src='../img/sitemap-new.gif'" OnMouseOut="image29.src='../img/sitemap.gif'"><img src="../img/sitemap.gif" NAME="image29" width="49" height="15" alt="Sitemap" border="0"></A></TD>
+				</TR>
+<!-- end menu table-->
+				</TABLE>
+				</TD>
+				<TD><img src="../img/clear.gif" width="25" height="1" alt="" border="0"></TD>
+
+<!-- main central table-->
+
+				<TD VALIGN=TOP>
+				<table CELLPADDING=0 CELLSPACING=0 BORDER=0>
+				<tr>
+				<td ALIGN=LEFT colspan=2><img src="../img/clear.gif" width="398" height="32" alt="" border="0"></td>
+				</tr>
+				<tr>
+				<td ALIGN=LEFT colspan=2><img src="../img/title-faq.gif" width="214" height="18" alt="Frequently Asked Questions" border="0"></td>
+				</tr>
+				<tr>
+				<td ALIGN=LEFT colspan=2><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+				</tr>
+
+				<tr>
+				<td class=body colspan=2>
+	<!-- anchor 1 -->
+	<TABLE WIDTH=250 CELLPADDING=0 CELLSPACING=0 BORDER=0 BGCOLOR="#EBEBFC">
+
+				<tr>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="7"><img src="../img/clear.gif" width="7" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="163"><img src="../img/clear.gif" width="163" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="1" alt="" border="0"></td>
+
+				</tr>
+				<tr>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="10" alt="" border="0">
+					</td>
+					<td width="7"><img src="../img/clear.gif" width="7" height="1" alt="" border="0">
+					</td>
+					<td CLASS=bread width="250"><SPAN CLASS="body"><a href="#new">New Business Queries</a></SPAN>
+					</td>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="10" alt="" border="0">
+					</td>
+				</tr>
+				<tr>
+					<td COLSPAN=4 CLASS=bread BGCOLOR="#CCCCFF"><img src="../img/clear.gif" width="170" height="1" alt="" border="0"></td>
+				</tr>
+				</TABLE>
+	<!-- end anchor 1 -->
+				<table WIDTH=170 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+				<tr>
+					<td COLSPAN=3 CLASS=bread><img src="../img/clear.gif" width="1" height="3" alt="" border="0"></td>
+				</tr>
+				</table>
+		<!-- anchor 2 -->
+	<TABLE WIDTH=250 CELLPADDING=0 CELLSPACING=0 BORDER=0 BGCOLOR="#EBEBFC">
+
+				<tr>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="7"><img src="../img/clear.gif" width="7" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="163"><img src="../img/clear.gif" width="163" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="1" alt="" border="0"></td>
+
+				</tr>
+				<tr>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="10" alt="" border="0">
+					</td>
+					<td width="7"><img src="../img/clear.gif" width="7" height="1" alt="" border="0">
+					</td>
+					<td CLASS=bread width="250"><a href="#agency">Agency Queries</a>
+					</td>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="10" alt="" border="0">
+					</td>
+				</tr>
+				<tr>
+					<td COLSPAN=4 CLASS=bread BGCOLOR="#CCCCFF"><img src="../img/clear.gif" width="170" height="1" alt="" border="0"></td>
+				</tr>
+				</TABLE>
+	<!-- end anchor 2 -->
+
+				<table WIDTH=250 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+				<tr>
+					<td COLSPAN=3 CLASS=bread><img src="../img/clear.gif" width="1" height="3" alt="" border="0"></td>
+				</tr>
+				</table>
+	<!-- anchor 3 -->
+	<TABLE WIDTH=250 CELLPADDING=0 CELLSPACING=0 BORDER=0 BGCOLOR="#EBEBFC">
+
+				<tr>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="7"><img src="../img/clear.gif" width="7" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="163"><img src="../img/clear.gif" width="163" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="1" alt="" border="0"></td>
+
+				</tr>
+				<tr>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="10" alt="" border="0">
+					</td>
+					<td width="7"><img src="../img/clear.gif" width="7" height="1" alt="" border="0">
+					</td>
+					<td CLASS=bread width="250"><A HREF="#commission">Commission Queries</A>
+					</td>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="10" alt="" border="0">
+					</td>
+				</tr>
+				<tr>
+					<td COLSPAN=4 CLASS=bread BGCOLOR="#CCCCFF"><img src="../img/clear.gif" width="170" height="1" alt="" border="0"></td>
+				</tr>
+				</TABLE>
+	<!-- end anchor 3 -->
+				<table WIDTH=250 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+				<tr>
+					<td COLSPAN=3 CLASS=bread><img src="../img/clear.gif" width="1" height="3" alt="" border="0"></td>
+				</tr>
+				</table>
+	<!-- anchor 4 -->
+	<TABLE WIDTH=250 CELLPADDING=0 CELLSPACING=0 BORDER=0 BGCOLOR="#EBEBFC">
+
+				<tr>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="7"><img src="../img/clear.gif" width="7" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="163"><img src="../img/clear.gif" width="163" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="1" alt="" border="0"></td>
+
+				</tr>
+				<tr>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="10" alt="" border="0">
+					</td>
+					<td width="7"><img src="../img/clear.gif" width="7" height="1" alt="" border="0">
+					</td>
+					<td CLASS=bread width="250"><A HREF="#general">General Queries</A>
+					</td>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="10" alt="" border="0">
+					</td>
+				</tr>
+				<tr>
+					<td COLSPAN=4 CLASS=bread BGCOLOR="#CCCCFF"><img src="../img/clear.gif" width="170" height="1" alt="" border="0"></td>
+				</tr>
+				</TABLE>
+	<!-- end anchor 4 -->
+				<table WIDTH=250 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+				<tr>
+					<td COLSPAN=3 CLASS=bread><img src="../img/clear.gif" width="1" height="3" alt="" border="0"></td>
+				</tr>
+				</table>
+	<!-- anchor 5 -->
+	<TABLE WIDTH=250 CELLPADDING=0 CELLSPACING=0 BORDER=0 BGCOLOR="#EBEBFC">
+
+				<tr>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="7"><img src="../img/clear.gif" width="7" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="163"><img src="../img/clear.gif" width="163" height="1" alt="" border="0"></td>
+<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="1" alt="" border="0"></td>
+
+				</tr>
+				<tr>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="10" alt="" border="0">
+					</td>
+					<td width="7"><img src="../img/clear.gif" width="7" height="1" alt="" border="0">
+					</td>
+					<td CLASS=bread width="250"><A HREF="#tax">Tax exempt products (Child Bond and Scottish Bond) Queries</A>
+					</td>
+					<td CLASS=bread BGCOLOR="#CCCCFF" width="1"><img src="../img/clear.gif" width="1" height="10" alt="" border="0">
+					</td>
+				</tr>
+				<tr>
+					<td COLSPAN=4 CLASS=bread BGCOLOR="#CCCCFF"><img src="../img/clear.gif" width="170" height="1" alt="" border="0"></td>
+				</tr>
+				</TABLE>
+	<!-- end anchor 5 -->
+<P><SPAN CLASS="body">
+<A NAME="new"><B>New Business Queries</B></A>
+</SPAN>
+<br>
+<br>
+</td>
+			</tr>
+
+			<tr>
+			<td colspan="2">
+			<!--bullet table 1-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Can you pay the first monthly premium by cheque?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">No, we only accept cheques if the client is paying into the plan annually or as a lump sum investment.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 1-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 2-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">If the client already has an ISA with us do they need to complete a new application form to make a top up investment?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">The client is only required to submit a new application form in respect of an investment into an existing ISA with the Society, if they have not made an ISA subscription to the plan in the previous tax year.  If they have invested in the previous tax year, a letter from the client stating that they wish to top up their investment is sufficient.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 2-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 3-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">How long will it be before the IFA receives the Policy Documents?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">The Policy Documents are released approximately 10 to 14 days after the first premium has been paid.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 3-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 4-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Does the Medical Consent Form need to be completed?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Only if the client has any medical information to disclose.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 4-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 5-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">How often do we chase the doctor for a GPR?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">The first reminder is sent 14 days after the GPR is issued, a second reminder is then issued 28 days after the issue of the GPR.  A final reminder is issued if the GPR remains outstanding 2 &frac12; months after the original GPR was issued.<br>
+The application is cancelled if the GPR is not received after 3 months.
+</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 5-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+
+			</td>
+			</tr>
+
+
+
+
+
+				<tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+				</tr>
+				<tr>
+				<td class=body><A NAME="agency"><B>Agency Queries</B></A></td>
+				<td class=bread align=right><A HREF="#top">back to top</a></td>
+				</tr>
+				<tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+				</tr>
+				<tr>
+				<td class=body colspan=2>
+				<!--bullet table 6-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">In respect of policy transfers, are you able to transfer renewal commission?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Currently, Scottish Friendly Assurance are unable to transfer renewal commissions to the new servicing IFA. The exception to this is in respect of ISA policy transfers.  For ISAs we do have the facility to change the IFA to the servicing IFA and any due commission will be correctly paid.
+</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 6-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+				<!--bullet table 7-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">What is your Indemnity Discount Figure?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">It is a 1&#37; monthly discount.
+</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 7-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+				<!--bullet table 8-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">We have recently appointed new advisers to our office.  We have an existing agency with you which we wish to remain open as a master agency.  What is required to set up new sub agencies for these advisers.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">All that is required is written confirmation from your Company requesting new sub agencies be set up and confirmation of how you wish them to be set up.
+</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 8-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+				<!--bullet table 9-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">In respect of policy transfers.  Will you accept a faxed copy of the Letter of Authority?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Yes.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 9-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+				</td>
+				</tr>
+				<tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+				</tr>
+				<tr>
+				<td class=body><A NAME="commission"><B>Commission Queries</B></A></td>
+				<td class=bread align=right><A HREF="#top">back to top</a></td>
+				</tr>
+				<tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+				</tr>
+				<tr>
+				<td class=body colspan=2>
+
+				<!--bullet table 10-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Can I rebate ISA commission into my client's plan?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">No, currently ISA commission is not flexible.  Therefore, there is not a facility for ISA commission rebate. </td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 10-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+
+				<!--bullet table 11-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Do you offer renewal commission on ISA plans?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">No, no renewal is payable, flat rate commission of 3&#37; for each contribution paid.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 11-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+
+				<!--bullet table 12-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">When is commission payable?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Commission is paid around the 10th & 20th of each month.  For individual policies, after collection of the 1st premium, commission is paid in the next available commission run.<br>
+ISA commission will be paid once a month, generally around the 22nd of each month.
+</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 12-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+
+				<!--bullet table 13-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Can commission be paid by BACS?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">No, commission payment is currently by cheque only</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 13-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 14-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">What is the level of commission payable?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">
+					<!--comparison table-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr class=body>
+						<td VALIGN="top"><SPAN CLASS="body">Scottish &#38; Child Bonds -</SPAN>
+						</td>
+						<td class=body VALIGN="top">Indemnity &#38; non indemnity at 130&#37; LAUTRO (Paid when total commission payable exceeds	&#163;25)	</td>
+					</tr>
+					<tr>
+					<td class=body colspan="2"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr class=body VALIGN="top">
+						<td><SPAN CLASS="body">Growth &#38; Security Bond &#38; Scottish Investment Bond -</SPAN>
+						</td>
+						<td class=body VALIGN="top">Initial commission of 5.25&#37; of investment (Paid when total commission payable exceeds	&#163;25)	</td>
+					</tr>
+					<tr>
+					<td class=body colspan="2"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr class=body VALIGN="top">
+						<td><SPAN CLASS="body">ISAs -</SPAN>
+						</td>
+						<td class=body VALIGN="top">Initial commission of 3&#37; in respect of each contribution paid into the plan (Paid when total commission payable exceeds &#163;10)
+						</td>
+					</tr>
+					</table>
+					<!--end of comparison table-->
+					</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 14-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 15-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Does SFA offer fund based renewal commission?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">No, fund based renewal commission is not currently available.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 15-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					</td>
+				</tr>
+				<tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+				</tr>
+				<tr>
+				<td class=body><A NAME="general"><B>General Queries</B></A></td>
+				<td class=bread align=right><A HREF="#top">back to top</a></td>
+				</tr>
+				<tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+				</tr>
+				<tr>
+				<td class=body colspan=2>
+				<!--bullet table 16-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">When will my client's policy be on risk?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Scottish Friendly will not be liable to pay benefit until we have received your completed application, issued acceptance terms and collected your first payment.  Therefore, the policy will effectively be on risk as soon as the first premium is received.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 16-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+				<!--bullet table 17-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">My client pays premiums annually; will you send a Renewal Notice direct to my client?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Yes, the Renewal Notice will be sent by our Policy Administration Department, 2-3 weeks before the renewal due date.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 17-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+				<!--bullet table 18-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">I have recently submitted an application for my client.  You have declined this application on medical grounds.  Would you be prepared to offer my client a policy without any life cover, purely as a saving element only?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">No, not currently.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 18-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 19-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">What is the yield on the Guaranteed Income Bond for a 10-year term? </td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Currently, 6.05&#37; as at February 2001.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 19-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 20-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Can you explain the ACT Credits on the Key Features Document?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Our investments in equities are taxed but we are able to claim back part of the tax we pay - at the rate of 10%. These tax credits will be withdrawn in April 2004. From April 2004, therefore the net effect on performance for a ten year plan is likely to mean a reduction in payout of approximately 0.5%, according to our actuaries' estimates.<br>
+The Scottish Bond will still be classified as tax exempt because it will continue, to be free of income and capital gains tax. What's more, our with profits fund invests in fixed interest stocks where returns are completely tax-free.
+</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 20-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+				<!--bullet table 21-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">How can direct debit arrears be rectified?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Direct Debit arrears can be cleared by sending a cheque to the value of the outstanding premiums or by a direct debit collection requesting payment of all outstanding premiums.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 21-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+				</td>
+				</tr>
+				<tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+				</tr>
+				<tr>
+				<td class=body><A NAME="tax"><B>Tax Exempt products (Child Bond and Scottish Bond) Queries</B></A></td>
+				<td class=bread align=right><A HREF="#top">back to top</a></td>
+				</tr>
+				<tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+				</tr>
+				<tr>
+				<tr>
+				<td colspan=2>
+				<!--bullet table 22-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Who is the legal owner of the Child Bond policy?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">The owner of the policy is the parent/legal guardian, even if the grandparent proposes, until the child's 16th birthday.  The grandparent will be the proposer only.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 22-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 23-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">My client is resident outside the UK, can he/she propose a Tax Exempt policy?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">No, we only accept business from client's who are UK resident.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 23-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 24-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">My client is a grandparent who wishes to propose a Child Bond policy on behalf of their grandchild.  Does the parent have to sign the application form, or will the grandparent's signature suffice?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Although the grandparent is the proposer of the policy and should sign as the person paying the premium on behalf of the child, the parent or legal guardian must sign the declaration on the proposal form.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 24-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 25-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">What happens if the proposer on a Child Bond Policy dies?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">If the policy is being funded by regular premiums, another person can take over payment of the policy provided a new Direct Debit mandate and letter advising is of the new proposer are submitted.  If payments into the policy are not being continued, the policy can be made paid up (if it has meet the minimum requirements for a paid-up policy) or the Child Bond can be cash surrendered, this amount would be payable to the parent/guardian of the relevant child (if they are aged under 16). If there is no surrender value entitlement, the Child Bond would be cancelled with out any value.
+<p>
+If the policy is being funded by a lump sum, as the proposer is the named life endowed of the Guaranteed Income Bond, the proceeds of any unused premiums can be made payable to the estate, if the executor wishes to do so.  In the event that the executor wishes the unused premiums of the Guaranteed Income Bond to be made payable to the estate, future premiums due for the continuation of the Child Bond can be paid by Direct Debit.<br>
+However, in the event that premium payments towards the Child Bond are not being continued, the policy can be made paid-up (if it has meet the minimum requirements for a paid-up policy) or the Child Bond can be cash surrendered, this amount would be payable to the parent / guardian of the relevant child (if they are aged under 16). If there is no surrender value entitlement, the Child Bond would be cancelled with out any value.
+</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 25-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 26-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Do you offer unit-linked or traditional with-profits with your tax-exempt plan?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">Our tax-exempt plans are strictly traditional with-profits.</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 26-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--bullet table 27-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>Q</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">What are the charges on the Scottish and Child Bond plans?</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="10" alt="" border="0"></td>
+					</tr>
+					<tr>
+					<td class=body WIDTH="1%" VALIGN="top"><b>A</b></td>
+					<td class=body WIDTH="1%"><img src="../img/clear.gif" width="12" height="1" alt="" border="0"></td>
+					<td class=body WIDTH="98%">The Scottish Bond and the Child Bond do not have standard charges. The amount we have to deduct in charges for things like life cover, administration and other costs varies.  The charges are therefore implicit (i.e. they are not disclosed).</td>
+					</tr>
+					<tr>
+					<td class=body colspan="3"><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+					<!--end bullet table 27-->
+					<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0><tr>
+					<td colspan=2><img src="../img/clear.gif" width="1" height="5" alt="" border="0"></td>
+					</tr>
+					</table>
+			<!--fourth para-->
+				<table BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0>
+				<tr>
+				<td class=body>&nbsp;</td>
+				<td class=bread align=right><A HREF="#top">back to top</a></td>
+				</tr>
+				<tr>
+				<td><img src="../img/clear.gif" width="1" height="20" alt="" border="0"></td>
+				</tr>
+				</table>
+			<!--end fourth para-->
+				</td>
+				</tr>
+
+				</table>
+				</TD>
+
+
+				<TD><img src="../img/clear.gif" width="15" height="1" alt="" border="0"></TD>
+
+
+				<TD VALIGN=TOP>
+	<!-- cross-promotion table-->
+		<TABLE BORDER=0  WIDTH="123" CELLPADDING=0 CELLSPACING=0 BGCOLOR="#CCFFCC">
+
+				<TR>
+					<TD BGCOLOR="#00CC00" width="1"><img src="../img/clear.gif" width="1" height="10" alt="" border="0">
+					</TD>
+					<TD CLASS=green width="8"><img src="../img/clear.gif" width="8" height="1" alt="" border="0">
+					</TD>
+					<TD CLASS=green WIDTH="94"><A CLASS=green HREF="enquiries.html">contact us</A>
+					</TD>
+					<TD ALIGN=RIGHT WIDTH="30"><A HREF="enquiries.html"><img src="../img/arrow.gif" width="21" height="30" alt="" border="0"></A></TD>
+					<TD BGCOLOR="#00CC00" width="1"><img src="../img/clear.gif" width="1" height="10" alt="" border="0">
+					</TD>
+				</TR>
+
+				<TR>
+					<TD COLSPAN="4" BGCOLOR="#00CC00"><img src="../img/clear.gif" width="123" height="1" alt="" border="0"></TD>
+				</TR>
+
+
+				</TABLE>
+	<!-- end cross-promotion section-->
+				</TD>
+
+				</TR>
+</TABLE>
+<TABLE BORDER=0 WIDTH="100%" CELLPADDING=0 CELLSPACING=0 BGCOLOR="#8D6AE8">
+				<TR>
+				<td><img src="../img/clear.gif" width="195" height="1" alt="" border="0"></td>
+				<td CLASS=white ALIGN=RIGHT>Register for our Monthly newsletter - Email </td>
+				<td CLASS=white width="7"><img src="../img/clear.gif" width="9" height="1" alt="" border="0"></td>
+<!--				<form action=""><td width="40"><input type="text" name="newsletter" size="15" maxlength="20"></td></form>
+				<TD CLASS=white width="30" ALIGN=CENTER><b>Go</b></TD>
+				<TD><img src="../img/arrow-purple.gif" width="12" height="23" alt="" border="0"></TD>
+-->
+<form action="#" method=post>
+                    <input type=hidden name="newssave" value="yes">
+		      <td CLASS=white width="7"><img src="../img/clear.gif" width="7" height="1" alt="" border="0"></td>
+		      <td width="40"><input type="text" name="email" size="15" maxlength="30"></td>
+		      <TD CLASS=white width="30" ALIGN=CENTER><b>Go</b></TD>
+		      <TD><input type="image" src="../img/arrow-purple.gif" width="12" height="23" alt="" border="0"></TD>
+		 </form>
+		 
+				<td><img src="../img/clear.gif" width="27" height="1" alt="" border="0"></td>
+				</TR>
+</TABLE>
+</body>
+</html>

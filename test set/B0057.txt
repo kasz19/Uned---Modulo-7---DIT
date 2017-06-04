@@ -1,0 +1,543 @@
+ID=B0057
+URL=http://www.cumberland.co.uk/mort_charges.htm
+SIZE=31059
+DATE=28/06/2002
+TIME=12:47:04
+DATASET=Building Societies
+HTML=<html>
+<head>
+<title>Residential Mortgages - Charges for Mortgage Linked Services</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<table border="0" width="175" cellspacing="0" cellpadding="0" vspace="0" hspace="0" align="left">
+  <tr align="center">
+    <td align="center">
+      <table border="0" width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="17"><img src="images/cumblogo.gif" width="175" height="100" alt="The Cumberland"></td>
+        </tr>
+        <tr>
+          <td height="17"><a href="index.htm" target="_top"><img src="images/buttons/homepage.gif" width="175" height="20" alt="Return to Homepage" border="0"></a></td>
+        </tr>
+        <tr>
+          <td><a href="search/index.htm" target="_top"><img src="images/buttons/propsearch.gif" width="175" height="20" border="0" alt="Property Search"></a><a href="res_mortgages.htm" target="_top"><br>
+            <img src="images/buttons/mortgages.gif" width="175" height="20" alt="Residential Mortgages" border="0"></a></td>
+        </tr>
+        <tr>
+          <td><a href="buildingsoc.htm" target="_top"><img src="images/buttons/commortgages.gif" width="175" height="20" border="0" alt="Commercial Mortgages"></a></td>
+        </tr>
+        <tr>
+          <td><a href="savings_investment.htm" target="_top"><img src="images/buttons/saveinvest.gif" width="175" height="20" alt="Savings &amp; Investments" border="0"></a></td>
+        </tr>
+        <tr>
+          <td><a href="pdf/ceal_flyer.pdf" target="_top"><img src="images/buttons/estateagency.gif" width="175" height="20" alt="Estate Agency" border="0"></a></td>
+        </tr>
+        <tr>
+          <td><a href="ifa.htm"><img src="images/buttons/financialadvice.gif" width="175" height="20" border="0" alt="Independent financial advice"></a></td>
+        </tr>
+        <tr>
+          <td><a href="branchlocator.htm" target="_top"><img src="images/buttons/branchlocator.gif" width="175" height="20" alt="Branch Locator" border="0"></a></td>
+        </tr>
+        <tr>
+          <td><a href="legal.htm" target="_top"><img src="images/buttons/legal.gif" width="175" height="20" border="0" alt="Important Information"></a></td>
+        </tr>
+        <tr>
+          <td><img src="images/grad.gif" width="175" height="15"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table border="0" width="395" cellspacing="7" cellpadding="2" height="10">
+  <tr valign="top" align="center">
+    <td height="33">
+      <table width="458" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="51" width="50%" valign="top">
+
+            <p align="left"><font face="Georgia, Times New Roman, Times, serif" size="5" color="#006600"><i>Policy
+              and Practice and Charges for Mortgage Linked Services</i></font></p>
+            <p align="left"><font face="Arial, Helvetica, sans-serif" size="2" color="#006600"><b>The
+              Society's current fees as at 1st April 2002 for mortgage services:</b></font></p>
+			<table border=1 bordercolor=#000000 cellpadding=3 cellspacing=0><tr><td><font size="2" face="Arial, Helvetica, sans-serif"><B>LATE PAYMENT OF MORTGAGE PAYMENTS, INSURANCE PREMIUMS AND CHARGES </b>If your mortgage payment, insurance premium or any of the following
+items are charged to your mortgage account and are not paid in full, by the last day of the month, you will be charged interest on these items until they are paid.</font></td></tr></table>
+            <table cellpadding="2" cellspacing="6" width="100%">
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Accounts
+                    in arrears and other defaults</b><br>
+                    If you are in breach of the terms of your mortgage the Society
+                    may take action against you for recovery of any monies that
+                    are due but unpaid. The amount of the fee payable in such
+                    circumstances will depend on the nature and the extent of
+                    the proceedings the Society has to take and will include charges
+                    made by the Solicitor acting for the Society.</font></p>
+                </td>
+                <td valign="top" nowrap align="right"><br>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Arrangement
+                    fee</b><br>
+                    This fee is charged for certain types of mortgage products
+                    and will be payable at the time you make your mortgage application.
+                    If an arrangement fee is payable you will be advised at the
+                    time you make your application. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"><br>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p>
+                  <font size="2" face="Arial, Helvetica, sans-serif"><b>Bridging
+                  loans</b><br>
+                  This fee is charged to cover the Society's costs for dealing
+                  with a bridging loan. The fee varies depending on the risk associated
+                  with the bridging loan.
+                  <table width=100% cellpadding=0 cellspacing=0 border=0>
+                    <tr>
+                      <td><font size="2" face="Arial, Helvetica, sans-serif">Open
+                        ended loan (unknown term)</font></td>
+                      <td><font size="2" face="Arial, Helvetica, sans-serif"><b>&pound;
+                        150</b></font></td>
+                    </tr>
+                    <tr>
+                      <td><font size="2" face="Arial, Helvetica, sans-serif">Closed
+                        loan (known term)</font></td>
+                      <td><font size="2" face="Arial, Helvetica, sans-serif"><b>&pound;
+                        100</b></font></td>
+                    </tr>
+                  </table>
+                  </font>
+                  <p></p>
+                </td>
+                <td valign="top" nowrap align="right"><br>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>CHAPS
+                    fees (Telegraphic Transfer of Money)</b><br>
+                    This fee is charged by the Society when mortgage monies are
+                    transferred directly to your Solicitor's bank before the loan
+                    is completed. The fee is normally deducted from the loan.
+                    </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  18</font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Completing
+                    2nd charge questionnaire</b><br>
+                    This fee is charged by the Society if another lender requests
+                    information from the Society (with your approval) to enable
+                    them to consider giving you a loan secured on your property,
+                    or after giving you a loan secured on your property.</font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  55</font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Copy
+                    mortgage statement</b><br>
+                    Each year you will be sent free of charge a statement showing
+                    all transactions on your account. A fee is charged by the
+                    Society if you ask for a copy of the statement or if you request
+                    a statement covering part of a year. This fee covers the administration
+                    work involved in the preparation of the statement. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  10</font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Despatching
+                    title deeds</b><br>
+                    This fee is charged by the Society for sending title deeds
+                    to your Solicitor or Licensed Conveyancer, and includes the
+                    cost of postage. The fee will be automatically debited to
+                    your mortgage account, although you may pay it separately
+                    if you wish. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  30<br>
+                  <font size="1">(&pound;35 from<br>
+                  1/06/02)</font></font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Early-repayment
+                    charge</b><br>
+                    This charge is made by the Society if you repay your loan
+                    before the end of any early-repayment charge period there
+                    may be for your loan. The charge will vary according to the
+                    type of mortgage product you take. Further information on
+                    the early-repayment charge is given in the "Mortgage Code
+                    Questionnaire", "Mortgages A Guide to Special Offers" (for
+                    variable rate products), "A Guide To Capped/ Fixed Rate Mortgages"
+                    and in the "Mortgage Product Sheet". </font></p>
+                </td>
+                <td valign="top" nowrap align="right"><br>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Fee
+                    on final repayment of your mortgage</b><br>
+                    This fee is charged by the Society for the administration
+                    work involved when you finally repay your mortgage, and for
+                    receipting the mortgage documents. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  45<br>
+                  <font size="1">(&pound;50 from<br>
+                  1/06/02)</font> </font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p>
+                  <font size="2" face="Arial, Helvetica, sans-serif"><b>Further
+                  loans</b><br>
+                  These fees are charged to cover the Society's costs for dealing
+                  with a further loan and are deducted from the further loan before
+                  it is released to you.<br>
+                  <br>
+                  <table border=0 cellpadding=0 cellspacing=0 width=100%>
+                    <tr>
+                      <td align=center width="49%"><font size="2" face="Arial, Helvetica, sans-serif">England
+                        and Wales</font></td>
+                      <td align=center width="51%"><font size="2" face="Arial, Helvetica, sans-serif">Scotland</font></td>
+                    </tr>
+                    <tr>
+                      <td align=center width="49%"><font size="2" face="Arial, Helvetica, sans-serif"><B>&pound;70<br>
+                        <font size="1">(&pound;95 from 01/06/02)</font><br>
+                        </B></font></td>
+                      <td align=center width="51%"><font size="2" face="Arial, Helvetica, sans-serif"><B>&pound;100<br>
+                        <font size="1">(&pound;95 from 01/06/02) </font></B></font></td>
+                    </tr>
+                  </table>
+                  <br>
+                  In certain circumstances it may be necessary for your Solicitor
+                  or Licensed Conveyancer to act, for example for the purchase
+                  of an additional share in the property, purchase of additional
+                  land or to advise a third party. There may be additional charges,
+                  for example if you have a second mortgage with another lender
+                  or advice is given to a third party. Please ask for details.
+                  In these cases any fees charged by your Solicitor or Licensed
+                  Conveyancer will be payable by you. In some cases the Society
+                  may require additional searches before completing your further
+                  loan. If an additional search is needed you will be advised
+                  by the Society's Legal Department. The cost of any additional
+                  search is payable by you. </font>
+                  <p></p>
+                </td>
+                <td valign="top" nowrap align="right"><br>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>High
+                    percentage loan fee</b><br>
+                    If we lend more than 75% of the purchase price or valuation
+                    of the property (whichever is lower), your loan will be a
+                    high loan to value advance. You will normally be charged a
+                    fee for it, called a high percentage loan fee, if you borrow
+                    more than 90% of the purchase price or valuation of the property.
+                    (If you borrow between 75% and 90% the Society will reimburse
+                    the high percentage loan fee to you). The fee charged varies
+                    according to the amount of money you wish to borrow. This
+                    fee will normally be deducted from the loan prior to completion.
+                    Specific details of this fee will be provided in the "Offer
+                    of Loan" or the "Offer of Further Loan". </font></p>
+                </td>
+                <td valign="top" nowrap align="right"><br>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Information
+                    from your title deeds</b><br>
+                    This fee is charged by the Society when you ask to view your
+                    title deeds and/or information is requested, which will require
+                    Society staff to produce and/or work through your deeds. This
+                    can include any request for copies of documents, plans, etc.
+                    The fee will be automatically debited to your mortgage account,
+                    although you may pay it separately if you wish. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  15</font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Interest</b><br>
+                    We will calculate interest on your mortgage account on a daily
+                    basis and further details are given in our leaflet "Mortgages
+                    with the Cumberland". We will charge interest on your new
+                    loan from the date of completion shown in the Solicitor's
+                    Certificate of Title. If you apply for a further loan, we
+                    will charge interest from the date on which the money is released.
+                    The Society can vary the rate of interest on variable rate
+                    loans. The authority to vary interest rates is contained in
+                    the mortgage conditions (you will be given a copy of this
+                    booklet by your solicitor when you take out your mortgage).
+                    The actual interest rate to be charged in future and the timing
+                    of any change (either an increase or decrease) is at the discretion
+                    of the Society, subject to the provisions contained in the
+                    mortgage conditions. Further details of the different types
+                    of interest rates available can be found in our leaflet "Mortgages
+                    A Guide to Special Offers" and any other leaflets referred
+                    to in that leaflet, such as "Fixed/Capped Rate Mortgages".
+                    </font></p>
+                </td>
+                <td valign="top" nowrap align="right"><br>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Lettings</b><br>
+                    If the Society consents to the property being let whilst it
+                    is still in mortgage, the rate of interest will increase to
+                    1% above the Society's base variable mortgage rate. If the
+                    Society does not consent to the property being let whilst
+                    it is still in mortgage, the rate of interest will increase
+                    to 1.5% above the Society's base variable mortgage rate. Regardless
+                    of whether consent is given or not, if you are still within
+                    an early-repayment charge period, any remaining discount or
+                    other incentive will be withdrawn and any cashback you have
+                    received may be repayable.</font></p>
+                </td>
+                <td valign="top" nowrap align="right"><br>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Property
+                    insured by the borrower</b><br>
+                    The Society requires every mortgaged property to be insured
+                    on an index linked basis. If you choose not to insure your
+                    property through the Society or you cancel the insurance we
+                    have arranged for you at any time, a one off administration
+                    fee will be payable. You will also be responsible for ensuring
+                    that adequate insurance is taken out to cover the re-instatement
+                    cost of the property. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  25</font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Providing
+                    a reference to another lender</b><br>
+                    This fee is charged to cover the Society's administration
+                    work involved if another lender requests a reference from
+                    the Society (with your approval) to enable them to consider
+                    giving you a loan. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  55</font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Re-inspection
+                    fee</b><br>
+                    This fee is charged if we need to re-inspect your property
+                    to make sure a further instalment of a loan may be released
+                    and/or make sure any repairs/improvements have been completed.
+                    This fee is paid to the Society prior to re-inspection of
+                    the property. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  35</font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Re-valuation
+                    fee</b><br>
+                    This fee is charged if we need to re-value a property, for
+                    example, to be able to release security or prior to giving
+                    consent to a letting. This fee includes a Society administration
+                    fee of &pound;10. The fee is paid to the Society at the time
+                    you make your application. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  60</font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Release
+                    of security</b><br>
+                    This fee is charged where the Society is requested to release
+                    part of its security for the loan. For example, the sale of
+                    a plot of land adjoining the property. The Society may request
+                    an up to date valuation of the property before it can consider
+                    a release of security. The fee for the valuation is shown
+                    in the paragraph headed re-valuation fee. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  60</font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Returned
+                    monthly payment</b><br>
+                    This fee is charged to cover the administration work involved
+                    when the Society has to deal with a recalled direct debit
+                    or returned cheque paid into your account. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  20</font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Sale
+                    of property in possession</b><br>
+                    This fee is charged by the Society to cover the administration
+                    costs in connection with the sale of the property which is
+                    taken into possession. A fee will also be charged for estate
+                    agency fees and legal fees. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  250</font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Secured
+                    Personal Loans</b><br>
+                    These are loans which are secured on your property, and are
+                    usually for the purchase of a car, or perhaps a holiday. This
+                    fee is charged to cover the Society's costs for dealing with
+                    a secured personal loan. This fee is payable at the time you
+                    make your application. In England and Wales where you do not
+                    already have a loan with the Society you will have to instruct
+                    a solicitor to act on your behalf and will be required to
+                    pay the Solicitor's charges. In Scotland the legal work will
+                    be carried out by the Society's Solicitors and you will be
+                    notified of the costs you will be required to pay. There may
+                    be other additional charges, for example, if you have a second
+                    mortgage with another lender or advice is given to a third
+                    party. Please ask for details.</font>
+                  </td>
+                <td valign="top" nowrap align="right"> <font size="2" face="Arial, Helvetica, sans-serif"><b>&pound;
+                  95</b></font> </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Solicitors
+                    fees</b><br>
+                    The Society will instruct a Solicitor to act for it in relation
+                    to completion of the mortgage, any transfer subject to mortgage
+                    and in some cases further loans. The Solicitor's fees will
+                    vary and are payable directly to the Solicitor. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"><br>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Timing
+                    of monthly payments</b><br>
+                    All monthly mortgage payments and insurance premiums must
+                    be paid on or before the last day of the month in which they
+                    are due. Payments and premiums received after the last day
+                    of the month will mean your balance will be higher at the
+                    end of the month than it would otherwise have been. Interest
+                    will be calculated on the higher balance until we receive
+                    a cleared payment. If you pay by cash, direct debit, an internal
+                    transfer from a Cumberland investment account or a Cumberland
+                    cheque, we will treat your payment as cleared funds on the
+                    day you make the payment. If you pay by cheque from another
+                    organisation, we will treat your payment as cleared funds
+                    on the second Society working day after we receive the payment.
+                    For example, if you pay on a Monday, we will treat your funds
+                    as being cleared on the Wednesday. If you have chosen to pay
+                    by standing order, we will not receive your standing order
+                    payment until a few days after it has left your bank or building
+                    society account. So, you should make sure your bank or building
+                    society sends the standing order payment to us in enough time
+                    for it to reach us by the last day of the month. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"><br>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Transfer
+                    of equity</b><br>
+                    This fee is charged by the Society if a loan and property
+                    are being transferred from joint names to a single name, single
+                    to joint or where a borrower is being replaced by another.
+                    There may be other circumstances when this fee may be charged.
+                    </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  90<br>
+                  <font size="1">(&pound;110 from<br>
+                  1/06/02)</font> </font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Transfer
+                    of loan to/from interest only or capital and interest</b><br>
+                    This fee is charged to cover the Society's administration
+                    costs for dealing with the transfer. </font></p>
+                </td>
+                <td valign="top" nowrap align="right"> <b><font face="Arial, Helvetica, sans-serif" size="2">&pound;
+                  50</font></b></td>
+              </tr>
+              <tr>
+                <td>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Valuation
+                    fees</b><br>
+                    A valuation fee is normally charged when a new mortgage application
+                    is made. The amount charged is based on the purchase price/value
+                    of the property. The valuation fee is paid to the Society
+                    at the time you make your new mortgage application. Full details
+                    are shown in our leaflet "Mortgages with the Cumberland".
+                    </font></p>
+                </td>
+                <td valign="top" nowrap align="right"><br>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <table width="100%" border="1" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td><b><font face="Arial, Helvetica, sans-serif" size="2">Changes
+                        to terms, conditions and charges</font></b><font face="Arial, Helvetica, sans-serif" size="2">
+                        If there are significant changes to any of the terms,
+                        conditions or charges affecting your loan you will be
+                        sent written details of these changes.</font></td>
+                    </tr>
+                  </table>
+                </td>
+                <td valign="top" nowrap align="right">&nbsp;</td>
+              </tr>
+            </table>
+            <p align="center"><font size="2" face="Arial, Helvetica, sans-serif">Your
+              property will be required as security for your mortgage</font><br><br>
+
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" border="1" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" bordercolor="#000000">
+        <tr>
+          <td>
+            <div align="center"><font size="3" face="Arial, Helvetica, sans-serif"><b>YOUR
+              HOME IS AT RISK IF YOU DO NOT KEEP UP REPAYMENTS ON A MORTGAGE OR
+              OTHER LOAN SECURED ON IT.</b></font></div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+

@@ -1,0 +1,135 @@
+ID=B0021
+URL=http://www.themanchester.co.uk/downloads/downloads.htm
+SIZE=8705
+DATE=28/06/2002
+TIME=12:46:31
+DATASET=Building Societies
+HTML=<html><head><title>Downloads</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+function describe (text){
+window.status = text;
+return true;
+}
+function clearstatus (){
+window.status = "";
+}
+</script>
+
+</head><body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%"><tr><td valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%"><tr><td width="50%" bgcolor="#384f87">&nbsp;</td>
+<td width="720" background="../images/backnew.gif" valign="top">
+            <OBJECT classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 
+            codeBase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0 
+            height=124 id=ShockwaveFlash1 width=720><PARAM NAME="_cx" VALUE="19050"><PARAM NAME="_cy" VALUE="3281"><PARAM NAME="Movie" VALUE="navigator.swf"><PARAM NAME="Src" VALUE="navigator.swf"><PARAM NAME="WMode" VALUE="Window"><PARAM NAME="Play" VALUE="0"><PARAM NAME="Loop" VALUE="-1"><PARAM NAME="Quality" VALUE="High"><PARAM NAME="SAlign" VALUE=""><PARAM NAME="Menu" VALUE="-1"><PARAM NAME="Base" VALUE=""><PARAM NAME="Scale" VALUE="ShowAll"><PARAM NAME="DeviceFont" VALUE="0"><PARAM NAME="EmbedMovie" VALUE="0"><PARAM NAME="BGColor" VALUE=""><PARAM NAME="SWRemote" VALUE=""><PARAM NAME="Stacking" VALUE="below">              <embed src="navigator.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="720" height="124"></embed></OBJECT><br>            
+<table width="100%" border="0" cellspacing="10" cellpadding="0"><tr><td>&nbsp;</td><td>            
+
+<p><font face="Arial, Helvetica, sans-serif" size="6" color="#333399">Downloads</font></p><font face="Arial, Helvetica, sans-serif" size="2">
+
+<p>You will need Acrobat Reader to view 
+                  the files below, this lets you view PDF files, print them or save them to disk. If
+ you haven't got Acrobat Reader, you can download it here by clicking on the icon.</p>
+<a href="http://www.adobe.com/products/acrobat/readstep.html" target="_blank" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Get Acrobat'); return true;"><IMG align=left border=0 height=31 src="../images/acrobat.gif" width=88></a><br>
+<br><br>
+<table border="0" cellspacing="3" cellpadding="0">
+                    
+                    <TR>
+<td valign=top>
+    <A href="agencylist.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Agency List'); return true;">
+	 <IMG border=0 height=28 src="../images/agencylist_link.gif" width=187></a><br>
+	<A href="i_tariff.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Investment Tariff'); return true;">
+	 <IMG border=0 height=28 src="../images/i_tariff.gif" width=187></a><br>
+	<A href="m_tariff.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Mortgage Tariff'); return true;">
+	 <IMG border=0 height=28 src="../images/m_tariff.gif" width=187></a><br>
+	<A href="i_lostpassbook.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Lost Passbook Form'); return true;">
+	 <IMG border=0 height=28 src="../images/i_lostpassbook.gif" width=187></a><br>
+	<A href="i_transferform.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Transfer Form'); return true;">
+	 <IMG border=0 height=28 src="../images/i_transferform.gif" width=187></a><br>
+	<A href="standingorder.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Standing Order Form'); return true;">
+	 <IMG border=0 height=28 src="../images/standingorder.gif" width=187></a><br>
+	<A href="i_change_add.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Change Address Form'); return true;">
+	 <IMG border=0 height=28 src="../images/i_change_add.gif" width=187></a><br>
+	<A href="summary01.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Financial Summary'); return true;">
+	 <IMG border=0 height=28 src="../images/summary.gif" width=187></a><br>
+	</td>
+                                
+    <td valign=top>
+    <A href="log_mort.htm" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Residential Mortgage Application Form'); return true;">
+	 <IMG border=0 height=28 src="../images/m_residentialapp.gif" width=187></A><br>
+	<A href="log_com.htm" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Commercial Mortgage Application Form'); return true;">
+	 <IMG border=0 height=28 src="../images/m_commercialapp.gif" width=187></a><br>
+	<A href="m_guarantorapp.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Guarantor Application Form'); return true;">
+	 <IMG border=0 height=28 src="../images/m_guarantorapp.gif" width=187></a><br>
+	<A href="m_intermediaryapp.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Intermediary Application Form'); return true;">
+	 <IMG border=0 height=28 src="../images/m_intermediaryapp.gif" width=187></a><br>
+	<A href="m_flexible.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Flexible Mortgage Scheme Details'); return true;">
+	 <IMG border=0 height=28 src="../images/m_flexible.gif" width=187></a><br>
+	<A href="m_stanmanaged.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Standard Managed Rate Mortgage Scheme Details'); return true;">
+	 <IMG border=0 height=28 src="../images/m_stanmanaged.gif" width=187></a><br>
+	<A href="m_premanaged.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Premium Managed Rate Mortgage Scheme Details'); return true;">
+	 <IMG border=0 height=28 src="../images/m_premanaged.gif" width=187></a><br>
+	<A href="m_permdiscount.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Permanent Discount Mortgage Scheme Details'); return true;">
+	 <IMG border=0 height=28 src="../images/m_permanentdiscount.gif" width=187></a><br>
+	<A href="m_25yrfixed.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('25 Year Fixed Rate Mortgage Scheme Details'); return true;">
+	 <IMG border=0 height=28 src="../images/m_25yrfixed.gif" width=187></a><br>
+	<A href="m_10yrfixed.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('10 Year Fixed Rate Mortgage Scheme Details'); return true;">
+	 <IMG border=0 height=28 src="../images/tenyearfixed.gif" width=187></a><br>
+	<A href="m_3yrdiscount.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('3 Year Discount Mortgage Scheme Details'); return true;">
+	 <IMG border=0 height=28 src="../images/m_3yrdiscount.gif" width=187></a><br>
+	<A href="m_4yrdiscount.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('4 Year Discount Mortgage Scheme Details'); return true;">
+	 <IMG border=0 height=28 src="../images/m_4yrdiscount.gif" width=187></a><br>
+	<A href="m_selfcertification.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Self Certification Mortgage Scheme Details'); return true;">
+	 <IMG border=0 height=28 src="../images/selfcert.gif" width=187></a><br>
+	<A href="m_selfemployed.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Self Employed Mortgage Scheme Details'); return true;">
+	 <IMG border=0 height=28 src="../images/selfemployed.gif" width=187></a><br>
+	<A href="m_buytolet.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Buy to Let Mortgage Scheme Details'); return true;">
+	 <IMG border=0 height=28 src="../images/m_buytolet.gif" width=187></a><br>
+	</td> 
+								
+	<td valign=top>
+	<A href="i_savingshandbook.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Savings Handbook'); return true;">
+	 <IMG border=0 height=28 src="../images/i_savingshandbook.gif" width=187></a><br>
+	<A href="i_application.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Investment Application Form'); return true;">
+	 <IMG border=0 height=28 src="../images/i_application.gif" width=187></A><br>
+	<A href="i_businessapp.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Business Application Form'); return true;">
+	 <IMG border=0 height=28 src="../images/i_businessapplication.gif" width=187></A><br>
+	<A href="i_productguide.pdf" onmouseout="clearstatus ();" 
+	 onmouseover ="describe ('Product Guide'); return true;">
+	 <IMG border=0 height=28 src="../images/i_productguide.gif" width=187></a><br>
+    
+								
+    </td></TR></table></font></td>
+<td valign="bottom">
+<A href="javascript:history.go(-1);"
+	 onmouseout="clearstatus ();" onmouseover ="describe ('Continue'); return true;" >
+<IMG border=0 height=28 src="../images/forward.gif" width=30></A></td></tr></table>
+<td width="50%" bgcolor="#384f87">&nbsp;</td></tr></table></td></tr></table>
+</body></html>
+

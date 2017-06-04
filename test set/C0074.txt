@@ -1,0 +1,346 @@
+ID=C0074
+URL=http://www.studentwatchout.co.uk/tac.mv?watchoutcc
+SIZE=31432
+DATE=10/07/2002
+TIME=13:17:50
+DATASET=Insurance Agencies
+HTML=<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<title>Policy Details</title>
+	</head>
+
+	<body bgcolor="white">
+		<table border="0" cellpadding="0" cellspacing="1" width="100%">
+			<tr bgcolor="#ff6600" height="2">
+				<td colspan="4" height="2"><img src="assets/titles/policy_watchoutcc.gif" alt="Protection for Students Possessions" hspace="2" vspace="2" height="19"></td>
+			</tr>
+		</table>
+		<table border="0" cellpadding="0" cellspacing="1" width="100%">
+			<tr>
+				<td colspan="3" bgcolor="#006699"><img src="assets/subtitles/policy_details.gif" width="137" height="28" alt="Policy Details"></td>
+			</tr>
+		</table>
+		<p><font size="3" face="Verdana,geneva,Arial,Helvetica,sans-serif"><b><br>
+</b></font>
+<p>
+<table width="100%" border="0" cellspacing="3" cellpadding="3">
+	<tr align="left" valign="top">
+		<td width="3%" bgcolor="#ff6600">&nbsp;</td>
+		<td colspan="2" bgcolor="#fff8dc"><font face="Verdana,geneva,Arial,Helvetica,sans-serif"><b>Summary:</b></font>
+			<p><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><b>No excess or deductible for all computer equipment</b><br>
+			The no excess feature means that the cost of all insured losses would be recoverable under the policy.</font>
+			<ul>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><b>In the event of an agreed claim, a new replacement unit is supplied</b></font><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><br>
+				Inconvenience and disruption are eradicated &#150; when total loss occurs, equipment of the same specification is supplied without any administrative overhead.</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><b>Valid claims are approved within 24 hours</b><br>
+				Efficient and fast settlement ensures the lost equipment can be quickly replaced. Because the policy provides specific cover for computer equipment it removes any dispute between the Insured and insurer about the scope of cover.</font>
+			</ul>
+			<p><font size="2" face="Verdana,geneva,Arial,Helvetica,sans-serif">If, upon an agreed claim, the end user wishes to replace lost equipment with that of a higher specification, then this is allowable provided such discussions take place between the insured and the equipment supplier. The insurer's liability will be restricted to the value of direct replacement equipment only.</font>
+			<ul>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><b>No specialist security requirements</b><br>
+				Clients do not have to undertake any enhancements to existing security to conform to the requirements of Complete Computer Cover</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><b>Terrorist cover is included as standard</b></font><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><br>
+				Subject to the terms of the policy, loss through terrorist act is now covered up to &pound;100,000</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><b>Theft of portable machines</b></font><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><br>
+				Unlike the majority of insurance covers, Complete Computer Cover provides standard cover for portable computers wherever they may be used or located. Such cover applies whether an incident takes place in the workplace, car, home or any other location &#150; including outside the UK. The only major exclusions are thefts from unattended cars where the item was not locked away from view and where equipment has been left in the open unattended. Thefts from a locked boot are covered by the policy.</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><b>Absence of forcible entry does not invalidate claim</b><br>
+				The majority of policies require the claimant to show evidence of forcible entry or exit for a claim to be considered valid. With Complete Computer Cover this is not a requirement for claim validity- except in respect of thefts from vehicles.<br>
+				<br>
+				</font>
+			</ul>
+		</td>
+	</tr>
+	<tr align="left" valign="top">
+		<td rowspan="5" bgcolor="#ff6600" width="3%">&nbsp;</td>
+		<td colspan="2" bgcolor="#ffe4b5" rowspan="5"><font face="Verdana,geneva,Arial,Helvetica,sans-serif"><b>Policy Wording</b></font>
+			<p><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><b>This policy is the master policy which, together with the Certificate issued to the Insured (which forms an integral part of the policy) contains the terms of the insurance. Please read it to ensure that it meets with your requirements.</b></font>
+			<p><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Royal &amp; Sun Alliance Insurance plc (incorporated in England and herein called the Company) and the Insured, who is named in the Certificate, agree that</font>
+			<p><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">This Policy and the Certificate (including any amendment to or substitution of the Certificate issued by the Company) shall be considered one document and references to the Policy shall be deemed to include the Certificate and any word or expression to which a specific meaning has been attached shall bear such meaning wherever it appears. The Proposal or any information supplied by the Insured shall be incorporated in the contract between the Company and the Insured. The Company will provide the insurance described in the Policy subject to the terms and conditions for the Period of Insurance shown in the Certificate and any subsequent period for which the Insured shall pay and the Company shall agree to accept the premium. Provided that this Policy shall not be in force unless it has been initiated by an authorised official of the Company.</font></td>
+	</tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top">
+		<td rowspan="9" bgcolor="#ff6600" width="3%">&nbsp;</td>
+		<td colspan="2" bgcolor="#fff8dc" rowspan="9"><font size="2" face="Verdana,geneva,Arial,Helvetica,sans-serif"><b>Indemnity</b></font>
+			<p><font size="2" face="Verdana,geneva,Arial,Helvetica,sans-serif">If any of the Equipment described in the Certificate suffers Damage within the Territorial Limits by any cause not excluded the Company will:</font>
+			<ol>
+				<li type="i"><font size="2" face="Verdana,geneva,Arial,Helvetica,sans-serif">Pay the cost of repair of the Equipment by a qualified repair engineer authorised by the Company; or</font>
+				<li type="i"><font size="2" face="Verdana,geneva,Arial,Helvetica,sans-serif">Replace the Equipment with new Equipment of a similar specification: the decision as to whether to repair or replace being in the Company&#146;s discretion: The Company is not bound to replace the equipment with new Equipment of an identical specification but only as circumstances allow. The Company shall not be liable for the payment of Value Added Tax (VAT) where the Insured is registered with Customs and Excise for VAT.</font>
+			</ol>
+			<p><font size="2" face="Verdana,geneva,Arial,Helvetica,sans-serif">Provided that the Company's liability in any one Policy Year shall not exceed the total Insured Value or in respect of any item of Equipment its Insured Value or any other limit of liability stated in the Policy.<b><br>
+			<br>
+			</b></font></td>
+	</tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top">
+		<td width="3%" bgcolor="#ff6600">&nbsp;</td>
+		<td colspan="2" bgcolor="#ffe4b5"><font face="Verdana,geneva,Arial,Helvetica,sans-serif"><b>Definitions</b></font>
+			
+      <p><font size="2" face="Verdana,geneva,Arial,Helvetica,sans-serif"><b>Damage</b><br>
+        Means theft, accidental loss, destruction or damage.<br>
+        <br>
+        <b>Equipment</b><br>
+        Means computers, ancillary computer hardware and standard software. Standard 
+        software means an operating system or an application program which is 
+        generally available for retail sale and can be replaced by means of purchasing 
+        a copy of it without the need for individual reprogramming or program 
+        writing. Software which has been specifically written or adapted and is 
+        in a form which is not generally available for retail sale is excluded. 
+        Where reference is made to replacement with Equipment of a similar specification, 
+        the Company will use reasonable endeavours to replace with hardware and 
+        software of an identical specification. To be insured, the Equipment must 
+        be identified in the Certificate.<br>
+        <br>
+        <b>Policy Year</b><br>
+        Means a 12-month period commencing on the date of issue or renewal of 
+        a Certificate and, in the case of a Certificate for more than one year, 
+        each 12-month period of insurance cover commencing on the anniversary 
+        of such inception/renewal.<br>
+        <br>
+        <b>Proposal</b><br>
+        Means a written application in a form approved by the Company by a proposed 
+        Insured applying to insure Equipment under this Policy.<br>
+        <br>
+        <b>The Territorial Limits</b><br>
+        Means the United Kingdom of England, Wales, Scotland and Northern Ireland 
+        and includes any other country in which the Insured is present with the 
+        Equipment temporarily provided that the Insured is resident in the United 
+        Kingdom.<br>
+        <br>
+        <b>Terrorism</b><br>
+        Means an act of any person acting on behalf of or in connection with any 
+        organisation with activities directed towards the overthrowing or influencing 
+        of any government de jure or de facto by force or violence.</font>
+      <p><font size="2" face="Verdana,geneva,Arial,Helvetica,sans-serif"><b>Unattended</b><br>
+        means when not within sight and control of Insured.</font>
+    </td>
+	</tr>
+	<tr align="left" valign="top">
+		<td rowspan="17" bgcolor="#ff6600" width="3%">&nbsp;</td>
+		<td colspan="2" bgcolor="#fff8dc" rowspan="17"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="3"><b>General Conditions</b></font>
+			<ol>
+				<dl>
+					<dt><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><b>Claims Notifications &amp; Requirements</b></font>
+				</dl>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">In the event of any occurrence giving rise to a claim hereunder the Insured, or his personal representative, shall:</font>
+				<ol>
+					<li type="a"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">immediately notify Complete Computer Cover c/o Summit Insurance Services Ltd. of </font><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2" color="black">The Pavilion,</font> <font face="Verdana,Arial,Helvetica,sans-serif" size="2" color="black">3 Broadgate, London EC2M 2QS </font><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">by telephoning if practicable </font><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2" color="black">020 7628 3661</font><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"> and also by submission of a claim form and in the event of loss by theft, or where the Insured has reason to believe a criminal offence has been committed, notify the police and obtain a police crime number;</font>
+					<li type="a"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">take precautions to prevent further Damage to the Equipment and the Company shall not be liable for any further Damage resulting from the continued use of the Equipment until the Equipment has been repaired to the satisfaction of the Company;</font>
+					<li type="a"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">retain any damaged Equipment or parts thereof;</font>
+					<li type="a"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">when required to do so, deliver to Summit Insurance Services Ltd a statement in writing of all particulars and details reasonably practicable of the Equipment affected, its value and the Damage to it and furnish all such documents, explanations and other evidence as may be reasonably required by the Company, supported by statutory declaration, if required.<br>
+					<br>
+					</font>
+				</ol>
+				<dl>
+					<dt><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">If all the terms of this condition (as detailed above) are not complied with, no claim under this Policy shall be payable.</font><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><b><br>
+					<br>
+					Reinstatement</b><br>
+					</font>
+				</dl>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">In the event of a valid claim resulting in the replacement of all or part of the Equipment there shall be no automatic reinstatement of cover on any item or items of Equipment replaced. This means that this insurance does not cover those replacement items of Equipment during the rest of the Policy Year in which the claim occurs. The replacement Equipment may be insured on payment of an additional premium which in the case of a partial loss will be proportionate to the value of the Equipment replaced. When the Insured has purchased cover for more than one year and still has one year or more unexpired, the replacement Equipment will be insured under this policy from the start of the next Policy Year but not during the remainder of the Policy Year in which the claim has been settled unless an additional premium has been paid.<br>
+				<b><br>
+				Other Insurances</b></font><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">If at the time of any Claim there is any other insurance effected by or on behalf of the Insured covering the Damage to the Equipment (or which would but for the existence of this policy cover it) the liability of the Company shall be limited to their rateable proportion of the sum due under this insurance.<br>
+				If this provision applies, the Insured or the other insurers shall pay to the Company the sum payable under the other insurance(s) prior to the repair or replacement of the Equipment or, at the Option of the Company, the Insured/other insurers and the Company may pay their respective contributions direct to the repair company or supplier.<br>
+				<br>
+				<b>Other Precautions</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">The Insured shall take all reasonable precautions to prevent Damage to the Equipment.<br>
+				<b><br>
+				Access</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">The Company or its representatives shall have the right at all reasonable<br>
+				times to have access to the Equipment.<br>
+				<b><br>
+				Alteration &amp; Modification</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">The Insured shall notify the Company of any proposed alterations or modifications to the insured Equipment and of any proposed departure from normal working conditions.<br>
+				<b><br>
+				Subrogation</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">The Insured shall at the request and expense of the Company take and permit to be taken all necessary steps to enforce rights against any other party in the name of the Insured where any claim by the Insured may arise from the act or default of that other party.<br>
+				<b><br>
+				Observance</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">The due observance and fulfilment of the terms and conditions contained in this Policy, insofar as they relate to anything to be done or complied with by the Insured, shall be conditions precedent to any liability of the Company to replace or repair the Equipment.<br>
+				<b><br>
+				Arbitration</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">If any difference shall arise as to the replacement or repair of Equipment under this insurance (liability being otherwise admitted) such difference shall be referred to an arbitrator to be appointed by the parties in accordance with the statutory provisions being in force at that time. Where any difference is by this condition to be referred to arbitration, the making of an award shall be a condition precedent to any right of action against the Company. The arbitration proceedings shall take place in the United Kingdom and be subject to the law of England.<br>
+				<b><br>
+				Cancellation</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">The Company may cancel this insurance by sending ten days notice by registered post to the Insured at the address stated in the Certificate. In such event the Insured shall be entitled to the return of the proportionate part of the premium paid by him corresponding to the unexpired period of insurance.<br>
+				<b><br>
+				Policy Voidable</b></font><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">This Policy shall be voidable in the event of misrepresentation, misdescription or non-disclosure in any material particular.</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">This Policy shall be avoided with respect to any Equipment in regard to which there is any alteration after the commencement of this insurance<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;(a) whereby the risk of Damage is increased; or<br>
+				</font><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">&nbsp;&nbsp;&nbsp;&nbsp;(b) whereby the interest of the Insured ceases<br>
+				unless otherwise agreed by the Company in writing.<br>
+				<b><br>
+				Fraud</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">If a claim is fraudulent in any respect or if fraudulent means are used by the Insured or by anyone acting on his behalf to obtain any benefit under this Policy or if any Damage is caused by the wilful act or with the connivance of the Insured, the Insured shall forfeit any claim to benefit under this Policy.<br>
+				<br>
+				<b>Special Provision-Terrorism</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Subject otherwise to the terms, definitions, exclusions, provisions and conditions of the Policy this insurance includes Damage to the insured Equipment in the United Kingdom (not including the Channel Islands and the Isle of Man) other than in Northern Ireland by fire or explosion occasioned by or happening through or in consequence of Terrorism provided that the Company&#146;s total liability under the Certificate or, if more than one, across all Certificates issued to the Insured, in respect of all losses incurred arising out of one occurrence, after the application of all the provisions of the insurance including any Insured&#146;s contribution (or contributions, if more than one Certificate), shall not exceed the lower of &pound;100,000 (one hundred thousand pounds) in the aggregate (in total across all Certificates, if more than one) or the limit of liability for the Insured Equipment stated in the Certificate (or the sum of the limits of liability stated in all the Certificates, if more than one.)<br>
+				<br>
+				<b>Legal</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">This insurance shall be subject to English Law.<br>
+				<br>
+				</font>
+			</ol>
+		</td>
+	</tr>
+	<tr align="left" valign="top" height="12"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top" height="96"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top" height="5">
+		<td height="5" bgcolor="#ff6600" width="3%">&nbsp;</td>
+		<td colspan="2" height="5" bgcolor="#ffe4b5"><font size="3" face="Verdana,geneva,Arial,Helvetica,sans-serif"><b>Exclusions</b></font>- <font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="3"><b>This insurance does not cover:<br>
+			<br>
+			</b></font>
+			<ol><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><b>Inherent defects, wear and tear etc.</b></font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Damage to the Equipment caused by<br>
+				</font>
+				<ol>
+					<li type="a"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">its own or defective design materials, or workmanship;<br>
+					</font>
+					<li type="a"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">inherent vice, latent defect, gradual deterioration or wear and tear;<br>
+					</font>
+					<li type="a"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">faulty or defective workmanship, operational error or omission on the part of the Insured or any person using the Equipment with his express or implied consent;<br>
+					</font>
+					<li type="a"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">corrosion, rust, condensation or evaporation, dampness, dryness, dust or change in temperature;<br>
+					</font>
+					<li type="a"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">mechanical or electrical breakdown or derangement caused by the Equipment itself;<br>
+					</font>
+					<li type="a"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">scratching, abrasion, change in colour, texture or finish of the Equipment casing;</font>
+				</ol>
+					<font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">but this shall not exclude such Damage which itself arises from other Damage which is not excluded.<br>
+					<br>
+					<b>Unattended Equipment</b></font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Damage to the Equipment whilst left unattended</font>
+				<ol>
+					<li type="a"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">in a vehicle unless the Equipment was</font>
+					<ol>
+						<li type="i"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">in the locked boot of a saloon car; or</font>
+						<li type="i"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">concealed under the rear parcel shelf of a locked hatchback car; or</font>
+						<li type="i"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">concealed in the spare wheel or other closed compartment of a locked estate car;<br>
+						and the vehicle was forcibly entered and proof of such forcible entry is provided on making a claim;<br>
+						</font>
+					</ol>
+					<li type="a"><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">in the open air, in a public place or from any outbuilding if the Equipment has been left there unattended by the Insured.</font><br>
+				</ol>
+				<br><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><br>
+				<b>Intentional acts</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Damage caused by a) intentional act or wilful neglect by the Insured; or b) intentional or reckless overloading of or the imposition of any abnormal conditions to the Equipment.<br>
+				<b><br>
+				Use by others</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Damage to the Equipment whilst in the custody of a third party meaning anyone other than the Insured or a member of the Insured&#146;s immediate family normally resident at the address shown in the Certificate.<br>
+				<b><br>
+				War risk</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Subject to the provisions of Exclusion 6 below, Damage caused by war, invasion, acts of foreign enemies, hostilities (whether war be declared or not), civil war, rebellion, revolution, insurrection, military or usurped power, confiscation, nationalism or requisition or destruction or damage to property by or under the order of any government or public or legal authority.<br>
+				<b><br>
+				Terrorism</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Damage<br>
+				(a) in the United Kingdom (not including the Channel Islands and the Isle of Man) other than in Northern Ireland by fire or explosion occasioned by or happening through or in consequence directly or indirectly of Terrorism except to the extent stated in the Special Provision Terrorism:<br>
+				(b) in Northern Ireland occasioned by or happening through or in consequence directly or indirectly of<br>
+				&nbsp;&nbsp;i) civil commotion, or<br>
+				&nbsp;&nbsp;ii) Terrorism.<br>
+				In any action, suit or other proceedings where the Company alleges that by reason of this exclusion any Damage is not covered by this Policy (or is covered only up to a specified limit of liability) the burden of proving that such Damage is covered (or is covered beyond that limit of liability) shall be upon the Insured.<br>
+				<br>
+				<b>Nuclear risk</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Damage caused, contributed to or arising from i) ionising radiation or contamination by radioactivity from any nuclear fuel or from any nuclear waste from the combustion of nuclear fuel; ii) the radioactive, toxic, explosive or other hazardous properties of any explosive nuclear assembly or component thereof.<br>
+				<b><br>
+				Sonic bang</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Damage directly occasioned by pressure waves caused by aircraft or other aerial devices travelling at sonic or supersonic speeds.<br>
+				<b><br>
+				Loss of data</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Any loss or damage arising from the Damage or from any cause whatsoever of information or data contained in or stored on the Equipment.<br>
+				<b><br>
+				Date Change</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Direct or indirect Damage caused to any of the Equipment by its failing correctly to recognise data representing year 2000 or any other date in such a way that it does not work properly or at all.<br>
+				<b><br>
+				Consequential loss</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Any consequential loss or damage arising form the Damage or from any cause whatsoever. Consequential loss shall include, but not be limited to, any financial loss or the cost of business interruption arising from the loss of use of the Equipment or the loss of information contained in or stored on the Equipment, any time and cost involved in reinstating such information and any liability to any third party for delay or non performance of any contract with the third party. Consequential loss shall also include loss of use of any item of Equipment (not itself sustaining Damage) due to its incompatibility with any item of Equipment repaired or replaced following Damage.<br>
+				<b><br>
+				Excess</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Any amount stated as the excess in the Certificate.<br>
+				<b><br>
+				Guarantees</b><br>
+				</font>
+				<li><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Damage recoverable at no expense to the Insured under any guarantee, warranty, maintenance, rental hire or lease agreement. </font>
+			</ol>
+		</td>
+	</tr>
+	<tr align="left" valign="top" height="5">
+		<td rowspan="16" bgcolor="#ff6600" width="3%">&nbsp;</td>
+		<td colspan="2" bgcolor="#fff8dc" rowspan="16"><font size="3" face="Verdana,geneva,Arial,Helvetica,sans-serif"><b>Complaints Procedure</b></font><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2"><br>
+			<br>
+			Royal &amp; Sun Alliance is committed to maintaining a high standard of professional conduct in all our dealings with customers.</font>
+			<p><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">However, if you feel your insurance arrangements have not been handled in the manner in which you would expect and you wish to make a complaint, please contact the Manager, Complete Computer Cover c/o Summit Insurance Services Limited, The Pavilion, 3 Broadgate, London, EC2M 2QS (or telephone 020 7628 3661) who will ensure that the matter receives full attention. If you still feel the matter has not been settled to your satisfaction you may write to the Customer Relations Officer, Royal &amp; Sun Alliance, 1 Leadenhall Street, London EC3V 1PP. If you remain dissatisfied and if you purchased your policy in a private capacity (i.e. not for the purpose of or in connection with any business activity) you may refer the matter to the Insurance Ombudsman Bureau at City Gate One, 135 Park Street, London, SE1 9EA. Royal &amp; Sun Alliance is a member of the Association of British Insurers whose address is 51 Gresham Street, London, EC2V 7HQ.</font>
+			<p><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">In case of a complaint relating to an insurance broker registered in accordance with the provisions of the Insurance Brokers (Registration Act) you can approach the Insurance Brokers Registration Council at 15 St. Helen&#146;s Place, London, EC3A 6DS.</font>
+			<p><font face="Verdana,geneva,Arial,Helvetica,sans-serif" size="2">Your right as a policy holder to take legal action remains unaffected by the existence or use of any of the Complaints Procedures referred to as above.<br>
+			<br>
+			</font></td>
+	</tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+	<tr align="left" valign="top"></tr>
+</table>
+
+	</body>
+
+</html>
+

@@ -1,0 +1,317 @@
+ID=B0081
+URL=http://www.swhebs.co.uk/hpberg2.htm
+SIZE=17254
+DATE=28/06/2002
+TIME=12:47:18
+DATASET=Building Societies
+HTML=<html>
+
+<head>
+<meta name="Version" content="8.0.3410">
+<meta name="Date" content="10/11/96">
+<meta name="Template" content="C:\word97\Office\HTML.DOT">
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>How much should I borrow?</title>
+</head>
+
+<body bgcolor="#FFFFFF" link="#000080" vlink="#000080" alink="#0000FF">
+
+<p><a name="a"><font color="#FF0000" size="3" face="Times New Roman"><b><i>How much should
+I borrow?</i></b></font></a></p>
+
+<blockquote>
+  <p><a name="a"><font face="Times New Roman">To save yourself wasted time and energy it is
+  wise to know how much you can borrow before you start house-hunting. </font></a></p>
+  <p><a name="a"><font face="Times New Roman">How much someone will lend you and how much
+  you can actually afford to borrow may be two different things. How much someone will lend
+  you is usually related to your income. How much you can afford to borrow obviously depends
+  upon your circumstances.</font></a></p>
+</blockquote>
+
+<p><a name="a"><font face="Times New Roman"><br>
+</font></a><a name="b"><font color="#FF0000" size="2" face="Times New Roman"><b><i>How
+much can I borrow ?</i></b></font></a></p>
+
+<blockquote>
+  <p><a name="b"><font face="Times New Roman">If you are a single applicant:</font></a></p>
+  <blockquote>
+    <p><a name="b"><font face="Times New Roman">Up to three and a quarter times your annual
+    income.</font></a></p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p><a name="b"><font face="Times New Roman">If you are joint applicants:</font></a></p>
+</blockquote>
+
+<table border="0" cellpadding="7" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="24%"><blockquote>
+      <p><font color="#FF0000" size="2" face="Times New Roman"><a name="b"><b>either: I)</b></a></font></p>
+    </blockquote>
+    </td>
+    <td valign="top" width="76%"><a name="b"><font size="2" face="Times New Roman">Up to three
+    and a quarter times the main annual income plus one times the second annual income.</font></a></td>
+  </tr>
+  <tr>
+    <td valign="top" width="24%"><blockquote>
+      <p><a name="b"><font color="#FF0000" size="2" face="Times New Roman"><b>or ii) </b></font></a></p>
+    </blockquote>
+    </td>
+    <td valign="top" width="76%"><a name="b"><font size="2" face="Times New Roman">Two and
+    three quarter times the joint annual incomes.</font></a></td>
+  </tr>
+</table>
+
+<blockquote>
+  <p><a name="b"><font face="Times New Roman">If you are self employed we usually require
+  three years accounts from which we generally assess the average of your net profit.<br>
+  <br>
+  These are the Society&#146;s guidelines and we are always pleased to discuss your
+  individual requirements.</font></a></p>
+</blockquote>
+
+<p><a name="b"><font face="Times New Roman"><br>
+</font></a><a name="c"><font color="#FF0000" size="2" face="Times New Roman"><b><i>How
+much can I afford to borrow?</i></b></font><font color="#FF0000" face="Times New Roman"> </font></a></p>
+
+<blockquote>
+  <p><a name="c"><font face="Times New Roman">We recommend you use the following checklist
+  to help you work out how much you can afford to put towards a mortgage.</font></a></p>
+  <p><a name="c"><font face="Times New Roman">Remember you can give yourself more to put
+  towards your mortgage if you choose to cut back on some of your expenses.</font></a></p>
+</blockquote>
+
+<p><a name="c"><font face="Times New Roman"><br>
+</font></a></p>
+
+<table border="1" cellpadding="2" cellspacing="1" width="100%">
+  <tr>
+    <td width="33%"><a name="c"><font size="2" face="Times New Roman">MONTHLY INCOME</font></a></td>
+    <td colspan="2" width="38%"><a name="c"><font size="2" face="Times New Roman">Your net
+    monthly salary </font></a></td>
+    <td colspan="2" width="29%"><a name="c"><font size="2" face="Times New Roman">£________________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td colspan="2" width="38%"><a name="c"><font size="2" face="Times New Roman">Partner&#146;s
+    net monthly salary</font></a></td>
+    <td colspan="2" width="29%"><a name="c"><font size="2" face="Times New Roman">£________________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td colspan="2" width="38%"><a name="c"><font size="2" face="Times New Roman">Overtime,
+    etc.</font></a></td>
+    <td colspan="2" width="29%"><a name="c"><font size="2" face="Times New Roman">£________________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td colspan="2" width="38%"><a name="c"></a>&nbsp;</td>
+    <td colspan="2" width="29%"><a name="c"></a>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td colspan="2" width="38%"><a name="c"><font size="2" face="Times New Roman">TOTAL
+    MONTHLY INCOME</font></a></td>
+    <td colspan="2" width="29%"><a name="c"><font size="2" face="Times New Roman">£________________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"><font size="2" face="Times New Roman">MONTHLY COSTS </font></a></td>
+    <td width="23%"><a name="c"></a>&nbsp;</td>
+    <td width="15%"><p align="center"><a name="c"><font size="2" face="Times New Roman">£</font></a></td>
+    <td width="16%"><a name="c"></a>&nbsp;</td>
+    <td width="13%"><p align="center"><a name="c"><font size="2" face="Times New Roman">£</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"><font size="2" face="Times New Roman">&nbsp;&nbsp;</font></a></td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Electricity</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________ </font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Gas</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"><font size="2" face="Times New Roman">&nbsp;&nbsp;</font></a></td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Children&#146;s pocket
+    money</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"></a>&nbsp;</td>
+    <td width="13%"><a name="c"></a>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"><font size="2" face="Times New Roman">&nbsp;&nbsp;</font></a></td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Telephone</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Credit card bills</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"><font size="2" face="Times New Roman">&nbsp;&nbsp;</font></a></td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Water rates</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Standing orders</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"><font size="2" face="Times New Roman">&nbsp;&nbsp;</font></a></td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Council Tax</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">HP payments</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">TV Licence/Rental</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Insurances</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Food/Drink</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Maintenance</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td width="23%"><font size="2" face="Times New Roman"><a name="c">Non-food groceries(e.g.
+    washing</a></font></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Savings plans</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">powder,</font></a></td>
+    <td width="15%"><a name="c"></a>&nbsp;</td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Health care</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">tissues etc.)</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Dentistry</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Cigarettes</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Animals</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Domestic appliances</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Garden</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Entertainments</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Hobbies</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Holiday expenses</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Presents</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Travel expenses</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Newspapers/</font></a></td>
+    <td width="13%"><a name="c"></a>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Car expenses</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">magazines</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"></a>&nbsp;</td>
+    <td width="23%"><a name="c"><font size="2" face="Times New Roman">Clothing</font></a></td>
+    <td width="15%"><a name="c"><font size="2" face="Times New Roman">_________</font></a></td>
+    <td width="16%"><a name="c"><font size="2" face="Times New Roman">Hi-fi/Video</font></a></td>
+    <td width="13%"><a name="c"><font size="2" face="Times New Roman">________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"><font size="2" face="Times New Roman">TOTAL MONTHLY
+    COSTS&nbsp;</font></a></td>
+    <td colspan="4" width="67%"><p align="right"><a name="c"><font size="2"
+    face="Times New Roman">£ -----------------------------</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"><font size="2" face="Times New Roman">Total Monthly
+    Income&nbsp;</font></a></td>
+    <td colspan="4" width="67%"><p align="right"><a name="c"><font size="2"
+    face="Times New Roman">£ -----------------------------</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"><font size="2" face="Times New Roman">Minus Total Monthly
+    Costs&nbsp;</font></a></td>
+    <td colspan="4" width="67%"><p align="right"><a name="c"><font size="2"
+    face="Times New Roman">£ _________________</font></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a name="c"><font size="2" face="Times New Roman">= Maximum Monthly Amount
+    Available for Mortgage Payments&nbsp;</font></a></td>
+    <td colspan="4" width="67%"><p align="right"><a name="c"><font size="2"
+    face="Times New Roman">£ _________________</font></a></td>
+  </tr>
+</table>
+
+<p><a name="c"></a>&nbsp;</p>
+
+<p><a name="d"><font color="#FF0000" size="2" face="Times New Roman"><b><i>Does the value
+of the property affect how much I can borrow?</i></b></font></a></p>
+
+<blockquote>
+  <p><a name="d"><font size="2" face="Times New Roman">The Society also needs to ensure that
+  the property provides adequate security. For&nbsp; residential purchases we normally lend
+  up to 95% of the purchase price or valuation, whichever is the lower.</font></a></p>
+  <p><font size="2" face="Times New Roman"><a name="d">However, if the above is insufficient
+  for your needs do discuss it with our Mortgage Advisors who may be able to help - it will
+  cost you nothing to ask!</a></font></p>
+</blockquote>
+
+<p><a name="e"><font color="#FF0000" size="2" face="Times New Roman"><b><i>What is
+Mortgage Indemnity?</i></b></font></a></p>
+
+<blockquote>
+  <p><a name="e"><font size="2" face="Times New Roman">If the amount you are borrowing is
+  more that 75% of the purchase price or valuation, which ever is the lower, a Mortgage
+  Indemnity premium will be charged. The one-off premium is usually added to the loan,
+  although it may be paid up-front if you prefer.</font></a></p>
+  <p><a name="e"><font size="2" face="Times New Roman">Part of this premium is used by the
+  Society to obtain mortgage indemnity insurance, which acts as extra security for our sole
+  benefit. This insurance will not protect you if your property is subsequently taken into
+  possession and sold for less than the amount you owe.</font></a></p>
+  <p><a name="e"><font size="2" face="Times New Roman">You will remain liable to pay all
+  sums owing including arrears, interest and our legal fees. If a claim is paid to us under
+  this insurance, the insurers generally have the right to recover this amount from you.</font></a></p>
+  <p><font size="2" face="Times New Roman">In certain cases, the Society will pay the
+  premium on your behalf for loans up to 85% of the purchase price or valuation, whichever
+  is the lower. Please ask for details.</font></p>
+  <p align="left"><font color="#FF0000" size="2" face="Times New Roman"><b><i>How do I apply
+  for a Mortgage Loan<a name="e">?</a></i></b></font></p>
+  <p align="left"><font size="2" face="Times New Roman">Once you have found your property
+  and agreed a price you should contact your local Saffron Walden Herts &amp; Essex Building
+  Society office to complete the application form.</font></p>
+  <p align="left">&nbsp;</p>
+  <p>&nbsp;</p>
+</blockquote>
+
+<p><font size="2" face="Times New Roman"><a href="hpberg3.htm">Next Page</a><br>
+<a href="hpberg.htm#menu">Return to Homebuyer's Guide menu</a> </font></p>
+</body>
+</html>
+

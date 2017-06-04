@@ -1,0 +1,570 @@
+ID=A0042
+URL=http://www.banking.hsbc.co.uk/stakeholder/employee/default.htm
+SIZE=37096
+DATE=27/06/02
+TIME=16:50:54
+DATASET=Commercial Banks
+HTML=<html><!-- #BeginTemplate "/Templates/sp_t2.dwt" -->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>HSBC - Stakeholder Pensions</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../css/bankinguk.css">
+<SCRIPT LANGUAGE="JavaScript" src= "../stakeholder.js"></script>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+	function popUp(URL) {
+		day = new Date();
+		id = day.getTime();
+		eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=630,height=500,top=0,left=0');");
+	}
+// End -->
+</SCRIPT>
+
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#000000" text="#000000" vlink="#000000" alink="#000000">
+<table width="99%" border="0" cellspacing="0" cellpadding="0" height align="left""100%">
+  <tr> 
+    <td valign="top" colspan="4" height="79"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="60"><img src="../../common/hsbc.gif" width="380" height="60" alt="HSBC Bank plc" border="0"></td>
+          <td height="60">&nbsp;</td>
+          <td height="60"> 
+            <div align="right"></div>
+          </td>
+        </tr>
+        <tr>
+          <td width="49%" bgcolor="#000000" height="20"><img src="../../common/hsbcbank.gif" width="338" height="20" alt="HSBC Bank plc"></td>
+          <td width="2%" bgcolor="#000000" height="20">&nbsp;</td>
+          <td width="49%" bgcolor="#000000" height="20"> 
+            <div align="right"><a href="../../personal/default.htm"><img src="../../common/navbar_personal.gif" width="104" height="20" border="0" alt="Click here for Personal Banking"></a><a href="../../business/default.htm"><img src="../../common/navbar_business.gif" width="88" height="20" border="0" alt="Click here for Business Banking"></a><a href="../../news/news.htm" target="_blank"><img src="../../common/navbar_news.gif" width="62" height="20" border="0" alt="Click here for the Latest News"></a><a href="../../default.htm"><img src="../../common/navbar_home.gif" width="64" height="20" border="0" alt="Click here for the Home page"></a></div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC" height="33" align="left">&nbsp;</td>
+	<!-- #BeginEditable "strap" --> 
+    <td colspan="3" height="33" background="../assets/115_bg.gif" align="left"><img src="../assets/stakeholderstrap_employee.gif" width="369" height="33" alt="Heading - Stakeholder Pensions *Employee" align="left"></td>
+    <!-- #EndEditable -->
+  </tr>
+  <tr> 
+    <td valign="top" width="140" bgcolor="#CCCCCC" height="697">
+  	<!-- #BeginEditable "lefthandnav" --> 
+      <table width="140" border="0" cellspacing="0" cellpadding="0" align="left">
+        <tr> 
+          <td width="25" height="45" align="center" valign="top"><img src="../../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="45" width="115" valign="top"><a href="../default.htm"><b><span class="leftnavredboldtextunderline">Stakeholder 
+            Pensions</span></b></a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="30" align="center" valign="top"><img src="../../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="30" width="115" class="leftnavblackboldtext" valign="top">I 
+            am employed</td>
+        </tr>
+        <tr> 
+          <td width="25" height="45" align="center" valign="top"><img src="../../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="45" width="115" class="leftnavtextunderline" valign="top"><a href="javascript:popUp('employer-obligation-questionnaire/default.htm')">My 
+            employer's <br>
+            obligations</a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="60" align="center" valign="top"><img src="../../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="60" width="115" class="leftnavtextunderline" valign="top"><a href="../setting-up/default.htm">Setting 
+            up a<br>
+            Stakeholder<br>
+            Pension online</a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="45" align="center" valign="top"><img src="../../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="45" width="115" valign="top" class="leftnavtextunderline"><a href="../investment-choice-calculator/default.htm">Investment 
+            choice calculator</a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="60" align="center" valign="top"><img src="../../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="60" width="115" valign="top" class="leftnavtextunderline"><a href="javascript:popUp('../eligibility-questionnaire/default.htm')">Apply 
+            for a Stakeholder Pension online</a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="30" align="center" valign="top"><img src="../../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="30" width="115" valign="top" class="leftnavtextunderline"><a href="javascript:popUp('../jargon-buster.htm')">Jargon 
+            buster</a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="30" align="center" valign="top"><img src="../../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="30" width="115" valign="top" class="leftnavtextunderline"><a href="../important-notes.htm">Important 
+            notes</a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="35" align="center" valign="top">&nbsp;</td>
+          <td height="35" width="115" valign="top">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="25" height="35" align="center" valign="top">&nbsp;</td>
+          <td height="35" width="115" valign="top">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="25" height="35" align="center" valign="top">&nbsp;</td>
+          <td height="35" width="115" valign="top">&nbsp;</td>
+        </tr>
+      </table>
+      <!-- #EndEditable -->
+     
+    </td>
+    <td width="450" valign="top" height="697"> <!-- #BeginEditable "body" --> 
+      <table width="450" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td colspan="3" height="195" valign="top"> 
+            <table border="0" cellpadding="0" cellspacing="0" background="../assets/chefs.jpg" width="100%" height="195">
+              <tr> 
+                <td valign="top" width="431" height="195" > 
+                  <img src="../assets/dummy(1).gif" width="130" height="200" alt="Image montage" border="0" align="left"><br>
+                  <br><br>
+                  <p class="introtitle">Welcome to Stakeholder Pensions for Employees</p>
+                  <p class="body"><span class="bodytitle">What pension options 
+                    do I have?</span> <br>
+                    You have several options when setting up a pension scheme 
+                    for yourself. They are as follows:</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr> 
+          <td colspan="3" height="343"> 
+            <p><img src="../assets/dummy(1).gif" width="130" height="5083" alt="blank image" border="0" align="left"><span class="body"><span class="bodybold">Personal 
+              pension plan</span> <br>
+              A <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#personal-pension-plan')">personal 
+              pension plan</a></span> lets you set aside money on either a regular 
+              or one-off basis. All contributions you make are paid net of basic 
+              rate <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#income-tax')">income 
+              tax</a></span>. If you are a higher rate taxpayer you can claim 
+              additional tax relief from your local tax office. The money is invested 
+              in the pension fund and grows in a tax efficient environment. On 
+              reaching retirement, you can normally take part of the fund (up 
+              to 25%) as a tax-free lump sum. The remainder is then used to provide 
+              an income, which will be subject to <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#income-tax')">income 
+              tax</a></span>. You can usually have access to your pension fund 
+              from the age of 50. You must take the benefits by your 75th birthday. 
+              </span></p>
+            <p class="body">In order to take out a personal pension plan you must: 
+            </p>
+            <table width="310" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="37"> 
+                  <ul>
+                    <li> <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#uk-resident')">Be resident and be ordinarily 
+                      resident in the UK </a></span></li>
+                    <li><span class="body"> Have a National Insurance number </span></li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+            <span class="body">You can pay in up to £3,600 <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#gross')">gross</a></span> 
+            per year, regardless of your earnings. It may be possible to pay more. 
+            This depends on your age and earnings, as indicated in the table below. 
+            If you do want to pay more than £3,600 <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#gross')">gross</a></span> 
+            per year we will require proof of your earnings.</span> <br>
+            <br>
+            <table width="310" border="1" cellspacing="0" cellpadding="0" height="119">
+              <tr bgcolor="#CCCCCC"> 
+                <td colspan="2" class="bodybold">Inland Revenue limits on contributions 
+                  into a personal pension per tax year</td>
+              </tr>
+              <tr> 
+                <td bgcolor="#CCCCCC" class="bodybold" height="187" width="110" valign="top"> 
+                  Age 35* and under<br>
+                    <br>
+                    Age 36* to 45 <br>
+                    <br>
+                    Age 46* to 50 <br>
+                    <br>
+                    Age 51* to 55 <br>
+                    <br>
+                    Age 56* to 60 <br>
+                    <br>
+                    Age 61* to 74<br>
+                 
+                </td>
+                <td bgcolor="#F3F3F3" height="187" width="200" class="body" valign="top">17.5% 
+                  of <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#net-relevant-earnings')">net 
+                  relevant earnings</a></span><br>
+                  up to £91,800** <br>
+                  20% of net relevant earnings <br>
+                  up to £91,800** <br>
+                  25% of net relevant earnings <br>
+                  up to £91,800** <br>
+                  30% of net relevant earnings<br>
+                  up to £91,800** <br>
+                  35% of net relevant earnings<br>
+                  up to £91,800** <br>
+                  40% of net relevant earnings<br>
+                  up to £91,800**</td>
+              </tr>
+            </table>
+            <p class="body"> *Age at beginning of the tax year. <br>
+              **The earnings cap for 2000/2001 tax year. This may change in the 
+              future. <br>
+              The tax year begins 6 April and ends 5 April. </p>
+            <p class="body"><span class="bodybold">Self-invested personal pension 
+              (SIPP) </span> <br>
+              This is similar to a <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#personal-pension-plan')">personal 
+              pension plan</a></span>. The main differences are that the associated 
+              charges with a <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#sipp')">SIPP</a></span> 
+              may be higher. The minimum investment in a SIPP 
+              is usually higher and a SIPP offers 
+              greater investment freedom. For example, it is possible to buy individual 
+              stocks and shares. </p>
+            <p class="body">If you would like to find out more information about 
+              <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#personal-pension-plan')">personal 
+              pension plans</a></span> and <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#sipp')">self- 
+              invested personal pensions</a></span>, please contact an HSBC Bank 
+              branch and speak to the <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#financial-planning-manager')">Financial 
+              Planning Manager</a></span> who will be able to help you. <a href="../../lad/country.asp">Click 
+              here</a> to find your nearest branch. <span class="bodyItalic">Please 
+              note these products may incur higher charges than a Stakeholder 
+              Pension.</span> </p>
+            <p class="body"><span class="bodybold">Stakeholder Pension</span> 
+              <br>
+              This is similar to a <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#personal-pension-plan')">personal 
+              pension plan</a></span> except it has to meet certain strict government 
+              standards, which are intended to benefit you. These are: </p>
+            <table width="310" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="429"> 
+                  <ul>
+                    <li><span class="body">The only charge you will pay is an <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#annual-management-charge')">annual 
+                      management charge</a></span>.</span></li>
+                    <li><span class="body">The maximum annual 
+                      management charge will be 1% of the pension fund 
+                      each year.</span></li>
+                    <li><span class="body">Contributions from as little as £20 <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#gross')">gross</a></span> 
+                      can be made, whether this is a regular or single premium. 
+                    </span></li>
+                    <li><span class="body">You will be able to stop and start contributions 
+                      whenever it suits you without charge.</span></li>
+                    <li><span class="body">You will be able to transfer your pension 
+                      fund without charge.</span></li>
+                    <li><span class="body">Employees who are members of <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#occupational-pension-scheme')">occupational 
+                      pension schemes</a></span> can contribute up to £3,600 per 
+                      year into a <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#stakeholder-pension')">Stakeholder 
+                      Pension</a></span> provided they earn less than £30,000 
+                      per year. <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#controlling-director')">Controlling 
+                      directors</a></span> and individuals earning more than £30,000 
+                      per year cannot.</span></li>
+                    <li><span class="body"> Contributions to a Stakeholder Pension can 
+                      be made by <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#variable-direct-debit')">variable Direct Debit</a></span>. 
+                    </span></li>
+                    <li><span class="body"> You can pay into a Stakeholder Pension 
+                      for your children and spouse. There is no minimum age or 
+                      earnings level for someone to start a Stakeholder Pension. 
+                      In effect you could pay up to £3,600 <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#gross')">gross</a></span> 
+                      each year into a Stakeholder Pension for someone until their 
+                      75th birthday. If they are a member of an <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#occupational-pension-scheme')">occupational 
+                      pension scheme</a></span> earning more than £30,000 per 
+                      year or are a <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#controlling-director')">controlling 
+                      director</a></span> they will not be eligible for a Stakeholder 
+                      Pension. If you wish to apply for a Stakeholder Pension 
+                      for someone over the age of 18, you can do this via our 
+                      website. However, you will need to complete a paper Direct 
+                      Debit, which we will send to you. If you wish to set up 
+                      a Stakeholder Pension for someone below the age of 18 you 
+                      will need to contact one of our <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#financial-planning-manager')">Financial 
+                      Planning Managers</a></span> at an HSBC Bank branch. <a href="../../lad/country.asp">Click 
+                      here</a> to go to our branch directory.</span></li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+            <span class="body">Use our <a href="javascript:popUp('employer-obligation-questionnaire/default.htm')">Employer 
+            obligation questionnaire</a> to see if you should be offered a Stakeholder 
+            Pension scheme at your place of work. <br>
+            <br>
+			If you are interested in Stakeholder Pensions, 
+            you have the following options:</span><br>
+            <table width="310" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="172"> 
+                  <ol class="body">
+                    <li><span class="body">If you are unsure whether you should take 
+                      out a Stakeholder Pension, <a href="../decision-tree.htm"> 
+                      Decision Trees</a> may help you make an informed decision. 
+                      These have been designed to help you decide whether a Stakeholder 
+                      Pension is the right product to suit your personal retirement 
+                      planning needs.</span></li>
+                    <li><span class="body"> You can create an estimate of potential 
+                      benefits from a Stakeholder Pension, based on the contributions 
+                      you would make, your age and other factors, using our <a href="../quotation-module/default.htm">pension 
+                      calculator</a>.</span></li>
+                  </ol>
+                </td>
+              </tr>
+            </table>
+            <span class="body">If you have already used the Decision Trees, and 
+            are familiar with what a Stakeholder Pension could offer you, you 
+            can apply for a Stakeholder Pension with us by <a href="javascript:popUp('../eligibility-questionnaire/default.htm')">clicking 
+            here</a>. </span> 
+            <p><span class="bodytitle">Contracting out of the State Earnings Related 
+              Pension Scheme (SERPS) </span><br>
+              <span class="body">Your <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#serps')">State 
+              Earnings Related Pension Scheme</a></span> is funded by part of 
+              your National Insurance contributions and part of the National Insurance 
+              contributions your employer pays for you. You can chose to contract 
+              out of <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#serps')">SERPS</a></span> 
+              using a <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#personal-pension-plan')">personal 
+              pension plan</a></span> or a Stakeholder Pension. </span></p>
+            <p class="body">This means that while you are contracted out you give 
+              up your right to a <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#serps')">SERPS</a></span> 
+              pension, for that period only. But in return, this money is redirected 
+              from the Department of Social Security (DSS) to your <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#personal-pension-plan')">personal 
+              pension plan</a></span> or Stakeholder Pension and invested in your 
+              chosen <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#investment-funds')">investment 
+              fund(s)</a></span>. You may only contract out with one <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#pension-provider')">pension 
+              provider</a></span> in any one tax year. </p>
+            <p class="body">While you are contracted out, part of your National 
+              Insurance contribution is paid by the DSS to the <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#pension-provider')">pension 
+              provider</a></span> you have chosen to contract out with. </p>
+            <p class="body">If you are considering contracting out of <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#serps')">SERPS</a></span>, 
+              our company actuaries have calculated some information that may 
+              help you make an informed decision. The figures below are only a 
+              guide. </p>
+            <p class="body">People most suited to contracting out of <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#serps')">SERPS</a></span> 
+              are those: </p>
+            <table width="310" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="198"> 
+                  <ul>
+                    <li><span class="body">With <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#net-relevant-earnings')">net 
+                      relevant earnings</a></span> over £10,000 per annum who 
+                      are likely to remain over this figure for the next three 
+                      years.</span></li>
+                  </ul>
+                  <ul>
+                    <li><span class="body"> Who are prepared to invest in funds that 
+                      take greater risks, for example those that invest in the 
+                      stock market, to make higher returns. While higher risk 
+                      funds may be more likely to produce larger returns they 
+                      may also make larger losses.</span></li>
+                  </ul>
+                  <ul>
+                    <li><span class="body"> Who are prepared to remain contracted out 
+                      for at least three years.</span></li>
+                  </ul>
+                  <ul>
+                    <li><span class="body">Aged below 51 for a male and 44 for 
+                      females</span></li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+            <span class="body">If you believe it would be in your best interest 
+            to contract out of <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#serps')">SERPS</a></span> 
+            and wish to apply for this you may do so. Please contact the <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#financial-planning-manager')">Financial 
+            Planning Manager</a></span> at your local branch. <a href="../../lad/country.asp">Click 
+            here</a> to find your nearest branch.</span> 
+            <p><span class="bodybold">Contracting back into SERPS </span><br>
+              <span class="body">You may contract back into <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#serps')">SERPS</a></span> 
+              at any time. If you are currently contracted out with us and are 
+              considering contracting back into SERPS, 
+              our company actuaries have calculated that if you are aged 53 or 
+              above for a male and 47 or above for females, you should consider 
+              contracting back into SERPS. Please 
+              note that these ages are only a guide. </span></p>
+            <p class="body">If you would like to contract back into <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#serps')">SERPS</a></span> 
+              or if you are unsure how you wish to proceed you should contact 
+              the <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#financial-planning-manager')">Financial 
+              Planning Manager</a></span> at an HSBC Bank branch. <a href="../../lad/country.asp">Click 
+              here</a> to find your nearest branch. </p>
+            <p class="body">The information above has been calculated by HSBC 
+              Life (UK) Limited company actuaries taking into account the current 
+              charges on our Stakeholder Pension contract. The figures should 
+              not be used when considering contracting out or in with any other 
+              product or product provider. </p>
+			<p class="body"><span class="bodytitle">Tell me more about Stakeholder&nbsp;Pensions</span><br>
+              <span class="bodybold">Reasons for introduction </span> <br>
+              The Government announced its intention to reform pensions from April 
+              2001. A full copy of the Government's document (published on 25 
+              May 2000) can be viewed by visiting the Department of Social Security 
+              website, <a href="javascript:leavingHSBC('../leaving-hsbc.htm','http://www.dss.gov.uk')">www.dss.gov.uk</a>. 
+              This document outlines the key proposals to change the face of pensions. 
+            </p>
+            <p class="body">A new simple, flexible and low cost pension will be 
+              introduced known as a Stakeholder Pension. The low charges and product 
+              simplicity should make retirement planning more attractive and easier 
+              for many people. Individuals will normally be able to take the pension 
+              benefits built up from a Stakeholder Pension in addition to the 
+              <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#state-pension')">State pension</a></span> and other pension benefits. 
+            </p>
+            <p class="bodybold">Regulation <br>
+            </p>
+            <table width="310" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="120"> 
+                  <ul>
+                    <li><span class="body">The <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#opra')">Occupational 
+                      Pensions Regulatory Authority (OPRA)</a></span> will regulate 
+                      the operation of all schemes and maintain a register of 
+                      them. Employers responsible for offering a Stakeholder Pension 
+                      will also need to ensure the Stakeholder Pension they have 
+                      designated for their employees is continually registered 
+                      with <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#opra')">OPRA</a></span>.</span></li>
+                    <li><span class="body">The <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#fsa')">Financial Services 
+                      Authority (FSA)</a></span> will regulate the marketing of schemes. 
+                    </span></li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+            <span class="body"><span class="bodybold">What if I have other pension 
+            benefits?</span> <br>
+            You may already have one or more existing pensions. These may be from 
+            previous employers or pensions you have set up yourself. If you are 
+            still paying into one or more of these pensions, this will have an 
+            effect on the amount you can pay into a Stakeholder Pension. The maximum 
+            amount you can pay, called the contribution 
+            limit includes all pensions, not just contributions to one 
+            particular pension. You will need to ensure that the total of all 
+            pension contributions does not exceed the contribution 
+            limits</span>.
+            <p class="body">You may wish to seek advice from a <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#financial-adviser')">Financial 
+            Adviser</a></span> on what options you have.</p>
+            <p class="body"><span class="bodybold">Transferring Stakeholder Pension 
+              benefits</span> <br>
+              One of the benefits of a Stakeholder Pension is that you will be 
+              able to move funds from one Stakeholder Pension to another, without 
+              additional charge. This gives you complete flexibility to move your 
+              existing Stakeholder Pension funds when it suits you. It is possible 
+              to move your existing pension arrangements to a new Stakeholder 
+              Pension with us. <span class="bodyItalic">Please note that there 
+              may be a charge for advice relating to transfers</span>.</p>
+            <p class="body">If you are considering moving your existing pension 
+              arrangements to a Stakeholder Pension with us you will need to contact 
+              the <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#financial-planning-manager')">Financial 
+              Planning Manager</a></span> at an HSBC Bank branch. <a href="../../lad/country.asp">Click 
+              here</a> to find your nearest branch of HSBC.</p>
+            <p class="body"><span class="bodytitle">What Stakeholder Pension obligations 
+              does my employer have?</span> <br>
+              If your employer is obliged to offer you access to a Stakeholder 
+              Pension, they will have to follow these guidelines. </p>
+            <p class="body"><span class="bodybold">Consultation </span><br>
+              Employers must consult with their employees (or their representatives) 
+              when deciding on who will provide their Stakeholder Pension scheme. 
+              However, the final decision rests with the employer. </p>
+            <p class="body"><span class="bodybold">Contributions</span> <br>
+              Your employer is not obliged to make any contributions to the Stakeholder 
+              Pension, although they may choose to do so if they are obliged to 
+              provide access under the new legislation. </p>
+            <p class="body">What they must do is: </p>
+            <table width="310" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="25"> 
+                  <ol class="body">
+                    <li><span class="body">Offer you access to a Stakeholder Pension 
+                      scheme if they fall within the regulations.</span></li>
+                    <li><span class="body"> Deduct your contributions directly from 
+                      your salary if you require this facility.</span></li>
+                    <li><span class="body"> Pass your contributions onto the designated 
+                      Stakeholder <span class="bodybold"><a href="javascript:popUp('../jargon-buster.htm#pension-provider')">Pension 
+                      provider</a></span>.</span></li>
+                  </ol>
+                </td>
+              </tr>
+            </table>
+            <span class="body"> Your employer must pass any contributions taken 
+            from your salary to your Stakeholder Pension scheme provider no later 
+            than the 19th day of the month following the month they were taken 
+            from you. If you prefer, you can choose to pay your own contributions 
+            from your bank or building society account by Direct Debit to the 
+            Stakeholder Pension provider.</span> 
+            <p class="body"><span class="bodytitle">Apply for our Stakeholder&nbsp;Pension</span> 
+              <br>
+              You can apply for a Stakeholder Pension with HSBC over the internet. 
+              However, we would recommend that you make use of the <a href="../decision-tree.htm">Decision 
+              Trees</a> in advance of making a decision.</p>
+            <p class="body">Use our <a href="javascript:popUp('employer-obligation-questionnaire/default.htm')">Employer 
+              obligation questionnaire</a> to see if you should be offered a Stakeholder 
+              Pension at your place of work.</p>
+            <p class="bodybold">We recommend that you read our important notes.</p>
+           <p><span class="body"><i>HSBC Bank plc is regulated by the Personal Investment Authority and only advises on its own life assurance, pensions and investment funds.</i></span>
+            <p class="body">&nbsp;</p>
+            <p class="body">&nbsp;</p>
+          </td>
+        </tr>
+      </table>
+      <!-- #EndEditable --> 
+      <p>&nbsp; </p>
+    </td>
+    <td valign="top" width="175" align="right" height="697"> 
+      <table width="160" border="0" cellspacing="0" cellpadding="0" align="right">
+        <tr valign="top" align="right"> 
+          <td width="26" height="10">&nbsp;</td>
+          <td width="124" height="10">&nbsp;</td>
+        </tr>
+        <tr valign="top" align="right"> 
+          <td rowspan="6" height="400" width="26"> 
+            <div align="left"><img src="../assets/9_grey_s.gif" width="26" height="306" alt="Grey brushstroke" align="left"></div>
+          </td>
+          <td rowspan="6" height="222"> 
+            <div align="left"></div>
+            <div align="left"></div>
+            <div align="left">
+  			<!-- #BeginEditable "righthandtools" --> 
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr align="right" valign="top"> 
+                  <td width="124" height="50">&nbsp; </td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="19"> 
+                    <div align="left"></div>
+                  </td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="50"> 
+                    <div align="center"><a href="../../lad/country.asp"><img src="../assets/103_ab_t_fab.gif" width="74" height="64" border="0" alt="Click here to a find a branch" align="middle"></a></div>
+                  </td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="10">&nbsp;</td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="50"> 
+                    <div align="center"><a href="javascript:popUp('../eligibility-questionnaire/default.htm')"><img src="../assets/applynow_button.gif" width="74" height="64" border="0" alt="Click here for pension selector" align="middle"></a></div>
+                  </td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="10">&nbsp;</td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="50"> 
+                    <div align="center"><a href="../decision-tree.htm"><img src="../assets/whatsrightforme_button.gif" width="74" height="64" align="middle" border="0" alt="Click here for Stakeholder Pensions Decision Trees"></a></div>
+                  </td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="10">&nbsp;</td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="50"> 
+                    <div align="left"></div>
+                  </td>
+                </tr>
+              </table>
+              <!-- #EndEditable -->
+			</div>
+          </td>
+        </tr>
+        <tr valign="top" align="right"> </tr>
+        <tr valign="top" align="right"> </tr>
+        <tr valign="top" align="right"> </tr>
+        <tr valign="top" align="right"> </tr>
+        <tr valign="top" align="right"> </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+<!-- #EndTemplate --></html>
+

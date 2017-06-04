@@ -1,0 +1,2093 @@
+ID=A0003
+URL=http://www.cahoot.com/cahoot_products/cahoot_insurance/policy_insurance.html
+SIZE=83604
+DATE=27/06/02
+TIME=16:49:31
+DATASET=Commercial Banks
+HTML=<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>policy document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="robots" content="noindex,nofollow">
+<link rel="stylesheet" type="text/css" href="../../cahoot.css" title="cahoot">
+<script LANGUAGE="JavaScript" SRC="../../cahoot.js"></script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<a name="top"></a>
+
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="14" height="36" class="grey" valign="bottom" align="right"><img src="../../images/misc/header_edge.gif" width="14" height="36" border="0"></td><td class="grey" colspan="3" valign="bottom" height="36" width="752"><img src="../../images/titles/title_cahoot_travel_insurance.gif" width="752" height="36" alt="cahoot travel insurance" border="0"></td><td width="14" height="36" class="grey" valign="bottom" align="right"><img src="../../images/misc/header_edge.gif" width="14" height="36" border="0"></td>
+</tr>
+</table>
+
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td colspan="3" align="right" valign="bottom"><font class="lightgreenbracket">{ </font><a href="insurance_2.html"><font class="boldblack"> back </font></a><font class="lightgreenbracket"> }</font></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+<tr>
+<td colspan="3" height="10"><img src="../../images/misc/spacer.gif" border="0" width="14" height="10" alt="spacer"></td>
+</tr>
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" border="0" width="14" height="1" alt="spacer"></td><td><img src="../../images/misc/insurance_policy_details.gif" border="0" width="300" height="32" alt="insurance policy details text"></td><td width="14"><img src="../../images/misc/spacer.gif" border="0" width="14" height="1" alt="spacer"></td>
+</tr>
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" border="0" width="14" height="1" alt="spacer"></td><td><font class="largeboldblack">
+<br>Summary of Key Benefits</font>
+<br>
+<br>
+</td><td width="14"><img src="../../images/misc/spacer.gif" border="0" width="14" height="1" alt="spacer"></td>
+</tr>
+</table>
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" border="0" width="14" height="1" alt="spacer"></td><td>
+<table width="600" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td class="grey" colspan="3"><font class="boldblack"><b>Single Trip  Annual Multi-trip Travel Insurance</b></font></td>
+</tr>
+<tr>
+<td width="200" align="center"><font class="boldpurple">Cover</font></td><td width="200" align="center"><font class="boldpurple">Limit of Cover</font></td><td width="200" align="center"><font class="boldpurple">Excess</font></td>
+</tr>
+<tr>
+<td width="200" align="left">Cancellation and Curtailment</td><td width="200" align="left">£5,000</td><td width="200" align="left">£35</td>
+</tr>
+<tr>
+<td width="200" align="left">Cutting short your trip</td><td width="200" align="left">£5,000</td><td width="200" align="left">£35</td>
+</tr>
+<tr>
+<td width="200" align="left">Delayed Departure</td><td width="200" align="left">£25 per 12 hour period/£200</td><td width="200" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="200" align="left">Missed Departure</td><td width="200" align="left">£1,000</td><td width="200" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="200" align="left">Hijack</td><td width="200" align="left">£50 per day/£1,000</td><td width="200" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="200" align="left">Emergency Medical Expenses</td><td width="200" align="left">£10,000,000</td><td width="200" align="left">£35</td>
+</tr>
+<tr>
+<td width="200" align="left">Hospital Benefit</td><td width="200" align="left">£20 per day/£1,000</td><td width="200" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="200" align="left">Personal Accident<br>&nbsp;&nbsp; - Death<br>&nbsp;&nbsp;  - Loss of sight/limbs<br>&nbsp;&nbsp;  - Permanent Total Disablement</td><td width="200" align="left" valign="bottom">£25,000<br> £25,000<br> £25,000</td><td width="200" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="200" align="left">Personal Belongings<br>&nbsp;&nbsp; - Single Article Limit<br>&nbsp;&nbsp;  - Valuables Limit<br>&nbsp;&nbsp;  - Delayed Baggage</td><td width="200" align="left" valign="bottom">£1,500<br>£300<br>£300<br>£150</td><td width="200" align="left">£35</td>
+</tr>
+<tr>
+<td width="200" align="left">Personal Money</td><td width="200" align="left">£500</td><td width="200" align="left">£35</td>
+</tr>
+<tr>
+<td width="200" align="left">Cash</td><td width="200" align="left">£300</td><td width="200" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="200" align="left">Loss of Passport</td><td width="200" align="left">£250</td><td width="200" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="200" align="left">Personal Liability</td><td width="200" align="left">£2,000,000</td><td width="200" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="200" align="left">Legal Expenses</td><td width="200" align="left">£25,000</td><td width="200" align="left">£100</td>
+</tr>
+</table>
+<br>
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="3" align="left"><font class="boldblack">Optional Upgrades</font></td>
+</tr>
+</table>
+<table width="600" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="3" align="left" class="grey"><font class="boldblack"><b>Winter Sports Cover</b></font></td>
+</tr>
+<tr>
+<td width="200" align="center"><font class="boldpurple">Cover</font></td><td width="200" align="center"><font class="boldpurple">Limit of Cover</font></td><td width="200" align="center"><font class="boldpurple">Excess</font></td>
+</tr>
+<tr>
+<td width="200" align="left">Ski Equipment</td><td width="200" align="left">£400</td><td width="200" align="left">£35</td>
+</tr>
+<tr>
+<td width="200" align="left">Hired Skis</td><td width="200" align="left">£15 per day/£300</td><td width="200" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="200" align="left">Ski Pack</td><td width="200" align="left">£200 perweek/£400</td><td width="200" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="200" align="left">Piste Closure</td><td width="200" align="left">£20 per day/£200</td><td width="200" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td width="200" align="left">Avalanche Closure</td><td width="200" align="left">£200</td><td width="200" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3" align="left" class="grey"><font class="boldblack"><b>Wedding Cover</b></font></td>
+</tr>
+<tr>
+<td width="200" align="center"><font class="boldpurple">Cover</font></td><td width="200" align="center"><font class="boldpurple">Limit of Cover</font></td><td width="200" align="center"><font class="boldpurple">Excess</font></td>
+</tr>
+<tr>
+<td width="200" align="left">Wedding Rings</td><td width="200" align="left">£250</td><td width="200" align="left">£35</td>
+</tr>
+<tr>
+<td width="200" align="left">Wedding Gifts</td><td width="200" align="left">£1,000</td><td width="200" align="left">£35</td>
+</tr>
+<tr>
+<td width="200" align="left">Wedding Attire</td><td width="200" align="left">£1,500 per couple</td><td width="200" align="left">£35</td>
+</tr>
+<tr>
+<td width="200" align="left">Wedding Photographs</td><td width="200" align="left">£750 per couple</td><td width="200" align="left">£35</td>
+</tr>
+<tr>
+<td colspan="3" align="left" class="grey"><font class="boldblack"><b>Golf Cover</b></font></td>
+</tr>
+<tr>
+<td width="200" align="center"><font class="boldpurple">Cover</font></td><td width="200" align="center"><font class="boldpurple">Limit of Cover</font></td><td width="200" align="center"><font class="boldpurple">Excess</font></td>
+</tr>
+<tr>
+<td width="200" align="left">Golf Equipment</td><td width="200" align="left">£1,000</td><td width="200" align="left">£35</td>
+</tr>
+<tr>
+<td width="200" align="left">Single Article Limit</td><td width="200" align="left">£300</td><td width="200" align="left">&nbsp;</td>
+</tr>
+</table>
+</td><td width="14"><img src="../../images/misc/spacer.gif" border="0" width="14" height="1" alt="spacer"></td>
+</tr>
+</table>
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" border="0" width="14" height="1" alt="spacer"></td><td align="left">
+<br>
+<p align="left">
+<font class="largeboldblack">
+Thank <b>you</b> for buying<br>
+cahoot travel insurance</font>
+<br>
+<font class="black">
+This policy document contains full details of the cover and
+conditions <b>you</b> must satisfy and is the basis on which all
+claims will be settled.
+<br>
+This policy constitutes a contract between <b>you</b> and<b>us</b>
+and is made up of the schedule and this policy document,
+which together form the contract of insurance and is
+based upon information that <b>you</b> provided on your
+application form.
+<br>
+In return for the correct premium, <b>we</b> will pay <b>you</b> or <b>your</b>
+personal representative if <b>you</b> make a valid claim.
+<br>
+Please be aware that this policy does not cover for every
+eventuality. <b>You</b> should read this policy carefully to ensure
+that this meets with your requirements. Please keep this in
+a safe place and take it with <b>you</b> on <b>your trip.</b></font>
+<br>
+<br>
+<font class="boldblack">
+Important Telephone Numbers</font>
+<br>
+<font class="black">
+Customer Service <b>0870 400 4894</b>
+<br>
+Monday - Friday 8.00am - 8.00pm<br>
+Saturday 9.00am - 6.00pm<br>
+<b>Claims 0870 400 4895</b>
+<br>
+Monday - Friday 9.00am - 5.30pm<br>
+<b>Pre-Travel Advice Line (24 Hours) 020 8847 8095<br>
+Legal Advice (24 Hours) 020 8847 8095<br>
+Emergency Medical Assistance (24 Hours)</b>
+<br>
+For USA, Canada, South America and the Caribbean<br>
+Toll Free 1 - 877 - 566 - 2681<br>
+Non-Toll Free 001 - 819 - 566 - 2681<br>
+For Europe and the rest of the world +44 (0) 20 8847 8095<br>
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+24 Hour Emergency Medical Assistance</font>
+<br>
+<font class="black">
+The Emergency Service is available 24 hours a day to
+help <b>you</b> in a medical emergency and can arrange, where
+appropriate, admission to hospital, ambulance transfers
+and air repatriation if medically necessary.
+<br>
+If <b>you</b> need medical treatment abroad or have to go into
+hospital or require medical assistance during <b>your trip</b> or
+need to return early to <b>home</b>, <b>you</b> must call <b>us</b> first for
+authorisation before <b>you</b> agree to make any payment.
+<br>
+If <b>you</b> do not do this, <b>we</b> may not pay <b>your</b> claim.
+<br>
+<b>24 Hour Medical Emergency and Assistance Services in
+the USA/Canada/South America/Caribbean</b>.
+<br>
+If <b>you</b> call <b>us</b> prior to in-patient or outpatient treatment
+<b>we</b> will direct <b>you</b> to a qualified, accredited medical
+provider who will bill us directly for the treatment <b>you</b> receive.
+<br>
+Telephone (Toll Free) <b>1-877-566-2681</b>
+<br>
+Non Toll Free <b>001-819-566-2681</b>
+<br>
+<b>24 Hour Emergency Service in all other countries</b>
+<br>
+Telephone <b>+44 (0) 20 8847 8095</b>
+<br>
+When contacting the emergency service, <b>you</b> will need to
+provide the following information :-<br>
+<b>Your</b> name.<br>
+<b>Your</b> address and contact details.<br>
+<b>Your</b> policy number shown on <b>your</b> schedule.<br>
+The dates of <b>your trip</b>.<br>
+The type of assistance <b>you</b> need.<br>
+It is a condition of the policy that  <b>we</b>  can decide on the most suitable, practical and reasonable solution
+to any problem.
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Contents Page<br>
+Section 1</font>
+<br>
+<font class="black">
+Your Travel Insurance <br>
+</font><font class="boldblack">
+Section 2</font>
+<br>
+<font class="black">Definitions</font>
+<br>
+<font class="boldblack">
+Section 3</font>
+<br>
+<font class="black">
+Your Cover <br>
+Cancellation and Curtailment<br>
+Delay Cover<br>
+Missed Departure <br>
+Hijack <br>
+Medical Emergency and Associated Expenses <br>
+Hospital Benefit <br>
+Personal Accident <br>
+Personal Belongings <br>
+Personal Money <br>
+Loss of Passport <br>
+Personal Liabilities <br>
+Legal Expenses </font>
+<br>
+<font class="boldblack">
+Section 4</font>
+<br>
+<font class="black">
+Optional Cover <br>
+Winter Sports Cover <br>
+Wedding Cover<br>
+Golf Cover</font>
+<br>
+<font class="boldblack">Section 5</font>
+<br>
+<font class="black">
+General Exclusions and Conditions</font>
+<br>
+<font class="boldblack">Section 6</font>
+<br>
+<font class="black">Complaints Procedure</font>
+<br>
+<font class="boldblack">Section 7</font>
+<br>
+<font class="black">Claims Procedure</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Section 1 - Your Travel Insurance
+</font>
+<br>
+<font class="black">
+This policy has been arranged by cahoot and is
+underwritten by Financial Insurance Company Limited,
+Vantage West, Great West Road, Brentford, Middlesex
+TW8 9AG.
+<br>
+<b>We</b> are required to tell <b>you</b> some important features of
+<b>your</b> policy including:
+<br>
+<b>Policy Document</b>
+<br>
+This policy document gives <b>you</b> full details of the cover
+and the conditions <b>you</b> must satisfy to ensure <b>you</b> are fully
+covered. <b>Your</b> policy schedule will show the type of cover
+<b>you</b> have chosen. Please read these carefully and call us on
+0870 400 4894 if <b>you</b> need any further help and advice.
+<br>
+<b>Conditions and Exclusions</b>
+<br>
+There are conditions and exclusions which apply to
+individual Sections of the policy and general exclusions
+which apply to the whole policy, for example consequential
+loss.
+<br>
+<b>Pre-existing medical conditions</b>
+<br>
+<b>We</b> will not pay if <b>you</b> cancel or <b>cut short your trip</b> as a
+result of any pre-existing medical condition for which <b>you</b>
+have received treatment or consultation within six months
+prior to buying this policy, if <b>you</b> have received a terminal
+prognosis or if at the time of buying this policy, <b>you</b> are on
+a hospital waiting list or awaiting the results of any
+hospital tests, unless <b>we</b> agreed to cover it in writing
+before the <b>trip</b>.
+<br>
+This policy also contains exclusions relating to persons who
+are not travelling but on whose health the <b>trip</b> could
+depend and also persons <b>you</b> are travelling with but who
+are not insured under this policy. If <b>you</b> need any advice
+regarding pre-existing conditions, please call us for advice
+on <b>0870 400 4894</b>.
+<br>
+<b>Eligibility</b>
+<br>
+To be eligible for this insurance <b>you</b> must be a permanent
+resident of the <b>United Kingdom</b>.
+<br>
+<b>Limit of cover</b>
+<br>
+Each Section of the policy shows the most <b>you</b> can claim,
+but other limits may apply. For example under the Personal
+Belongings Section the overall cover is £1,500 but there is a
+lower limit for <b>valuables</b> and any one item. Please check
+<b>your</b> policy carefully to ensure <b>you</b> have adequate cover.
+<br>
+<b>Looking after your belongings</b>
+<br>
+<b>You</b>should take all reasonable care to protect <b>your</b>
+belongings and act as if <b>you</b> are not insured. If <b>you</b> do not
+do this <b>we</b> may not pay your claim.
+<br>
+<br>
+<b>Hazardous activities</b>
+<br>
+If <b>you</b> are going to take part in any hazardous activity,
+<b>you</b> may not be covered by this policy. If <b>you</b> are intending
+to take part in any hazardous activity and want to check
+<b>you</b> are covered, please contact us on <b>0870 400 4894</b>.
+Please see definitions of Hazardous activities.
+<br>
+<b>Premium refund</b>
+<br>
+If <b>you</b> are dissatisfied with this policy or if the policy does
+not meet <b>your</b> needs, <b>you</b> may return it within 14 days of
+the date of issue and <b>we</b> will refund your premium in full
+provided <b>you</b> have not undertaken a <b>trip</b>. <b>You</b> must also
+not have made or intend to make a claim.
+<br>
+<b>Excesses</b>
+<br>
+Under most Sections of the policy, claims will be subject to
+an excess. This means that <b>you</b> will have to pay the first
+part of <b>your</b> claim. If <b>you</b> have paid the extra premium for
+excess waiver cover, the excess will not apply.
+<br>
+<b>Duration of Cover</b>
+<br>
+<b>Your</b> policy schedule will show <b>you</b> when <b>your</b> cover starts
+and finishes.
+<br>
+<b>Complaints</b>
+<br>
+This policy contains a complaints procedure, which tells
+<b>you</b> what steps <b>you</b> can take if <b>you</b> wish to make a
+complaint.
+<br>
+<b>Making a claim</b>
+<br>
+To help <b>us</b> deal quickly and efficiently with <b>your</b> claim,
+please read the claims procedure. This tells
+<b>you</b> what documents <b>you</b> will need to support <b>your</b> claim.
+Some proof <b>you</b> may need, for example a police report,
+<b>you</b> must obtain while <b>you</b> are on <b>your</b><b>trip</b>.
+<br>
+<b>Medical Emergency</b>
+<br>
+If <b>you</b> need assistance in the event of a medical emergency,
+please contact the Emergency Service immediately.
+<br>
+<b>Choice of Law</b>
+<br>
+If <b>you</b> buy this insurance in the <b>United Kingdom</b><b> you</b> can
+choose which law will apply to the policy. English law will
+apply unless <b>we</b> agree otherwise.
+<br>
+<b>Reciprocal Health Agreement</b>
+<br>
+If <b>you</b> are travelling to a European Union country,
+<b>you</b> should obtain from <b>your</b> local Post Office the
+Department of Health form T5 which contains forms CM1
+and E111 which when stamped by the Post Office will entitle
+you to certain free health arrangements in EU countries.
+<br>
+<b>Renewals</b>
+<br>
+If <b> you</b> have bought an Annual Multi-trip Policy, <b>we</b> will
+send <b>you</b> a renewal notice prior to the expiry of <b>your</b>
+policy, in time to allow <b>you</b> to consider and arrange any
+continuing cover <b>you</b> may need.
+<br>
+<b>One way trips</b>
+<br>
+This policy is designed to cover a round <b>trip</b> that starts
+and finishes at<b> your</b> usual <b>home</b> in the <b>United Kingdom</b>.
+Cover for one way <b>trips</b> may be arranged up to a maximum
+of 17 days and will be restricted to the cover that would
+have applied if <b>you</b> had arranged to return <b>home</b> at the
+end of the period of insurance.
+<br>
+<b>Geographical areas</b>
+<br>
+<b>Area 1</b> - Great Britain, Northern Ireland, the Isle of Man
+and the Channel Islands. (For <b>annual multi-trip insurance</b>,
+cover for Area 1 will be applicable only where a minimum
+of two night's accommodation has been pre-booked).
+<br>
+<b>Area 2</b> - Europe (including Russia west of the Ural
+Mountains), islands in the Mediterranean, the Azores,
+the Canary Islands, Madeira, Iceland, Turkey, Israel,
+Egypt, Tunisia, Algeria, Morocco, Gambia and the
+Republic of Ireland.
+<br>
+<b>Area 3</b> - Worldwide<br>
+<br>
+<b>Policy information</b>
+<br>
+If <b>you</b> require information or advice on any aspect of this
+policy please contact us on <b>0870 400 4894</b>.
+<br>
+If <b>you</b> have special needs i.e. hard of hearing, large text,
+braille or taped version please telephone the:
+<br>
+Disability Textphone: <b>0870 400 4855</b>
+<br>
+Disability Helpline: <b>0870 400 4854</b>
+<br>
+</font>
+</p>
+<p align="left">
+<font class="black"><b>Important 24-hour Medical Emergency Service</b>
+<br>
+<b>While Abroad</b>
+<br>
+If <b>you</b> need medical treatment abroad or have to go into
+hospital or require medical assistance during <b>your</b><b>trip</b> or
+need to return early to <b>home</b>, <b>you</b> must call <b>us</b> first for
+authorisation before <b>you</b> agree to make any payment.
+<br>
+If <b>you</b> do not do this <b>we</b> may not pay <b>your</b> claim.<br>
+The Emergency Service will provide, where appropriate,<br>
+<ul type="dot">
+<font class="black">
+<li>A guarantee and payment of hospital and doctors fees.</li>
+<li>Suitable repatriation, with trained medical escorts
+where required. In critical cases an air ambulance
+will be provided.</li>
+<li>Necessary travel arrangements for members of <b>your</b>
+party or a <b>close relative</b> (if applicable).</li>
+<li>Road ambulance and admission to hospital on <b>your</b>
+arrival in the <b>United Kingdom</b>.</li>
+</font>
+</ul>
+</font>
+</p>
+<p align="left">
+<font class="black"><b>Pre Travel Advice</b>
+<br>
+Before <b>you</b> travel<b> you</b> may require information on visas,
+vaccinations and general information such as the safety of
+drinking water, tipping, opening hours of banks and shops.
+<b>We</b> shall be pleased to help where possible with <b>your</b>
+enquiry. This service is available by calling <b>020 8847 8095</b>
+and quoting <b>your</b> policy number.
+<br>
+<b>Don't fall victim</b>
+<br>
+Every year a number of people fall victim to theft
+of personal possessions and money. <b>You</b> should take
+reasonable care to protect <b>yourself</b> and <b>your</b> property -
+always act as if <b>you</b> were not insured.
+<br>
+<b>Please Remember:</b>
+<br>
+<ul type="dot">
+<font class="black">
+<li>Don't travel with more cash or <b>valuables</b> than <b>you</b> need.</li>
+<li>Use credit/debit cards or travellers cheques.</li>
+<li>Remember to record numbers and the 'loss centre'
+telephone number separately.</li>
+<li>Report losses immediately.</li>
+<li>Where available use hotel deposit boxes to store
+<b>valuables</b>, money and passports. Otherwise keep these
+locked in personal accommodation.</li>
+<li>Keep luggage locked at all times. If travelling by car lock
+it in the boot but always take <b>your valuables</b> with <b>you</b>.</li>
+<li>Never leave luggage unattended or with strangers.</li>
+<li>Beware of pickpockets, thieves and blackmarketeers.
+They are professionals who know their surroundings.
+Be on <b>your</b> guard and act discreetly.</li>
+</font>
+</ul>
+</font>
+</p>
+<p align="left">
+<font class="black"><b>Hazardous Activities</b>
+<br>
+Please be aware that the following activities are not covered:
+<ul type="dot">
+<font class="black">
+<li>Flying of any kind other than as a fare paying passenger
+in a fully licensed passenger carrying aircraft.</li>
+<li>Driving a car, van, lorry or similar form of motorised
+transport unless <b>you</b> have the appropriate licence to do so.</li>
+<li>Driving or riding as a passenger on a motorcycle or
+moped unless the driver has the appropriate licence to
+do so and <b>you</b> are wearing a helmet</li>
+<li>Hang-gliding.</li>
+<li>Parachuting.</li>
+<li>Sky-diving or sky surfing.</li>
+<li>Motor-racing, motorcycle racing or sidecar racing.</li>
+<li> Bullfighting.</li>
+<li> Potholing or caving.</li>
+<li> Mountaineering, cliff or rock climbing using
+ropes or guides.</li>
+<li> Horse racing, eventing, hunting on horseback,
+polo, show jumping, endurance riding, rodeo.</li>
+<li> Boxing, wrestling or martial arts.</li>
+<li> Racing in motor boats.</li>
+<li> High diving.</li>
+<li> Scuba diving unless:</li>
+<ul type="square">
+<font class="black">
+<li>
+<b>You</b> are a qualified diver, or</li>
+<li>A qualified instructor accompanies <b>you</b>.<br>
+		No cover applies over a depth of 30m nor if <b>you</b> dive unaccompanied.</li>
+</font>
+</ul>
+<li> Yacht-racing or ocean-going yachting.</li>
+<li> Winter Sports</li>
+</font>
+</ul>
+(This cover is only provided if <b>you</b> have paid the
+appropriate additional premium to include winter sports
+cover. If <b>you</b> have an annual multi <b>trip</b> policy and have
+paid the additional premium to include winter sports
+cover, <b>you</b> will be covered to a maximum of 17 days).
+If <b>you</b> have paid the appropriate additional premium to
+include this cover, the words winter sports are amended
+to read: "Ski-racing, ski-jumping, snowboarding without
+a leash, off-piste skiing unless accompanied by a
+qualified guide or instructor, heliskiing, ice hockey,
+bobsleighing, the use of skeletons, toboggans or luges,
+freestyle-skiing, competitive skiing")
+<ul type="dot">
+<font class="black">
+<li>White water rafting, canoeing or kayaking</li>
+<li>Any team sport such as football, rugby or hockey where
+the main purpose of the <b>trip</b>/journey is to participate in
+that sport.</li>
+<li>Any sport as a professional.</li>
+<li>Paid manual work.</li>
+</font>
+</ul>
+If <b>you</b> are unsure as to whether <b>your</b> chosen activity is
+insured, please call us on <b>0870 400 4894</b>.
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Section 2 - Definitions</font>
+<br>
+<font class="black">
+Wherever the following words appear in bold in the policy
+they will have the following meanings:
+<br>
+<b>Accident/Accidental</b>
+<br>
+Accident/Accidental means in respect of personal accident
+benefits and exclusions a sudden event, which happens by
+chance after the start date of the policy and results in <b>your</b>
+bodily injury.
+<br>
+<b>Bodily injury</b>
+<br>
+Injury to <b>your</b> body which is caused solely by violent
+accidental external and visible means. This does not include
+any sickness, disease or naturally occurring condition or
+gradually operating or degenerative process.
+<br>
+<b>Cash</b>
+<br>
+Coins and notes that are legal tender in any country.
+<br>
+<b>Close Relative</b>
+<br>
+<b>Your</b> mother, father, sister, brother, wife, husband,
+fianc&#39461;), partner, daughter, son, grandparent, grandchild,
+parent-in-law, son-in-law, daughter-in-law, sister-in-law,
+brother-in-law, step-parent, step-child, step-sister, step-brother,
+aunt, uncle, cousin, nephew, niece.
+<br>
+<b>Colleague</b>
+<br>
+Anyone who works at <b>your</b> place of business and who,
+if <b>you</b> were both away from work at the same time, would
+prevent the business from running properly.
+<br>
+<b>Cutting short your trip</b>
+<br>
+<b>Your</b> early return to <b>home</b> before the scheduled
+return date.
+<br>
+<b>Family</b>
+<br>
+Family means 2 adults and up to 5 dependant children
+under the age of 21 years in full time education and
+travelling with parents.
+<br>
+<b>Single parent family</b>
+<br>
+Single parent family means 1 adult and up to 5 dependent
+children under the age of 21 years in full time education
+and residing with the parent.
+<br>
+<b>Couple</b>
+<br>
+Someone with whom <b>you</b> have been co-habiting for at
+least 1 year. Can be same sex Partners.
+<br>
+<b>Hazardous activities</b>
+<br>
+Any activities listed in the hazardous activities Section.
+</font>
+</p>
+<p align="left">
+<font class="black"><b>Home</b>
+<br>
+<b>Your</b> permanent private residential address in the <b>United Kingdom</b>.
+<br>
+<b>Loss of limbs</b>
+<br>
+Total and permanent loss of use or permanent amputation
+at or above the wrist or ankle.
+<br>
+<b>Loss of sight</b>
+<br>
+Complete and permanent loss of sight in one or both eyes.
+<br>
+<b>Period of insurance</b>
+<br>
+The dates shown on your Schedule of Insurance during
+which <b>you</b> are covered.
+<ul type="dot">
+<font class="black">
+<li>For single <b>trip</b> insurance:</li>
+<ul type="square">
+<font class="black">
+<li>Cancellation cover starts on the date of issue shown on
+	your Schedule of Insurance and ends when <b>you</b> leave
+	your <b>home</b> or place of business whichever is the last at
+	the start of <b>your trip</b>,</li>
+<li>all other cover starts when <b>you</b> leave <b>your home</b> or place
+	of business whichever is the last at the start of the <b>trip</b>
+	and ends on your return <b>home</b> or to your place of
+	business whichever is the first at the end of <b>your trip</b>.</li>
+</font>
+</ul>
+<li> For annual multi-trip insurance:</li>
+<ul type="square">
+<font class="black">
+<li>Cancellation cover starts on the date of issue shown on
+	<b>your</b> Schedule of Insurance and ends when <b>you</b> leave
+	<b>your home</b> or place of business whichever is the last at
+	the start of that particular <b>trip</b>.</li>
+<li>For each subsequent <b>trip</b> booked and taken within the
+	policy period, cancellation cover commences from the
+	date of booking the <b>trip</b> and ends when <b>you</b> leave your
+	<b>home</b> or place of business whichever is the last.</li>
+<li>All other cover starts when <b>you</b> leave <b>your home</b> or
+	place of business whichever is the last at the start of the
+	<b>trip</b> and ends on your return <b>home</b> or <b>your</b> place of
+	business whichever is the first at the end of the <b>trip</b>.</li>
+<li>All cover ceases at midnight on the last day of the
+	policy period shown on your schedule. Both start and
+	finish dates of the <b>trip</b> must occur within the policy
+	period shown on your schedule.</li>
+<li>In respect of UK holidays, cover is only provided
+	where the <b>trip</b> is pre- booked and involves at least
+	2 nights duration.</li>
+</font>
+</ul>
+<li>All cover ceases at the end of the Period of Insurance.</li>
+<li>Both start and finish dates of the <b>trip</b> must occur within
+the policy period shown on your schedule.
+<br>
+<b>We</b> will extend the <b>period of insurance</b> by up to 30 days
+at no extra cost if <b>you</b> have to stay on <b>your trip</b> longer
+because of events over which <b>you</b> have no control and
+of which <b>you</b> have no knowledge at the time of buying
+this insurance.</li>
+</font>
+</ul>
+</font>
+</p>
+<p align="left">
+<font class="black">
+Such extension to cover must be agreed by us prior
+to commencement.
+<br>
+<b>Permanent total disablement</b>
+<br>
+Total and permanent disability which medical evidence
+confirms will last the rest of your life and prevents you
+undertaking paid work of any and every kind.
+<br>
+<b>Personal belongings</b>
+<br>
+Personal effects owned by <b>you</b> and taken, worn or
+purchased on the <b>trip</b>.
+<br>
+<b>Personal money</b>
+<br>
+Cash, travellers' cheques, letters of credit, travel tickets,
+hotel vouchers, passports, visas and green cards <b>you</b> have
+for your private use on the <b>trip</b>.
+<br>
+<b>Resident of the United Kingdom</b>
+<br>
+A person who has a <b>home</b> in the <b>United Kingdom</b> and who
+resides there for at least 6 months a year.
+<br>
+<b>Travelling Companion</b>
+<br>
+The person or persons <b>you</b> have booked to travel with.
+<br>
+<b>Trip</b>
+<br>
+Any return journey that starts and finishes from <b>your home</b>
+or place of business in the <b>United Kingdom</b> and which
+lasts, or is scheduled to last, for no more than 180 days for
+a single <b>trip</b> policy or 31 days for each <b>trip</b> for an annual
+multi <b>trip</b> policy.
+<br>
+<b>United Kingdom</b>
+<br>
+Great Britain, Northern Ireland, the Isle of Man and the
+Channel Islands.
+<br>
+<b>Valuables</b>
+<br>
+Jewellery, gold, silver, precious metal or precious stone
+articles, watches, furs, radios, binoculars, telescopes, audio,
+photographic, video, computer, television and
+telecommunication equipment.
+<br>
+<b>We/us/our</b>
+<br>
+Financial Insurance Company Limited.
+<br>
+<b>You/your</b>
+<br>
+Any person whose name appears on the policy schedule.
+Underwritten by Financial Insurance Company Limited -
+incorporated in England no: 1515187 limited by shares
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Section 3 - Your Cover</font><font class="black"><b>Cancellation and Curtailment</b></font>
+<ol>
+<font class="black">
+<li>
+<b>We</b> will pay <b>you</b> up to £5,000 for travel and
+accommodation charges (including excursion expenses
+up to £100) which are not recoverable elsewhere and
+which <b>you</b> have paid or contracted to pay should <b>you</b>
+have to cancel <b>your</b><b>trip</b> before <b>you</b> leave <b>your home</b> or
+place of business as a result of:</li>
+<ul type="square">
+<font class="black">
+<li>
+<b>your</b> death, injury or illness or that of <b>your travelling
+	companion</b>, the person <b>you</b> are going to stay with, a
+	<b>close relative or colleague</b>;</li>
+<li>
+<b>you</b> or <b>your travelling companion</b> having their leave
+	cancelled for operational reasons by the police or
+	armed forces;</li>
+<li>
+<b>you</b> or <b>your travelling companion</b> being required by the
+	police to stay at <b>home</b> as a result of burglary, serious
+	fire, storm or flooding to your or their <b>home</b> or usual
+	place of business in the <b>United Kingdom</b>;</li>
+<li>
+<b>you</b> or <b>your travelling companion</b> being required for
+	jury service in the <b>United Kingdom</b> or as a witness in a
+	court of law in the <b>United Kingdom</b>
+</li>
+<li>
+<b> you</b> being made involuntarily redundant under
+	applicable legislation.</li>
+</font>
+</ul>
+<li>
+<b>You</b> will be covered up to £5,000 if <b>you</b><b>cut short your</b><b>trip</b> as a result of:</li>
+<ul type="square">
+<font class="black">
+<li>
+<b>your</b> death, injury or illness or that of <b>your travelling
+	companion</b>, the person <b>you</b> are going to stay with, or a
+	<b>close relative</b> or <b>colleague</b>;</li>
+<li>
+<b>you</b> or <b>your travelling companion</b> being required by the
+	police to return <b>home</b> as a result of burglary, serious fire,
+	storm or flooding to your or their <b>home</b> or usual place
+	 business in the <b>United Kingdom</b>
+</li>
+<li>
+<b>you</b> or <b>your travelling companion</b> being required for
+	jury service or as a witness in a court of law in the <b>United Kingdom</b>
+</li>
+</font>
+</ul>
+</font>
+</ol>
+<b>Exclusions</b>
+<br>
+<b>We</b> will not pay if <b>you</b> cancel or <b>cut short your trip</b> as a result of:
+<ol type="a">
+<font class="black">
+<li>any pre-existing medical condition for which <b>you</b> have
+received treatment or consultation within six months
+prior to buying this policy, if <b>you</b> have received a
+terminal prognosis or if at the time of buying this policy,
+<b>you</b> are on a hospital waiting list or awaiting the results
+of any hospital tests, unless <b>we</b> agreed to cover it in
+writing before the <b>trip</b>;</li>
+<li> any circumstances <b>you</b> were aware of at the time this
+insurance was bought, or at the time of booking a <b>trip</b>,
+if later, which <b>you</b> knew might lead to <b>your</b><b>trip</b> being
+cancelled or <b>cut short</b>, unless <b>we</b> agreed to cover it in
+writing before the <b>trip</b>;</li>
+<li>
+<b> you</b> booking a <b>trip</b> which is against the advice of
+a doctor;</li>
+<li> any sickness, disease, condition or injury suffered by,
+or any terminal prognosis given to <b>your travelling
+companion</b>, anyone <b>you</b> will be staying with or any <b>close
+relative</b> or <b>colleague</b> which <b>you</b> were aware of at the
+time this insurance was bought, or at the time of
+booking the <b>trip</b>, if later, unless <b>we</b> agreed to provide
+cover in writing before the <b>trip</b>;</li>
+<li>
+<b> your</b> disinclination to travel;</li>
+<li>
+<b> you</b> not having the correct passport, visa or other
+entry documents;</li>
+<li>any restrictions caused by the law of any country;</li>
+<li>the failure of any transport, accommodation provider or
+any conference organiser/or their agent or any person
+acting for <b>you</b>;</li>
+<li>
+<b> your</b> financial circumstances which were known to <b>you</b>
+at the time <b>you</b> bought this insurance;</li>
+<li>
+<b> your</b> decision not to go on or continue with the <b>trip</b> for
+reasons other than those listed above;</li>
+<li>
+<b> your</b> suicide, attempted suicide, intentional self-injury or
+deliberate exposure to danger (unless in an attempt to
+save someone's life);</li>
+<li>
+<b> you</b> being under the influence of alcohol, solvents or
+drugs (except drugs prescribed by a doctor other than
+for the treatment of drug abuse);</li>
+<li>pregnancy or childbirth if <b>you</b> are expected to give birth eight weeks before the start of, during or within eight
+weeks after the end of <b>your</b><b>trip</b>;</li>
+<li>any claim excluded by the general exclusions;</li>
+<li>
+<b>we</b> will not pay any claim resulting directly or indirectly
+from <b>you</b> participating in any hazardous activity.
+<b>We</b> will not pay the first £35 (reduced to £10 for loss
+of deposit only claims) for any loss, charge or expense
+incurred in respect of each claim under this Section.
+(This exclusion will not apply if <b>you</b> pay the excess
+waiver premium).</li>
+</font>
+</ol>
+</p>
+<p align="left">
+<font class="boldblack">
+Conditions applying to cutting short your holiday</font>
+<br>
+<font class="black">
+The 24 hour Medical Emergency Service must be called
+immediately or as soon as reasonably possible to authorise
+any expenses if <b>you</b> have to return <b>home</b> early. If <b>you</b> do
+not do this <b>we</b> may not pay <b>your</b> claim.
+<br>
+<b>You</b> must not arrange in-flight medical care for <b>your</b> return
+journey without the permission of the 24 hour Medical
+Emergency Service. <b>Our</b> medical advisers will consult with
+the doctors treating <b>you</b> to decide on reasonable grounds
+if this is necessary and will make the most appropriate
+arrangements for <b>you</b>.
+<br>
+<b>We</b> may instruct <b>you</b> to return <b>home</b> if <b>our</b> medical
+advisers and the doctors treating <b>you</b> decide that <b>you</b> are
+fit to travel.
+<br>
+Please refer to the Section on the Claims Procedure in this policy.
+<br>
+<b>Delay cover</b>
+<br>
+If the transport on which <b>you</b> are booked as a passenger
+for <b>your</b> outward or return journey is delayed or cancelled
+for reasons beyond <b>your</b> control, <b>we</b> will pay <b>you</b> one of
+the following.
+<ul type="dot">
+<font class="black">
+<li>Compensation of £25 for each completed 12 hours you
+are delayed up to a maximum £200.</li>
+<li>The full deposit or cancellation charges up to £5,000 if
+after a delay of 12 hours to your outward journey from
+the <b>United Kingdom</b><b>you</b> choose to cancel the <b>trip</b>.
+Delay benefit will be based on the difference between
+your actual time of departure and your scheduled
+departure time.</li>
+</font>
+</ul>
+<b>Exclusions</b>
+<br>
+<b>We</b> will not pay for
+<ol type="a">
+<font class="black">
+<li>claims caused by strike, industrial action or any other
+reason which was public knowledge when this policy
+was bought or <b>your</b><b>trip</b> was booked;</li>
+<li> delay as a result of <b>your</b> failure to check in at <b>your</b>
+departure point on time;</li>
+<li> claims if the provider of transport, accommodation
+or tour operator stops trading;</li>
+<li>any claim excluded by the general exclusions;</li>
+<li> any money <b>you</b> can recover from someone or
+somebody else;</li>
+</font>
+</ol>
+<br>
+<br>
+
+No excess is payable in respect of claims for compensation only.
+<br>
+<b>Conditions</b>
+<br>
+<b>You</b> must obtain written confirmation from the carrier to
+confirm the cause of the delay and the period of delay.
+<br>
+<b>You</b> will also need to tell us the scheduled time of <b>your</b>
+departure and the actual time of <b>your</b> departure.
+<br>
+<b>Missed Departure</b>
+<br>
+<b>We</b> will pay <b>you</b> up to £1,000 for reasonable and necessary
+extra travel and accommodation expenses to allow <b>you</b> to
+get to <b>your</b> destination abroad or to return <b>home</b> if:
+<ul type="dot">
+<font class="black">
+<li>scheduled public transport services on which <b>you</b> are
+booked as a passenger fail or are disrupted;</li>
+<br>
+or
+<li> the car in which <b>you</b> are travelling is involved in an
+accident or breaks down and this stops <b>you</b> from getting
+to the airport, port or station on time.</li>
+</font>
+</ul>
+Internal flights that are part of <b>your trip</b> plans and which
+are pre-booked and paid for in the <b>United Kingdom</b> prior
+to departure are covered under this Section.
+<br>
+<b>Exclusions</b>
+<br>
+<b>We</b> will not pay <b>you</b> a delayed departure or missed
+departure claim for:
+<ol type="a">
+<font class="black">
+<li>claims caused by strike or industrial action which was
+public knowledge when this insurance was bought or
+<b>your</b><b>trip</b> was booked;</li>
+<li>any claim excluded by the general exclusions;</li>
+<li>any claim caused by traffic congestion.</li>
+</font>
+</ol>
+<br>
+<b>Conditions</b>
+<br>
+<b>You</b> must do all that <b>you</b> can to arrive on time at the
+airport, port or station from which <b>you</b> are leaving.
+<br>
+If <b>you</b> miss the departure due to <b>your</b> car being involved
+in an accident or breaking down, <b>you</b> must send <b>us</b> a
+written police accident report or repairer's report.
+<br>
+<b>Hijack</b>
+<br>
+<b>We</b> will pay <b>you</b> £50 (£1,000 in all) for each complete
+24 hour period that <b>you</b> are unable to reach <b>your</b><b>trip</b>
+destination or return to <b>your</b><b>home</b> because the plane or
+ship <b>you</b> are travelling on is hijacked.
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Medical Emergency and Associated Expenses</font>
+<br>
+<font class="black">
+If <b>you</b> are travelling outside the <b>United Kingdom we</b> will
+pay up to £10,000,000 for any necessary and reasonable
+expenses caused by <b>your</b> illness, injury or death occurring
+during the <b>period of insurance</b> for:
+<ol type="a">
+<font class="black">
+<li> medical expenses <b>you</b> have to pay within 12
+months of your illness, injury or death outside
+of the <b>United Kingdom</b>;</li>
+<li> emergency dental treatment up to £150 for the
+immediate relief of pain only;</li>
+<li> the extra cost of <b>you</b> returning <b>home</b>;</li>
+<li> extra accommodation expenses if <b>you</b> are advised by a
+doctor that <b>you</b> should stay longer than <b>you</b> intended;</li>
+<li> extra travel and accommodation expenses where a
+doctor has advised it is necessary for <b>one</b> person to stay
+with <b>you</b> or to travel from the <b>United Kingdom</b> to escort
+<b>you</b><b>home</b> if <b>you</b> are seriously ill or injured;</li>
+<li> up to £1,500 for funeral expenses abroad;</li>
+<li> the cost of bringing <b>your</b> body or ashes <b>home</b>.</li>
+<li> up to £150 for unrecoverable expenses in respect of
+excursions <b>you</b> have paid for before <b>your</b> departure but
+which <b>you</b> have not made.</li>
+</font>
+</ol>
+If <b>you</b> are travelling within the <b>United Kingdom we </b>will
+pay <b>you</b> up to £10,000 for:
+<ol type="a">
+<font class="black">
+<li> extra travel and accommodation expenses if <b>you</b> are
+advised by a doctor that such travel or accommodation
+is necessary;</li>
+<li> extra travel and accommodation expenses where a
+doctor has advised it is necessary for <b>one</b> person to stay
+with <b>you</b> or to travel to be with <b>you</b> if <b>you</b> are seriously
+ill or injured;</li>
+<li> the extra cost of bringing <b>your</b> body or ashes <b>home</b>;</li>
+<li> extra charges necessarily incurred to transfer <b>you</b>
+by ambulance to a hospital or nursing <b>home</b> nearer
+<b>your</b><b>home</b>;</li>
+<li> extra charges necessarily incurred to recover <b>your</b> car
+and <b>your</b><b>personal belongings</b> to <b>your</b><b>home</b> if <b>you</b> or
+any other person travelling with <b>you</b> at the time of <b>your</b>
+discharge from hospital is unable to drive the car in
+which case  <b>we</b>  will arrange recovery of <b>your</b> car and
+<b>your personal belongings</b>.</li>
+</font>
+</ol>
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Hospital Benefit</font>
+<br>
+<font class="black">
+If <b>you</b> are travelling outside the <b>United Kingdom we</b>
+will pay <b>you</b> up to £1,000 (£20 for every complete 24 hour
+period) <b>you</b> are kept in hospital during the period of
+insurance as an in-patient or confined to <b>your</b>
+accommodation on the instructions of a doctor.
+<br>
+Any amount <b>you</b> rec <b>you</b> eive under this Section will be in
+addition to any amount that <b>you</b> receive under the
+Medical Emergency and Associated Expenses section.
+<br>
+<b>You</b> may use this benefit to cover incidental expenses
+incurred such as telephone calls and taxi fares.
+<br>
+A medical certificate must be obtained from the treating
+doctor showing the period of admission to hospital or
+confinement to <b>your</b> accommodation.
+<br>
+<b>Personal Accident</b>
+<br>
+If <b>you</b> sustain <b>accidental bodily injury</b> during the <b>period
+of insurance</b> and the injury results in <b>your</b> death or
+disability (as listed below) within 12 months  <b>we</b>  will pay
+<b>you</b> (or <b>your</b> legal personal representative(s) in the event
+of death) the following benefits:
+<ol type="1">
+<font class="black">
+<li>Death £25,000</li>
+<li>
+<b>Loss</b> of one or more <b>limbs</b>or <b> loss of sight</b> £25,000
+in one or both eyes</li>
+<li>
+<b>Permanent total disablement</b> £25,000
+ <br>
+<b>Exclusions applicable to Sections Medical Emergency
+and Associated Expenses, Hospital Benefit and Personal Accident</b>
+</li>
+</font>
+</ol>
+In respect of medical emergency and associated expenses,
+hospital benefit and personal accident  <b>we</b>  will not pay
+<b>you</b> for:
+<ol type="a">
+<font class="black">
+<li>any claim arising from any pre-existing medical condition
+for which <b>you</b> have received treatment or consultation
+within six months prior to buying this policy or if you
+have received a terminal prognosis or if at the time of
+buying this policy, <b>you</b> are on a hospital waiting list or
+awaiting the results of any hospital tests unless  <b>we</b>
+agreed to cover it in writing before the <b>trip</b>;</li>
+<li>any advice, treatment or surgery where <b>you</b> have
+travelled against the advice of a doctor or in order to
+obtain medical treatment or advice abroad;</li>
+<li> any treatment or surgery which <b>our</b>  medical advisers
+reasonably believe is not essential or could wait until
+<b>your</b> return <b>home</b>;</li>
+<li> any treatment or surgery or exploratory tests which are
+not directly related to the illness or injury for which <b>you</b>
+originally went into hospital;</li>
+<li> cosmetic or elective surgery;</li>
+<li> medication which <b>you</b> knew <b>you</b> would need while <b>you</b>
+were away;</li>
+<li> any extra costs incurred for a single private room unless
+medically necessary;</li>
+<li> treatment or services provided by a health spa,
+convalescent or nursing <b>home</b> or any rehabilitation
+centre;</li>
+<li> repairs to or the provision of dentures or artificial teeth
+or any dental work involving the use of precious metals;</li>
+<li> any treatment in the country where <b>you</b> normally live;</li>
+<li> any claim arising from motorcycling where <b>you</b> are the
+driver or passenger unless <b>you</b> or the driver holds a
+current and valid licence which allows <b>you</b> or them to
+ride a motorcycle;</li>
+<li>
+<b>your</b> suicide, attempted suicide, intentional self-injury or
+deliberate exposure to danger (unless in an attempt to
+save someone's life);</li>
+<li>
+<b>you</b> being under the influence of alcohol, solvents or
+drugs (except drugs prescribed by a doctor other than
+for the treatment of drug abuse);</li>
+<li> pregnancy or childbirth if <b>you</b> are expected to give birth
+eight weeks before the start of, during or within eight
+weeks after the end of <b>your</b><b>trip</b>.</li>
+<li>any claim resulting directly or indirectly from <b>you</b>
+participating in any <b>hazardous activity</b>;</li>
+<li> any loss of ski pack costs;</li>
+<li> any claim excluded by the general exclusions.</li>
+</font>
+</ol>
+<br>
+</font>
+</p>
+<p align="left">
+<font class="black">
+In addition,  <b>we</b>  will not pay <b>you</b> personal accident
+benefits for:
+</font>
+<ol type="a">
+<font class="black">
+<li> more than one benefit to any one insured person for
+injuries caused by one accident;</li>
+<li> more than £1,500 for a claim relating to death of a
+person under the age of 16;</li>
+<li> any claim for permanent total disablement if <b>you</b> are
+over 65 years of age.</li>
+</font>
+</ol>
+<font class="boldblack">
+Conditions</font>
+<br>
+<font class="black">
+The 24 hour Medical Emergency Service must be called
+immediately or as soon as reasonably possible to authorise
+any expenses for medical treatment abroad or if <b>you</b> have
+to return <b>home</b> early. If <b>you</b> do not do this  <b>we</b>  may not pay
+your claim.
+<br>
+<b>You</b> must not arrange in-flight medical care for <b>your</b> return
+journey without the permission of the 24 hour Medical
+Emergency Service. <b>Our</b>  medical advisers will consult with
+the doctors treating <b>you</b> to decide if this is reasonably
+necessary and will make the most appropriate
+arrangements for <b>you</b>.
+</font>
+</p>
+<p align="left">
+<font class="black"><b>We</b> may instruct <b>you</b> to return <b>home</b> if <b>our</b>  medical
+advisers and the doctors treating <b>you</b> decide on reasonable
+grounds that <b>you</b> are fit to travel.
+<br>
+Please refer to the Section on the claims procedure of this policy.
+<br>
+If <b>you</b> do not follow this procedure  <b>we</b>  may not pay
+<b>your</b> claim.
+<br>
+<b>Personal belongings</b>
+<br>
+If <b>you</b> accidentally lose or damage <b>your personal
+belongings</b> or they are stolen during the<b> period of
+insurance we</b>  will pay <b>you</b> up to £1,500 to replace or repair
+them (after any suitable deduction for wear and tear and
+depreciation if applicable)
+<br>
+<b>You</b> can claim up to £300 for any one item, pair or set.
+<br>
+The overall limit for <b>valuables</b> is £300.
+<br>
+If <b>your personal belongings</b> are temporarily lost for more
+than 12 hours on the outward journey  <b>we</b>  will pay <b>you</b> up
+to £150 for the purchase of essential items. If your
+baggage is permanently lost  <b>we</b>  will deduct any payment
+made for temporary loss from the final settlement.
+All receipts must be produced as proof of purchase.
+If <b>you</b> lose <b>your personal belongings</b> temporarily, <b>you</b> must
+obtain a report from the carrier or in the case of an airline,
+a "Property Irregularity Report" from the airline or
+handling Agent.
+<br>
+<b>Personal Money</b>
+<br>
+<b>We</b> will pay <b>you</b> up to £500 (limited to £300 in respect of
+cash) if <b>you</b> lose or have stolen <b>personal money</b> during the
+period of insurance.
+<br>
+<b>Loss of Passport</b>
+<br>
+<b>We</b> will pay <b>you</b> up to £250 for necessary and reasonable
+extra travel accommodation and communication expenses
+outside of Great Britain, Northern Ireland and The Isle of
+Man involved in getting a replacement passport or visa if
+it is lost or stolen during the <b>period of insurance</b>.
+<br>
+<b>Exclusions</b>
+<br>
+<b>We</b> will not pay <b>you</b> a <b>personal belongings</b> claim for:
+<ol type="a">
+<font class="black">
+<li>more than £300 per person in total for <b>valuables</b>;</li>
+<li> more than £300 per person for any one article, pair or
+set of articles;</li>
+<li>breakage of or damage to fragile articles, (except lenses
+in cameras, binoculars, telescopes, or spectacles) and any
+other loss caused by the breakage;</li>
+<li> loss, theft of or damage to <b>valuables</b> which <b>you</b> have
+left in baggage checked in by a carrier and outside <b>your</b>
+control;</li>
+<li> loss or theft of or damage to <b>personal belongings</b> or
+<b>valuables</b> if they have been left unattended in a vehicle,
+unless they are locked out of sight in the boot of the
+vehicle or the luggage compartment of an estate or
+hatchback and there is evidence of violent and forcible
+entry;</li>
+<li> films, cassettes, cartridges or disks other than for their
+value as unused material unless purchased pre-recorded
+when  <b>we</b>  will pay up to the retail list price;</li>
+<li> perishable goods, bottles, cartons or any other loss
+caused by the breakage;</li>
+<li> pedal cycles, wheelchairs, prams, pushchairs or baby
+buggies other than while they are being conveyed by
+public transport;</li>
+<li> contact or corneal lenses;</li>
+<li> the cost of replacing damaged dentures;</li>
+<li> loss or theft of or damage to winter sports equipment;</li>
+<li>
+<b>your personal belongings</b> if they are delayed, detained
+or confiscated by customs or other officials;</li>
+<li>
+<b>your personal belongings</b> if they are lost or damaged as
+a result of wear and tear, depreciation in value, damage
+caused by moth or vermin or any process of cleaning,
+repairing or restoring.</li>
+<li> any claim excluded by the general exclusions.</li>
+</font>
+</ol>
+<b>We</b> will not pay the first £35 for any loss, charge or
+expense incurred in respect of each claim under this
+Section. (This exclusion will not apply if <b>you</b> pay the excess
+waiver premium).
+<br>
+<b>We</b> will not pay <b>you</b> a <b>personal money</b> claim for:
+<ol type="a">
+<font class="black">
+<li> more than £300 for loss of cash unless the personal
+money was, at the time of loss or theft deposited in a
+safe or safety deposit box or left in <b>your</b> locked personal
+accommodation;</li>
+<li> loss caused by depreciation in value or shortage caused
+by error or omission;</li>
+<li> loss of travellers cheques if <b>you</b> have not complied with
+the issuers conditions or where the issuer provides a
+replacement service;</li>
+<li> loss or theft from a vehicle;</li>
+<li> loss or theft of <b>personal money</b> which <b>you</b> have left in
+baggage checked in by a carrier;</li>
+<li> loss or theft of ski lift pass;</li>
+<li>any claim excluded by the general exclusions;</li>
+<li>
+<b>your  personal money</b> if it is delayed, detained or
+confiscated by customs or other officials;</li>
+<li>
+<b>we</b>  will not pay the first £35 for any loss, charge or
+expense incurred in respect of each claim under this
+Section. (This exclusion will not apply if <b>you</b> pay the
+excess waiver premium).</li>
+</font>
+</ol>
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Conditions</font>
+<br>
+<font class="black"><b>We</b> will not pay <b>you</b> the benefits for <b>personal belongings</b>,
+<b>personal money</b> or loss of passport if:
+<ol type="a">
+<font class="black">
+<li>
+<b>you</b> fail to exercise reasonable care for the safety and
+supervision of <b>your</b> property;</li>
+<li>
+<b>you</b> fail to obtain a written police report within 24 hours
+of the discovery in the event of loss or theft;</li>
+<li>
+<b>you</b> fail to obtain a carriers report or in the case of an
+airline a Property Irregularity Report where <b>your</b> property
+has been lost or damaged in transit;</li>
+<li>
+<b>your personal belongings</b> or <b>personal money</b> are delayed,
+detained or confiscated by customs or other officials.</li>
+</font>
+</ol>
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Personal Liability</font>
+<br>
+<font class="black"><b>We</b> will pay up to £2,000,000 in respect of any one
+occurrence and in total for <b>accidental bodily injury</b>
+to another person or accidental damage to someone
+else's property occurring during the period of insurance
+which <b>you</b> legally have to pay. This cover is only for
+accidental injury or damage to the property of people
+other than <b>your</b> employee or <b>close relative</b> or property
+which is not owned by <b>you</b> or being looked after by you
+or a <b>close relative</b>, other than in respect of your
+commercial holiday let.
+<br>
+<b>We</b> will also pay for <b>your</b> legal expenses and any claimant's
+costs payable but  <b>we</b>  must give <b>our</b>  written consent to this.
+<br>
+<b>Exclusions</b>
+<br>
+<b>We</b> will not pay <b>you</b> a personal liability claim for:
+<ol type="a">
+<font class="black">
+<li>liability caused directly or indirectly by <b>you</b> owning, or
+the use of, animals (except domestic animals), firearms
+(except licensed sporting guns used for recreational
+purposes only), any aircraft, motorised vehicle, boat or
+any other form of motorised leisure equipment (unless it
+is a boat designed for and being used as accommodation
+and is permanently moored);</li>
+<li>employer's liability or liability caused by carrying out
+contracts, supplying goods and services, or <b>you</b> doing
+<b>your</b> job;</li>
+<li>any claim excluded by the general exclusions.</li>
+</font>
+</ol>
+<b>Conditions</b>
+<br>
+<b>You</b> must send us any writ, summons or other legal
+documents as soon as <b>you</b> receive them. <b>You</b><b>you</b>  must also give
+us any information and help  <b>we</b>  need to deal with the case
+and <b>your</b> claim. <b>You</b> must not negotiate, pay, settle, admit
+or deny any claim without <b>our</b>  written agreement.
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Legal Expenses</font>
+<br>
+<font class="black"><b>We</b> will pay <b>you</b> up to £25,000 for reasonable and necessary
+legal costs <b>you</b> or <b>your</b> legal personal representative(s) have
+to pay in order to claim compensation or damages for <b>your</b>
+personal injury or death caused by the negligence of a third
+party during the period of insurance.
+<br>
+<b>We</b> have complete control over the legal proceedings,
+but <b>you</b> can recommend a suitable solicitor or other
+appropriately qualified person to represent <b>you</b> but  <b>we</b>
+do not have to appoint them.
+<br>
+<b>We</b>  will not pay legal expenses for bringing a legal action
+in more than one country for the same event.
+If there is any dispute between <b>you</b> and us in relation to
+this Section then <b>you</b> may refer this dispute to arbitration.
+<br>
+<b>Exclusions</b>
+<br>
+<b>We</b>  will not pay <b>you</b> a legal expenses claim for:
+<ol type="a">
+<font class="black">
+<li>claims against a travel agent, tour operator, carrier, <b>us</b> or
+<b>our</b> agents, a carrier or any provider under a tour
+operator package arrangement;</li>
+<li>claims against <b>your</b> travelling companion;</li>
+<li>actions against a <b>close relative</b>;</li>
+<li>legal expenses which <b>you</b> have incurred before  <b>we</b>  have
+agreed to support <b>you</b>;</li>
+<li>claims relating to case that  <b>we</b>  think <b>you</b> are unlikely to
+win or where the cost of action could be more than the
+settlement or where there is no reasonable prospect of
+any award being paid;</li>
+<li>incidental expenses such as travelling costs;</li>
+<li>any claim excluded by the general exclusions.</li>
+</font>
+</ol>
+<b>Section 4 - Optional Cover</b>
+<br>
+<b>Winter Sports Cover</b>
+<br>
+(If <b>you</b> have bought Annual Multi <b>Trip</b> insurance <b>you</b>
+are covered up to 17 days in any single policy period for
+winter sports cover. For single <b>trip</b> cover, <b>you</b> must pay
+the appropriate additional premium to include winter
+sports cover).
+<br>
+If <b>you</b> are going on a winter sports holiday and have paid
+the appropriate additional premium, the words "winter
+sports" (as defined within <b>hazardous activities</b>) is amended
+to read "ski racing, ski-jumping, snowboarding without a
+leash, off piste skiing unless accompanied by a qualified
+guide or instructor, heliskiing, ice hockey, bobsleighing,
+the use of skeletons, toboggans or luges, freestyle skiing,
+competitive skiing".
+<br>
+In addition, extra cover is provided under the "<b>Personal
+Belongings</b> and <b>Personal Money</b>" Sections as shown below.
+The following additional cover is provided:
+<br>
+<b>Winter Sports Equipment</b>
+<br>
+<b>We</b> will pay <b>you</b> up to £400 for the replacement cost
+(less an amount for wear and tear) of skis, bindings,
+boots and poles owned by <b>you</b> if they are lost, stolen or
+damaged. For hired equipment  <b>we</b>  will pay <b>you</b> up to £150.
+<b>We</b> will not pay the first £35 for any loss, charge or expense
+incurred in respect of each claim under the Winter Sports
+Equipment section. (This exclusion will not apply if <b>you</b> pay
+the excess waiver premium).
+<br>
+<b>Ski Hire</b>
+<br>
+<b>We</b> will pay <b>you</b> up to £300 (£15 per day) if <b>your</b> own
+equipment is temporarily lost in transit for longer than
+12 hours on the outward journey or is lost, damaged or
+stolen during the <b>trip</b>.
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Ski Pack</font>
+<br>
+<font class="black"><b>We</b>  will pay <b>you</b> up to £400 (£200 per week) for the
+unused part of ski pack costs that <b>you</b> have not used if you
+fall ill or become injured during the <b>trip</b>.
+<br>
+(Ski pack means ski hire, ski lessons and lift pass).
+<br>
+<b>Piste closure</b>
+<br>
+<b>We</b> will pay <b>you</b> up to £200 (£20 per day) for extra costs of
+transport and ski lift pass if <b>you</b> have to travel to another
+resort if <b>you</b> are unable to ski due to adverse weather
+conditions at <b>your</b> pre-booked resort (only available for
+<b>trips</b> between 15th December and 31st March).
+<br>
+If it is not possible to travel to another resort or it is not
+possible to ski, <b>we</b>  will pay £20 per day for each 24-hour
+period <b>you</b> are unable to ski.
+<br>
+<b>Avalanche and Landslide</b>
+<br>
+<b>We</b>  will pay <b>you</b> up to £200 for extra travel and
+accommodation costs if an avalanche or landslide delays
+<b>your</b> arrival at or departure from the booked resort for
+more than 12 hours.
+<br>
+<b>Winter Sports Equipment and Ski Hire</b>
+<br>
+<b>Exclusions</b></font>
+</p>
+<p align="left">
+<font class="black"><b>We</b>  will not pay for:
+<ol type="a">
+<font class="black">
+<li>loss or damage caused by general wear and tear;</li>
+<li>other than in respect of temporary loss, the first £35 of
+each claim <b>you</b> make will not be paid (This exclusion will
+not apply if <b>you</b> pay the excess waiver premium);</li>
+<li>any money <b>you</b> can get from someone or
+somewhere else;</li>
+<li>any claim excluded by the general exclusions</li>
+</font>
+</ol>
+<b>Conditions</b>
+<br>
+<b>We</b>  will not pay <b>you</b> the benefits for Winter sports
+Equipment if:
+<ol type="a">
+<font class="black">
+<li>
+<b>you</b> fail to exercise reasonable care for the safety and
+supervision of <b>your</b> property;</li>
+<li>
+<b>you</b> fail to obtain a written police report within 24 hours
+of the discovery in the event of loss or theft;</li>
+<li>
+<b>you</b> fail to obtain a carriers report or in the case of an
+airline a Property Irregularity Report where <b>your</b>
+property has been lost or damaged in transit;</li>
+<li>
+<b>your</b><b>personal belongings</b> are delayed, detained or
+confiscated by customs or other officials.</li>
+</font>
+</ol>
+<br>
+<b>Ski Pack</b>
+<br>
+<b>Exclusions</b>
+<br>
+<b>We</b>  will not pay for:
+<ol type="a">
+<font class="black">
+<li>Accidental injury illness or death caused directly or
+indirectly by <b>your</b> participation in the following winter
+sports - Ski-racing, ski-jumping, snowboarding without a
+leash, off-piste skiing unless accompanied by a qualified
+guide or instructor, heliskiing, ice hockey, bobsleighing,
+the use of skeletons, toboggans or luges, freestyle-skiing,
+competitive skiing;</li>
+<li>
+<b>we</b>  will not pay <b>you</b> for any claim excluded by the
+general exclusions.</li>
+</font>
+</ol>
+<b>Piste Closure</b>
+<br>
+<b>Exclusions</b>
+<br>
+<b>We</b>  will not pay for:
+<ol type="a">
+<font class="black">
+<li>any claim if <b>you</b> booked <b>your</b><b>trip</b> within 14 days
+of departure unless <b>you</b> bought this policy at the
+same time.</li>
+<li>any claim excluded by the general exclusions</li>
+</font>
+</ol>
+<b>Conditions</b>
+<br>
+<b>You</b> must obtain written confirmation from the
+appropriate authority to confirm that the piste was closed
+and/or it was not possible to travel to another resort.
+<br>
+<b>Avalanche and landslide</b>
+<br>
+<b>Exclusions</b>
+<br>
+<b>We</b>  will not pay for:
+<ol type="a">
+<font class="black">
+<li>any expenses <b>you</b> can claim under any other insurance;</li>
+<li>any claim if <b>you</b> booked <b>your</b><b>trip</b> within 14 days
+of departure unless <b>you</b> bought this policy at the
+same time;</li>
+<li>any claim excluded by the general conditions.</li>
+</font>
+</ol>
+<b>Conditions</b>
+<br>
+<b>You</b> must obtain written confirmation from the
+appropriate authority to confirm the period of delay.
+<b>You</b> will also need to tell us the scheduled time of
+<b>your</b> arrival/departure and the actual time of <b>your</b>
+arrival/departure.
+<br>
+<b>Wedding Cover</b>
+<br>
+Wedding cover is only available if <b>you</b> are getting married
+and if the appropriate additional premium has been paid.
+If <b>you</b> have paid the appropriate additional premium
+to include this cover, the following additional cover
+is provided:
+<br>
+<b>Wedding rings</b>
+<br>
+<b>We</b>  will pay <b>you</b> up to £250 for the value or repair of each
+wedding ring taken, sent in advance or purchased during
+the <b>trip</b> if they are lost, stolen, damaged or destroyed
+during the period of insurance.
+<br>
+<b>Wedding gifts</b>
+<br>
+<b>We</b>  will pay <b>you</b> up to £1,000 for the value or repair of
+<b>your</b> wedding gifts taken, sent in advance or purchased
+during the <b>trip</b> if they are lost, stolen, damaged or
+destroyed during the period of insurance.
+<br>
+<b>Wedding attire</b>
+<br>
+<b>We</b> will pay <b>you</b> up to £1,500 for the value or repair of
+damaged items of wedding attire or the purchase of
+similar items of wedding attire that is lost, stolen or
+damaged or destroyed during the <b>period of insurance</b>.
+For the purpose of this Section, wedding attire shall mean
+dress, suit, shoes or any article of clothing and make up,
+hairstyling and flowers that are bought specifically to be
+worn by <b>you</b> on <b>your</b> wedding day.
+<br>
+<b>Wedding photographs or video recording</b>.
+<br>
+<b>We</b> will pay <b>you</b> up to £750 for:
+<ol type="a">
+<font class="black">
+<li>the reasonable additional costs <b>you</b> have to pay to
+replace wedding photographs or video recording taken
+by a professional if <b>your</b> photographs or video recording
+are lost, stolen, damaged or destroyed within 14 days of
+your wedding day and whilst <b>you</b> are still on <b>your
+trip/honeymoon</b>.</li>
+<li>the reasonable additional cost of hiring a professional
+photographer or video recording professional if the
+professional originally booked to take the photographs
+or video is unable to attend <b>your</b> wedding due to illness,
+injury or unforeseen transport problems.</li>
+</font>
+</ol>
+<b>Conditions and Exclusions</b>
+<br>
+The conditions and exclusions relating to Medical
+Emergency and Associated Expenses and <b>Personal
+Belongings</b> also apply to this Section.
+<br>
+In respect of b) above, <b>you</b> will need to provide written
+confirmation from the individual hired originally to
+confirm they were unable to attend <b>your</b> wedding.
+<br>
+<b>Golf Cover</b>
+<br>
+Golf cover is only applicable if the appropriate additional
+premium has been paid.
+<br>
+If <b>you</b> have paid the appropriate additional premium
+to include this cover, the following additional cover
+is provided:
+<br>
+<b>Section 3, Cancellation and Curtailment</b>
+<br>
+<font class="black">
+This extends to include cover for loss of irrecoverable green
+fees up to £150 which <b>you</b> have paid or contracted to pay;
+<br>
+<b>Section 3, Personal Belongings</b>
+<br>
+<b>This extends to include</b>:
+<ol type="a">
+<font class="black">
+<li>up to £1,000 for the loss, theft or damage to <b>your</b> golf
+equipment during the <b>period of insurance</b>;</li>
+<li>up to £300 (£35 per day) for the hire of alternative
+equipment if <b>your</b> golf equipment is lost for more than
+12 hours on the outward journey.<br>
+If <b>your</b> golf equipment is permanently lost  <b>we</b>  will
+deduct any payment made for temporary loss from
+the final settlement. All receipts must be produced as
+proof of purchase.</li>
+</font>
+</ol>
+</font></font>
+</p>
+<p align="left">
+<font class="boldblack">
+Section 3, Personal Liability</font>
+<br>
+<font class="black">
+This is extended to include cover for injury, loss or damage
+caused by the ownership or use of a golf buggy whilst in
+use on a golf course.
+<br>
+All terms, exclusions and conditions of Cancellation and
+curtailment, <b>personal belongings</b> and personal liability
+apply to the additional cover above.
+<br>
+<b>Section 5 - General Exclusions and Conditions applying to the
+whole policy</b><b>We</b>  will not pay for any claim caused by:
+<ol type="a">
+<font class="black">
+<li>war, invasion, act of foreign enemy, hostilities
+(whether war be declared or not), civil war, civil
+commotion, rebellion, terrorism, revolution or military
+or usurped power;</li>
+<li>ionising radiation or radioactive contamination
+from nuclear fuel or nuclear waste or any risk from
+nuclear equipment;</li>
+<li>pressure waves caused by aircraft or other flying
+machines travelling at sonic or supersonic speeds;</li>
+<li>
+<b>your</b> property being held taken destroyed or
+damaged under the order of any police government
+or custom officials;</li>
+<li>any claim arising from any material fact that <b>you</b> knew
+about when <b>you</b> bought the <b>policy</b> unless  <b>we</b>  agreed to
+it in writing;</li>
+<li>any currency exchange rate changes;</li>
+<li>any loss or expense recoverable elsewhere;</li>
+<li>any criminal act committed by you;</li>
+<li>an insured event occurring in any geographical area for
+which <b>you</b> have not paid the appropriate premium;</li>
+<li>any consequential loss other than as specified in
+this policy.</li>
+<li>any claim arising directly or indirectly from or consisting
+of the failure or fear of failure or inability of any
+equipment or any computer programme, whether or
+not <b>you</b> own it, to recognise or to correctly interpret or
+process any date as its true calendar date or to continue
+to function correctly beyond that date.</li>
+</font>
+</ol>
+<br>
+<b>Conditions</b>
+<br>
+You must comply with the policy conditions as failure to do
+so may result in <b>you</b> not being fully covered and a claim
+not being paid. These conditions apply to the whole policy.
+<ol type="a">
+<font class="black">
+<li>
+<b>we</b>  will not refund any premium after 14 days from the
+date this policy was issued;</li>
+<li>
+<b>you</b> must take all reasonable steps to prevent and
+minimise loss;</li>
+<li>
+<b>you</b> must tell <b>us</b> in writing as soon as possible after any
+event, which leads or may lead to a claim under this
+policy. <b>You</b> must also tell us as soon as possible if <b>you</b>
+know of any actual or intended legal action against <b>you</b>;</li>
+<li>
+<b>you</b>, or any person acting for <b>you</b>, must not deal with
+any claim against <b>you</b> without <b>our</b>  written agreement;</li>
+<li>
+<b>you</b> or <b>your</b> legal personal representative(s) must pay for
+all certificates, information and evidence  <b>we</b>  may need
+to investigate <b>your</b> claim;</li>
+<li>if <b>you</b> claim for injury or illness  <b>we</b>  may require (and pay
+for) <b>you</b> to be medically examined.  <b>We</b>  may also require
+(and pay for) a post mortem examination if <b>you</b> die;</li>
+<li>
+<b>you</b> are obliged to inform us of any other insurance that
+may (or may not) cover the claim <b>you</b> are making;</li>
+<li>if <b>you</b> are covered for the same loss by another
+insurance policy, no payment will be made under this
+policy. This condition does not apply to the Personal
+Accident or Hospital Benefit cover;</li>
+<li>
+<b>we</b>  can take over, and conduct in <b>your</b> name, any legal
+action.  <b>We</b>  may also take proceedings at <b>our</b>  expense
+and for <b>our</b>  benefit, but in <b>your</b> name, to get back any
+money  <b>we</b>  have paid to anyone else under the policy;</li>
+<li>if <b>you</b> or any person acting for <b>you</b> makes a claim
+or statement knowing that it is not true (including
+exaggerating a claim or giving forged or false
+documents or evidence) this policy will immediately
+become voidable and  <b>we</b>  will not pay any claim;</li>
+<li>
+<b>you</b> should not destroy damaged articles as  <b>we</b>  may
+request sight of them;</li>
+<li>
+<b>we</b>  have the right to inform the police about any
+false claim.</li>
+</font>
+</ol>
+The parties do not intend any term of this agreement to
+be enforceable pursuant to the Contracts (Rights of Third
+Parties) Act 1999.
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Section 6 - Complaints Procedure</font>
+<br>
+<font class="black"><b>We</b>  set ourselves high standards, but if <b>you</b> are not
+satisfied with <b>our</b>  service please tell us. If <b>you</b> follow the
+procedure set out below,  <b>we</b>  will deal with <b>your</b> complaint
+in the most efficient way possible.
+<br>
+In the first instance, please contact;
+<br>
+<ul>
+The Company Secretary<br>
+Financial Insurance Company Limited<br>
+Vantage West<br>
+Great West Road<br>
+Brentford<br>
+Middlesex TW8 9AG
+</ul>
+Alternatively <b>you</b> can telephone Financial Insurance
+Company Limited on <b>0870 400 4870</b> to have <b>your</b> call
+directed to an appropriate person. <b>You</b> should give details
+of the policy number or claims reference number to help
+you with the speedy handling of <b>your</b> enquiry.
+</font>
+</p>
+<p align="left">
+<font class="black">
+After this action, if <b>you</b> are still not happy or the problem
+has not been resolved to <b>your</b> satisfaction, <b>you</b> may refer
+it to:</font>
+<ul>
+The Financial Ombudsman Service<br>
+South Quay Plaza<br>
+183 Marsh Wall<br>
+London E14 9SR<br>
+Telephone 0845 0801 800<br>
+</ul>
+<font class="black">
+If <b>you</b> complain it will not affect <b>your</b> legal rights.
+<br>
+cahoot is a trading division of Abbey National plc.
+Abbey National plc and Financial Insurance Company
+Limited are members of the General Insurance Standards Council (GISC).
+<br>
+Abbey National plc acts as an insurance intermediary.
+We  accept responsibility for compliance with the GISC
+General Insurance code for private customers. A copy of
+the code is available on request or from the GISC website
+<a href="http://www.gisc.co.uk"> www.gisc.co.uk</a>
+<br>
+cahoot have chosen Financial Insurance Company Limited
+as the supplier of <b>your</b> travel insurance.
+<br>
+cahoot is a registered trademark of Abbey National plc.
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Section 7 - Claims Procedure</font>
+<br>
+<font class="black"><b>We</b>  support the Association of British Insurers claims
+code. <b>You</b> can be provided with a copy of this code
+upon request.
+<br>
+To make a claim <b>you</b> (or <b>your</b> legal personal representative(s))
+should contact us as soon as reasonably possible.
+Telephone <b>0870 400 4895</b> or in writing to GE Financial
+Insurance, Claims Department, PO Box 198, Brentford,
+Middlesex, TW8 9AF.
+<br>
+Please ensure <b>you</b> have all claims and insurance
+documentation to hand when <b>you</b> telephone including
+your Policy Document and Policy Schedule.
+<br>
+<b>We</b>  may record <b>your</b> call as part of <b>our</b>  ongoing quality
+management program.
+<br>
+<b>We</b>  will not pay <b>your</b> claim if  <b>we</b>  cannot validate it because
+you do not supply the relevant information required.
+To make <b>your</b> claim <b>you</b> (or <b>your</b> legal personal
+representative(s)) must give us any proof  <b>we</b>  request
+otherwise  <b>we</b>  cannot pay any benefit.
+<br>
+If  <b>we</b>  ask <b>you</b> to send any documents to <b>us</b>, always send
+original documents and not photocopies.
+<b>You</b> must pay for any costs incurred in providing any
+documents  <b>we</b>  may ask for.
+</font>
+</p>
+<p align="left">
+<font class="boldblack">
+Data Protection</font>
+<br>
+<font class="black"><b>You</b> should understand and give explicit consent that the
+information <b>you</b> provide about <b>yourself</b> and other members of
+<b>your</b> party, including any sensitive information such as health
+records, will be passed to or used by Financial Insurance Company
+Limited and its associated companies for <b>your</b> insurance.
+This includes underwriting, processing, handling claims and
+preventing fraud and could include passing details to agents of
+Financial Insurance Company Limited or other insurers and sub
+contractors in the UK or any other country (even those which have
+only limited or no applicable data protection laws) provided that
+Financial Insurance Company Limited remain responsible for
+making sure the information is held securely. Financial Insurance
+Company Limited may ask other insurers for information to check
+the information <b>you</b> have given. I understand and agree that
+information about me and my policy (excluding sensitive
+information e.g. health records) can be shared within cahoot
+for business analysis and administrative purposes.
+</font>
+</p>
+</td><td width="14"><img src="../../images/misc/spacer.gif" border="0" width="14" height="1" alt="spacer"></td>
+</tr>
+</table>
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" border="0" width="14" height="1" alt="spacer"></td><td>
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="10"><img src="../../images/misc/spacer.gif" width="10" height="5" border="0" alt="spacer"></td><td width="10"><img src="../../images/misc/spacer.gif" width="10" height="5" border="0" alt="spacer"></td><td width="10"><img src="../../images/misc/spacer.gif" width="10" height="5" border="0" alt="spacer"></td>
+</tr>
+<tr>
+<td width="10"><img src="../../images/misc/spacer.gif" width="10" height="5" border="0" alt="spacer"></td><td>
+<p align="left">
+<font class="purple">
+		IF <b>YOU</b> REQUIRE A LARGE TEXT,
+		BRAILLE OR TAPED VERSION OF
+		THIS TRAVEL INSURANCE POLICY,
+		PLEASE CONTACT:
+		THE DISABILITY HELPLINE
+		<b>0870 400 4854</b>
+<br>
+		OR
+		<br>
+		DISABILITY TEXTPHONE
+		<b>0870 400 4855</b></font>
+</p>
+</td><td width="10"><img src="../../images/misc/spacer.gif" width="10" height="5" border="0" alt="spacer"></td>
+</tr>
+<tr>
+<td width="10"><img src="../../images/misc/spacer.gif" width="10" height="5" border="0" alt="spacer"></td><td width="10"><img src="../../images/misc/spacer.gif" width="10" height="5" border="0" alt="spacer"></td><td width="10"><img src="../../images/misc/spacer.gif" width="10" height="5" border="0" alt="spacer"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td><td width="14"></td>
+</tr>
+</table>
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="14"></td><td>
+<p align="left">
+<font class="black">
+This insurance is underwritten by Financial Insurance
+Company Limited, incorporated in England No: 1515187,
+Limited by shares, Registered Address: Vantage West,
+Great West Road, Brentford, Middlesex TW8 9AG.
+Financial Insurance Company Limited is a member of the
+General Insurance Standards Council(GISC)
+cahoot is a trading division of Abbey National plc.
+Abbey National plc acts as an Insurance Intermediary
+and is a member of the General Insurance Standards
+Council.  <b>We</b>  accept responsibility for the compliance with
+the GISC General Insurance Code for private customers.
+A copy of the code is available on request or from the
+GISC website <a href="http://www.gisc.co.uk">www.gisc.co.uk</a>
+<br>
+Abbey National plc, Registered Office:
+Abbey National House, 2 Triton Square, Regent's Place,
+London, NW1 3AN, registered number 2294747.
+Registered in England.
+<br>
+cahoot is a registered trademark of Abbey National plc.
+<a href="http://www.cahoot.com">www.cahoot.com</a>
+<br>
+<br>
+<b>Important - What to do if <b>you</b> need medical treatment or need to
+be repatriated while <b>you</b> are abroad.</b>
+<br>
+<br>
+<b>24-hour Medical Emergency and Assistance
+Services in the USA/Canada/South America/Caribbean</b>
+<br>
+<br>
+You must call cahoot Travel Emergency Services
+immediately, or as soon as reasonably possible, to
+authorise any expense in relation to any illness or
+accident where <b>you</b> may require medical
+treatment or if <b>you</b> have to return early or
+extend <b>your</b> stay because of any illness or injury.
+If <b>you</b> call us prior to in-patient or outpatient
+Treatment  <b>we</b>  will direct <b>you</b> to a qualified,
+accredited medical provider who will bill us
+directly for the treatment <b>you</b> receive.
+USA/Canada/South America/Caribbean (24 Hrs)
+Phone: Toll Free 1-877-566-2681
+Or Non Toll Free 001-819-566-2681
+24-hour Medical Emergency and Assistance
+Services in Europe and the rest of the world
+You must call cahoot Travel Emergency Services
+immediately, or as soon as reasonably possible, to
+authorise any expense in relation to any illness or
+accident where <b>you</b> may require medical
+treatment or if <b>you</b> have to return early or
+extend <b>your</b> stay because of any illness or injury.
+Europe and the Rest of the World (24 Hrs)
+Phone: +44 (0) 20 8847 8095
+</font>
+</p>
+</td><td width="14"></td>
+</tr>
+</table>
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="14"></td><td>
+<p align="left">
+<font class="black">
+Please give cahoot Travel Emergency Services
+your name, age and policy number
+It is a condition of the policy that cahoot Travel
+Emergency Services will be responsible for all
+decisions on the most suitable practical and
+reasonable solution to any problem.
+</font>
+</p>
+</td><td width="14"></td>
+</tr>
+</table>
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" hieght="15" border="0"></td><td></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" hieght="15" border="0"></td>
+</tr>
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td width="752" align="right"><font class="lightgreenbracket">{</font><a href="#top"><font class="boldblack"> top </font></a><font class="lightgreenbracket">}</font></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="15" border="0"></td><td></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="15" border="0"></td>
+</tr>
+<tr>
+<td width="780" class="black" colspan="3"><img src="../../images/misc/spacer.gif" width="14" height="5" border="0"></td>
+</tr>
+</table>
+</body>
+</html>
+

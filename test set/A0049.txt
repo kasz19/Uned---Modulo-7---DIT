@@ -1,0 +1,2005 @@
+ID=A0049
+URL=http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html
+SIZE=81995
+DATE=27/06/02
+TIME=16:51:04
+DATASET=Commercial Banks
+HTML=<!-- Vignette StoryServer 5.0 Wed Jun 26 15:40:48 2002 -->
+
+				<HTML><HEAD><TITLE>Lloyds TSB - Borrowing important information</TITLE><!-- version 5.11.1 -->
+				<LINK REL=STYLESHEET HREF="/stylesheet/0,904,,FF.txt" TYPE="text/css">
+			
+				</HEAD>
+
+				<BODY BGCOLOR=#FFFFFF MARGINHEIGHT=0 MARGINWIDTH=0
+				TOPMARGIN=0 BOTTOMMARGIN=0 LEFTMARGIN=0 RIGHTMARGIN=0  >
+
+				<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+
+				<!-- BEGIN Header -->
+				<TR>
+				<TD ALIGN=LEFT VALIGN=TOP WIDTH=100%>
+				
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+
+			<TR>
+			<TD COLSPAN=3 ALIGN=LEFT VALIGN=TOP WIDTH=100%><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+			</TR>
+
+			<TR>
+
+			<TD VALIGN=TOP ALIGN=LEFT><IMG SRC="/images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=" "></TD>
+
+			<TD VALIGN=TOP ALIGN=LEFT WIDTH=100%>
+
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+
+			<!-- Begin Banner -->
+			<TR>
+			<TD>
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+			<TR>
+			<TD ALIGN=LEFT><IMG SRC="/image/0,902,361000,00.gif" ALT="Lloyds TSB" WIDTH=217 HEIGHT=52 BORDER=0 ></TD>
+			<TD ALIGN=RIGHT><IMG SRC="/image/0,902,361001,00.gif" ALT="Your Life" WIDTH=321 HEIGHT=28 BORDER=0 ></TD>
+			</TR>
+			</TABLE>
+			</TD>
+			</TR>
+			<!-- End Banner -->
+
+			<!-- Begin Segment Menu -->
+			<TR>
+			<TD ALIGN=LEFT>
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+			<TR>
+			<TD BGCOLOR=#339966><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=" "></TD>
+		
+					<TD><IMG SRC="/image/0,902,15,00.gif" ALT="Title General (selected)" WIDTH=64 HEIGHT=18 BORDER=0 ></TD>
+				
+					<TD><A HREF="http://www.student.lloydstsb.com/legal/borrowing_legal/0,1004,student,00.html" TARGET="_top" ONMOUSEOVER="
+				document.images['segment_2'].src = '/image/0,902,12,00.gif';
+			" ONMOUSEOUT="
+				document.images['segment_2'].src = '/image/0,902,10,00.gif';
+			"><IMG SRC="/image/0,902,10,00.gif" ALT="Student" WIDTH=64 HEIGHT=18 BORDER=0 NAME=segment_2></A></TD>
+					
+					<TD><A HREF="http://www.select.lloydstsb.com/legal/borrowing_legal/0,1004,select,00.html" TARGET="_top" ONMOUSEOVER="
+				document.images['segment_310002'].src = '/image/0,902,310004,00.gif';
+			" ONMOUSEOUT="
+				document.images['segment_310002'].src = '/image/0,902,310003,00.gif';
+			"><IMG SRC="/image/0,902,310003,00.gif" ALT="Select" WIDTH=53 HEIGHT=18 BORDER=0 NAME=segment_310002></A></TD>
+					
+					<TD><A HREF="http://www.gold.lloydstsb.com/legal/borrowing_legal/0,1004,gold,00.html" TARGET="_top" ONMOUSEOVER="
+				document.images['segment_1'].src = '/image/0,902,11,00.gif';
+			" ONMOUSEOUT="
+				document.images['segment_1'].src = '/image/0,902,13,00.gif';
+			"><IMG SRC="/image/0,902,13,00.gif" ALT="Gold Service" WIDTH=81 HEIGHT=18 BORDER=0 NAME=segment_1></A></TD>
+					
+					<TD><A HREF="http://www.platinum.lloydstsb.com/legal/borrowing_legal/0,1004,platinum,00.html" TARGET="_top" ONMOUSEOVER="
+				document.images['segment_310001'].src = '/image/0,902,310002,00.gif';
+			" ONMOUSEOUT="
+				document.images['segment_310001'].src = '/image/0,902,310001,00.gif';
+			"><IMG SRC="/image/0,902,310001,00.gif" ALT="Platinum" WIDTH=67 HEIGHT=18 BORDER=0 NAME=segment_310001></A></TD>
+					
+			</TR>
+			</TABLE>
+			</TD>
+			</TR>
+			<!-- End Segment Menu -->
+
+			<TR>
+			<TD BGCOLOR=#339966><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=" "></TD>
+			</TR>
+		
+			<!-- Begin Header Navigation Menu -->
+			<TR>
+			<TD ALIGN=RIGHT>
+
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+
+			<TR>
+			<TD BGCOLOR=#339966><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=" "></TD>
+			<TD CLASS="small">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/homepage/0,1001,general,00.html" TARGET="_top" CLASS="plain"  >Home</A>&nbsp;&nbsp;<IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT="bullet">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/legal/0,1000,general,00.html" TARGET="_top" CLASS="plain"  ><SPAN CLASS="highlighted">Legal</SPAN></A>&nbsp;&nbsp;<IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT="bullet">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/about_us/0,1009,general,00.html" TARGET="_top" CLASS="plain"  >About us</A>&nbsp;&nbsp;<IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT="bullet">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/services/0,1011,general,00.html" TARGET="_top" CLASS="plain"  >Our Services</A>&nbsp;&nbsp;<IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT="bullet">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/security/0,1011,general,00.html" TARGET="_top" CLASS="plain"  >Security</A>&nbsp;&nbsp;<IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT="bullet">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/accessibility/0,1007,general,00.html" TARGET="_top" CLASS="plain"  >Accessibility</A>&nbsp;&nbsp;<IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT="bullet">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/contacts/0,1006,general,00.html" TARGET="_top" CLASS="plain"  >Contact us</A>&nbsp;&nbsp;</TD>
+			<TD BGCOLOR=#339966><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=" "></TD>
+			</TR>
+
+			<TR><TD COLSPAN=3 BGCOLOR=#339966><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=" "></TD></TR>
+
+			</TABLE>
+
+			</TD>
+			</TR>
+			<!-- End Header Navigation Menu -->
+
+			</TABLE>
+
+			</TD>
+
+			<TD VALIGN=TOP ALIGN=RIGHT><IMG SRC="/images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=" "></TD>
+
+			</TR>
+
+			<TR>
+			<TD COLSPAN=3 ALIGN=LEFT VALIGN=BOTTOM WIDTH=100%><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=10 ALT=" "></TD>
+			</TR>
+
+			</TABLE>
+		
+				</TD>
+				</TR>
+				<!-- END Header -->
+
+				<TR>
+
+				<TD ALIGN=LEFT VALIGN=TOP WIDTH=100%>
+
+				<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+
+				<TR>
+
+				<!-- BEGIN Left Nav -->
+				<TD ROWSPAN=2 VALIGN=TOP ALIGN=LEFT WIDTH=179>
+				
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+			<TR>
+
+			<TD VALIGN=TOP ALIGN=LEFT><TD VALIGN=TOP ALIGN=LEFT><IMG SRC="/images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=" "></TD></TD>
+
+			<TD VALIGN=TOP ALIGN=LEFT>
+
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+		<TR><TD><!-- IMG SRC="/images/leftnav/top.gif" WIDTH=139 HEIGHT=26 ALT="" --></TD></TR>
+			<!-- BEGIN Internet Banking -->
+			<TR><TD><IMG SRC="/images/leftnav/internetbanking.gif" WIDTH="139" HEIGHT="26" ALT="Internet banking"></TD></TR>
+			<TR><TD><A HREF="http://www.lloydstsb.com/services/internet/0,1011,general,00.html" TARGET="_top" ONMOUSEOVER="
+				document.images['register'].src = '/images/leftnav/internetbanking_register.gif';
+			" ONMOUSEOUT="
+				document.images['register'].src = '/images/leftnav/internetbanking_register.gif';
+			"><IMG SRC="/images/leftnav/internetbanking_register.gif" ALT="Register here for internet banking" WIDTH=139 HEIGHT=41 BORDER=0 NAME="register"></A></TD></TR>
+			<TR><TD><A HREF="http://www.lloydstsb.com/services/internet/moreinfo/0,1001,general,00.html" TARGET="_top" ONMOUSEOVER="
+				document.images['help'].src = '/images/leftnav/help_and_info.gif';
+			" ONMOUSEOUT="
+				document.images['help'].src = '/images/leftnav/help_and_info.gif';
+			"><IMG SRC="/images/leftnav/help_and_info.gif" ALT="Help and information" WIDTH=139 HEIGHT=31 BORDER=0 NAME="help"></A></TD></TR>
+			<TR><TD><IMG SRC="/images/leftnav/registered_users_log_on.gif" WIDTH="139" HEIGHT="14" ALT="Registered users log on"></TD></TR>
+			<TR><TD><A HREF="/exturl?URL=https%3A%2F%2Fonline%2Elloydstsb%2Eco%2Euk%2Fcustomer%2Eibc" TARGET="_top" ONMOUSEOVER="
+				document.images['personal'].src = '/images/leftnav/internetbanking_personal.gif';
+			" ONMOUSEOUT="
+				document.images['personal'].src = '/images/leftnav/internetbanking_personal.gif';
+			"><IMG SRC="/images/leftnav/internetbanking_personal.gif" ALT="Log on to Personal banking" WIDTH=139 HEIGHT=20 BORDER=0 NAME="personal"></A></TD></TR>
+			<TR><TD><A HREF="/exturl?URL=https%3A%2F%2Fonline%2Dbusiness%2Elloydstsb%2Eco%2Euk%2Fcustomer%2Eibc" TARGET="_top" ONMOUSEOVER="
+				document.images['business'].src = '/images/leftnav/internetbanking_business.gif';
+			" ONMOUSEOUT="
+				document.images['business'].src = '/images/leftnav/internetbanking_business.gif';
+			"><IMG SRC="/images/leftnav/internetbanking_business.gif" ALT="Log on to Business banking" WIDTH=139 HEIGHT=20 BORDER=0 NAME="business"></A></TD></TR>
+			<TR><TD><IMG SRC="/images/leftnav/ib_box_bottom.gif" WIDTH="139" HEIGHT="3" Alt=" "></TD></TR>
+			<!-- END Internet Banking -->
+
+			<TR>
+			<TD>
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+		
+				<TR><TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=3 ALT=" "></TD></TR>
+				<TR>
+				<TD VALIGN="MIDDLE"><IMG SRC="/images/leftnav/menuitem_side.gif" ALT="" WIDTH=1 HEIGHT=32></TD>
+				<TD><A HREF="http://www.lloydstsb.com/products/0,1007,general,00.html" TARGET="_top"   ><IMG SRC="/image/0,902,20,00.gif" ALT="Products" WIDTH=137 HEIGHT=32 BORDER=0 ></A></TD>
+				<TD><IMG SRC="/images/leftnav/menuitem_side.gif" ALT="" WIDTH=1 HEIGHT=32></TD>
+				</TR>
+			
+			</TABLE>
+			</TD>
+			</TR>
+		
+				    <TR><TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=3 ALT=" "></TD></TR>
+					<TR>
+					<TD><A HREF="http://www.lloydstsb.com/contacts/branch_locator/0,1006,general,00.html" TARGET="_top"   ><IMG SRC="/image/0,902,613,00.gif" ALT="Branch locator" WIDTH=139 HEIGHT=21 BORDER=0 ></A></TD>
+					</TR>
+				
+				    <TR><TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=3 ALT=" "></TD></TR>
+					<TR>
+					<TD><A HREF="http://www.lloydstsb.com/rates/0,1006,general,00.html" TARGET="_top"   ><IMG SRC="/image/0,902,617,00.gif" ALT="Our rates & charges" WIDTH=139 HEIGHT=21 BORDER=0 ></A></TD>
+					</TR>
+				
+				<TR>
+				<TD><!-- IMG SRC="/images/leftnav/bottom.gif" WIDTH=139 HEIGHT=19 ALT="" --></TD>
+				</TR>
+			
+			</TABLE>
+
+			</TD>
+		
+				<TD VALIGN=TOP ALIGN=RIGHT><TD VALIGN=TOP ALIGN=LEFT><IMG SRC="/images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=" "></TD></TD>
+			
+			</TR>
+			</TABLE>
+		
+				</TD>
+				<!-- END Left Nav -->
+
+				<TD ALIGN=LEFT VALIGN=TOP WIDTH=100% HEIGHT=100%>
+				<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+			
+					<!-- BEGIN Submenu -->
+					<TR>
+					<TD ALIGN=LEFT VALIGN=TOP WIDTH=100%>
+					
+					<IMG SRC="/images/submenu/arrow.gif" WIDTH=8 HEIGHT=9 ALT="">
+					<A HREF="http://www.lloydstsb.com/legal/0,1000,general,00.html" TARGET="_top" CLASS="plain"  ><SPAN CLASS="highlighted">Legal</SPAN></A><BR>
+				
+					<SPAN CLASS="small"><A HREF="http://www.lloydstsb.com/legal/site_terms_conditions/0,1011,general,00.html" TARGET="_top" CLASS="subnav"  >site&nbsp;terms&nbsp;and&nbsp;conditions</A> <IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT=""> <A HREF="http://www.lloydstsb.com/legal/information_about_us/0,997,general,00.html" TARGET="_top" CLASS="subnav"  >Information&nbsp;about&nbsp;us</A> <IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT=""> <A HREF="http://www.lloydstsb.com/legal/banking_legal/0,1009,general,00.html" TARGET="_top" CLASS="subnav"  >Banking&nbsp;important&nbsp;information</A> <IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT=""> <SPAN CLASS="highlighted">Borrowing&nbsp;important&nbsp;information</SPAN> <IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT=""> <A HREF="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html" TARGET="_top" CLASS="subnav"  >Saving&nbsp;&&nbsp;Investing&nbsp;important&nbsp;information</A> <IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT=""> <A HREF="http://www.lloydstsb.com/legal/our_services_legal/0,1004,general,00.html" TARGET="_top" CLASS="subnav"  >Our&nbsp;services&nbsp;important&nbsp;information</A> <IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT=""> <A HREF="http://www.lloydstsb.com/legal/supplier_terms_conditions/0,997,general,00.html" TARGET="_top" CLASS="subnav"  >Supplier&nbsp;terms&nbsp;&&nbsp;conditions</A><BR></SPAN>
+				<BR>
+					</TD>
+					</TR>
+					<!-- END Submenu -->
+				
+				
+					<TR>
+					<TH VALIGN=TOP><IMG SRC="/image/0,902,360034,00.gif" ALT="borrowing important information" WIDTH=430 HEIGHT=33 BORDER=0 ></TH>
+					</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360474></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A  href="http://www.lloydstsb.com/products/borrowing/bridging_loan/0,1005,general,00.html"  >Bridging loan</A> •  <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#361617"  >Formal loan (Secured)</A> • <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#360317"  >Further Education loan</A> • <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#360475"  >Gold Service loan</A>  •
+<A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#360311"  >Graduate loan</A>  • <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#360338"  >Lloyds TSB Scotland mortgages</A> • <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#361684"  >loan protection</A> • <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#360732"  >mortgages</A>
+• <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#360342"  >Mortgagesure</A> • <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#361289"  >online loan illustrator</A> • <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#361686"  >overdraft protection</A> • <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#361688"  >Payment Protection Cover</A> • 
+<A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#360332"  >personal overdraft</A> •  <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#360292"  >Platinum loan</A> • <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#360340"  >Scottish Widows mortgage protection</A>  •  <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#360479"  >Select loan</A>  • <A  href="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html#360282"  >Standard loan</A>
+</TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361111></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Bridging loan</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>YOUR HOME IS AT RISK IF YOU DO NOT KEEP UP REPAYMENTS ON A MORTGAGE OR OTHER LOANS SECURED ON IT.
+
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD><p>Written quotations for any Lloyds TSB credit service are available on request. How much we lend (if any) depends on our assessment of your financial position. To apply, you must have a Lloyds TSB current account, be a UK resident, be 18 or over and at the expiry of your loan under 75. If you would like a written quotation, write to Lloyds TSB Bank plc, PO Box 112, Canons House, Canons Way, Bristol, BS99 7LB.  </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for further <A  href="http://www.lloydstsb.com/products/borrowing/bridging_loan/0,1005,general,00.html"  >information about Bridging loan</A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361854></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361617></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Formal loan (Secured)</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>YOUR HOME IS AT RISK IF YOU DO NOT KEEP UP REPAYMENTS ON A MORTGAGE OR OTHER LOANS SECURED ON IT</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Written quotations for any Lloyds TSB credit service are available on request. All loans are subject to status and a Lloyds TSB current account is required. You must be a UK resident over 18 years and at the expiry of your loan, under 75 years of age.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Secured Loan Repayment Protection is arranged by Lloyds TSB Insurance Services Limited Registered in England No. 968406. 71 Lombard Street, London EC3P 3BS. Member of the General Insurance Standards Council. Secured Loan Repayment Protection is under-written by London & Edinburgh Insurance Company Ltd. Registered Office: 8 Surrey Street, Norwich NR1 3NG. Full details of terms, conditions and exclusions for Secured Loan Repayment Protection are available on request. The premiums quoted in this website include Insurance Premium Tax where appropriate.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/borrowing/secured_loan/0,1014,general,00.html"  ><u>information about Formal loan (Secured)</A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361855></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360317></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Further Education loan</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Written quotations for any Lloyds TSB credit service are available on request.  How much we lend (if any) depends on our assessment of your financial position.  To apply you must have a Lloyds TSB current account, be a UK resident, be 18 or over and at the expiry of your loan under 75.  You must also be taking a course through a recognised institution for most professions.  Ask at you branch for details.  If you would like a written quotation, write to Lloyds TSB Bank plc, PO Box 112, Canons House, Canons Way, Bristol BS99 7LB.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>General Insurance advice is provided by Lloyds TSB Insurance Services Limited (Company No. 968406).  Loan Protection is underwritten by a number of insurers including our related company, Lloyds TSB General Insurance Limited (Company No. 204373).  Both Lloyds TSB companies are registered in England, 71 Lombard Street, London EC3P 3BS.  Members of the General Insurance Standards Council.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (long-term disability for accident, sickness and hospitalisation cover for 5 year loans and over) is underwritten by Financial Assurance Company (a private company limited by shares and incorporated in England). Registered in England No. 1044679.  Head and Registered Office: Vantage West, Great West Road, Brentford, Middlesex TW8 9AG.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (life and additional cancer benefit insurance cover) is underwritten by Scottish Amicable Life plc, a member of the Prudential Group and regulated by the Personal Investment Authority. Registered Office: PO Box 25, Craigforth, Stirling, FK9 4UE.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (accidental permanent total disability) is underwritten by Lloyds TSB General Insurance Limited and Scottish Amicable Life plc for loan terms of less than five years.  For loan terms of five years or more, the underwriters are Lloyds TSB General Insurance Limited, Scottish Amicable Life plc and Financial Insurance Company Limited (a private Company limited by shares and incorporated in England). Registered in England No. 1515187. </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/borrowing/professional_studies_loan/0,1012,general,00.html"  >information about Further Education loan</A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361856></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360475></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Gold Service loan</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Written quotations for any Lloyds TSB credit service are available on request.  How much we lend (if any) depends on our assessment of your financial position.  To apply you must have a Lloyds TSB Gold Service current account, be a UK resident, be 18 or over and at the expiry of your loan under 75.  Ask at you branch for details.  If you would like a written quotation, write to Lloyds TSB Bank plc, PO Box 112, Canons House, Canons Way, Bristol BS99 7LB.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>The rates and repayments may vary depending on how you contact us to apply for your loan.  </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Rates may also vary according to a combination of factors which we consider to set your personal loan rate for you.  These include past credit repayment history, your past account history and other personal details held on our records.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>General Insurance advice is provided by Lloyds TSB Insurance Services Limited (Company No. 968406).  Loan Protection is underwritten by a number of insurers including our related company, Lloyds TSB General Insurance Limited (Company No. 204373).  Both Lloyds TSB companies are registered in England, 71 Lombard Street, London EC3P 3BS.  Members of the General Insurance Standards Council.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (long-term disability for accident, sickness and hospitalisation cover for 5 year loans and over) is underwritten by Financial Assurance Company (a private company limited by shares and incorporated in England). Registered in England No. 1044679.  Head and Registered Office: Vantage West, Great West Road, Brentford, Middlesex TW8 9AG.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (life and additional cancer benefit insurance cover) is underwritten by Scottish Amicable Life plc, a member of the Prudential Group and regulated by the Personal Investment Authority. Registered Office: PO Box 25, Craigforth, Stirling, FK9 4UE.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (accidental permanent total disability) is underwritten by Lloyds TSB General Insurance Limited and Scottish Amicable Life plc for loan terms of less than five years.  For loan terms of five years or more, the underwriters are Lloyds TSB General Insurance Limited, Scottish Amicable Life plc and Financial Insurance Company Limited (a private Company limited by shares and incorporated in England). Registered in England No. 1515187.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>The rates and repayments may vary depending on how you contact us to apply for your loan.  Rates may also vary according to a combination of factors which we consider to set your personal loan rate for you.  These include past credit repayment history, your past account history and other personal details held on our records.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/borrowing/goldl/0,1016,general,00.html"  >information about Gold Service loan</A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361857></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360311></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Graduate loan</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Written quotations for any Lloyds TSB credit service are available on request.  How much we lend (if any) depends on our assessment of your financial position.  To apply you must have a Lloyds TSB Graduate current account, be a UK resident, be 18 or over and at the expiry of your loan under 75.  Ask at you branch for details.  If you would like a written quotation, write to Lloyds TSB Bank plc, PO Box 112, Canons House, Canons Way, Bristol BS99 7LB.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>General Insurance advice is provided by Lloyds TSB Insurance Services Limited (Company No. 968406).  Loan Protection is underwritten by a number of insurers including our related company, Lloyds TSB General Insurance Limited (Company No. 204373).  Both Lloyds TSB companies are registered in England, 71 Lombard Street, London EC3P 3BS.  Members of the General Insurance Standards Council.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (long-term disability for accident, sickness and hospitalisation cover for 5 year loans and over) is underwritten by Financial Assurance Company (a private company limited by shares and incorporated in England). Registered in England No. 1044679.  Head and Registered Office: Vantage West, Great West Road, Brentford, Middlesex TW8 9AG.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (life and additional cancer benefit insurance cover) is underwritten by Scottish Amicable Life plc, a member of the Prudential Group and regulated by the Personal Investment Authority. Registered Office: PO Box 25, Craigforth, Stirling, FK9 4UE.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (accidental permanent total disability) is underwritten by Lloyds TSB General Insurance Limited and Scottish Amicable Life plc for loan terms of less than five years.  For loan terms of five years or more, the underwriters are Lloyds TSB General Insurance Limited, Scottish Amicable Life plc and Financial Insurance Company Limited (a private Company limited by shares and incorporated in England). Registered in England No. 1515187.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/borrowing/graduate_loan/0,1012,general,00.html"  >information about Graduate loan</A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361859></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360338></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Lloyds TSB Scotland mortgages</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>YOUR HOME IS AT RISK IF YOU DO NOT KEEP UP REPAYMENTS ON A MORTGAGE OR OTHER LOAN SECURED ON IT.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>ONLY AVAILABLE FOR PROPERTIES IN SCOTLAND. All loans subject to status. Applicants must be aged 18 years or over. Security required. Lloyds TSB cheque account required. Lloyds TSB insurance may be required. Assignation of a suitable life policy to the Bank may be required. Written quotations are available on request. With a repayment type fixed rate mortgage your monthly payments change annually after 31 March. </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>The level of tax applicable will depend on the individual’s personal circumstances. Remortgaging may in some circumstances reduce tax relief eligibility.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>The Bank will meet the cost of valuation fees up to £95 for all Lloyds TSB Scotland mortgages.The Bank will meet the cost of valuation and legal fees up to £495 for the Graduate mortgage and some remortgages. Early Repayment Charges may be applicable.To ensure security for customers and staff and to help us maintain service quality, some calls may be recorded or monitored.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>General Insurance advice is provided by Lloyds TSB Insurance Services Limited. (Company No. 968406.) Lloyds TSB Home Insurance is underwritten by our related company Lloyds TSB General Insurance Limited (Company No 204373). Both Lloyds TSB Companies Registered In England 71 Lombard Street, London EC3P 3BS. Members of the General insurance Standards Council. Lloyds TSB Scotland plc is regulated by the Financial Services Authority and represents the Scottish Widows and Lloyds TSB Marketing Group only for life assurance, pensions and investment business. Lloyds TSB Scotland plc.Registered Office: Henry Duncan House, 120 George Street, Edinburgh EH2 4LH. Registered in Scotland; Number 95237. Lloyds TSB Scotland plc is a signatory to the Mortgage Code</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>When you speak to us on the phone, some calls may be monitored or recorded in case we need to check we have carried out your instructions correctly and to help improve our quality of service.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/borrowing/mortgages/scotland/0,997,general,00.html"  >information about Lloyds TSB Scotland mortgages</A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361860></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361684></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">loan protection</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>To take out loan protection you must be a UK resident aged 18 or over and when your loan is finished, under 75. The total value of insured loans you have with Lloyds TSB must be for no more than £25,000. What is covered? 
+Your personal circumstances at the time of a claim determine the benefits you are entitled to. 
+If you are 18-65 and work for 16 hours or more a week (and have been working for at least 6 months), we will pay your monthly repayments for you if you are away from work for 15 days or more due to illness, accident or involuntary unemployment. 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>If you are 18-65 and work part time for less than 16 hours a week or choose not to work (see policy booklet for more details), we will pay your monthly repayments for you if you are incapacitated for 15 days or more due to illness or accident. 
+If you have retired or are over 65, we will pay your monthly repayments for you if you need to stay in hospital for more than 5 days. 
+Free Positive Job Solutions employment advice service, free health advice line and Accidental permanent total disablement cash benefit of up to £5,000 are included for the policyholder. 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Life cover (including additional cancer benefit) for your loan is also provided for all policyholders. 
+Illness or accident claims are paid until your loan ends or until you return to work or are no longer incapacitated, whichever is sooner. 
+Unemployment and hospitalisation claims are paid for a maximum of 12 months.
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>With loans that have a repayment holiday, benefit will not be paid until the first repayment under your deferred loan is due. This does not apply for life cover that protects your loan from the date you sign the loan agreement. 
+We will not make payments for disability, cancer benefit or hospitalisation resulting from, a condition for which medical treatment or advice was received in the 12 months before your cover commenced and which recurs in the first 12 months after you take out your loan, any chronic or continuing disease which you had on the start date, normal pregnancy conditions, wilful or self inflicted injuries, drug or alcohol misuse, cosmetic surgery, war and similar risks. 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>We will not make payments for unemployment, until you have been working for 16 hours a week or more for at least 6 months, which begins (or you are notified of) within 30 days of the start date of this policy, which was impending when you took out this cover, which follows a period of casual, temporary, voluntary or seasonal work, which results from your misconduct or resignation, which was voluntary or which results from voluntary redundancy, which results from the end of a fixed-term contract for a specific task or a period of training/probation or apprenticeship EXCEPT where you have been continuously employed by the same employer for at least two years on a fixed-term contract and the contract has been previously renewed. </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>The period of insurance for loan protection is linked to the term of your loan. Cover forms part of your loan agreement and cannot be cancelled without terminating the loan. The insurance takes effect from the date that funds are deposited into your account. In the case of deferred loans, benefit will not be paid for claims made prior to the first repayment. This, however, does not apply to the life cover which protects you from the date you sign your loan agreement There is a choice of law applicable to this insurance, but unless agreed otherwise English law applies. </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>For customers who are over 65 or who are retired, repayments will be made for you if you have to stay in hospital for 5 days or more. You have the option of paying the loan protection premium by cash or taking additional credit. If credit is taken to fund the loan protection premium, the conditions and rate of interest for the credit will be as for the cash loan. Loan protection is a single premium fixed term policy which provides cover for the agreed term of the loan. If you have opted to take loan protection and you pay off your loan early you may be entitled to a refund of some of the premium. Any refund will be calculated not on a pro rata basis but using a formula which takes account of the way the risk changes over the term of the loan (please refer to your policy booklet).</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>General insurance advice is provided by Lloyds TSB Insurance Services Limited, (Company No. 968406) Loan protection is underwritten by a number of insurers including our related company Lloyds TSB General Insurance Limited (Company No. 204373). Both Lloyds TSB Companies registered in England 71 Lombard Street London EC3P 3BS are members of the General Insurance Standards Council. Long term disability cover (for accident, sickness and hospitalisation cover for loans of 5 years and above) is underwritten by Financial Assurance Company (a private company limited by shares and incorporated in England) Head and Registered Office : Vantage West, Great West Road, Brentford, Middlesex, TW8 9AG. Registered No. 1044679. </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Life and additional cancer benefit cover is underwritten by Scottish Amicable Life plc, a member of the Prudential Group and regulated by the Financial Services Authority. Registered in Scotland No.SC171130. Registered Office: PO Box 25, Craigforth, Stirling, FK9 4UE. Accidental Permanent Total Disability is underwritten by Lloyds TSB General Insurance Limited and Scottish Amicable Life plc for loan terms of less than five years. For loans of five years or more, the underwriters are Lloyds TSB General Insurance Limited, Scottish Amicable life plc and Financial Insurance Company Limited (a private company limited by shares and incorporated in England) Registered in England No. 1515187. </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for  <A  href="http://www.lloydstsb.com/products/borrowing/loan_protection/0,1002,general,00.html"  ><u>information about loan protection</A></u></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361861></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360732></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">mortgages</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>YOUR HOME IS AT RISK IF YOU DO NOT KEEP UP REPAYMENTS ON A MORTGAGE OR OTHER LOAN SECURED ON IT.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc, 71 Lombard Street, London EC3P 3BS. Lloyds TSB Scotland plc, Henry Duncan House, 120 George Street, Edinburgh, EH2 4LH.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>You must be at least 18 years old to take out a mortgage loan with Cheltenham & Gloucester plc or Lloyds TSB Scotland plc. Lloyds TSB Scotland mortgages are only available for properties in Scotland. Different offers may be available through other channels. Before agreeing a loan, they will want to satisfy themselves about the suitability of your application. This will include assessing your ability to afford the payments and, normally, valuing the property. Written quotations are available on request. Any mortgage loan will require security in the form of a mortgage (standard security in Scotland) over the property. Cheltenham & Gloucester acts as an introducer only to the Scottish Widows & Lloyds TSB Marketing Group, members of which are regulated by the Financial Services Authority for life assurance, pensions and investment business. Cheltenham & Gloucester is a signatory to the Mortgage Code. For further details of the operation of the Mortgage Code please visit the <A HREF="/exturl?URL=http%3A%2F%2Fwww%2Ecml%2Eorg%2Euk%2Fservlet%2Fdycon%2Fzt%2Dcml%2Fcml%2Flive%2Fen%2Fcml%2Fpub%5Finfo%5Fcode" target="_blank">Council of Mortgage Lenders</A> (CML) website which provides full details.
+Cheltenham & Gloucester plc, Barnett Way, Gloucester GL4 3RL.
+
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>What Mortgage Top Lenders Awards 1999: best value-for-money standard
+variable rate mortgages, based on a loan of £50,000. 1999 award judged
+against all banks over the last 5 & 10 years.  
+Financial Adviser Service Awards: C&G is the only lender to have scored the top 5-star rating
+every year since the awards began in 1995.  The categories for the
+survey of independent financial advisers included speed of processing,
+product knowledge, professionalism, reliability and flexibility.
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are regulated by the Financial Services Authority for investments in the UK, and signatories to the Banking Code.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A HREF="/exturl?URL=http%3A%2F%2Fwww%2Echeltglos%2Eco%2Euk%2Fmortgages%2Fhome%2Ehtml" TARGET="_blank"><u>information about mortgages</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361862></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360342></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Mortgagesure</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Mortgagesure is underwritten by Lloyds TSB General Insurance Limited, Registered in England number 204373 71 Lombard Street, London EC3P 3BS. Member of the General Insurance Standards Council and the Insurance Ombudsman Bureau.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/borrowing/mortgages/mortgagesure/0,1003,general,00.html"  >information about Mortgagesure</A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361863></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361289></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">online loan illustrator</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>You have the option of paying the loan protection premium by cash or taking additional credit. If credit is taken to fund the loan protection premium the conditions and rate of interest for the credit will be as for the cash loan. </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan protection is a single premium fixed term policy which provides cover for the agreed term of your loan. If you have opted to take loan protection and you pay off your loan early you may be entitled to a refund of some of the premium. Any refund will be calculated not on a pro rata basis, but by using a formula that accounts for the way the risk changes over the term of your loan. (Please refer to your policy booklet). </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Please note that the final monthly repayment and the total cost of a loan may vary slightly from the figures shown in the loan illustrator, if repayments are made earlier or later than the exact calendar month after the date the loan was opened. 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>The loan illustrator is for illustration purposes only. The rates and repayments may vary depending on how you contact us to apply for your loan. The information provided by the loan illustrator relates to a loan application made online. </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Rates may also vary according to a combination of factors which we consider to set your personal loan rate for you. These include past credit repayment history, your past account history and other personal details held on our records. </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>All loans are subject to status. If you would like a written quotation write to Lloyds TSB plc, PO Box 112, Canons House, Canons Way, Bristol. BS99 7LB. 
+
+</TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361864></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361686></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">overdraft protection</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>General Insurance advice is provided by Lloyds TSB Insurance Services Limited. Registered in England, number 968406, 71 Lombard Street, London EC3P 3BS. Member of the General Insurance Standards Council. 
+ 
+<p>Personal overdraft protection is underwritten by Pinnacle Insurance plc. Registered office: Pinnacle House, A1 Barnet Way, Borehamwood, Hertfordshire WD6 2XX. Registered No. 1007798. 
+ 
+<p>As with all insurance products, terms and conditions apply and are available on request. 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/borrowing/overdraft_protection/0,1009,general,00.html"  ><u>information about overdraft protection</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361865></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361688></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Payment Protection Cover</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>General Insurance advice is provided by Lloyds TSB Insurance Services Limited. Registered in England No. 968406, 71 Lombard Street, London EC3P 3BS. Member of the General Insurance Standards Council.  
+ 
+<p>Payment Protection Cover is underwritten by London and Edinburgh Insurance Company Limited (Registered in England, number 924430) for accident, sickness and unemployment benefits and by Norwich Union Life & Pensions Limited (Registered in England, number 3253947) for life benefits.  
+ 
+<p>London and Edinburgh Insurance Company Limited administer all benefits. Registered Office: 8 Surrey Street, Norwich NR1 3NG. For further information on Payment Protection Cover click through to the product’s summary of cover screen using the link below. Alternatively you can contact London and Edinburgh, The Warren, Worthing, West Sussex BN14 9QD. Telephone 01903 230599. 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/creditcards/card_protection/asset/0,1001,general,00.html"  ><u>information on Payment Protection Cover</u></A> and <A  href="http://www.lloydstsb.com/creditcards/card_protection/asset/summary/0,1010,general,00.html"  >summary of cover</A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361866></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360332></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">personal overdrafts</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>How much we lend (if any) depends on our assessment of your financial position. You must be 18 or over to apply. Interest rates may vary. If you need a written quotation, write to Lloyds TSB Bank plc, PO Box 112, Canons House, Canons Way, Bristol BS99 7LB. </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>online overdrafts
+<p>Overdrafts are repayable in full on demand by the Bank. You may be required to give security for an overdraft.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>These conditions apply to your Lloyds TSB overdraft, and should be read along with the confirmation letter which we will send you. These conditions are in addition to:</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>conditions which are implied or included in the banking arrangements between us by law, even though they do not appear here or in the confirmation letter; 
+<br>and our online Banking and Lloydstsb.com site conditions.
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Definitions:
+<p>You/your - the customer who has applied for this overdraft and any joint account holder for the account on which the overdraft is to be arranged. 
+<p>We/us/our - Lloyds TSB Bank plc or Lloyds TSB Scotland plc, whichever you hold your current account with. 
+<p>Overdraft - the overdraft you have arranged through Lloyds TSB Online Banking. 
+<p>The confirmation letter - the letter we will send you with details of the overdraft limit, interest and charges. 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Joint Accounts:
+<p>If the overdraft is on a joint account, please remember that we can act upon instructions (by telephone, Internet other electronic means or in writing) given by any one of the joint account holders in relation to the account, including the overdraft. This means for example that one party to a joint account could withdraw the entire amount of the overdraft or increase or change the terms of the overdraft. In the event of any such increase or change to the terms of the overdraft we would write to you confirming the position.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>General:
+<p>The confirmation letter will advise an expiry date for the overdraft. However, you should note that we can contact you (or any/either of you, in the case of joint accounts) at any time and require you to repay all or part of your overdraft immediately. 
+<p>It is a condition of your overdraft that regular payments are made into your account, such as a monthly salary. 
+<p>You can check your account balance and latest statement entries through our Internet banking service, by using a cash machine or by contacting your branch. 
+<p>The confirmation letter will advise the agreed limit on the overdraft. Note that there will be additional interest and charges for exceeding the agreed limit. Full details will be shown in the confirmation letter. 
+<P>You will be given at least 14 days’ notice on your statement before charges and interest payments are taken. Once added to your account they will attract interest unless your account is in credit. 
+<p>Interest rates and charges can vary. If this happens details will be published in a range of national newspapers and displayed in all of our branches. 
+<P>You may terminate the overdraft at any stage by paying into your current account the full outstanding balance on the overdraft plus any outstanding charges and interest relating to the overdraft. 
+<p>Your receipt of the confirmation letter will conclude the agreement for your overdraft. In the event of any discrepancy between these conditions and the confirmation letter the terms of the confirmation letter will apply.
+
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/borrowing/personal_overdrafts/0,998,general,00.html"  >information about personal overdrafts</A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361867></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360292></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Platinum loan</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Written quotations for any Lloyds TSB credit service are available on request.  How much we lend (if any) depends on our assessment of your financial position.  To apply you must have a Lloyds TSB Platinum current account, be a UK resident, be 18 or over and at the expiry of your loan under 75.  Ask at you branch for details.  If you would like a written quotation, write to Lloyds TSB Bank plc, PO Box 112, Canons House, Canons Way, Bristol BS99 7LB.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>The rates and repayments may vary depending on how you contact us to apply for your loan.  </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Rates may also vary according to a combination of factors which we consider to set your personal loan rate for you.  These include past credit repayment history, your past account history and other personal details held on our records.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>General Insurance advice is provided by Lloyds TSB Insurance Services Limited (Company No. 968406).  Loan Protection is underwritten by a number of insurers including our related company, Lloyds TSB General Insurance Limited (Company No. 204373).  Both Lloyds TSB companies are registered in England, 71 Lombard Street, London EC3P 3BS.  Members of the General Insurance Standards Council.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (long-term disability for accident, sickness and hospitalisation cover for 5 year loans and over) is underwritten by Financial Assurance Company (a private company limited by shares and incorporated in England). Registered in England No. 1044679.  Head and Registered Office: Vantage West, Great West Road, Brentford, Middlesex TW8 9AG.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (life and additional cancer benefit insurance cover) is underwritten by Scottish Amicable Life plc, a member of the Prudential Group and regulated by the Personal Investment Authority. Registered Office: PO Box 25, Craigforth, Stirling, FK9 4UE.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (accidental permanent total disability) is underwritten by Lloyds TSB General Insurance Limited and Scottish Amicable Life plc for loan terms of less than five years.  For loan terms of five years or more, the underwriters are Lloyds TSB General Insurance Limited, Scottish Amicable Life plc and Financial Insurance Company Limited (a private Company limited by shares and incorporated in England). Registered in England No. 1515187.
+
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>The rates and repayments may vary depending on how you contact us to apply for your loan.  Rates may also vary according to a combination of factors which we consider to set your personal loan rate for you.  These include past credit repayment history, your past account history and other personal details held on our records.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/borrowing/ptloan/0,1000,general,00.html"  >information about Platinum loan</A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361868></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360340></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Scottish Widows Mortgage Protection</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc is regulated by the Financial Services Authority only for Life Assurance, Pensions and Unit Trusts.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Scottish Widows plc provides life assurance and pension products to the customers of the Lloyds TSB group.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>To find out more about Scottish Widows products contact your local Lloyds TSB branch or select the link to Scottish Widows.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Scottish Widows plc is regulated by the Financial Services Authority for investment business.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for  <A HREF="/exturl?URL=http%3A%2F%2Fwww%2Escottishwidows%2Eco%2Euk%2Fnfshow%2Ewpl%2F1538" Target="_blank"><u>information about Scottish Widows Mortgage Protection</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361869></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360479></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Select loan</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Written quotations for any Lloyds TSB credit service are available on request.  How much we lend (if any) depends on our assessment of your financial position.  To apply you must have a Lloyds TSB Select current account, be a UK resident, be 18 or over and at the expiry of your loan under 75.  Ask at you branch for details.  If you would like a written quotation, write to Lloyds TSB Bank plc, PO Box 112, Canons House, Canons Way, Bristol BS99 7LB.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>General Insurance advice is provided by Lloyds TSB Insurance Services Limited (Company No. 968406).  Loan Protection is underwritten by a number of insurers including our related company, Lloyds TSB General Insurance Limited (Company No. 204373).  Both Lloyds TSB companies are registered in England, 71 Lombard Street, London EC3P 3BS.  Members of the General Insurance Standards Council.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (long-term disability for accident, sickness and hospitalisation cover for 5 year loans and over) is underwritten by Financial Assurance Company (a private company limited by shares and incorporated in England). Registered in England No. 1044679.  Head and Registered Office: Vantage West, Great West Road, Brentford, Middlesex TW8 9AG.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (life and additional cancer benefit insurance cover) is underwritten by Scottish Amicable Life plc, a member of the Prudential Group and regulated by the Personal Investment Authority. Registered Office: PO Box 25, Craigforth, Stirling, FK9 4UE.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (accidental permanent total disability) is underwritten by Lloyds TSB General Insurance Limited and Scottish Amicable Life plc for loan terms of less than five years.  For loan terms of five years or more, the underwriters are Lloyds TSB General Insurance Limited, Scottish Amicable Life plc and Financial Insurance Company Limited (a private Company limited by shares and incorporated in England). Registered in England No. 1515187.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>The rates and repayments may vary depending on how you contact us to apply for your loan.  </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Rates may also vary according to a combination of factors which we consider to set your personal loan rate for you.  These include past credit repayment history, your past account history and other personal details held on our records.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/borrowing/selectl/0,1014,general,00.html"  >information about Select loan</A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361870></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360282></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Standard loan</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Written quotations for any Lloyds TSB credit service are available on request.  How much we lend (if any) depends on our assessment of your financial position.  To apply you must have a Lloyds TSB current account, be a UK resident, be 18 or over and at the expiry of your loan under 75.  If you would like a written quotation, write to Lloyds TSB Bank plc, PO Box 112, Canons House, Canons Way, Bristol BS99 7LB.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>General Insurance advice is provided by Lloyds TSB Insurance Services Limited (Company No. 968406).  Loan Protection is underwritten by a number of insurers including our related company, Lloyds TSB General Insurance Limited (Company No. 204373).  Both Lloyds TSB companies are registered in England, 71 Lombard Street, London EC3P 3BS.  Members of the General Insurance Standards Council.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (long-term disability for accident, sickness and hospitalisation cover for 5 year loans and over) is underwritten by Financial Assurance Company (a private company limited by shares and incorporated in England). Registered in England No. 1044679.  Head and Registered Office: Vantage West, Great West Road, Brentford, Middlesex TW8 9AG.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (life and additional cancer benefit insurance cover) is underwritten by Scottish Amicable Life plc, a member of the Prudential Group and regulated by the Personal Investment Authority. Registered Office: PO Box 25, Craigforth, Stirling, FK9 4UE.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Loan Protection (accidental permanent total disability) is underwritten by Lloyds TSB General Insurance Limited and Scottish Amicable Life plc for loan terms of less than five years.  For loan terms of five years or more, the underwriters are Lloyds TSB General Insurance Limited, Scottish Amicable Life plc and Financial Insurance Company Limited (a private Company limited by shares and incorporated in England). Registered in England No. 1515187.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>The rates and repayments may vary depending on how you contact us to apply for your loan.  </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Rates may also vary according to a combination of factors which we consider to set your personal loan rate for you.  These include past credit repayment history, your past account history and other personal details held on our records.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/borrowing/personal_l/0,998,general,00.html"  >information about Standard loan</A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361871></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+
+				</TABLE>
+				</TD>
+
+				<!-- BEGIN Right Nav -->
+				<TD ROWSPAN=2 VALIGN=TOP ALIGN=RIGHT WIDTH=179>
+				
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+			<TR>
+
+			<TD VALIGN=TOP ALIGN=LEFT><IMG SRC="/images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=" "></TD>
+
+			<TD VALIGN=TOP ALIGN=LEFT>
+
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+
+			<TR>
+			<TD><!-- IMG SRC="/images/rightnav/top.gif" WIDTH=139 HEIGHT=26 ALT="" --></TD>
+			</TR>
+		
+					<TR>
+					<TD><A HREF="http://www.lloydstsb.com/loans/0,1004,general,00.html" TARGET="_top"   ><IMG SRC="/image/0,902,200098,00.gif" ALT="Online Loans " WIDTH=139 HEIGHT=36 BORDER=0 ></A></TD>
+					</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=14 ALT=" "></TD>
+				</TR>
+			
+					<TR>
+					<TD><A HREF="http://www.lloydstsb.com/creditcards/0,1003,general,00.html" TARGET="_top"   ><IMG SRC="/image/0,902,360047,00.gif" ALT="Online Credit Cards" WIDTH=139 HEIGHT=36 BORDER=0 ></A></TD>
+					</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=14 ALT=" "></TD>
+				</TR>
+			
+					<TR>
+					<TD><A HREF="/exturl?URL=http%3A%2F%2Fwww%2Echeltenhamandgloucester%2Eco%2Euk%2F" TARGET="Cheltenham_and_Gloucester"   ONCLICK="window.open('/exturl?URL=http%3A%2F%2Fwww%2Echeltenhamandgloucester%2Eco%2Euk%2F', 'Cheltenham_and_Gloucester', 'resizable,scrollbars,menubar,status,toolbar,width=640,height=480'); return false;" ><IMG SRC="/image/0,902,32,00.gif" ALT="Cheltenham & Gloucester mortgages" WIDTH=139 HEIGHT=36 BORDER=0 ></A></TD>
+					</TR>
+				
+			<TR>
+			<TD><!-- IMG SRC="/images/rightnav/bottom.gif" WIDTH=139 HEIGHT=26 ALT=""  --></TD>
+			</TR>
+
+			</TABLE>
+
+			</TD>
+		
+				<TD VALIGN=TOP ALIGN=RIGHT><IMG SRC="/images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=" "></TD>
+			
+			</TR>
+			</TABLE>
+		
+				</TD>
+				<!-- END Right Nav -->
+
+				</TR>
+
+				<!-- BEGIN Bottom Menu -->
+				<TR>
+				<TD VALIGN=BOTTOM>
+				
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+
+			<TR>
+			<TD ALIGN=LEFT WIDTH=100%><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=12 ALT=" "></TD>
+			</TR>
+
+			<TR>
+			<TD VALIGN=BOTTOM ALIGN=CENTER WIDTH=100% CLASS="small"></TD>
+			</TR>
+
+			</TABLE>
+		
+				</TD>
+				</TR>
+				<!-- END Bottom Menu -->
+
+				</TABLE>
+
+				</TD>
+
+				</TR>
+
+				<TR>
+				<TD ALIGN=LEFT><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+
+				</TABLE>
+
+				</BODY>
+				</HTML>
+			

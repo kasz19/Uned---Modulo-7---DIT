@@ -1,0 +1,1828 @@
+ID=D0033
+URL=http://javalessons.com/overview.html
+SIZE=21934
+DATE=16/07/02
+TIME=14:35:33
+DATASET=Java
+HTML=<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="KeyWords" content="java tutorial, learn java, java examples, java code">
+<title>Java Lessons overview</title>
+</head>
+<body><center><h1><tt><a  href="http://javalessons.com">JavaLessons.com</a></tt></h1></center>
+<center><h2>
+<i><a href="costs.htm">91 days access for only US$ 19,-</a></i><img SRC="http://javalessons.com/pp1.gif" height=33 width=88></h2>
+<h2><a href="costs.htm">How can I access all lessons ?</a></h2>
+<h2>Well over 100 lessons</h2>
+<h2><a href="http://javalessons.com/real/entrance.htm">Let me try</a></h2>
+<h2>Have you seen our 
+<a href="http://javalessons.com/freeentr.htm">Free Lessons ?</a></h2>
+</center>
+<p><br><br><center><table BORDER WIDTH="99%" >
+<tr><td ALIGN=CENTER>
+<h3><font color="#3333FF">In this lesson .....</font></h3>
+</td>
+<td><h3><font color="#000099">....you can learn about :</font></h3>
+</td></tr>
+<tr><td  colspan="2" BGCOLOR="#FFCC33" BGCOLOR="#FFCC33">
+Graphical User Interface, GUI
+</td></tr>
+<tr><td>
+<center>
+<h2>SetText</h2></center></td>
+<td><ul>
+<li>Changing text in a <tt>TextField</tt> and a <tt>Label</tt>.</li>
+<li>the constructor</li>
+<li>handling mouse events</li>
+<li>changing colors</li>
+</ul>
+</td></tr>
+<tr><td>
+<blockquote>
+<center>
+<h2>
+Focus</h2></center>
+</blockquote>
+</td>
+<td><ul>
+<li>a component getting keyboard focus</li>
+<li>checking a string.</li>
+<li>setting the caret position</li>
+<li>getting text from a <tt>TextField</tt></li>
+</ul>
+</td></tr>
+<tr><td>
+<center>
+<h2>Text Components</h2></center>
+</td>
+<td><ul>
+<li>Using the multi-line text component <tt>TextArea</tt></li>
+<li>Adding text to it</li>
+<li>Clearing it</li>
+<li>Protecting its contents</li>
+</ul></td></tr>
+<tr><td><center>
+<h2>Fonts</h2></center>
+</td>
+<td><ul>
+<li>Changing font for different components</li>
+<li>Which types</li>
+<li>Styles : bold, italic</li>
+<li>Combining styles</li>
+<li>Multi-line choice component <tt>List</tt></li>
+<li>Adding to it</li>
+<li>Constructor</li>
+</ul></td></tr>
+<tr><td><center>
+<h2>Cursor</h2></center>
+</td>
+<td><ul>
+<li>What cursors there are</li>
+<li>How to associate a cursor with a component</li>
+</td></tr>
+<tr><td>
+<center>
+<h2>
+Right click</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Acting on a mouse right-button click</li>
+</td>
+</tr>
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33" BGCOLOR="#FFCC33">
+Constructors
+</td>
+</tr>
+
+
+<tr>
+<td>
+<center>
+<h2>
+Construction</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Constructors</li>
+</td>
+</tr>
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33" BGCOLOR="#FFCC33">
+Error handling, date and time
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Exceptions</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Handling errors</li>
+
+<li>
+<tt>try .. catch .. finally</tt></li>
+
+<li>
+converting <tt>String</tt> to <tt>int</tt></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<h2>
+Custom Exception</h2></center>
+</td>
+
+<td>
+<ul>
+<li>Making your own exception class</li>
+<li>Throwing it</li>
+<li>Catching it</li>
+<li>A method throwing an exception from a called method</li>
+<li>Choosing between <tt>Exception</tt> and <tt>RuntimeException</tt></li>
+</td></tr>
+<tr>
+<td>
+<center>
+<h2>
+Date and time</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+getting current date and time</li>
+
+<li>
+showing these in different formats</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Date checking</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Converting <tt>String</tt> input to <tt>Date</tt></li>
+
+<li>
+parsing</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33" BGCOLOR="#FFCC33">
+Applet/Browser matters
+</td>
+</tr>
+
+
+<tr>
+<td>
+<center>
+<h2>
+&nbsp; Sound</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+retrieving clip</li>
+
+<li>
+sound formats : <tt>.au , .mid, .wav</tt></li>
+
+<li>
+playing, stopping, looping</li>
+
+<li>
+Applet's <tt>stop</tt> method</li>
+
+<li>
+determining applet's origin</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+&nbsp;Applet methods</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+<tt>init</tt></li>
+
+<li>
+<tt>start</tt></li>
+
+<li>
+<tt>stop</tt></li>
+
+<li>
+<tt>destroy</tt></li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Show HTML</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+asking the browser to get and show <tt>HTML</tt>&nbsp;</li>
+
+<li>
+constructing a <tt>URL</tt></li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Applet Communication</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+applets calling each other's methods</li>
+
+<li>
+applet naming in <tt>HTML</tt></li>
+
+<li>
+casting / type conversion</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+GUI, Layout
+</td>
+</tr>
+
+
+<tr>
+<td>
+<center>
+<h2>
+Size</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+getting components' dimensions</li>
+
+<li>
+using size to center component</li>
+
+<li>
+positioning a component</li>
+
+<li>
+disabling layout manager</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+&nbsp; Panels</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+using <tt>Panels</tt> to create main division</li>
+
+<li>
+using a grid layout</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+FlowLayout</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+<tt>Applet/Panel</tt>'s default layout method</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+&nbsp;BorderLayout</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Layout division of 4 borders and remaining space.</li>
+
+<li>
+Constants : <tt>CENTER, NORTH, EAST, SOUTH, WEST</tt>.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+GridLayout</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Grid layout : rows, columns</li>
+
+<li>
+Cells/components equally sized</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+CardLayout</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Group of <tt>Panels</tt>, only one on top.</li>
+
+<li>
+Adding to <tt>Panel</tt></li>
+
+<li>
+<tt>LayoutManager</tt></li>
+
+<li>
+Casting</li>
+
+<li>
+Placing a Card on top</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+GridBagLayout</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Layout of grid : rows, columns</li>
+
+<li>
+Positioning components with x, y cell coordinates</li>
+
+<li>
+Components&nbsp; sized differently.</li>
+
+<li>
+Removing components from container</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Border size, Insets</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+A container having borders.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+Interface, adapter, event handling, inner class 
+</td>
+</tr>
+
+
+<tr>
+<td>
+<center>
+<h2>
+Interfaces</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Defining and implementing an <tt>interface</tt></li>
+
+<li>
+Using an interface for constants</li>
+
+<li>
+Using an interface as array data type</li>
+
+<li>
+Determining type of reference variable, <tt>instanceof</tt></li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Adapters</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Inner class</li>
+
+<li>
+Adapter classes</li>
+
+<li>
+Handling mouse events thru adapters</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+Inheritance, overriding, polymorphism
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Inheritance</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Inheriting methods, data</li>
+
+<li>
+<tt>Object</tt></li>
+<li>
+superclass</li>
+<li>
+subclass</li>
+
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Overriding</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Overriding methods</li>
+
+<li>
+Polymorphism</li>
+<li>
+Extending functionality</li>
+<li>
+<tt>toString()</tt></li>
+<li>
+<tt>final</tt></li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+Painting, drawing
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Images</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Retrieving a <tt>gif</tt> or <tt>jpg</tt> image from applet.</li>
+
+<li>
+Same, from stand-alone application.</li>
+
+<li>
+Determining size of image.</li>
+
+<li>
+Using a transparent gif, moving it.</li>
+
+<li>
+Determining <tt>HMTL</tt>'s origin.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Painting</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+The <tt>paint</tt> method, called programmatically or automatically.</li>
+
+<li>
+Setting drawing colour.</li>
+
+<li>
+Drawing lines.</li>
+
+<li>
+Preventing erasure, overriding the <tt>update</tt> method.</li>
+
+<li>
+Painting in memory.</li>
+</ul>
+</td>
+</tr>
+<tr><td><center>
+<h2>Swing painting</h2></center></td>
+<td><ul>
+<li><tt>paintComponent</tt></li>
+<li><tt>JPanel</tt> subclass</li>
+<li><tt>JComponent</tt> superclass</li>
+</ul></td></tr>
+<tr>
+<td>
+<center>
+<h2>
+Clipping</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Painting in selected region only.</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+GUI : keyboard, components
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Keys</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Handling keyboard events.</li>
+
+<li>
+Filtering keyboard input.</li>
+
+<li>
+Handling function keys, control keys.</li>
+<li>
+<tt>KeyListener.</tt></li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Scrollbar</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Creation, using it, handling its events.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+&nbsp;List and Choice</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Using these choice components.</li>
+
+<li>
+Adding lines.</li>
+
+<li>
+Handling choices.</li>
+
+<li>
+The <tt>switch</tt> statement.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Checkboxes and Radiobuttons</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Using these.</li>
+
+<li>
+Determining on/off state</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+GUI : AWT Components, customizing
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+&nbsp;Component Methods</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Determining size, color, location etc, etc....</li>
+
+<li>
+Determining origin of event.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+State</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Disabling components.</li>
+
+<li>
+Making them invisible.</li>
+
+<li>
+The other way round.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Custom Component 1</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Making an own visual component.</li>
+
+<li>
+Listening to its events by parent.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Custom Component 2</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Same thing, but acting like a button, generating an action event.</li>
+
+<li>
+Using the <tt>Vector</tt> collection class.</li>
+</ul>
+</td>
+</tr>
+
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+Static
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Statics</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+<tt>static</tt> vars.</li>
+<li>
+static methods.</li>
+<li>
+constants, <tt>final</tt>.</li>
+
+</ul>
+</td>
+</tr>
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+GUI : Scrollpane
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Scrollpane</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Using it to scroll a visual component.</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+Browser or stand-alone
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Applet or Application ?</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Making a stand-alone application.</li>
+
+<li>
+Using a frame, positioning it, sizing it.</li>
+
+<li>
+Determining screen size.</li>
+
+<li>
+Using an inner class for handling window events.</li>
+
+<li>
+Making an applet class suitable for both situations.</li>
+<tt>
+<li>
+<tt>WindowListener.</tt></li>
+<li>
+WindowAdapter.</li>
+<li>
+System.exit(0)</li></tt>
+</ul>
+
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+-.-
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Packages</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Putting a class in a package.</li>
+
+<li>
+Using its full name.</li>
+
+<li>
+Using <tt>CODEBASE</tt> in HTML.</li>
+
+<li>
+Useful package names.</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+-.-
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<h2>
+Access</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Restricting access to data and methods from methods in other classes.</li>
+
+<li>
+<tt>public, private, protected, package</tt></li>
+
+<li>
+get/set methods</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+-.-
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Copy, Paste. The clipboard.</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Exchanging data with other applications.</li>
+
+</ul>
+</td>
+</tr>
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+Beans
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Beans 1</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Making a visual bean, that can be saved and restored, for easy use in a
+builder tool.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Beans 2</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Same, painting itself.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Beans 3</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Adding a property.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Beans 4</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Adding event generation.</li>
+
+<li>
+Deployment in <tt>.jar</tt> file.</li>
+
+<li>
+Manifest file.</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+GUI : Dialogs, Windows
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<h2>
+Own Dialog</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Making a custom dialog window.</li>
+
+<li>
+Its lifespan, using its components.</li>
+
+<li>
+Setting its layout mode.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+File Dialog</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Choosing directory and file thru dialog window.</li>
+
+<li>
+Filtering files.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Window</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Making a separate Frame window.</li>
+
+<li>
+Disposing of it.</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+GUI : Menus
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<h2>
+Menus</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Handling menu choices.</li>
+
+<li>
+Disabling menu item.</li>
+
+<li>
+Communication with parent class.</li>
+
+<li>
+Submenus.</li>
+
+<li>
+Shortcut keys.</li>
+
+<li>
+<tt>WindowListener.</tt></li>
+<li>
+<tt>WindowAdapter.</tt></li>
+
+</ul>
+
+
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Popupmenu</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Context/popup menus.</li>
+
+<li>
+Removing component.</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+Files and database
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<h2>
+String Files</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Writing, reading Unicode strings.</li>
+
+<li>
+Adding to an existing file.</li>
+
+<li>
+Untrusted code.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+ByteStreams</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Writing, reading binary data : <tt>bytes, ints, doubles</tt> etc...</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Update a File</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+I/O on file.</li>
+
+<li>
+Random access.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Java DataBase Connectivity, JDBC</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Loading a database driver.</li>
+
+<li>
+Connecting to database.</li>
+
+<li>
+Using SQL.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<h2>
+JDBC 2</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Using <tt>PreparedStatement</tt></li>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+Collections
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<center>
+<h2>
+List</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+<tt>java.util.ArrayList</tt></li>
+<li>
+<tt>java.util.LinkedList</tt></li>
+
+<li>
+Add, search, remove</li>
+<li>
+Index</li>
+
+<li>
+Iterating</li>
+<li>
+Sorting</li>
+
+
+</td>
+</tr>
+
+
+
+
+<tr>
+<td>
+<center>
+<h2>
+Set</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+<tt>java.util.HashSet</tt></li>
+<li>
+<tt>java.util.TreeSet</tt></li>
+
+<li>
+Add, search, remove</li>
+
+<li>
+Iterating</li>
+
+
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<center>
+<h2>
+Map</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+<tt>java.util.HashMap</tt></li>
+<li>
+<tt>java.util.TreeMap</tt></li>
+
+<li>
+Key-value pairs</li>
+<li>
+Add, search, remove</li>
+
+<li>
+Iterating</li>
+
+
+</td>
+</tr>
+
+
+
+
+
+<tr>
+<td>
+<center>
+<h2>
+Properties</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Managing key-value pairs in list.</li>
+
+<li>
+Lookup in list.</li>
+
+<li>
+Handling <tt>Enumeration</tt>.</li>
+
+<li>
+Reading from url.</li>
+</ul>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<center>
+<h2>
+Sorting</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Sorting regular arrays</li>
+
+<li>
+Fast search</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+Printing
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<h2>
+Printing 1</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Printing 1.1 .</li>
+
+<li>
+Printing several pages.</li>
+
+<li>
+Page dimension</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Printing 2</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Printing 1.2 up .</li>
+
+<li>
+Page specs.</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+Multithreading
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<h2>
+Threads 1</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Separate task thru thread within same class.</li>
+<li>
+<tt>Runnable</tt>, <tt>run</tt> method.</li>
+
+<li>
+Pausing it.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Threads 2</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+<tt>Thread</tt> class subclass.</li>
+
+<li>
+Synchronizing threads, one at a time.</li>
+
+<li>
+Stopping thread.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Threads 3</h2></center>
+</td>
+
+<td>
+<ul>
+<li>Using
+<tt>synchronized</tt> for exclusive use of an object.</li>
+<li>
+Setting priorities.</li>
+</ul>
+</td></tr>
+<tr><td>
+<center>
+<h2>
+Threads 4, Swing</h2></center>
+</td>
+<td>
+<ul>
+<li>Dealing with the GUI from a thread</li>
+<li>Inner class <tt>Runnable</tt></li>
+<li><tt>invokeAndWait</tt></li>
+<li><tt>invokeLater</tt></li>
+</ul>
+</td>
+</tr>
+<tr><td  colspan="2" BGCOLOR="#FFCC33">
+Server side programming
+</td></tr>
+<tr><td>
+<center>
+<h2>
+Servlets 1</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Server-side cooperation with HTTP-server.</li>
+
+<li>
+Generation of HTML.</li>
+
+<li>
+Handling HTTP <tt>GET</tt>.</li>
+
+<li>
+Handling URL query string.</li>
+
+<li>
+<tt>localhost</tt>.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Servlets 2</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Handling HTML <tt>FORM</tt> contents.</li>
+
+<li>
+Handling HTTP <tt>POST</tt>.</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<center>
+<h2>
+Servlets 3</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Handling a user's HTTP session data.</li>
+
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+14 JSP lessons</h2></center>
+</td>
+<td>
+<ul>
+<li>
+Scriptlet
+</li>
+<li>
+Declaration
+</li>
+<li>
+Objects
+</li>
+<li>
+Content-type
+</li>
+<li>
+Query string
+</li>
+<li>
+Handling POST
+</li>
+<li>
+Session
+</li>
+<li>
+Include</li>
+<li>
+Exception
+</li>
+<li>
+Forward
+</li>
+<li>
+Beans
+</li>
+<li>
+Custom tags, attributes
+</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td  colspan="2"  BGCOLOR="#FFCC33">
+Security
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<h2>
+Signing</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Making code to be trusted.</li>
+
+<li>
+Public/private keys.</li>
+
+<li>
+Making a Java Archive, <tt>.jar</tt> , file.</li>
+
+<li>
+Keystore.</li>
+
+<li>
+Certificates.</li>
+
+<li>
+Policy file.</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+Network communication/cooperation
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<h2>
+Sockets</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Processes communicating via the net.</li>
+
+<li>
+Server listening on port.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+Remote Method Invocation, RMI</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Registering as RMI server.</li>
+
+<li>
+Finding this from client.</li>
+
+<li>
+Calling its methods via the net.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<h2>
+CORBA</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Registering as CORBA server.</li>
+
+<li>
+Finding this from client.</li>
+
+<li>
+Calling its methods via the net.</li>
+
+<li>
+Object Request Broker, <tt>ORB</tt> .</li>
+
+<li>
+Interface Definition Language, <tt>IDL</tt> .</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+<td  colspan="2" BGCOLOR="#FFCC33">
+GUI : Swing
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<h2>
+14 Swing lessons</h2></center>
+</td>
+
+<td>
+<ul>
+<li>
+Swing characteristics, its relation to AWT.</li>
+
+<li>
+Several components : <tt>JApplet</tt>, table, tree, toolbar, menu, HTML-editor,
+progressbar, splitpane, tabbed pane, layers.</li>
+
+<li>
+Look and Feel</li>
+
+<li>
+Boxlayout</li>
+
+<li>
+Child window within frame</li>
+
+<li>
+Dialogs : file , color , input , message , confirm.</li>
+
+<li>
+Stand-alone application.</li>
+</ul>
+</td>
+</tr>
+</table></center>
+
+<center>
+<h2>
+<a href="costs.htm">How can I access all lessons ?</a></h2>
+
+<h2>
+<a href="http://javalessons.com/real/entrance.htm">Let me try</a></h2>
+
+
+</center>
+
+<p>
+<hr>
+
+<center>
+<address>
+Copyright &copy; 2000-2002 System Exclusive &amp; Multi Midi (NL) All rights
+reserved
+<hr WIDTH="100%"></address></center>
+
+<center>
+<h1>
+<tt><a href="http://javalessons.com">JavaLessons.com</a></tt></h1></center>
+
+<center>
+<h3>
+a.k.a.&nbsp; <tt><a href="http://javalessons.com">www.jlessons.com</a></tt></h3></center>
+
+<p>&nbsp;
+<br>&nbsp;
+<br>
+<br>
+</body>
+</html>
+

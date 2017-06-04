@@ -1,0 +1,423 @@
+ID=A0081
+URL=http://www.cahoot.com/cahoot_products/cahoot_flexible_loan/flexible_loan_sub.html
+SIZE=19000
+DATE=27/06/02
+TIME=16:51:54
+DATASET=Commercial Banks
+HTML=<html>
+<head>
+<META http-equiv="Content-Type">
+<link rel="stylesheet" type="text/css" href="../../cahoot.css" title="cahoot">
+<title>cahoot</title>
+    <script language="JavaScript">
+
+function roundoff(n)
+{
+  var tempvar=n*100;
+  if (eval(tempvar)==0) {return "0.00"};
+  tempvar=Math.round(tempvar);  //Do the actual rounding off
+  var strval=""+tempvar;  //Convert to string
+  if(tempvar < 100) {strval = "0" + strval};  //Add a leading zero if less than a pound
+  len=strval.length;
+  first=strval.substring(0,len-2);
+  last=strval.substring(len-2,len);
+  result=first+"."+last;  //Add the point 2 places back
+  return result;
+}
+function showmethemoney(){
+if(document.LayoutRegion1FORM.Borrowing.value==null || document.LayoutRegion1FORM.Borrowing.value.length==0)
+{
+     alert("Please Fill in all Values");
+}
+else
+{
+    amountentered = parseFloat(document.LayoutRegion1FORM.Borrowing.value);
+    if(document.LayoutRegion1FORM.Borrowing.value != amountentered)
+    {
+        alert("Invalid - The amount entered is not a number");
+    }
+    else
+    {
+    if(document.LayoutRegion1FORM.Borrowing.value<100 || document.LayoutRegion1FORM.Borrowing.value>15000)
+    {
+        alert("Illustrations only available for loans between £100 and £15,000");
+    }
+    else
+    {      
+        var borrowing=document.LayoutRegion1FORM.Borrowing.value;
+        var APR=0.08;
+        var Term;
+        var Monthly_Flat_Rate;
+        var ave_monthly;
+        var minpay_percent=0.0175;
+        var minpay_amount=50;
+        var m=document.LayoutRegion1FORM.elements[2].length;  //Workaround using form.elements[n]...
+        for(j=0;j<m;++j)                                      //as Netscape v4.04 & v4.7 errors when elements >1...
+        {                                                     //are referenced explicitly by name..
+        		if(document.LayoutRegion1FORM.elements[2].options[j].selected)//with error message..
+    			{                                                 //"objectname has no properties"
+    				Term=document.LayoutRegion1FORM.elements[2].options[j].value;  //..
+    			}                                                 //these 8 lines replace the single line..
+    		}                                                    //Term=document.LayoutRegion1FORM.Term_Combo.value;
+    	  var Calculated_term;
+        Monthly_Flat_Rate=Math.pow(1+APR,1/12)-1;
+        for(i=Term;i>0;--i)
+        {
+            Calculated_term=i;
+            ave_monthly=borrowing/((1-(Math.pow(1/(1+Monthly_Flat_Rate), Calculated_term)))/Monthly_Flat_Rate); 
+            ave_monthly=roundoff(ave_monthly);
+            if(ave_monthly>=minpay_amount) break;
+        }
+        if (i==1 && ave_monthly<minpay_amount)
+        {
+            alert("repaid in < 1 month");
+        }
+        else
+        {
+            document.LayoutRegion1FORM.elements[3].value=ave_monthly; //document.LayoutRegion1FORM.Monthly_Repayment.value
+            document.LayoutRegion1FORM.elements[4].value=Calculated_term; //document.LayoutRegion1FORM.Loan_Term.value
+            document.LayoutRegion1FORM.elements[5].value=roundoff(Calculated_term*ave_monthly-borrowing); //document.LayoutRegion1FORM.Interest_Total.value
+            document.LayoutRegion1FORM.elements[6].value=roundoff(Calculated_term*ave_monthly); //document.LayoutRegion1FORM.tot_paid.value
+            if (borrowing*minpay_percent < minpay_amount)
+            {
+               document.LayoutRegion1FORM.elements[7].value=roundoff(minpay_amount); //document.LayoutRegion1FORM.MinPay.value
+            }
+            else
+            {
+               document.LayoutRegion1FORM.elements[7].value=roundoff(borrowing*minpay_percent); //document.LayoutRegion1FORM.MinPay.value
+            }
+            if (Term !=Calculated_term)
+            {
+                document.LayoutRegion1FORM.elements[2].selectedIndex=60 - Calculated_term;//document.LayoutRegion1FORM.Term_Combo.value
+                alert("£50 minimum payment reduces term to value calculated");
+            }
+        }
+    }
+    }
+}
+}
+</script>
+
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#000000">
+<table width="780" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="14" height="36" class="grey" valign="bottom" align="right"><img src="../../images/misc/header_edge.gif" width="14" height="36" border="0"></td>
+<td class="grey" colspan="3" valign="bottom" height="36" width="752"><!--####  MAIN TITLE  ####--><img src="../../images/titles/title_flexible_loan.gif" width="752" height="36" alt="cahoot flexible loan" border="0"></td>
+<td width="14" class="grey" valign="bottom" align="left"><img src="../../images/misc/header_edge.gif" width="14" height="36" border="0"></td></tr>
+<tr>
+<td height="68" width="14"><img src="../../images/misc/spacer.gif" width="1" height="68" border="0"></td>
+<td colspan="3" width="752"><!--####  HEADER AREA  ####-->
+<table width="752" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td rowspan="2" width="606" height="68"><img src="../../images/titles/flexible_loan_your_terms.gif" width="606" height="68" alt="finally a loan on your terms"></td>
+<td width="146" height="30" colspan="2" align="right" valign="middle"><table cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td><font class="lightgreenbracket">{</font></td>
+<td><a href="javascript:history.go(-1)" class="nav">back</a></td>
+<td><font class="lightgreenbracket">}</font></td>
+</tr>
+</table></td>
+</tr>
+<tr><!--####  'APPLY NOW'  ####-->
+<td width="121" height="38"><img src="../../images/buttons/apply_now_products.gif" width="121" height="25" alt="Apply Now"></td>
+          <td><a href="https://ibank.cahoot.com/Aquarius/web/en/application/index_application.html" target="_top"><img src="../../images/buttons/go_products_25_25.gif" border="0" width="25" height="25" alt="GO"></a></td>
+</tr>
+</table>
+</td>
+<td height="68" width="14"><img src="../../images/misc/spacer.gif" width="1" height="68" border="0"></td>
+</tr>
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="1" border="0"></td>
+<td valign="top" width="257"><table width="257" border="0" cellpadding="0" cellspacing="0"><!-- ####  START LH PARAGRAPH ROUTINE  #### -->
+<tr>
+<td><img src="../../images/subheaders/flexible_loan_using_loan.gif" width="257" height="20" alt="using your flexible loan"></td>
+</tr>
+<tr>
+<td>
+            <div align="left">
+
+		Simply transfer the cash (up to your agreed limit) to any account of your choice 
+		using our easy online transfer. And to make the most of our excellent rates, you 
+		can transfer the balances of your credit or store cards to your flexible loan 
+		account as well. 
+
+            </div></td>
+</tr>
+<tr>
+<td>&nbsp;</td></tr>
+</table>
+<table width="257" border="0" cellpadding="0" cellspacing="0"><!-- ####  START LH PARAGRAPH ROUTINE  #### -->
+<tr>
+<td><img src="../../images/subheaders/flexible_loan_choose_pay.gif" width="257" height="20" alt="choose how to repay your loan"></td>
+</tr>
+<tr>
+<td>
+            <div align="left">
+		<p>Apart from a minimum monthly repayment of £50 or 1.75% of the outstanding balance, 
+		whichever is greater, you decide how and when you pay the money back. So if you 
+		ever want to make supplementary repayments, change the basis of your regular 
+		repayments, or even pay the loan off in full - you can.</p>
+ 
+		See opposite for examples of loan repayments (rates are variable). Calculations 
+		are based on a typical APR of <b>8.0%**</b>.
+
+              </div>
+          </td>
+</tr>
+<tr>
+<td>&nbsp;</td></tr>
+</table></td>
+    <td valign="top" width="40"><img src="../../images/misc/spacer.gif" width="40" height="1"></td>
+<td valign="top" width="455"><table width="455" border="0" cellpadding="0" cellspacing="0"><!--####  RH_GRAPH  ####-->
+<tr>
+          <td>Please note that figures below are for illustrative purposes only, full written
+    		quotations are available on request at <a
+    		href="mailto:contact.us@cahoot.com">contact.us@cahoot.com</a>.</td>
+</tr>
+<tr>
+          <td align="left">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="../../images/misc/spacer.gif" width="1" height="10" border="0"></td>
+              </tr>
+              <tr>
+                <td>
+
+	<!-- Calculator -->
+            <table background="../../images/misc/calculator_bg.gif" border=0 cellspacing=0 cellpadding=0 width=438 nof=LY height="213">
+              <form name="LayoutRegion1FORM" action="" method=POST>
+                <tr valign=TOP align=LEFT> 
+                  <td colspan=3> 
+                    <table background="../../images/misc/calculator_bg_cells.gif" cellpadding=0 cellspacing=0 border=0 width=428 nof="LayoutRegion1">
+                      <tr valign=TOP align=LEFT> 
+                        <td> 
+                          <table border=0 cellspacing=0 cellpadding=0 nof="LayoutRegion1" background="../../images/misc/calculator_bg_cells.gif">
+                            <tr valign=TOP align=LEFT> 
+                              <td colspan="3" height=96><img src="../../images/misc/spacer.gif" width="273" height="8"></td>
+                            </tr>
+                            <tr valign=TOP align=LEFT> 
+                              <td><img src="../../images/misc/spacer.gif" width="15" height="2"></td>
+                              <td width="258"> 
+                                <input type=BUTTON name="FormsButton1" value="Calculate" id="FormsButton1" onClick='showmethemoney()'>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                        <td valign="top" align="right"> 
+                          <table border=0 cellspacing=0 cellpadding=0 width=154 nof="LayoutRegion1" background="../../images/misc/calculator_bg_cells.gif">
+                            <tr align=LEFT> 
+                              <td valign="bottom" align="right" height="32"> 
+                                <input id="Borrowing" type=TEXT name="Borrowing" value="" size=6 maxlength=8 onChange = showmethemoney()>
+                              </td>
+                            </tr>
+                            <tr align=LEFT> 
+                              <td valign="top"><img src="../../images/misc/spacer.gif" width=155 height=7 border=0></td>
+                            </tr>
+                            <tr align=LEFT> 
+                              <td valign="top" align="right"> 
+                                <select id="Term_Combo" name="FormsComboBox1" onChange = showmethemoney()>
+                                  <option value="60" SELECTED>60 months</option>
+                                  <option value="59">59 months</option>
+                                  <option value="58">58 months</option>
+                                  <option value="57">57 months</option>
+                                  <option value="56">56 months</option>
+                                  <option value="55">55 months</option>
+                                  <option value="54">54 months</option>
+                                  <option value="53">53 months</option>
+                                  <option value="52">52 months</option>
+                                  <option value="51">51 months</option>
+                                  <option value="50">50 months</option>
+                                  <option value="49">49 months</option>
+                                  <option value="48">48 months</option>
+                                  <option value="47">47 months</option>
+                                  <option value="46">46 months</option>
+                                  <option value="45">45 months</option>
+                                  <option value="44">44 months</option>
+                                  <option value="43">43 months</option>
+                                  <option value="42">42 months</option>
+                                  <option value="41">41 months</option>
+                                  <option value="40">40 months</option>
+                                  <option value="39">39 months</option>
+                                  <option value="38">38 months</option>
+                                  <option value="37">37 months</option>
+                                  <option value="36">36 months</option>
+                                  <option value="35">35 months</option>
+                                  <option value="34">34 months</option>
+                                  <option value="33">33 months</option>
+                                  <option value="32">32 months</option>
+                                  <option value="31">31 months</option>
+                                  <option value="30">30 months</option>
+                                  <option value="29">29 months</option>
+                                  <option value="28">28 months</option>
+                                  <option value="27">27 months</option>
+                                  <option value="26">26 months</option>
+                                  <option value="25">25 months</option>
+                                  <option value="24">24 months</option>
+                                  <option value="23">23 months</option>
+                                  <option value="22">22 months</option>
+                                  <option value="21">21 months</option>
+                                  <option value="20">20 months</option>
+                                  <option value="19">19 months</option>
+                                  <option value="18">18 months</option>
+                                  <option value="17">17 months</option>
+                                  <option value="16">16 months</option>
+                                  <option value="15">15 months</option>
+                                  <option value="14">14 months</option>
+                                  <option value="13">13 months</option>
+                                  <option value="12">12 months</option>
+                                  <option value="11">11 months</option>
+                                  <option value="10">10 months</option>
+                                  <option value="9">9 months</option>
+                                  <option value="8">8 months</option>
+                                  <option value="7">7 months</option>
+                                  <option value="6">6 months</option>
+                                  <option value="5">5 months</option>
+                                  <option value="4">4 months</option>
+                                  <option value="3">3 months</option>
+                                  <option value="2">2 months</option>
+                                  <option value="1">1 month</option>
+                                </select>
+                              </td>
+                            </tr>
+                          </table>
+                          <table border=0 cellspacing=0 cellpadding=0 width=148 nof="LayoutRegion1" background="../../images/misc/calculator_bg_cells.gif">
+                            <tr valign=TOP align=LEFT> 
+                              <td><img src="../../images/misc/spacer.gif" width=140 height=12 border=0></td>
+                            </tr>
+                            <tr valign=TOP align=LEFT> 
+                              <td align="right" height="28"> 
+                                <input id="Monthly_Repayment" type=TEXT name="Monthly Repayment" value="" size=6 maxlength=10>
+                              </td>
+                            </tr>
+                            <tr valign=TOP align=LEFT> 
+                              <td align="right" height="27"> 
+                                <input id="Loan_Term" type=TEXT name="Loan Term" value="" size=6 maxlength=10>
+                              </td>
+                            <tr valign=TOP align=LEFT> 
+                              <td align="right" height="27"> 
+                                <input id="Interest_Total" type=TEXT name="Interest Total" value="" size=6 maxlength=10>
+                              </td>
+                            </tr>
+                            <tr valign=TOP align=LEFT> 
+                              <td align="right" height="27"> 
+                                <input id="tot_paid" type=TEXT name="Total Paid to cahoot" value="" size=6 maxlength=10>
+                              </td>
+                            </tr>
+                            <tr valign=TOP align=LEFT> 
+                              <td align="right" height="27"> 
+                                <input id="MinPay" type=TEXT name="Minimum Repayment" value="" size=6 maxlength=10>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </form>
+            </table>
+	<!-- End Calculator -->
+
+                </td>
+              </tr>
+              <tr>
+                <td><img src="../../images/misc/spacer.gif" width="1" height="10" border="0"></td>
+              </tr>
+            </table>
+	  </td>
+</tr>
+<tr>
+          <td>	<sup><span style='font-size:9.0pt;font-family:Symbol;
+    		mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+   		 Arial;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+    		style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>y</span></span></sup><span
+    		style='mso-bidi-font-family:Arial;color:blue'> </span>
+		Please note if you choose to pay only the minimum amount per month, you will 
+  		not repay your loan within the term shown above.<br>
+  		Your APR<sup>†</sup> will depend on your credit rating and agreed flexible loan 
+  		limit.<br>
+  		See <font class="purple"><b><a href="../../rates_fees/frameset_rates_fees_flexible.html"
+   		 target="content_frame">rates and fees</a></b></font> for details.
+	  </td>
+</tr>
+</table>
+<table width="455" border="0" cellpadding="0" cellspacing="0"><!--#### EMPTY  ####-->
+<tr><td><img src="../../images/misc/spacer.gif" width="10" height="1" border="0"></td></tr>
+</table></td>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="1" border="0"></td>
+<td colspan="3" align="right">
+      <table cellpadding="3" cellspacing="0" border="0">
+        <tr> 
+          <td><font class="lightgreenbracket">{</font></td>
+          <td><a href="../../rates_fees/frameset_rates_fees_flexible.html" class="nav" target="content_frame">view 
+            rates and fees</a></td>
+          <td><font class="lightgreenbracket">}</font></td>
+          <td>&nbsp;</td>
+          <td><font class="lightgreenbracket">{</font></td>
+          <td><a href="https://ibank.cahoot.com/Aquarius/web/en/application/index_application.html" target="_top" class="nav">apply</a></td>
+          <td><font class="lightgreenbracket">}</font></td>
+        </tr>
+      </table>
+    </td>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="1" border="0"></td>
+</tr>
+<tr>
+<td colspan="5"><img src="../../images/misc/spacer.gif" width="1" height="22" border="0"></td>
+</tr>
+<tr>
+<td colspan="5" class="black"><img src="../../images/misc/spacer.gif" width="1" height="5" border="0"></td>
+</tr>
+
+<tr>
+<td class="grey" width="14"><img src="../../images/misc/spacer.gif" width="14" height="5" border="0"></td>
+<td class="grey" width="752" colspan="3">&nbsp;</td>
+<td class="grey" width="14"><img src="../../images/misc/spacer.gif" width="14" height="5" border="0"></td>
+</tr>
+<tr>
+<td class="grey" width="14"><img src="../../images/misc/spacer.gif" width="14" height="5" border="0"></td>
+<td class="grey" width="752" colspan="3">
+      <p><font class="smallprint">* Monthly payment calculated without optional cahoot flexible loan payment 
+	protection insurance. cahoot flexible loan payment protection covers your repayments for up to a year 
+	if you are ever made redundant or are unable to work. Payment protection premiums will be calculated 
+	on the amount that you have used, not your credit limit and will be £0.72 per £100, on the outstanding 
+	balance each month.</font></p>
+
+      <p><font class="smallprint">** Typical flexible loan 8.0% APR (variable). All rates are correct as of 
+	13 August 2001 and may vary. A minimum monthly payment is required which will be the greater of £50 
+	(or the full outstanding balance if less than £50) or 1.75% of the outstanding balance. If you are late 
+	(3 working days) in making this payment we will charge a fee of £20.00. Other charges are £2 for paper 
+	statements. A variable amount will be charged for other non-standard services provided.</font></p>
+      <p> 
+      <p><font class="smallprint"><sup>†</sup></font><font class="smallprintbold"> 
+        APR</font> <font class="smallprint"> - annual percentage rate - represents the rate for the total 
+	charge for credit as determined in accordance with the Consumer Credit Act 1974. In calculating the 
+	APRs we have ignored any changes to the interest rates, fees or charges which we may introduce or vary. 
+	The exact rate or fee will be determined by your credit rating and credit requirements. Rates correct 
+	as of 13 August 2001 and subject to variation.</font></p>
+
+      <p><font class="smallprint">All cahoot accounts are available, subject to status, to UK residents who 
+	are aged 21 or over and who have regular Internet access. Written quotations are available on request 
+	from <a href="mailto:contact.us@cahoot.com">contact.us@cahoot.com</a>.</font></p>
+
+      <p><font class="smallprint">cahoot is a division of Abbey National plc. Abbey National plc is registered 
+	in England, registered number 2294747. Registered Office: Abbey National House, 2 Triton Square, 
+	Regent’s Place, London, NW1 3AN</font></p>
+
+</td>
+<td class="grey" width="14"><img src="../../images/misc/spacer.gif" width="14" height="5" border="0"></td>
+</tr>
+
+
+<tr>
+<td class="grey" width="14"><img src="../../images/misc/spacer.gif" width="14" height="5" border="0"></td>
+<td class="grey" width="752" colspan="3">&nbsp;</td>
+<td class="grey" width="14"><img src="../../images/misc/spacer.gif" width="14" height="5" border="0"></td>
+</tr>
+</table>
+</body>
+</html>
+

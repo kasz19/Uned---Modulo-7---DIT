@@ -1,0 +1,631 @@
+ID=B0052
+URL=http://www.thechelsea.co.uk/html/aboutch_summaryfs.html
+SIZE=30660
+DATE=28/06/2002
+TIME=12:47:00
+DATASET=Building Societies
+HTML=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+	
+<head>
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+<meta name="generator" content="Adobe GoLive 4">
+<title>Chelsea Building Society</title>
+<link rel="stylesheet" href="../library/chelsea.css" type="text/css">
+<style type="text/css">
+<!--
+-->
+</style>
+</head>
+
+	<body bgcolor="white">
+<table border="0" cellpadding="0" cellspacing="2" width="100%">
+			
+  <tr> 
+    <td width="100%"> 
+      <table border="0" cellpadding="0" cellspacing="0" width="149">
+		<tr height="31"> 
+		  <td height="31" valign="bottom"><img height="33" width="186" src="../images/title_aboutch.gif" alt="About Chelsea"></td>
+		</tr>
+		<tr> 
+		  <td><u><STRONG><img height="24" width="236" src="../images/st_absumfinstate.gif" alt="Summary Financial Statement"></STRONG></u></td>
+		</tr>
+	  </table>
+      <p>This financial statement is a summary of information in the audited accounts, 
+        the directors' report and annual business statement, all of which will 
+        be available to members and depositors free of charge on demand at every 
+        office of Chelsea Building Society from 6th March 2002. 
+      <table border="0" cellpadding="0" cellspacing="0" align="right">
+		<tr> 
+          <td><img height="164" width="193" src="../images/front_sign.jpg" align="middle" alt="*"></td>
+        </tr>
+      </table>
+      <p></p>
+      <p><STRONG class="redtext">Business objective<br>
+		</STRONG>The Society's principal objective is to be a low-cost provider 
+		of retail savings and mortgages to an increasing number of customers and, 
+		in so doing, benefit the members of the Society and create secure and 
+		rewarding employment.</p>
+      <p>A fundamental part of this objective is the desire to increase the number 
+        of members by providing appropriate products, and levels of customer service, 
+        that encourage new members to join and existing ones to remain with the 
+        Society. 2001 proved to be highly successful in this respect and both 
+        investors and borrowers were able to enjoy the fruits of building society 
+        membership.<br>
+      </p>
+      <p><STRONG><span class="redtext">Benefiting from membership of a building 
+		society</span><br>
+		</STRONG>Being a building society, the Chelsea doesn't have equity shareholders 
+		to whom it would pay dividends. Instead it can use this money to provide 
+		better rates to its investors and borrowers. Record mortgage advances 
+		and investment inflows confirm the success of this strategy.</p>
+      <p><STRONG><span class="redtext">Borrowers</span><br>
+		</STRONG>The number of borrowing members increased to 81,800 as gross 
+		lending rose to &pound;1,256m - the tenth successive year in which such 
+		lending has reached a record level and significantly greater than the 
+		Society's natural market share*. This was achieved through a range of 
+		competitive mortgage products:</p>
+      <ul>
+        <li>The Cashback mortgage continued to be popular and was supplemented 
+          by Two Year Fixed Rate products which were in high demand as borrowers 
+          sought to take advantage of low interest rates throughout the year.</li>
+        <li>The Prospect mortgage yet again proved successful. This product has 
+          been tailored to meet the needs of individuals who, for various reasons, 
+          have a blemished financial record but whose current circumstances indicate 
+          that their difficulties are behind them.</li>
+        <li> A series of factors, not least the steady rise in property values, 
+          has led to a rise in demand for rented housing. Many have seen this 
+          as an opportunity to acquire property as an investment and the Society's 
+          Buy-to-Let mortgage has been successful in meeting this demand. </li>
+      </ul>
+      <p><STRONG class="redtext">Investors<br>
+		</STRONG>Whilst borrowers benefited from falling interest rates, 2001 
+		was a difficult year for investors: UK interest rates were low and falling 
+		and stock markets suffered significant falls in value as global recession 
+		loomed and uncertainties abounded following the terrorist attacks in the 
+		United States on September 11th.</p>
+      <p>Competition for retail savings was intense as investors tried to obtain 
+        the most attractive rate of interest against a background of low absolute 
+        returns. Nevertheless, the Society's continuing drive to offer interest 
+        rates to investors that are generally above the industry average, ensured 
+        that retail funds receipts were buoyant with the number of investment 
+        accounts increasing by 10% to 488,700. Fixed Interest Rate Bonds and the 
+        Society's Mini Cash <ACRONYM title="Individual Savings Account">ISA</ACRONYM> product proved to be particularly popular, as 
+        did the Call Direct range of accounts. The latter are operated by telephone, 
+        providing investors with both attractive interest rates and the ability 
+        to operate their accounts from the comfort of their own homes. </p>
+      <p>In uncertain times investors seek security, and the attractions of investing 
+        with a building society come to the fore. Membership of the Society provides 
+        investors with a secure haven for their money whilst providing the benefits 
+        of interest rates that are boosted by not having to pay dividends to equity 
+        shareholders.</p>
+      <p><STRONG><span class="redtext">Distribution</span><br>
+		</STRONG>The Society remains committed to providing members with access 
+		to the Society's products and services in ways that suit their personal 
+		needs. </p>
+      <p>Upgrading of the branch network continued: a new branch was opened in 
+        Southampton; the City branch was relocated from Gresham Street to a better 
+        site in larger accommodation in Eastcheap; the branch in South Street, 
+        Exeter was relocated to larger premises; and four other branches were 
+        refurbished. The branch network plays an important role for members who 
+        seek to transact on a face-to-face basis. Branch upgrades and the introduction 
+        of new branch technology provide a clear signal that the Society is committed 
+        to retaining and expanding its branch network. </p>
+      <p>Prospective borrowers with no access to the Society's branch network 
+        are able to contact our telephone sales team who provide a simple route 
+        to purchasing the Society's mortgage products. The telephone, combined 
+        with postal facilities, has also been a major force in providing access 
+        to retail investment products for investors. The resounding success of 
+        the Call Direct distribution channel was testimony to this.</p>
+      <p>The Society's use of the internet for customer and business communication 
+        has increased steadily. The Board believes, as with any new business proposal, 
+        that use of the internet must be supported by a sound business justification 
+        throughout the year. Mortgage intermediaries will soon be able to take 
+        advantage of an internet facility that will accelerate loan application 
+        decisions.</p>
+      <p><STRONG><span class="redtext">Financial performance</span><br>
+		</STRONG>Another year of record gross lending resulted in a rise in total 
+		assets of over 11% to &pound;5.9 billion. </p>
+      <p>The Chelsea, unlike its plc counterparts, does not seek to maximise profits. 
+        Instead sufficient profits are generated to enable the Society to grow 
+        and prosper whilst ensuring that financial stability is maintained. In 
+        2001 pre-tax profits were &pound;44.4m, an increase of 2% on the previous 
+        year. Interest margins (essentially the difference between the amount 
+        of interest received from borrowers and paid to investors) continue to 
+        fall throughout the industry and in such circumstances, attention must 
+        focus on other sources of income and also on strict cost control. </p>
+      <p>For a number of years the Society has achieved consistent growth in non-interest 
+        income and 2001 was no exception. Significant improvements in efficiency 
+        were also a highlight of the year. The management expense ratio is a key 
+        measure of the Society's efficiency in running its business and this ratio 
+        fell for the ninth consecutive year from 0.76% to 0.72%. Relative efficiency 
+        in generating income is measured by the 'costs-to-income' ratio. In 2001 
+        this ratio fell to 46.7%, one of the lowest ratios' in the building societies 
+        sector.</p>
+      <p><STRONG><span class="redtext">Future developments</span><br>
+		</STRONG>The Board's commitment to delivering tangible benefits to members 
+		is based on its view that, by remaining a building society, it is better 
+		placed to provide competitive retail savings and mortgage rates. The Society 
+		will continue its strategy of concentrating on these core building society 
+		activities but, in doing so, will develop further non-margin income streams 
+		where they relate to the core business. In 2002, for example, a new insurance 
+		system will be introduced which will provide increased potential for the 
+		sale of a range of insurance products to new and existing customers. </p>
+      <table width="20%" border="0" align="left">
+        <tr>
+          <td><img src="../images/womanchild_branch.jpg" width="144" height="200" alt="*"></td>
+        </tr>
+      </table>
+      <p>The process of upgrading the branch network will be sustained until all 
+        branch offices have been refurbished to the Society's exacting standards. 
+        In some cases branches will be relocated to more suitable sites and, where 
+        business potential justifies it, further new branches will be opened. 
+      </p>
+      <p>The Society will strive to provide members with enhanced services, a 
+        caring approach and an interest rate advantage that only a building society 
+        can offer. These objectives combine to create a powerful position from 
+        which to prosper in an increasingly competitive marketplace. The Board 
+        is confident that the Society can continue to grow from strength to strength 
+        for the benefit of both its members and staff without whom its success 
+        would not be possible.</p>
+      <p>*Based on figures for all building societies published by the Building 
+        Societies Association.</p>
+      <p class="redsubtitle">Results for the year ended 31st December 2001</p>
+      <table width="95%" border="0" title="Results for the year ended 31st December 2001" summary="Table shows results for year ended 31st December 2001 against results for year ended 31st December 2000.">
+		<tr> 
+		  <td width="65%" class="ttrow">&nbsp;</td>
+		  <th width="15%" class="ttrow" scope="col"> 
+			<div align="right">2001</div>
+		  </th>
+		  <th width="15%" class="ttrow" scope="col"> 
+			<div align="right">2000</div>
+		  </th>
+		</tr>
+		<tr> 
+		  <td width="65%" class="ttrow">&nbsp;</td>
+		  <th width="15%" class="ttrow" scope="col"> 
+			<div align="right">&pound;m</div>
+		  </th>
+		  <th width="15%" class="ttrow" scope="col"> 
+			<div align="right">&pound;m</div>
+		  </th>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Net interest receivable</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>77.8</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">73.5</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Other income and charges</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>9.2</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">8.2</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Administrative expenses</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>(40.6)</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">(38.4)</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Provisions</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>(2.0)</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">(0.1)</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Profit for the year before 
+			taxation</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>44.4</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">43.2</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Taxation</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>(13.5)</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">(12.9)</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Profit for the year</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>30.9</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">30.3</div>
+		  </td>
+		</tr>
+	  </table>
+	  <p><STRONG class="redsubtitle">Financial position at the end of the year</STRONG></p>
+      <table width="95%" border="0" title="Financial position at the end of the year." summary="Tables show financial position at the end of 2001 against financial position at the end of the 2000.">
+		<tr> 
+		  <td width="65%" class="ttrow">&nbsp;</td>
+		  <th width="15%" class="ttrow" scope="col"> 
+			<div align="right">2001</div>
+		  </th>
+		  <th width="15%" class="ttrow" scope="col"> 
+			<div align="right">2000</div>
+		  </th>
+		</tr>
+		<tr> 
+		  <td width="65%" class="ttrow">&nbsp;</td>
+		  <th width="15%" class="ttrow" scope="col"> 
+			<div align="right">&pound;m</div>
+		  </th>
+		  <th width="15%" class="ttrow" scope="col"> 
+			<div align="right">&pound;m</div>
+		  </th>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="col"> <STRONG>Assets</STRONG></th>
+		  <td width="15%" class="tableitem">&nbsp; </td>
+		  <td width="15%" class="tableitem">&nbsp; </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Liquid assets</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>1,288.9</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">1,134.5</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Mortgages</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>4,511.0</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">4,090.1</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Fixed and other assets</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>115.9</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">79.8</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Total Assets</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>5,915.8</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">5,304.4</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="col"> <STRONG>Liabilities</STRONG></th>
+		  <td width="15%" class="tableitem">&nbsp; </td>
+		  <td width="15%" class="tableitem">&nbsp; </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Shares</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>5,264.6</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">4,381.7</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Borrowings</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>260.3</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">577.0</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Other liabilities</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>49.2</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">42.8</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Subordinated liabilities</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>29.6</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">29.5</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Reserves</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>295.0</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">264.1</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Revaluation reserve</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>17.1</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">9.3</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Total Liabilities</th>
+		  <td width="15%" class="tableitem"> 
+			<div align="right"><STRONG>5,915.8</STRONG></div>
+		  </td>
+		  <td width="15%" class="tableitem"> 
+			<div align="right">5,304.4</div>
+		  </td>
+		</tr>
+	  </table>
+	  <p><STRONG class="redsubtitle">Summary of key financial ratios</STRONG> </p>
+      <table width="95%" border="0" title="Summary of Key Financial Ratios" summary="Table shows the key financial ratios for 2001 against the year 2000.">
+		<tr> 
+		  <td width="65%" class="ttrow">&nbsp;</td>
+		  <th width="15%" class="ttrow" scope="col"> 
+			<div align="right">2001</div>
+		  </th>
+		  <th width="15%" class="ttrow" scope="col"> 
+			<div align="right">2000</div>
+		  </th>
+		</tr>
+		<tr> 
+		  <td width="65%" class="ttrow">&nbsp;</td>
+		  <th width="15%" class="ttrow" scope="col"> 
+			<div align="right">%</div>
+		  </th>
+		  <th width="15%" class="ttrow" scope="col"> 
+			<div align="right">%</div>
+		  </th>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Gross capital as a percentage 
+			of shares and borrowings<br>
+			(the gross capital ratio) </th>
+		  <td width="15%" valign="top" class="tableitem"> 
+			<div align="right"><STRONG>6.2</STRONG></div>
+		  </td>
+		  <td width="15%" valign="top" class="tableitem"> 
+			<div align="right">6.1</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Liquid assets as a percentage 
+			of shares and borrowings<br>
+			(the liquid assets ratio) </th>
+		  <td width="15%" valign="top" class="tableitem"> 
+			<div align="right"><STRONG>23.3</STRONG></div>
+		  </td>
+		  <td width="15%" valign="top" class="tableitem"> 
+			<div align="right">22.9</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Profit for the year as 
+			a percentage of mean total assets<br>
+			(the profit ratio) </th>
+		  <td width="15%" valign="top" class="tableitem"> 
+			<div align="right"><STRONG>0.55</STRONG></div>
+		  </td>
+		  <td width="15%" valign="top" class="tableitem"> 
+			<div align="right">0.60</div>
+		  </td>
+		</tr>
+		<tr> 
+		  <th width="65%" class="tableitem" scope="row"> Management expenses as 
+			a percentage of mean total assets<br>
+			(the management expenses ratio)</th>
+		  <td width="15%" valign="top" class="tableitem"> 
+			<div align="right"><STRONG>0.72</STRONG></div>
+		  </td>
+		  <td width="15%" valign="top" class="tableitem"> 
+			<div align="right">0.76</div>
+		  </td>
+		</tr>
+	  </table>
+	  <ul>
+        <li><STRONG>The gross capital ratio</STRONG> measures the relationship between the 
+          Society's capital and its liabilities to investors and provides a relative 
+          indicator of the Society's financial strength.<br>
+          The Society's capital comprises: 
+          <ul>
+            <li><STRONG>reserves</STRONG> - profits which have accumulated over many years; 
+            </li>
+            <li><STRONG>revaluation reserve</STRONG> - the amount by which the current value 
+              of the Society's property assets exceed their original cost; and 
+            </li>
+            <li><STRONG>subordinated liabilities</STRONG> - amounts borrowed from other 
+              financial institutions under such terms that permit their inclusion 
+              as a capital resource.<br>
+            </li>
+          </ul>
+        </li>
+        <li><STRONG>The liquid assets ratio</STRONG> measures the proportion which liquid 
+          assets bear to the Group's liabilities to investors. Liquid assets enable 
+          a society to meet requests by investors to withdraw their money, to 
+          make new loans to borrowers and to fund general business activities.<br>
+        </li>
+        <li><STRONG>The profit ratio</STRONG> measures the relationship of profit after 
+          taxation to average total assets during the year. It is a measure of 
+          a society's efficiency in creating the level of profits required to 
+          maintain capital ratios at suitable levels and to protect the interests 
+          of investors. <br>
+        </li>
+        <li><STRONG>The management expenses ratio</STRONG> measures the proportion of the 
+          Society's administration expenses to the average of total assets. It 
+          is a measure of the Society's efficiency.</li>
+      </ul>
+      <p><STRONG><span class="redsubtitle">Board Approval</span></STRONG> <br>
+        This summary financial statement was approved by the Board on 31st January 
+        2002.<br>
+        <STRONG>T Barry</STRONG> (Chairman), <STRONG>M Bage</STRONG> (Director and Chief Executive), 
+        <STRONG>PJ Walsh</STRONG> (Director and General Manager).</p>
+      <p class="redsubtitle"><u>Independent Auditor's Statement to the Members 
+        and Depositors of Chelsea Building society</u></p>
+      <p>We have examined the summary financial statement of Chelsea Building 
+        Society.</p>
+      <p><STRONG><span class="redtext">Respective responsibilities of directors 
+		and auditors</span></STRONG><br>
+        The summary financial statement is the responsibility of the directors. 
+        Our responsibility is to report to you our opinion on its consistency 
+        with the full annual accounts, annual business statement and directors' 
+        report and its conformity with the requirements of Section 76 of the Building 
+        Societies Act 1986 and regulations made under it. </p>
+      <p><STRONG><span class="redtext">Basis of opinion</span><br>
+		</STRONG>We perform our work in accordance with Bulletin 1999/6 'The auditors' 
+		statement on the summary financial statement' issued by the Auditing Practices 
+		Board for use in the United Kingdom. </p>
+      <p><STRONG><span class="redtext">Opinion</span><br>
+		</STRONG>In our opinion the summary financial statement is consistent 
+		with the full annual accounts, annual business statement and directors' 
+		report of Chelsea Building Society Group for the year ended 31st December 
+		2001 and conforms with the requirements of Section 76 of the Building 
+		Societies Act 1986 and regulations made under it.</p>
+      <p>PricewaterhouseCoopers<br>
+        31st January 2002<br>
+        Chartered Accountants and Registered Auditors, Bristol. <br>
+        <br>
+		<STRONG class="redtext">Notes</STRONG></p>
+      <table width="95%" border="0">
+        <tr>
+          <td width="5%" valign="top">a)</td>
+          <td width="95%">The maintenance and integrity of the Chelsea Building 
+            Society website is the responsibility of the directors; the work carried 
+            out by the auditors does not involve consideration of these matters 
+            and, accordingly, the auditors accept no responsibility for any changes 
+            that may have occurred to the financial statements since they were 
+            initially presented on the website.</td>
+        </tr>
+        <tr>
+          <td width="5%" valign="top">b)</td>
+          <td width="95%">Legislation in the United Kingdom governing the preparation 
+            and dissemination of financial statements may differ from legislation 
+            in other jurisidictions.</td>
+        </tr>
+      </table>
+      <p><span class="redsubtitle">Board of Directors</span><br>
+		The Society's Board of Directors comprises six non-Executive Directors 
+		and three Executive Directors. Collectively they offer a broad range of 
+		expertise and experience that is essential to the management of the Society 
+		in the highly competitive UK financial services market.</p>
+      <p>The Board continues to review the arguments for conversion and has again 
+        concluded that the interest of both present and future members are best 
+        served by operating as a mutual building society.</p>
+      <table border="0" align="right">
+        <tr>
+          <td>
+            <div align="right"><img src="../images/photo34.jpg" width="350" height="155" alt="Michael Bage, Timothy Barry and Stephen Hoole"></div>
+          </td>
+        </tr>
+      </table>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p><STRONG>Michael Bage</STRONG> Chief Executive, is a chartered secretary. He joined 
+        the Society in 1973 and, following a series of senior management appointments, 
+        took up his present position in December 1979. He was appointed to the 
+        Board on 8th September 1983 and is also a director of Chelsea Mortgage 
+        Services Ltd and Chelsea Building Society Charitable Foundation. Born 
+        7th January 1945.</p>
+      <p><STRONG>Timothy Barry</STRONG> Chairman, is a chartered accountant. He joined the 
+        Board on 1st July 1988 following the merger with The City of London Building 
+        Society and was elected Chairman in May 2000. He is also a director of 
+        Innishannon Trustees Ltd. Born 18th June 1937.</p>
+      <p><STRONG>Stephen Hoole</STRONG> Senior General Manager, joined the Society in 1973 
+        and was initially responsible for developing the Society's computer systems. 
+        He took up his present position in 1989 and is now responsible for customer 
+        services, marketing and distribution. He was appointed to the Board on 
+        1st May 1992. He is also a director of Chelsea Mortgage Services Ltd. 
+        Born 18th November 1949.</p>
+      <table border="0">
+        <tr>
+          <td>
+            <div align="left"><img src="../images/photo35.jpg" width="350" height="155" align="left" alt="Peter Walsh, Bill Blackburn and Ian Chater"></div>
+          </td>
+        </tr>
+      </table>
+      <p><STRONG>Peter Walsh</STRONG> General Manager (Finance and Planning), is a chartered accountant. 
+        He joined the Society in 1979 as Internal Auditor and became Chief Accountant 
+        in 1981. He is now responsible for finance, treasury and co-ordination 
+        of business planning. He was appointed to the Board on 1st May 1992. Other 
+        directorships include CBS Insurance Ltd and Chelsea Mortgage Services 
+        Ltd. Born 2nd October 1951.</p>
+      <p><STRONG>Bill Blackburn OBE</STRONG> is a solicitor. He was appointed to the Board 
+        on 1st June 1993 having previously held the position of Company Secretary 
+        of IBM (UK). He is a Chevalier of the French Legion of Honour and Chairman 
+        of the British Council Law Advisory Committee and a non-executive director 
+        of Oc&eacute; (UK) Ltd, Legal Exchange &amp; Development Corporation Ltd 
+        and Franco-British Lawyers Society Ltd. Born 23rd December 1932.</p>
+      <p><STRONG>Ian Chater</STRONG> was appointed to the Board on 26th May 1987. He is 
+        a prominent house builder in East Anglia and has been actively involved 
+        in local government with particular interests in housing and planning. 
+        Other directorships include Chater Land Holdings Ltd, Chater Holdings 
+        Ltd and John Chater, Chaterson Ltd. Born 16th October 1953.</p>
+      <table border="0" align="right">
+        <tr>
+          <td>
+            <div align="right"><img src="../images/photo36.jpg" width="350" height="155" align="right" alt="Trevor Harrison, John Williams and Jean Wood"></div>
+          </td>
+        </tr>
+      </table>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p><STRONG>Trevor Harrison</STRONG> is a chartered accountant. He was appointed to 
+        the Board on 1st October 1994 having spent most of his career with ICI 
+        in a variety of senior finance, treasury and planning positions. He is 
+        a past President of the Association of Corporate Treasurers and is a non-executive 
+        director of TelMe Group plc, the UK Atomic Energy Authority, Prebon Group 
+        Ltd and The University of Hertfordshire. Born 13th July 1939.</p>
+      <p><STRONG>John Williams</STRONG> Deputy Chairman, is a solicitor. He is a partner 
+        in the City law firm of Taylor Joynson Garrett and specialises in taxation 
+        and financial planning. He was appointed to the Board on 1st June 1993 
+        and was elected Deputy Chairman in June 2000. Other directorships include 
+        Hall &amp; Woodhouse Ltd, Dyer Securities Ltd and TJG Trustee Company 
+        Ltd. Born 17th December 1936.</p>
+      <p><STRONG>Jean Wood</STRONG> was appointed to the Board on 1st January 2001. She 
+        has held director level appointments in the life assurance industry and 
+        has experience of sales and marketing, administration and compliance. 
+        She is a non-executive director of the Equitable Life Assurance Society. 
+        Born 6th September 1942.<br>
+      </p>
+      <p>&nbsp; </p>
+    </td>
+			</tr>
+		</table>
+	</body>
+
+</html>
+

@@ -1,0 +1,613 @@
+ID=A0014
+URL=http://www.hfcbank.co.uk/careers/cv_request.htm
+SIZE=22824
+DATE=27/06/02
+TIME=16:50:08
+DATASET=Commercial Banks
+HTML=<!-- saved from url=(0022)http://internet.e-mail -->
+<!-- saved from url=(0022)http://internet.e-mail -->
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html>
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<script Language="JavaScript"><!--
+function validateCV(theForm)
+{
+
+  if (theForm.cv_textfield.value == "")
+  {
+    alert("Please copy and paste your CV.");
+    theForm.cv_textfield.focus();
+    return (false);
+  }
+
+return true;
+}
+
+function validator(theForm)
+{
+
+  if (theForm.clientTitle.selectedIndex == 0)
+  {
+    alert("Please select your title.");
+    theForm.clientTitle.focus();
+    return (false);
+  }
+
+  if (theForm.firstName.value == "")
+  {
+    alert("Please supply your first name(s).");
+    theForm.firstName.focus();
+    return (false);
+  }
+
+  if (theForm.lastName.value == "")
+  {
+    alert("Please supply your last name.");
+    theForm.lastName.focus();
+    return (false);
+  }
+
+  if (theForm.address1.value == "")
+  {
+    alert("Please supply your full address!");
+    theForm.address1.focus();
+    return (false);
+  }
+
+  if (theForm.address2.value == "")
+  {
+    alert("Please supply your full address!");
+    theForm.address2.focus();
+    return (false);
+  }
+
+
+  if (theForm.postcode.value == "")
+  {
+    alert("Please supply your postcode!");
+    theForm.postcode.focus();
+    return (false);
+  }
+//
+// the fields that follow are the optional ones (less than 5 years address) 
+//
+
+  if (theForm.homePhone.value == "")
+  {
+    alert("Please supply your telephone number!");
+    theForm.homePhone.focus();
+    return (false);
+  }
+
+//optional mobile, fax
+//? email
+
+  if (theForm.objectives.value == "")
+  {
+    alert("Please tell us why you want to work for HFC!");
+    theForm.objectives.focus();
+    return (false);
+  }
+
+// The rest could be optional?
+
+  return (true);
+}
+//-->
+</script>
+
+<title>Careers with HFC</title>
+
+<meta name="Microsoft Border" content="none"></head>
+
+<body bgcolor="#307278" text="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" link="#FFFFFF" vlink="#FFFFFF">
+  <div align="left"><font face="Arial, Helvetica, sans-serif" size="3"> </font> 
+  </div>
+  <TABLE width="100%" height="100" ALIGN="CENTER" >
+    <TR align="center">
+      <TD width= "100%" height="100" align="left"><font face="Arial, Helvetica, sans-serif" size="2"> 
+        HFC Bank is always looking for talented individuals to join the Group. 
+        If you would like to be considered for any positions currently available, 
+        please send us your Curriculum Vitae. <br>
+        This can be sent by post to:</font> </TD>
+</TR>
+</TABLE>
+  <TABLE width="100%" height="100" ALIGN="CENTER" >
+    <TR> 
+      <TD><font size="2" face="Arial, Helvetica, sans-serif"><B>Human Resources 
+        Department</B></font></TD>
+    </TR>
+    <TR> 
+      <TD><font size="2" face="Arial, Helvetica, sans-serif"><B>HFC Bank plc</B></font></TD>
+    </TR>
+    <TR> 
+      <TD><font size="2" face="Arial, Helvetica, sans-serif"><B>North Street</B></font></TD>
+    </TR>
+    <TR> 
+      <TD><font size="2" face="Arial, Helvetica, sans-serif"><B>Winkfield</B></font></TD>
+    </TR>
+    <TR> 
+      <TD><font size="2" face="Arial, Helvetica, sans-serif"><B>Windsor</B></font></TD>
+    </TR>
+    <TR> 
+      <TD><font size="2" face="Arial, Helvetica, sans-serif"><B>Berkshire SL4 
+        4TD</B></font></TD>
+    </TR>
+  </TABLE>
+<BR>
+<form action="/scripts/perl-mail.pl" method="post" onSubmit="return validateCV(this)" name="CV_copy_and_paste">
+  
+  <INPUT TYPE="hidden" name="from" value="web@company.co.uk">
+  <INPUT TYPE="hidden" name="mailsubj" value="Sent us your CV">
+  <INPUT TYPE="hidden" name="mailto" value="kathy.schofield@hfcbank.co.uk">
+  <INPUT TYPE="hidden" name="submitted" value="/thankyou.htm">
+  <INPUT TYPE="hidden" name="textareas" value="txtMessage">
+ <INPUT TYPE="hidden" name="name" value="careers">
+  <table width="100%" height="80" align="CENTER" >
+    <tr align="center"> 
+      <td width= "100%" height="80" align="left"> 
+        <p><font face="Arial, Helvetica, sans-serif" size="2"> Or simply copy 
+          and paste your CV into the following free-form box:<br>
+          <br>
+          <textarea name="cv_textfield" rows="5" cols="35"></textarea>
+          </font></p>
+      </td>
+    </tr>
+  </table>
+  &nbsp;<br>
+  &nbsp; 
+  <input type="submit" name="Submit" value="Submit CV">
+  <input type="reset" name="Submit2" value="Clear CV">
+</form>
+  <table width="100%" height="80" align="CENTER" >
+    <tr align="center"> 
+      <td width= "100%" height="80" align="left"><font face="Arial, Helvetica, sans-serif" size="2"> 
+        Alternatively fill out and submit the following form: (You can contact 
+        our Human Resources Department on 01344 890000)</font> </td>
+    </tr>
+  </table>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+<form action="/scripts/perl-mail.pl" method="post" onSubmit="return validator(this)" name="CV">
+  
+  <INPUT TYPE="hidden" name="from" value="web@company.co.uk">
+  <INPUT TYPE="hidden" name="mailsubj" value="Sent us your CV">
+  <INPUT TYPE="hidden" name="mailto" value="kathy.schofield@hfcbank.co.uk">
+  <INPUT TYPE="hidden" name="submitted" value="/thankyou.htm">
+  <INPUT TYPE="hidden" name="textareas" value="txtMessage">
+ <INPUT TYPE="hidden" name="name" value="careers">
+  <TABLE width="100%" border="0" height="200" align="center">
+    <TR align="center"> 
+      <TD width= "545" height="20" align="left" colspan="2"><font face="Arial, Helvetica, sans-serif" size="3"><b><font size="2">Personal 
+        Details</font></b></font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "116" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Title</font></div>
+      </TD>
+      <TD width= "429" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="2">  
+        <select NAME="clientTitle" size="1">
+          <option selected VALUE="Title">Title</option>
+          <option VALUE="Mr">Mr</option>
+          <option VALUE="Mrs">Mrs</option>
+          <option VALUE="Miss">Miss</option>
+          <option VALUE="Ms">Ms</option>
+          <option VALUE="Other">Other</option>
+        </select></font>
+      </TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "116" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">First 
+          Name</font></div>
+      </TD>
+      <TD width= "429" height="20"  align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="firstName" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "116" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Last 
+          Name</font></div>
+      </TD>
+      <TD width= "429" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="lastName" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "116" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Current 
+          Address</font></div>
+      </TD>
+      <TD width= "429" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="address1" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "116" height="20" align="left"> 
+        <div align="right"></div>
+      </TD>
+      <TD width= "429" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="address2" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "116" height="20" align="left"> 
+        <div align="right"></div>
+      </TD>
+      <TD width= "429" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="address3" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "116" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Postcode</font></div>
+      </TD>
+      <TD width= "429" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="postcode" size="8">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "116" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Home 
+          Phone Number</font></div>
+      </TD>
+      <TD width= "429" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <input type="text" name="homePhone" size="15">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "116" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Mobile 
+          Number</font></div>
+      </TD>
+      <TD width= "429" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <input type="text" name="mobileTB" size="15">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "116" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Fax 
+          Number</font></div>
+      </TD>
+      <TD width= "429" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <input type="text" name="faxTB" size="15">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "116" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">E-mail 
+          Address</font></div>
+      </TD>
+      <TD width= "429" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <input type="text" name="emailTB" size="20">
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="30" align="center">
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="2">(If 
+        less than 5 years, please complete Previous Address Section below)</font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="200" align="center">
+    <TR align="center"> 
+      <TD width= "22%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Previous 
+          Address</font></div>
+      </TD>
+      <TD width= "78%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="ifaddress1" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "22%" height="20" align="left"> 
+        <div align="right"></div>
+      </TD>
+      <TD width= "78%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="ifaddress2" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "22%" height="20" align="left"> 
+        <div align="right"></div>
+      </TD>
+      <TD width= "78%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="ifaddress3" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "22%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Postcode</font></div>
+      </TD>
+      <TD width= "78%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="ifpostcode" size="8">
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="40" align="center">
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="2">Objective 
+        (Please enter a brief description of the type of career or position you 
+        are seeking)</font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <TEXTAREA NAME="objectives" ROWS="5" COLS="35"></TEXTAREA>
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="20" align="center">
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left" nowrap><font face="Arial, Helvetica, sans-serif" size="3"><font size="2">Educational 
+        Background</font></font></TD>
+    </TR>
+  </TABLE>
+  <TABLE width="100%" border="0" height="20" align="center">
+    <TR align="center"> 
+      <TD width= "24%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">University</font></div>
+      </TD>
+      <TD width= "76%" height="20"  align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="uniTB" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "24%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Dates 
+          of Attendance</font></div>
+      </TD>
+      <TD width= "76%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="datesUniTB" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "24%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Course</font></div>
+      </TD>
+      <TD width= "76%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="courseUniTB" size="20">
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="40" align="center">
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="2">List 
+        Qualifications</font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <TEXTAREA NAME="qualsUniTA" ROWS="5" COLS="35"></TEXTAREA>
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="60" align="center">
+    <TR align="center"> 
+      <TD width= "22%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">School</font></div>
+      </TD>
+      <TD width= "78%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="schoolTB" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "22%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Dates 
+          of Attendance</font></div>
+      </TD>
+      <TD width= "78%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="datesSchoolTB" size="20">
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="20" align="center">
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="2">List 
+        Qualifications</font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <TEXTAREA NAME="qualsSchoolTA" ROWS="5" COLS="35"></TEXTAREA>
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="100" align="center">
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left" colspan="2"><font face="Arial, Helvetica, sans-serif" size="3"><font size="2">Employment 
+        History</font></font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "22%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Name 
+          of Employer</font></div>
+      </TD>
+      <TD width= "78%" height="20"  align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="employer1NameTB" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "22%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Dates 
+          of Employment</font></div>
+      </TD>
+      <TD width= "78%" height="20"  align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="employ1DatesTB" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "22%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Job 
+          Title</font></div>
+      </TD>
+      <TD width= "78%" height="20"  align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="job1TitleTB" size="20">
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="20" align="center">
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="2">Key 
+        Responsibilities/Accomplishments</font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <TEXTAREA NAME="accomp1TA" ROWS="5" COLS="35"></TEXTAREA>
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="100" align="center">
+    <TR align="center"> 
+      <TD width= "26%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Name 
+          of Employer</font></div>
+      </TD>
+      <TD width= "74%" height="20"  align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="employer2NameTB" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "26%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Dates 
+          of Employment</font></div>
+      </TD>
+      <TD width= "74%" height="20"  align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="employ2DatesTB" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "26%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Job 
+          Title</font></div>
+      </TD>
+      <TD width= "74%" height="20"  align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="job2TitleTB" size="20">
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="20" align="center">
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="2">Key 
+        Responsibilities/Accomplishments</font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <TEXTAREA NAME="accomp2TA" ROWS="5" COLS="35"></TEXTAREA>
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="100" align="center">
+    <TR align="center"> 
+      <TD width= "26%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Name 
+          of Employer</font></div>
+      </TD>
+      <TD width= "74%" height="20"  align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="employer3NameTB" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "26%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Dates 
+          of Employment</font></div>
+      </TD>
+      <TD width= "74%" height="20"  align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="employ3DatesTB" size="20">
+        </font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "26%" height="20" align="left"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">Job 
+          Title</font></div>
+      </TD>
+      <TD width= "74%" height="20"  align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <INPUT TYPE="text" NAME="job3TitleTB" size="20">
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="20" align="center">
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="2">Key 
+        Responsibilities/Accomplishments</font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <TEXTAREA NAME="accomp3TA" ROWS="5" COLS="35"></TEXTAREA>
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="20" align="center">
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="2">Interests/Hobbies 
+        (Please list your current social activities)</font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <TEXTAREA NAME="interestsTA" ROWS="5" COLS="35"></TEXTAREA>
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" border="0" height="20" align="center">
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="2">Sell 
+        Yourself (In a few words, please tell us what you will bring to HFC Bank 
+        )</font></TD>
+    </TR>
+    <TR align="center"> 
+      <TD width= "100%" height="20" align="left"><font face="Arial, Helvetica, sans-serif" size="3"> 
+        <TEXTAREA NAME="sellYourselfTA" ROWS="5" COLS="35"></TEXTAREA>
+        </font></TD>
+    </TR>
+  </TABLE>
+  <font size="2" face="Arial, Helvetica, sans-serif"><BR>
+  </font> 
+  <TABLE width="100%" height="30" ALIGN="CENTER" >
+    <TR align="center"> 
+      <TD width= "100%" height="30" align="left"><font face="Arial, Helvetica, sans-serif" size="2"> 
+        HFC is an equal opportunities employer.</font> </TD>
+    </TR>
+  </TABLE>
+  <p> <br>
+      <INPUT TYPE="submit" value="Submit Form">
+      &nbsp;&nbsp;&nbsp; 
+      <INPUT TYPE="reset" value="Clear Form">
+    </p>
+</form>
+    <p><font size="1" face="Arial, Helvetica, sans-serif">HFC Bank plc. A member 
+      of the Household International Group of companies. Registered Office: North 
+      Street, Winkfield, Windsor, Berkshire, SL4 4TD. Registered in England number 
+      1117305</font><BR>
+    </p>
+  </body>
+</html>
+

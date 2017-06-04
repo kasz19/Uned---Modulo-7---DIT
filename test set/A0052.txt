@@ -1,0 +1,1251 @@
+ID=A0052
+URL=http://www.ybonline.co.uk/personal/385.php
+SIZE=79939
+DATE=27/06/02
+TIME=16:51:13
+DATASET=Commercial Banks
+HTML=
+<html>
+<head>
+<title>Yorkshire Bank</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../css/nag.css" type="text/css">
+</head>
+<body margin="0" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+<script language = "JavaScript">
+<!--//
+function preloader(){return;}
+b1 = new Image(110,34);
+b1.src = "/g_images/1b_personal.gif";
+b1 = new Image(110,34);
+b1.src = "/g_images/1b_personal_r.gif";
+b2 = new Image(110,34);
+b2.src = "/g_images/1b_business.gif";
+b2 = new Image(110,34);
+b2.src = "/g_images/1b_business_r.gif";
+b3 = new Image(110,34);
+b3.src = "/g_images/1b_aboutus.gif";
+b3 = new Image(110,34);
+b3.src = "/g_images/1b_aboutus_r.gif";
+b4 = new Image(110,34);
+b4.src = "/g_images/1b_ibank.gif";
+b4 = new Image(110,34);
+b4.src = "/g_images/1b_ibank_r.gif";
+b5 = new Image(110,34);
+b5.src = "/g_images/1b_share.gif";
+b5 = new Image(110,34);
+b5.src = "/g_images/1b_share_r.gif";
+//-->
+</script><script type="text/javascript" language="Javascript">
+<!--
+function viewper() {
+	
+	window.open("/index_dis.php","myWindow","scrollbars=yes, width=400 ,height=500, menubar=yes");
+}
+
+function POP() {
+popup = window.open('http://www.ybonline.co.uk/yb_demo/html/index.htm','Demo','width=696,height=492,top=0,left=0,toolbar=yes,location=no,status=yes,menubar=no,scrollbars=yes,resizable=yes');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+}
+
+function POPLOG() {
+popup = window.open('http://ib.ybonline.co.uk/login.jsp','popUp','width=696,height=492,top=0,left=0,toolbar=no,location=no,status=yes,menubar=no,scrollbars=no,resizable=no');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+}
+
+function ibankPOP() {
+popup = window.open('http://ib.ybonline.co.uk/enrollbanking.jsp','popUp','width=696,height=492,top=0,left=0,toolbar=no,location=no,status=yes,menubar=no,scrollbars=no,resizable=no');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+}
+
+function ibankHELP() {
+popup = window.open('/about/ibanking_help.php','popUp','width=300,height=150,top=0,left=0,toolbar=no,location=no,status=yes,menubar=no,scrollbars=no,resizable=no');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+}
+//-->
+</script>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="164" height="68"><img src="/g_images/logo.gif" alt="Yorkshire Bank" /></td>
+    <td class="navtopleft" height="68">
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+		  <td><img src="/g_images/1x1space.gif" width="20" alt="" /></td>
+          <td><a href="/index.php"><img src="/g_images/1b_utilities_001.gif" border="0" alt="Home" /></a></td>
+          <td><a href="/sitemap.php"><img src="/g_images/1b_utilities_002.gif" border="0" alt="Site Map" /></a></td>
+          <td><a href="/personal/InterestRates.php"><img src="/g_images/1b_utilities_003.gif" border="0" alt="Interest Rates" /></a></td>
+          <td><a href="javascript:void(null)" onclick="javascript:viewper()"><img src="/g_images/1b_utilities_004.gif" border="0" alt="Rules of Use" /></a></td>
+          <td><a href="/about/201.php"><img src="/g_images/1b_utilities_005.gif" border="0" alt="Contact Us" /></a></td>
+        </tr>
+      </table>
+    </td>
+    <td class="navbottomright" height="68">
+      <table border="0" cellspacing="5" cellpadding="0">
+        <tr>
+          <td height="15" class="navbottomright"><!--STARTDATE-->Thursday, 27.06.02<!--ENDDATE--></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colpsan="3" height="1"><img src="/g_images/1x1space.gif" width="100%" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/g_images/1b_spacer.gif">
+        <tr>
+
+	
+
+			<td class="navmenuleft" nowrap><a href="/personal/159.php" onMouseOver="document.b1.src='/g_images/1b_personal_r.gif'" onMouseOut="document.b1.src='/g_images/1b_personal_r.gif'"><img src="/g_images/1b_personal_r.gif" width="110" height="34" name="b1" alt="Personal" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/business/83.php" onMouseOver="document.b2.src='/g_images/1b_business_r.gif'" onMouseOut="document.b2.src='/g_images/1b_business.gif'"><img src="/g_images/1b_business.gif" width="110" height="34" name="b2" alt="Business" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/about/169.php" onMouseOver="document.b3.src='/g_images/1b_aboutus_r.gif'" onMouseOut="document.b3.src='/g_images/1b_aboutus.gif'"><img src="/g_images/1b_aboutus.gif" width="110" height="34" name="b3" border="0" alt="About Us" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/personal/211.php" onMouseOver="document.b5.src='/g_images/1b_share_r.gif'" onMouseOut="document.b5.src='/g_images/1b_share.gif'"><img src="/g_images/1b_share.gif" width="110" height="34" name="b5" alt="Online Sharedealing" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/ibank/index.php" onMouseOver="document.b4.src='/g_images/1b_ibank_r.gif'" onMouseOut="document.b4.src='/g_images/1b_ibank.gif'"><img width="110" height="34" src="/g_images/1b_ibank.gif" width="110" height="34" name="b4" alt="Internet Banking" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /></td>
+
+
+
+
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2" height="1"><img src="/g_images/1x1space.gif" width="100%" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    <!-- personal level 1 -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- business level 1 -->
+<!-- business level 2 -->
+
+
+
+
+
+
+<!-- about us level 1 -->
+<!-- about us level 2 -->
+
+
+
+
+<!-- ibank level 1 -->
+<!-- ibank level 2 -->
+
+
+
+
+
+
+
+
+
+
+<!-- main draw function -->
+	
+<td width="109" class="personal">
+			<a href="/personal/225.php" onMouseOver="document.l2.src='/g_images/2b_pers_002h.gif'" onMouseOut="document.l2.src='/g_images/2b_pers_002.gif'"><img src="/g_images/2b_pers_002.gif" name="l2" alt="Convenience Banking" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/360.php" onMouseOver="document.l3.src='/g_images/2b_pers_003h.gif'" onMouseOut="document.l3.src='/g_images/2b_pers_003.gif'"><img src="/g_images/2b_pers_003.gif" name="l3" alt="Savings" width="110" height="22" border="0" /></a><br>
+		
+		<a href="/personal/cybsave.php" onMouseOver="document.l55.src='/g_images/2b_pers_017h.gif'" onMouseOut="document.l55.src='/g_images/2b_pers_017.gif'"><img src="/g_images/2b_pers_017.gif" name="l55" alt="Children & Teenage Accounts" width="110" height="46" border="0" /></a><br>
+		
+	 	<a href="/personal/finplan.php" onMouseOver="document.l15.src='/g_images/2b_pers_015h.gif'" onMouseOut="document.l15.src='/g_images/2b_pers_015.gif'"><img src="/g_images/2b_pers_015.gif" name="l15" alt="Financial Planning" width="110" height="34" border="0" /></a><br> 
+		
+	
+		<a href="/personal/324.php" onMouseOver="document.l1.src='/g_images/2b_pers_001h.gif'" onMouseOut="document.l1.src='/g_images/2b_pers_001.gif'"><img src="/g_images/2b_pers_001.gif" name="l1" alt="Mortgages" border="0" /></a><br>
+	
+	
+		<a href="/personal/361.php" onMouseOver="document.l12.src='/g_images/2b_pers_012h.gif'" onMouseOut="document.l12.src='/g_images/2b_pers_012h.gif'"><img src="/g_images/2b_pers_012h.gif" name="l12" alt="Interest Rates" width="110" height="22" border="0" /></a><br>
+	<img src="/g_images/1x1space.gif" width="100%" height="1" alt="" /><br>
+<table width="110" border="0" cellspacing="0" cellpadding="2">
+	  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/377.php" class="businesslink">Home Lending</a></td>
+  </tr>
+		  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/379.php" class="businesslink">Personal Lending</a></td>
+  </tr>
+		  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/381.php" class="businesslink">Credit Cards</a></td>
+  </tr>
+		  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/383.php" class="businesslink">Transaction Accounts</a></td>
+  </tr>
+		  <tr>
+    <td width="1" class="personal_lower_high"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower_high"><a href="/personal/385.php" class="businesslink">Savings Accounts</a></td>
+  </tr>
+		  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/387.php" class="businesslink">Investment Housing Loan</a></td>
+  </tr>
+		  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/389.php" class="businesslink">Premium Financial Services</a></td>
+  </tr>
+	</table>
+<img src="/g_images/1x1space.gif" width="100%" height="1" alt="" /><br>
+			<a href="/personal/opl.php" onMouseOver="document.l9.src='/g_images/2b_pers_009h.gif'" onMouseOut="document.l9.src='/g_images/2b_pers_009.gif'"><img src="/g_images/2b_pers_009.gif" name="l9" alt="Personal Loans - Apply Online" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/211.php" onMouseOver="document.l10.src='/g_images/2b_pers_010h.gif'" onMouseOut="document.l10.src='/g_images/2b_pers_010.gif'"><img src="/g_images/2b_pers_010.gif" name="l10" alt="Online Sharedealing" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/premium.php" onMouseOver="document.l13.src='/g_images/2b_pers_014h.gif'" onMouseOut="document.l13.src='/g_images/2b_pers_014.gif'"><img src="/g_images/2b_pers_014.gif" name="l13" alt="Premium Financial Services" width="110" height="46" border="0" /></a><br>
+		<!-- 	<a href="/personal/229.php" onMouseOver="document.l4.src='/g_images/2b_pers_004h.gif'" onMouseOut="document.l4.src='/g_images/2b_pers_004.gif'"><img src="/g_images/2b_pers_004.gif" name="l4" alt="Investment and Protection" border="0" /></a><br> -->
+			<a href="/personal/213.php" onMouseOver="document.l5.src='/g_images/2b_pers_005h.gif'" onMouseOut="document.l5.src='/g_images/2b_pers_005.gif'"><img src="/g_images/2b_pers_005.gif" name="l5" alt="24 Hour Telephone Banking" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/280.php" onMouseOver="document.l6.src='/g_images/2b_pers_006h.gif'" onMouseOut="document.l6.src='/g_images/2b_pers_006.gif'"><img src="/g_images/2b_pers_006.gif" name="l6" alt="Private Client Investment Management" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/282.php" onMouseOver="document.l7.src='/g_images/2b_pers_007h.gif'" onMouseOut="document.l7.src='/g_images/2b_pers_007.gif'"><img src="/g_images/2b_pers_007.gif" name="l7" alt="Wills, Trusts & Estates" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/284.php" onMouseOver="document.l8.src='/g_images/2b_pers_008h.gif'" onMouseOut="document.l8.src='/g_images/2b_pers_008.gif'"><img src="/g_images/2b_pers_008.gif" name="l8" alt="Taxation" width="110" height="22" border="0" /></a><br>
+			<a href="/personal/tableofcharges.php" onMouseOver="document.l11.src='/g_images/2b_pers_011h.gif';document.l14.src='/g_images/1by1_pers_h.gif'" onMouseOut="document.l11.src='/g_images/2b_pers_011.gif';document.l14.src='/g_images/1by1_pers.gif'"><img src="/g_images/2b_pers_011.gif" name="l11" alt="Table of Charges" width="110" height="34" border="0" /></a><br>
+	<img src="/g_images/1by1_pers.gif" width="100%" height="1" name="l14" alt="" /><br>
+		
+	
+	
+	
+</td>
+
+	<!-- Page Content -->
+    <td class="content">
+      <table border="0" cellspacing="5" cellpadding="0" width="100%">
+        <tr>
+		  <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt="" /></td>
+          <td colspan="3" class="content">
+            <p class="bread"><a href="/personal/159.php" class="breadcrumbs">Personal</a> > <a href="/personal/361.php" class="breadcrumbs">Interest Rates</a> > Savings Accounts</p>
+            <p class="contentmainhead">Interest Rates</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt="" /></td>
+          <td colspan="3" height="1"><img src="/g_images/3b_blackline.gif" width="100%" height="1" alt="" /></td>
+        </tr>
+        <tr>
+          <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt="" /></td>
+		  <td class="content"> 
+            <p class="contentsubhead">Savings Accounts</p>
+            <p class="contenttext">Rates of interest are subject to change 
+              but are correct as at 24th June 2002.</p>
+            <table width="100%" border="0" cellspacing="1" cellpadding="0">
+              <tbody> 
+              <tr> 
+                <td class="border"> 
+                  <table border=0 cellpadding=2 cellspacing=1 width="100%">
+                    <thead> 
+                    <tr align=middle valign=top> 
+                      <th align=left colspan=2 class="interesthead1">Personal 
+                        Savings Products</th>
+                      <th width="13%" class="interesthead1center" align="center">Previous 
+                        Gross* Rate %</th>
+                      <th width="11%" class="interesthead1center" align="center">Previous 
+                        Gross AER+</th>
+                      <th width="11%" class="interesthead1center" align="center">Previous 
+                        Net** Rate %</th>
+                      <th width="13%" class="interesthead1center" align="center">Current<br>
+                        Gross*<br>
+                        Rate %</th>
+                      <th width="11%" class="interesthead1center" align="center">Current<br>
+                        Gross<br>
+                        AER+</th>
+                      <th width="11%" class="interesthead1center" align="center">Current<br>
+                        Net**<br>
+                        Rate %</th>
+                    </tr>
+                    </thead> <tbody> 
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=8 class="interestname">Instant Savings 
+                      </td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£100,00 
+                        and over</td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">3.25</td>
+                      <td width="11%" class="interestdetails" align="center">3.29</td>
+                      <td width="11%" class="interestdetails" align="center">2.60</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£50,000 
+                        - £99,999</td>
+                      <td width="13%" class="interestdetails" align="center">2.85</td>
+                      <td width="11%" class="interestdetails" align="center">2.88</td>
+                      <td width="11%" class="interestdetails" align="center">2.28</td>
+                      <td width="13%" class="interestdetails" align="center">2.75</td>
+                      <td width="11%" class="interestdetails" align="center">2.78</td>
+                      <td width="11%" class="interestdetails" align="center">2.20</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails" height="18">£25,000 
+                        - £49,999 </td>
+                      <td width="13%" class="interestdetails" align="center" height="18">2.40</td>
+                      <td width="11%" class="interestdetails" align="center" height="18">2.42</td>
+                      <td width="11%" class="interestdetails" align="center" height="18">1.92</td>
+                      <td width="13%" class="interestdetails" align="center" height="18">2.50</td>
+                      <td width="11%" class="interestdetails" align="center" height="18">2.52</td>
+                      <td width="11%" class="interestdetails" align="center" height="18">2.00</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£10,000 
+                        - £24,999</td>
+                      <td width="13%" class="interestdetails" align="center">2.30</td>
+                      <td width="11%" class="interestdetails" align="center">2.32</td>
+                      <td width="11%" class="interestdetails" align="center">1.84</td>
+                      <td width="13%" class="interestdetails" align="center">2.25</td>
+                      <td width="11%" class="interestdetails" align="center">2.27</td>
+                      <td width="11%" class="interestdetails" align="center">1.80</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£5,000 
+                        - £9,999</td>
+                      <td width="13%" class="interestdetails" align="center">2.10</td>
+                      <td width="11%" class="interestdetails" align="center">2.12</td>
+                      <td width="11%" class="interestdetails" align="center">1.68</td>
+                      <td width="13%" class="interestdetails" align="center">2.00</td>
+                      <td width="11%" class="interestdetails" align="center">2.02</td>
+                      <td width="11%" class="interestdetails" align="center">1.60</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£250 - 
+                        £4,999</td>
+                      <td width="13%" class="interestdetails" align="center">1.50</td>
+                      <td width="11%" class="interestdetails" align="center">1.51</td>
+                      <td width="11%" class="interestdetails" align="center">1.20</td>
+                      <td width="13%" class="interestdetails" align="center">1.50</td>
+                      <td width="11%" class="interestdetails" align="center">1.51</td>
+                      <td width="11%" class="interestdetails" align="center">1.20</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£0 - £250</td>
+                      <td width="13%" class="interestdetails" align="center">0.00</td>
+                      <td width="11%" class="interestdetails" align="center">0.00</td>
+                      <td width="11%" class="interestdetails" align="center">0.00</td>
+                      <td width="13%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">0.80</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=8 class="interestname">Cybersave 
+                      </td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£1,000 
+                        and over</td>
+                      <td width="13%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">0.80</td>
+                      <td width="13%" class="interestdetails" align="center">3.50</td>
+                      <td width="11%" class="interestdetails" align="center">3.55</td>
+                      <td width="11%" class="interestdetails" align="center">2.80</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails" height="18">£500 
+                        - £999 </td>
+                      <td width="13%" class="interestdetails" align="center" height="18">1.00</td>
+                      <td width="11%" class="interestdetails" align="center" height="18">1.00</td>
+                      <td width="11%" class="interestdetails" align="center" height="18">0.80</td>
+                      <td width="13%" class="interestdetails" align="center" height="18">3.25</td>
+                      <td width="11%" class="interestdetails" align="center" height="18">3.29</td>
+                      <td width="11%" class="interestdetails" align="center" height="18">2.60</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£250 - 
+                        £499</td>
+                      <td width="13%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">0.80</td>
+                      <td width="13%" class="interestdetails" align="center">3.00</td>
+                      <td width="11%" class="interestdetails" align="center">3.03</td>
+                      <td width="11%" class="interestdetails" align="center">2.40</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£100 - 
+                        £249</td>
+                      <td width="13%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">0.80</td>
+                      <td width="13%" class="interestdetails" align="center">2.50</td>
+                      <td width="11%" class="interestdetails" align="center">2.52</td>
+                      <td width="11%" class="interestdetails" align="center">2.00</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£0 - £99</td>
+                      <td width="13%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">0.80</td>
+                      <td width="13%" class="interestdetails" align="center">2.00</td>
+                      <td width="11%" class="interestdetails" align="center">2.02</td>
+                      <td width="11%" class="interestdetails" align="center">1.60</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=8 class="interestname">Instant Access</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£25,000 
+                        and over</td>
+                      <td width="13%" class="interestdetails" align="center">1.10</td>
+                      <td width="11%" class="interestdetails" align="center">1.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.88</td>
+                      <td width="13%" class="interestdetails" align="center">0.60</td>
+                      <td width="11%" class="interestdetails" align="center">0.60</td>
+                      <td width="11%" class="interestdetails" align="center">0.48</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£10,000 
+                        - £24,999</td>
+                      <td width="13%" class="interestdetails" align="center">0.65</td>
+                      <td width="11%" class="interestdetails" align="center">0.65</td>
+                      <td width="11%" class="interestdetails" align="center">0.52</td>
+                      <td width="13%" class="interestdetails" align="center">0.15</td>
+                      <td width="11%" class="interestdetails" align="center">0.15</td>
+                      <td width="11%" class="interestdetails" align="center">0.12</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£5,000 
+                        - £9,999</td>
+                      <td width="13%" class="interestdetails" align="center">0.25</td>
+                      <td width="11%" class="interestdetails" align="center">0.25</td>
+                      <td width="11%" class="interestdetails" align="center">0.20</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£2,500 
+                        - £4,999</td>
+                      <td width="13%" class="interestdetails" align="center">0.15</td>
+                      <td width="11%" class="interestdetails" align="center">0.15</td>
+                      <td width="11%" class="interestdetails" align="center">0.12</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£500 - 
+                        £2,499</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£250 - 
+                        £499</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£50 - £249</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">below £50 
+                      </td>
+                      <td width="13%" class="interestdetails" align="center">0.00</td>
+                      <td width="11%" class="interestdetails" align="center">0.00 
+                      </td>
+                      <td width="11%" class="interestdetails" align="center">0.00</td>
+                      <td width="13%" class="interestdetails" align="center">0.00</td>
+                      <td width="11%" class="interestdetails" align="center">0.00 
+                      </td>
+                      <td width="11%" class="interestdetails" align="center">0.00</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=8 class="interestname">Cashmaster</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£5,000 
+                        and over </td>
+                      <td width="13%" class="interestdetails" align="center">0.40</td>
+                      <td width="11%" class="interestdetails" align="center">0.40</td>
+                      <td width="11%" class="interestdetails" align="center">0.32</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£2,500 
+                        - £4,999 </td>
+                      <td width="13%" class="interestdetails" align="center">0.15</td>
+                      <td width="11%" class="interestdetails" align="center">0.15</td>
+                      <td width="11%" class="interestdetails" align="center">0.12</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£500 - 
+                        £2,499</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£250 - 
+                        £499</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£100 - 
+                        £249</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">below £100</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    </tbody> <thead> 
+                    <tr align=middle valign=top> 
+                      <th align=left colspan=8 class="interesthead1">Notice Accounts</th>
+                    </tr>
+                    </thead> <tbody> 
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=8 class="interestname">1 Month Premium 
+                        (interest paid twice yearly)</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£10,000 
+                        and over</td>
+                      <td width="13%" class="interestdetails" align="center">1.75</td>
+                      <td width="11%" class="interestdetails" align="center">1.76</td>
+                      <td width="11%" class="interestdetails" align="center">1.40</td>
+                      <td width="13%" class="interestdetails" align="center">1.25</td>
+                      <td width="11%" class="interestdetails" align="center">1.25</td>
+                      <td width="11%" class="interestdetails" align="center">1.00</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£5,000 
+                        - £9,999</td>
+                      <td width="13%" class="interestdetails" align="center">1.25</td>
+                      <td width="11%" class="interestdetails" align="center">1.25</td>
+                      <td width="11%" class="interestdetails" align="center">1.00</td>
+                      <td width="13%" class="interestdetails" align="center">0.75</td>
+                      <td width="11%" class="interestdetails" align="center">0.75</td>
+                      <td width="11%" class="interestdetails" align="center">0.60</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£1,000 
+                        - £4,999</td>
+                      <td width="13%" class="interestdetails" align="center">1.05</td>
+                      <td width="11%" class="interestdetails" align="center">1.05</td>
+                      <td width="11%" class="interestdetails" align="center">0.84</td>
+                      <td width="13%" class="interestdetails" align="center">0.55</td>
+                      <td width="11%" class="interestdetails" align="center">0.55</td>
+                      <td width="11%" class="interestdetails" align="center">0.44</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£500 - 
+                        £999</td>
+                      <td width="13%" class="interestdetails" align="center">0.50</td>
+                      <td width="11%" class="interestdetails" align="center">0.50</td>
+                      <td width="11%" class="interestdetails" align="center">0.40</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">below £500</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=8 class="interestname">3 Month Premium 
+                        (interest paid twice yearly)</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£100,000 
+                        and over</td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">2.75</td>
+                      <td width="11%" class="interestdetails" align="center">2.77</td>
+                      <td width="11%" class="interestdetails" align="center">2.20</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£50,000 
+                        - £99,999 </td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">2.25</td>
+                      <td width="11%" class="interestdetails" align="center">2.26</td>
+                      <td width="11%" class="interestdetails" align="center">1.80</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£25,000 
+                        - £49,000</td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">2.00</td>
+                      <td width="11%" class="interestdetails" align="center">2.01</td>
+                      <td width="11%" class="interestdetails" align="center">1.60</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£10,000 
+                        - £24,999 </td>
+                      <td width="13%" class="interestdetails" align="center">2.35</td>
+                      <td width="11%" class="interestdetails" align="center">2.36</td>
+                      <td width="11%" class="interestdetails" align="center">1.88</td>
+                      <td width="13%" class="interestdetails" align="center">1.75</td>
+                      <td width="11%" class="interestdetails" align="center">1.76</td>
+                      <td width="11%" class="interestdetails" align="center">1.40</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£5,000 
+                        - £9,999 </td>
+                      <td width="13%" class="interestdetails" align="center">1.75</td>
+                      <td width="11%" class="interestdetails" align="center">1.76</td>
+                      <td width="11%" class="interestdetails" align="center">1.40</td>
+                      <td width="13%" class="interestdetails" align="center">1.25</td>
+                      <td width="11%" class="interestdetails" align="center">1.25</td>
+                      <td width="11%" class="interestdetails" align="center">1.00</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£250 - 
+                        £4,999 </td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">0.80</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£0 - £500 
+                      </td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                      <td width="13%" class="interestdetails" align="center">0.75</td>
+                      <td width="11%" class="interestdetails" align="center">0.75</td>
+                      <td width="11%" class="interestdetails" align="center">0.60</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=8 class="interestname">3 Month Premium 
+                        (interest paid monthly)</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£100,000 
+                        and over </td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">2.60</td>
+                      <td width="11%" class="interestdetails" align="center">2.63</td>
+                      <td width="11%" class="interestdetails" align="center">2.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£50,000 
+                        - £99,999 </td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">2.10</td>
+                      <td width="11%" class="interestdetails" align="center">2.12</td>
+                      <td width="11%" class="interestdetails" align="center">1.68</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£25,000 
+                        - £49,000</td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">1.85</td>
+                      <td width="11%" class="interestdetails" align="center">1.87</td>
+                      <td width="11%" class="interestdetails" align="center">1.48</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£10,000 
+                        - £24,999 </td>
+                      <td width="13%" class="interestdetails" align="center">2.20</td>
+                      <td width="11%" class="interestdetails" align="center">2.22</td>
+                      <td width="11%" class="interestdetails" align="center">1.76</td>
+                      <td width="13%" class="interestdetails" align="center">1.60</td>
+                      <td width="11%" class="interestdetails" align="center">1.61</td>
+                      <td width="11%" class="interestdetails" align="center">1.28</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£5,000 
+                        - £9,999 </td>
+                      <td width="13%" class="interestdetails" align="center">1.60</td>
+                      <td width="11%" class="interestdetails" align="center">1.61</td>
+                      <td width="11%" class="interestdetails" align="center">1.28</td>
+                      <td width="13%" class="interestdetails" align="center">1.10</td>
+                      <td width="11%" class="interestdetails" align="center">1.11</td>
+                      <td width="11%" class="interestdetails" align="center">0.88</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£2,50 - 
+                        £4,999 </td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">0.85</td>
+                      <td width="11%" class="interestdetails" align="center">0.85</td>
+                      <td width="11%" class="interestdetails" align="center">0.68</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£0 - £249</td>
+                      <td width="13%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.10</td>
+                      <td width="11%" class="interestdetails" align="center">0.08</td>
+                      <td width="13%" class="interestdetails" align="center">0.60</td>
+                      <td width="11%" class="interestdetails" align="center">0.60</td>
+                      <td width="11%" class="interestdetails" align="center">0.48</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=8 class="interestname">Premium Plus 
+                        (interest paid annually)</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£100,000 
+                        and over</td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">3.25</td>
+                      <td width="11%" class="interestdetails" align="center">3.25</td>
+                      <td width="11%" class="interestdetails" align="center">2.60</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£50,000 
+                        - £99,999 </td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">2.75</td>
+                      <td width="11%" class="interestdetails" align="center">2.75</td>
+                      <td width="11%" class="interestdetails" align="center">2.20</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£25,000 
+                        - £49,999 </td>
+                      <td width="13%" class="interestdetails" align="center">2.80</td>
+                      <td width="11%" class="interestdetails" align="center">2.80</td>
+                      <td width="11%" class="interestdetails" align="center">2.24</td>
+                      <td width="13%" class="interestdetails" align="center">2.50</td>
+                      <td width="11%" class="interestdetails" align="center">2.50</td>
+                      <td width="11%" class="interestdetails" align="center">2.00</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£10,000 
+                        - £24,999 </td>
+                      <td width="13%" class="interestdetails" align="center">2.65</td>
+                      <td width="11%" class="interestdetails" align="center">2.65</td>
+                      <td width="11%" class="interestdetails" align="center">2.12</td>
+                      <td width="13%" class="interestdetails" align="center">2.25</td>
+                      <td width="11%" class="interestdetails" align="center">2.25</td>
+                      <td width="11%" class="interestdetails" align="center">1.80</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£5,000 
+                        - £9,999 </td>
+                      <td width="13%" class="interestdetails" align="center">2.05</td>
+                      <td width="11%" class="interestdetails" align="center">2.05</td>
+                      <td width="11%" class="interestdetails" align="center">1.64</td>
+                      <td width="13%" class="interestdetails" align="center">1.75</td>
+                      <td width="11%" class="interestdetails" align="center">1.75</td>
+                      <td width="11%" class="interestdetails" align="center">1.40</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£250 - 
+                        £4,999 </td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">1.50</td>
+                      <td width="11%" class="interestdetails" align="center">1.50</td>
+                      <td width="11%" class="interestdetails" align="center">1.20</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£0 - £249</td>
+                      <td width="13%" class="interestdetails" align="center">0.00 
+                      </td>
+                      <td width="11%" class="interestdetails" align="center">0.00 
+                      </td>
+                      <td width="11%" class="interestdetails" align="center">0.00</td>
+                      <td width="13%" class="interestdetails" align="center">1.25</td>
+                      <td width="11%" class="interestdetails" align="center">1.25</td>
+                      <td width="11%" class="interestdetails" align="center">1.00</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=8 class="interestname">Premium Plus 
+                        (interest paid monthly)</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£100,000 
+                        and over</td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">3.00</td>
+                      <td width="11%" class="interestdetails" align="center">3.04</td>
+                      <td width="11%" class="interestdetails" align="center">2.40</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£50,000 
+                        - £99,999 </td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">2.50</td>
+                      <td width="11%" class="interestdetails" align="center">2.53</td>
+                      <td width="11%" class="interestdetails" align="center">2.00</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£25,000 
+                        - £49,999 </td>
+                      <td width="13%" class="interestdetails" align="center">2.55</td>
+                      <td width="11%" class="interestdetails" align="center">2.58</td>
+                      <td width="11%" class="interestdetails" align="center">2.04</td>
+                      <td width="13%" class="interestdetails" align="center">2.25</td>
+                      <td width="11%" class="interestdetails" align="center">2.27</td>
+                      <td width="11%" class="interestdetails" align="center">1.80</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£10,000 
+                        - £24,999 </td>
+                      <td width="13%" class="interestdetails" align="center">2.40</td>
+                      <td width="11%" class="interestdetails" align="center">2.43</td>
+                      <td width="11%" class="interestdetails" align="center">1.92</td>
+                      <td width="13%" class="interestdetails" align="center">2.00</td>
+                      <td width="11%" class="interestdetails" align="center">2.02</td>
+                      <td width="11%" class="interestdetails" align="center">1.60</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£5,000 
+                        - £9,999 </td>
+                      <td width="13%" class="interestdetails" align="center">1.80</td>
+                      <td width="11%" class="interestdetails" align="center">1.81</td>
+                      <td width="11%" class="interestdetails" align="center">1.44</td>
+                      <td width="13%" class="interestdetails" align="center">1.50</td>
+                      <td width="11%" class="interestdetails" align="center">1.51</td>
+                      <td width="11%" class="interestdetails" align="center">1.20</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£250 - 
+                        £4,999 </td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">1.25</td>
+                      <td width="11%" class="interestdetails" align="center">1.26</td>
+                      <td width="11%" class="interestdetails" align="center">1.00</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£0 - £249 
+                      </td>
+                      <td width="13%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="11%" class="interestdetails" align="center">-</td>
+                      <td width="13%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">1.00</td>
+                      <td width="11%" class="interestdetails" align="center">0.80</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=8 class="interestname">Schools</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£1 and 
+                        over <br>
+                      </td>
+                      <td width="13%" class="interestdetails" align="center">1.00 
+                      </td>
+                      <td width="11%" class="interestdetails" align="center">1.00 
+                        <br>
+                      </td>
+                      <td width="11%" class="interestdetails" align="center">0.80 
+                      </td>
+                      <td width="13%" class="interestdetails" align="center">1.00 
+                      </td>
+                      <td width="11%" class="interestdetails" align="center">1.00 
+                        <br>
+                      </td>
+                      <td width="11%" class="interestdetails" align="center">0.80 
+                      </td>
+                    </tr>
+                    </tbody> 
+                  </table>
+                </td>
+              </tr>
+              </tbody> 
+            </table>
+            <p class="contentsubhead">&nbsp;</p>
+			<p align="right"><a href="#top"><img src="../g_images/but_top.gif" alt="Back to Top" border="0" /></a></p>
+            
+      		<table width="100%" border="0" cellspacing="1" cellpadding="0">
+              <a name="#cashisa">&nbsp;</a>
+			  <tbody>
+			  <tr>
+                <td class="border">
+                  <table border=0 cellpadding=2 cellspacing=1 width="100%">
+                    <thead> 
+                    <tr align=middle valign=top> 
+                      <th align=left colspan=2 class="interesthead1center">&nbsp;</th>
+                      <th class="interesthead1center" align="center">Previous<br>
+                        Tax Free<br>
+                        Rate++(% p.a) </th>
+                      <th class="interesthead1center" align="center">Previous<br>
+                        Gross<br>
+                        AER+</th>
+                      <th class="interesthead1center" align="center">Current Tax<br>
+                        Free Rate++<br>
+                        (% p.a) </th>
+                      <th class="interesthead1center" align="center">Current<br>
+                        Gross<br>
+                        AER+</th>
+                    </tr>
+                    </thead> <tbody> 
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=6 class="interestname">Cash ISA</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£10 and over </td>
+                      <td class="interestdetails" align="center">4.50</td>
+                      <td class="interestdetails" align="center">4.50</td>
+                      <td class="interestdetails" align="center">4.00</td>
+                      <td class="interestdetails" align="center">4.00</td>
+                    </tr>
+                    </tbody> 
+                  </table>
+                </td>
+              </tr>
+			  </tbody>
+            </table>
+			<p align="right"><a href="#top"><img src="../g_images/but_top.gif" alt="Back to Top" border="0" /></a></p>
+      <p>Accounts no longer available to new investors</p>
+	        <table width="100%" border="0" cellspacing="1" cellpadding="0">
+              <tbody>
+			  <tr>
+                <td class="border">
+                  <table border=0 cellpadding=2 cellspacing=1 width="100%">
+                    <thead> 
+                    <tr align=middle valign=top> 
+                      <th align=left colspan=2 class="interesthead1center">&nbsp;</th>
+                      <th width="18%" class="interesthead1center" align="center">Previous<br>
+                        Tax Free<br>
+                        Rate (% p.a) </th>
+                      <th width="18%" class="interesthead1center" align="center">Previous<br>
+                        Gross<br>
+                        AER+ </th>
+                      <th width="24%" class="interesthead1center" align="center">Current Tax<br>
+                        Free Rate<br>
+                        (% p.a) </th>
+                      <th width="18%" class="interesthead1center" align="center">Current<br>
+                        Gross<br>
+                        AER+ </th>
+                    </tr>
+                    </thead> <tbody> 
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=6 class="interestname">Current TESSA</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£9,000 and over </td>
+                      <td width="24%" class="interestdetails" align="center">4.50</td>
+                      <td width="18%" class="interestdetails" align="center">4.50</td>
+                      <td width="24%" class="interestdetails" align="center">4.00</td>
+                      <td width="18%" class="interestdetails" align="center">4.00</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£6,600 - £8,999 </td>
+                      <td width="24%" class="interestdetails" align="center">4.00</td>
+                      <td width="18%" class="interestdetails" align="center">4.50</td>
+                      <td width="24%" class="interestdetails" align="center">3.50</td>
+                      <td width="18%" class="interestdetails" align="center">3.50</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£4,800 - £6,599 </td>
+                      <td width="24%" class="interestdetails" align="center">4.00</td>
+                      <td width="18%" class="interestdetails" align="center">4.50</td>
+                      <td width="24%" class="interestdetails" align="center">3.50</td>
+                      <td width="18%" class="interestdetails" align="center">3.50</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£3,000 - £4,799 </td>
+                      <td width="24%" class="interestdetails" align="center">4.00</td>
+                      <td width="18%" class="interestdetails" align="center">4.50</td>
+                      <td width="24%" class="interestdetails" align="center">3.50</td>
+                      <td width="18%" class="interestdetails" align="center">3.50</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£10 - £2,999 </td>
+                      <td width="24%" class="interestdetails" align="center">4.00</td>
+                      <td width="18%" class="interestdetails" align="center">4.50</td>
+                      <td width="24%" class="interestdetails" align="center">3.50</td>
+                      <td width="18%" class="interestdetails" align="center">3.50</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=6 class="interestname">Follow up TESSA</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£9,000 and over</td>
+                      <td width="24%" class="interestdetails" align="center">4.50</td>
+                      <td width="18%" class="interestdetails" align="center">4.50</td>
+                      <td width="24%" class="interestdetails" align="center">4.00</td>
+                      <td width="18%" class="interestdetails" align="center">4.00</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£6,600 - £8,999</td>
+                      <td width="24%" class="interestdetails" align="center">4.00</td>
+                      <td width="18%" class="interestdetails" align="center">4.00</td>
+                      <td width="24%" class="interestdetails" align="center">3.50</td>
+                      <td width="18%" class="interestdetails" align="center">3.50</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£4,800 - £6,599</td>
+                      <td width="24%" class="interestdetails" align="center">4.00</td>
+                      <td width="18%" class="interestdetails" align="center">4.00</td>
+                      <td width="24%" class="interestdetails" align="center">3.50</td>
+                      <td width="18%" class="interestdetails" align="center">3.50</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£3,000 - £4,799</td>
+                      <td width="24%" class="interestdetails" align="center">4.00</td>
+                      <td width="18%" class="interestdetails" align="center">4.00</td>
+                      <td width="24%" class="interestdetails" align="center">3.50</td>
+                      <td width="18%" class="interestdetails" align="center">3.50</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£10 - £2,999</td>
+                      <td width="24%" class="interestdetails" align="center">4.00</td>
+                      <td width="18%" class="interestdetails" align="center">4.00</td>
+                      <td width="24%" class="interestdetails" align="center">3.50</td>
+                      <td width="18%" class="interestdetails" align="center">3.50</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=6 class="interestname">Pre 1996 TESSA</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£1 and over </td>
+                      <td width="24%" class="interestdetails" align="center">3.75</td>
+                      <td width="18%" class="interestdetails" align="center">3.75</td>
+                      <td width="24%" class="interestdetails" align="center">3.25</td>
+                      <td width="18%" class="interestdetails" align="center">3.25</td>
+                    </tr>
+                    </tbody> 
+                  </table>
+                </td>
+              </tr>
+			  </tbody>
+            </table>
+            <p align="right"><a href="#top"><img src="../g_images/but_top.gif" alt="Back to Top" border="0" /></a></p>
+			<table width="100%" border="0" cellspacing="1" cellpadding="0">
+              <tbody>
+			  <tr>
+                <td class="border">
+                  <table border=0 cellpadding=2 cellspacing=1 width="100%">
+                    <thead> 
+                    <tr align=middle valign=top> 
+                      <th align=left colspan=2 class="interesthead1center">&nbsp;</th>
+                      <th class="interesthead1center" align="center">Previous<br>
+                        Gross<br>
+                        rate %</th>
+                      <th class="interesthead1center" align="center">Previous<br>
+                        Gross<br>
+                        AER+</th>
+                      <th class="interesthead1center" align="center">Previous<br>
+                        Net Rate %</th>
+                      <th class="interesthead1center" align="center">Current<br>
+                        Gross<br>
+                        Rate %</th>
+                      <th class="interesthead1center" align="center">Current<br>
+                        Gross<br>
+                        AER+</th>
+                      <th class="interesthead1center" align="center">Current<br>
+                        Net Rate %</th>
+                    </tr>
+                    </thead> <tbody> 
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=8 class="interestname">Savings Account</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£25,000 and over</td>
+                      <td class="interestdetails" align="center">1.10</td>
+                      <td class="interestdetails" align="center">1.10</td>
+                      <td class="interestdetails" align="center">0.88</td>
+                      <td class="interestdetails" align="center">0.60</td>
+                      <td class="interestdetails" align="center">0.60</td>
+                      <td class="interestdetails" align="center">0.48</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£10,000 - £24,999</td>
+                      <td class="interestdetails" align="center">0.65</td>
+                      <td class="interestdetails" align="center">0.65</td>
+                      <td class="interestdetails" align="center">0.52</td>
+                      <td class="interestdetails" align="center">0.15</td>
+                      <td class="interestdetails" align="center">0.15</td>
+                      <td class="interestdetails" align="center">0.12</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£5,000 - £9,999</td>
+                      <td class="interestdetails" align="center">0.25</td>
+                      <td class="interestdetails" align="center">0.25</td>
+                      <td class="interestdetails" align="center">0.20</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£2,500 - £4,999</td>
+                      <td class="interestdetails" align="center">0.15</td>
+                      <td class="interestdetails" align="center">0.15</td>
+                      <td class="interestdetails" align="center">0.12</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£500 - £2,499</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.08</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£250 - £499</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.08</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">£50 - £249</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.08</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.10</td>
+                      <td class="interestdetails" align="center">0.08</td>
+                    </tr>
+                    <tr align=middle valign=top> 
+                      <td align=left colspan=2 class="interestdetails">below £50</td>
+                      <td class="interestdetails" align="center">0.00</td>
+                      <td class="interestdetails" align="center">0.00</td>
+                      <td class="interestdetails" align="center">0.00</td>
+                      <td class="interestdetails" align="center">0.00</td>
+                      <td class="interestdetails" align="center">0.00</td>
+                      <td class="interestdetails" align="center">0.00</td>
+                    </tr>
+                    </tbody> 
+                  </table>
+                </td>
+              </tr>
+			  </tbody>
+            </table>
+			<p align="right"><a href="#top"><img src="../g_images/but_top.gif" alt="Back to Top" border="0" /></a></p>
+            <p><span class="contenttextbold">Definitions</span><br>
+      <strong>*Gross Rate </strong> - Gross interest is interest payable without taking 
+      account of the deduction of income tax. For most customers tax will be deducted 
+      at the lower rate prevailing at the time of payment (presently 20%)</p>
+	  <p><strong>+AER</strong> - stands for Annual Equivalent Rate and illustrates what the 
+      rate would be if interest was paid and compounded each year. As every advert 
+      for a savings product which quotes an interest rate will contain an AER, 
+      you will be able to compare more easily </p>
+	  <p><strong>**Net</strong> - The net rate is the Gross rate less tax at the lower rate 
+      of 20%. Tax at this rate will be deducted from accounts subject to tax at 
+      the time interest is paid. Non tax-payers may register for payment of Interest 
+      Gross. Tax paid may be reclaimed, where appropriate, from the Inland Revenue</p>
+	  <p><strong>++Tax Free</strong> - is the rate payable when interest is exempt from Income Tax  </p>
+	        <p>Yorkshire Bank PLC is a member of the Deposit Protection Scheme established 
+              under the Banking Act 1987 (as amended). Payments under the Scheme 
+              are limited to 90% of a depositor's total deposits subject to a 
+              maximum payment to any one depositor of &pound;18,000 (or euro 20,000 
+              if greater). Most deposits denominated in sterling and other European 
+              Economic Area currencies and euro made with offices of the Bank 
+              within the European Economic Area are covered. Further details of 
+              the Scheme are available on request.</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+          </td>
+          <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt="" /></td>
+          <td width="131" class="content">
+            <table width="131" border="0" cellspacing="0" cellpadding="2">
+
+
+
+
+</table>          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+	<td class="personal">&nbsp;</td><td class="disclaimer">		
+
+
+
+				      			<table width="100%" border="0" cellspacing="9" cellpadding="0">
+									<tr>
+									<td class="disclaimer">&copy; Yorkshire Bank PLC 2001. Use of the information contained on this page is subject to certain rules. To view the Rules of Use, <a href="javascript:void(null)" onclick="javascript:viewper()" class="disclaimerlink">click here.</a></td>                                                                                                                                                                     
+			                                                                                                                                                                                                                                                                                                                                                                                                                                              
+					</tr>                                                                                                                                                                                                                                                                                                                                                                                                                                           
+			    </table>                                                                                                                                                                                                                                                                                                                                                                                                                                            
+			</td>                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+
+
+  </tr>
+</table>
+</body>
+</html>
+

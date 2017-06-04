@@ -1,0 +1,679 @@
+ID=A0046
+URL=http://www.rbs.co.uk/personal/mortgages/jargon.htm
+SIZE=45734
+DATE=27/06/02
+TIME=16:51:00
+DATASET=Commercial Banks
+HTML=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="javascript">
+<!--hide
+if ((navigator.appVersion.indexOf("Mac") != -1)) {
+ document.write("<LINK REL=stylesheet HREF=\"/includes/personal_mac.css\" TYPE=\"text/css\">"); }
+ else {
+ document.write("<LINK REL=stylesheet HREF=\"/includes/personal.css\" TYPE=\"text/css\">"); }
+
+ function popwin(strURL) {
+         window.open(strURL,'popwin','width=448,height=350,resizable=no,scrollbars=yes,top=0,menubar=no,status=no,toolbar=no,location=no');}//stop hiding--></script>
+
+<meta name="description" content="We've made it easy to understand the terms used in this site. Look below for simple explanations.">
+<meta name="keywords" content="Jargonbuster, jargon, helpful terms, help, APR, capital repayment, cashback, discounts, early redemption, switching, endowment, equity, MIRAS, Loan to value, Maximum advance premium, negative equity, remortgage, ISA mortgage">
+<title>Personal Finances - Mortgages &amp; Remortages</title>
+<script language="JavaScript" src="/includes/script.js"></script>
+</head>
+
+<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" vlink="#0000FF">
+<!--webbot bot="Include" U-Include="/includes/header.htm" TAG="BODY" startspan -->
+
+<p><script language="JavaScript"><!--
+function changePage(form1)
+{
+num= form1.strSelect.selectedIndex;
+
+if (num==2) {
+	site = "/personal/default.htm";
+	}
+if (num==3) {
+	site = "/small_business/default.htm";
+	}
+if (num==4) {
+	site = "/cbfm/default.htm";
+	}
+if (num==5) {
+	site = "/group_info/default.htm";
+	}
+if (num==6) {
+	site = "/online/default.htm";
+	}
+if (num==7) {
+	site = "/economics/default.htm";
+	}
+top.location.href=site;
+}
+
+function printfriendly(strURL) {
+
+		if (strURL != null) {
+			strURL = "/utilities/printfriendly.asp?Loc=" + strURL
+		} else {
+			var strURL = (window.location) + " "
+			strURL = strURL.substring(0, strURL.length-5);
+			strURL = strURL + "_content.htm"
+			strURL = "/utilities/printfriendly.asp?Loc=" + strURL
+		}
+      		window.open(strURL,'popprintfriendly','width=580,height=350,resizable=yes,scrollbars=yes,top=0,menubar=yes,status=no,toolbar=yes,location=no');
+}
+// --></script></p>
+
+<form method="POST" action="/search/results.asp" name="form1">
+  <table border="0" cellPadding="0" cellSpacing="0" width="100%" height="0%" Summary="Layout: Page Header">
+
+    <tr bgColor="#000033">
+      <td height="4" width="0%"><table border="0" cellspacing="0" width="0%" height="0%" cellpadding="0">
+        <tr>
+          <td width="0%" align="left"></td>
+          <td width="33%" valign="top"></td>
+          <td width="0%" align="right"></td>
+        </tr>
+        <tr>
+          <td width="0%" align="left"><img src="../../images/curvetl.gif" alt="*" WIDTH="8" HEIGHT="8"></td>
+          <td width="33%" valign="top" background="../../images/header_top.gif" alt="*"><img src="../../images/spacer/spacer.gif" alt="*" width="2" height="8"></td>
+          <td width="0%" align="left"><img src="../../images/curvetr.gif" alt="*" WIDTH="8" HEIGHT="8"></td>
+        </tr>
+        <tr>
+          <td width="0%" align="left" rowspan="3"><img src="../../images/vertline.gif" alt="*" WIDTH="2" HEIGHT="60"></td>
+          <td width="33%"><img src="../../images/search.gif" alt="Search the Site" border="0" WIDTH="77" HEIGHT="10"></td>
+          <td width="0%" align="left" rowspan="3"><img src="../../images/header/right_vertline.gif" alt="*" WIDTH="8" HEIGHT="60"></td>
+        </tr>
+        <tr>
+          <td width="33%" nowrap><input type="text" name="SearchString" size="20" style="font-family: Arial; font-size: 8pt">&nbsp; <input type="image" src="../../images/go.gif" alt="Do Search" name="I2" align="middle" border="0" WIDTH="33" HEIGHT="19"><select name="strSelect" size="1" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,255,255)" onchange="changePage(this.form)">
+            <option value="Links to other sections">Links to other sections</option>
+            <option value="_____________________________">_____________________________</option>
+            <option value="Personal Finances">Personal Finances</option>
+            <option value="Small Business">Small Business</option>
+            <option value="Corporate Banking &amp; Financial Markets">Corporate Banking &amp; Financial Markets</option>
+            <option value="Group Information">Group Information</option>
+            <option value="Online">Online</option>
+            <option value="Economics">Economics</option>
+          </select></td>
+        </tr>
+        <tr align="center">
+          <td width="33%"><div align="left"><p><a href="javascript: popwin(&quot;/search/tips.htm&quot;)"><img src="../../images/searchtips.gif" alt="New Window: Search Tips" border="0" WIDTH="89" HEIGHT="22"></a><img src="../../images/spacer/spacer.gif" alt="*" width="57" height="15"><a href="javascript: popwin(&quot;/help/default.htm&quot;)"><img src="../../images/help.gif" alt="New Window: Site Help" border="0" WIDTH="79" HEIGHT="22"></a><img src="../../images/spacer/spacer.gif" alt="*" width="1" height="4"><a href="javascript: popwin(&quot;/find_us/default.htm&quot;)"><img src="../../images/findus.gif" alt="New Window: Branch/Office Locator" border="0" WIDTH="79" HEIGHT="22"></a><img src="../../images/spacer/spacer.gif" alt="*" width="1" height="4"><a href="javascript: popwin(&quot;/contact_us/default.htm&quot;)"><img src="../../images/contactus.gif" alt="New Window: Enquiry/Feedback Forms" border="0" WIDTH="79" HEIGHT="22"></a></td>
+        </tr>
+        <tr align="center">
+          <td width="0%" align="left"><img src="../../images/curvebl.gif" alt="*" WIDTH="8" HEIGHT="8"></td>
+          <td width="33%" valign="bottom" background="../../images/header_bottom.gif" alt="*"><img src="../../images/spacer/spacer.gif" alt="*" width="2" height="8"></td>
+          <td width="0%" align="left"><img src="../../images/curvebr.gif" alt="*" WIDTH="8" HEIGHT="8"></td>
+        </tr>
+        <tr align="center">
+          <td width="0%" align="left"></td>
+          <td width="33%" valign="bottom"></td>
+          <td width="0%" align="right"></td>
+        </tr>
+        <tr align="center">
+          <td width="0%" align="left"></td>
+          <td width="33%" valign="bottom"></td>
+          <td width="0%" align="right"></td>
+        </tr>
+      </table>
+      </td>
+      <td height="4" width="100%" align="center"><a href="/default.asp" target="_top"><img align="right" border="0" src="/images/rbslogo.gif" alt="Logo: The Royal Bank of Scotland" WIDTH="174" HEIGHT="32"></a></td>
+    </tr>
+</form>
+  </table>
+
+<!--webbot bot="Include" endspan i-checksum="51259" -->
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<table border="0" cellPadding="0" cellSpacing="0" height="100%" width="100%">
+  <tr>
+    <td align="left" bgColor="#0099ff" colSpan="2" height="21" vAlign="top" width="0"><a href="javascript: popwin(&quot;/imp_info/personal/mortgages/home.htm&quot;)"><img border="0" name="importantinformation" src="/images/importantInformation0099ff.gif" alt="New Window: Important Information" WIDTH="170" HEIGHT="21"></a></td>
+    <td bgColor="#0099ff" width="0"><p class="navs"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="6"></font><font face="Arial" size="1"><a href="/" class="history">Home</a><font class="history"> &gt; </font><a class="history" href="../default.htm">Personal Finances</a></font><font class="history" face="Arial" size="1"> &gt; <a href="default.htm" class="history">Mortgages &amp; Remortgages</a> &gt;
+    Jargon Buster</font></td>
+  </tr>
+  <tr bgColor="#ffffff">
+    <td align="middle" bgColor="#000033" height="100%" vAlign="top" width="165"><img border="0" height="4" src="/images/spacer/spacer.gif" alt="*" width="2"><br>
+    <!--webbot bot="Include" U-Include="includes/nav.htm" TAG="BODY" startspan -->
+
+<table border="0" borderColor="#ffffff" cellPadding="0" cellSpacing="0" width="156">
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="cam/default.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Current Account Mortgages</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="flexible.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Flexible Choice Mortgage</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="fixed.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Fixed Rate Mortgages</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="discounted.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Discounted Variable Rate Mortgages</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="remortgage.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Remortgage Offers</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="cat_mortgage.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Variable CAT Mortgage</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="equity_release.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Equity Release Loan</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="buy_to_let.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Buy to Let Mortgages</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="specialist.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Specialist Mortgage Products</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="loanguard.asp" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Mortgage Loanguard</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+</table>
+<!--webbot bot="Include" endspan i-checksum="20109" -->
+</td>
+    <td align="right" bgColor="#0099ff" height="39" vAlign="top" width="7"><img border="0" src="/images/curveLeft0099ff.gif" alt="*" WIDTH="7" HEIGHT="39"></td>
+    <td align="left" height="100%" rowSpan="1" vAlign="top" width="100%"><table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tbody>
+      <tr>
+        <td vAlign="top" width="100%"><table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tbody>
+          <tr>
+            <td bgColor="#66ccff" vAlign="top"><img border="0" src="/images/curveTop0099ffsol.gif" alt="*" WIDTH="41" HEIGHT="17"></td>
+            <td align="right" bgColor="#66ccff" rowSpan="2" vAlign="top"><!--webbot bot="Include" U-Include="includes/sol_bar.htm" TAG="BODY" startspan -->
+
+<table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tbody>
+  <tr>
+    <td align="right" bgColor="#66ccff" vAlign="top"><table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tbody>
+      <tr>
+        <td align="right" width="100%" rowspan="2" valign="bottom">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+        &nbsp;&nbsp; </td>
+        <td align="right" vAlign="top" width="100%" rowspan="2"><a href="/personal/mortgages/guides/default.htm" target="_top"><img src="images/house_clinic.gif" alt="House Clinic" border="0" WIDTH="66" HEIGHT="40"></a></td>
+        <td align="right" vAlign="top" width="100%"><a href="p_finder/default.htm" target="_top"><img alt="Product Finder" border="0" src="../images/sol_bar/p_finder.gif" WIDTH="87" HEIGHT="20"></a></td>
+        <td align="right" vAlign="top" width="100%"><a href="comparison.htm" target="_top"><img src="images/interest.gif" alt="Interest Rates" border="0" WIDTH="87" HEIGHT="20"></a></td>
+        <td align="right" rowSpan="2" vAlign="top" width="100%"><a href="/personal/online/holding_page/default.asp" target="_top"><img border="0" src="/personal/images/sol_bar/bankOnline.gif" WIDTH="66" HEIGHT="40"></a></td>
+      </tr>
+      <tr>
+        <td align="right" vAlign="top" width="100%"><a href="calculator/default.htm" target="_top"><img src="images/calculators.gif" alt="Calculators" border="0" WIDTH="87" HEIGHT="20"></a></td>
+        <td align="right" vAlign="top" width="100%"><a href="jargon.htm" target="_top"><img alt="Jargon Buster" border="0" src="../images/sol_bar/jargon.gif" WIDTH="87" HEIGHT="20"></a></td>
+      </tr>
+</tbody>
+    </table>
+    </td>
+  </tr>
+</tbody>
+</table>
+<!--webbot bot="Include" endspan i-checksum="28325" -->
+</td>
+          </tr>
+          <tr>
+            <td bgColor="#66ccff" vAlign="top"><img border="0" src="/images/curveBottom0099ffsol.gif" alt="*" WIDTH="7" HEIGHT="22"></td>
+          </tr>
+</tbody>
+        </table>
+        </td>
+      </tr>
+</tbody>
+    </table>
+    <table border="0" cellPadding="4" cellSpacing="0" width="100%">
+<tbody>
+      <tr>
+        <td width="100%"><span><font face="Arial" size="2" color="#0099ff"><br>
+        </font><strong><font face="Arial" size="2" color="#0099FF">Personal</font><font face="Arial" size="2" color="#0099ff"> Finances<br>
+        </font></strong></span><font color="#000033" size="3"><b>Mortgage Jargon Buster</b></font><p><font face="Arial,Helvetica" size="2" color="#000000"><!--Start Content--></font></p>
+        <p><font color="#66ccff" size="2"><strong><a href="jargon.htm#a">A</a> <a href="jargon.htm#b">B</a> <a href="jargon.htm#C">C</a> <a href="jargon.htm#D">D</a> <a href="jargon.htm#E">E</a> <a href="jargon.htm#F">F</a> G H <a href="jargon.htm#i">I</a> J
+        K <a href="jargon.htm#L">L</a> <a href="jargon.htm#m">M</a> <a href="jargon.htm#N">N</a> <a href="jargon.htm#o">O</a> <a href="jargon.htm#P">P</a> Q <a href="jargon.htm#R">R</a> <a href="jargon.htm#S">S</a> <a href="jargon.htm#T">T</a> <a href="jargon.htm#U">U</a> <a href="jargon.htm#V">V</a> W X Y Z</strong></font></p>
+        <table CELLSPACING="1" BORDER="0" CELLPADDING="2" WIDTH="100%">
+          <tr>
+            <td WIDTH="16%" VALIGN="top" HEIGHT="6" class="dark"><font FACE="Arial" SIZE="1"><a name="a" class="bookmark">Accident,</a> Sickness and Unemployment cover</font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" HEIGHT="6" class="light"><font FACE="Arial" SIZE="1">Cover provided by <a href="loanguard.asp" class="table">Mortgage Loanguard</a>
+            which pays your monthly mortgage payment for up to 12 months if you become ill, unemployed
+            or have an accident. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" HEIGHT="6" class="dark"><a name="Agreement in principle" class="bookmark"><font FACE="Arial" SIZE="1">Agreement in principle</font></a></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" HEIGHT="6" class="light"><font FACE="Arial" SIZE="1">An indication of the likely outcome of a loan application. This is not a formal
+            offer but includes a credit check with a credit reference agency and an assessment of your
+            ability to repay the loan amount requested. Once you have been given an agreement in
+            principle we would make further checks to validate the information you have provided and
+            check that the house you have chosen is suitable for us to lend against. At that stage we
+            would then offer you a formal <a class="table" href="jargon.htm#offer of loan"><u>offer of
+            loan</u></a>.</font><font FACE="Arial" SIZE="2"> </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" HEIGHT="6" class="dark"><font FACE="Arial" SIZE="1">Arrangement
+            Fees</font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" HEIGHT="6" class="light"><font FACE="Arial" SIZE="1">Charged to arrange a loan on certain products. Usually applied to loans where a
+            special interest rate applies e.g. fixed or capped rates.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">APR</font></td>
+            <td WIDTH="84%" VALIGN="MIDDLE" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">Annual
+            percentage rate of the total charge for credit: this is the standard way (laid down by the
+            Consumer Credit Act 1974) of working out the true interest rate. By law, the APR has to be
+            shown by all lenders alongside their quoted interest rates for each mortgage term, to
+            enable potential borrowers to make comparisons between offers made by different lenders.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><a name="b" class="table" href="buy_to_let.htm"><font FACE="Arial" SIZE="1"><span class="bookmark">Buy To Let</span></font></a></td>
+            <td WIDTH="84%" VALIGN="MIDDLE" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            mortgage used to buy property which is to be used solely for the purposes of renting out
+            to a third party. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Capped Rate Mortgage</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A loan
+            where a maximum rate of interest is set at the start of the mortgage. During the capped
+            rate period the interest rate can fall below the capped rate but will never rise above it.
+            </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="Capital" class="bookmark">Capital</a> Repayment </font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">There
+            are 2 ways of repaying a mortgage - capital repayment or interest only. With a capital
+            repayment mortgage, the capital and interest elements of the loan are paid off with each
+            monthly instalment so that the balance reduces over time. At the end of the mortgage term
+            the balance will be nil.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Capital &amp;
+            Interest</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">Another
+            term for <a href="jargon.htm#Capital" class="table">capital repayment</a></font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a href="cat_mortgage.htm" class="table">CAT Mortgage</a><br>
+            (Charges Access Terms)</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            mortgage that complies with specific guidelines laid down by the government in terms of
+            the charges applied, the flexibility of the mortgage and the terms applicable to it. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Conveyancing</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">The
+            legal process involved when buying or selling property. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="d" class="bookmark">Daily interest</a></font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">If
+            interest is calculated daily then any payments made to your mortgage that reduce the
+            balance immediately reduce the amount of interest you pay. If you have a mortgage which
+            calculates interest monthly or annually you will pay more interest over the term of your
+            mortgage than you would with daily interest. All Royal Bank mortgages calculate interest
+            daily.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Decision in
+            principle</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">See <a href="jargon.htm#Agreement in principle" class="table">Agreement in principle</a></font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Decreasing Term
+            Assurance</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A life
+            assurance policy should repay your mortgage if you die during the term. The amount repaid
+            on this policy reduces over time as the balance of your mortgage reduces.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Deposit</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">Savings
+            used as a down-payment on a house</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><a href="discounted.htm" class="table"><font FACE="Arial" SIZE="1">Discount Rate</font></a></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">This
+            interest rate is discounted from the published bank standard variable rate, or 100%
+            standard variable rate if applicable, for an agreed period from the start of the mortgage.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="e" class="bookmark">Early Repayment/ Switching Charge</a></font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            charge payable of some mortgages to cover administration costs in the event of a loan
+            being repaid before the due date.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Endowment Assurance</font></td>
+            <td WIDTH="84%" VALIGN="MIDDLE" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            life assurance savings scheme that pays out a lump sum at the end of an agreed period. If
+            the Endowment is linked to an interest only mortgage, the lump sum from the endowment
+            policy is designed to pay off the outstanding loan at the end of the mortgage term. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Endowment Mortgage</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">This is
+            a type of interest only mortgage. Only interest is paid throughout the term so the balance
+            never changes. The mortgage is designed to be repaid at the end of the term with the
+            proceeds of an endowment policy.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Equity</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">The
+            value of your home minus any outstanding loan.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><a href="equity_release.htm" class="table"><font FACE="Arial" SIZE="1">Equity Release</font></a></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            secured loan to release equity in your house for any purpose.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="f" class="bookmark">First Time Buyer</a></font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            customer taking out their first mortgage.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><a href="fixed.htm" class="table"><font FACE="Arial" SIZE="1">Fixed Rate</font></a></td>
+            <td WIDTH="83%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            mortgage rate where the interest rate is agreed at the outset and will not change during
+            the term of the fixed rate, typically 3 or 5 years. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Freehold</font></td>
+            <td WIDTH="83%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A term
+            which means that you own the property and the land it is situated on.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="i" class="bookmark">Interest Charges</a></font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">The
+            charges that banks make on a loan, calculated as a percentage of the amount borrowed</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Interest Only</font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">There
+            are 2 types of mortgage, interest only or capital repayment. With an interest only
+            mortgage the balance of the mortgage stays the same throughout the mortgage term. Interest
+            and a premium to an investment vehicle are paid monthly. At the end of the term, the
+            proceeds from the investment vehicle are intended to repay the mortgage. The amount will
+            depend on the performance of the investment vehicle. If you choose an interest only
+            mortgage you will be responsible for ensuring that you have sufficient funds available to
+            repay your mortgage at the end of the term. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Individual Savings
+            Account (ISA) Mortgage</font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">An
+            interest only mortgage linked to an Individual Savings Account fund, which is designed to
+            pay off the loan at the end of the period. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="l" class="bookmark">Leasehold</a></font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            system used mainly in England where you would own the property for a set period before
+            handing back ownership to the freeholder.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Legal Fees</font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">The
+            fees charged by a solicitor or other qualified individual to carry out the legal work
+            associated with buying a house. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Level Term Assurance</font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A life
+            assurance policy which will repay your mortgage if you die during the term. The amount
+            that will be repaid is set as the balance of your mortgage at the start of your loan and
+            doesn't change during the term of your mortgage.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Loanguard</font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">See <a href="jargon.htm#MortgageLoanguard" class="table">Mortgage Loanguard</a></font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Loan to Value (LTV)</font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">Loan to
+            Value (LTV) refers to the amount of the mortgage compared to the value of the house (or
+            purchase price or lower) you are considering buying. For example, a £40,000 mortgage on a
+            house worth £50,000 would have an LTV of 80%. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" ROWSPAN="4" class="dark"><font FACE="Arial" SIZE="1"><a name="m" class="bookmark">Maximum Advance Premium</a></font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">The
+            Maximum Advance Premium (MAP) is a charge due on a mortgage with an LTV greater than 90%.
+            The premium will be charged on the amount of the loan above 75% LTV. The scale charges
+            are:</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="38%" VALIGN="MIDDLE" class="light"><font FACE="Arial" SIZE="1">% LTV</font></td>
+            <td WIDTH="46%" VALIGN="MIDDLE" class="light"><font FACE="Arial" SIZE="1">MAP Rate</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="38%" VALIGN="MIDDLE" class="light"><font FACE="Arial" SIZE="1">90.01% - 95%<br>
+            95.01% - 100%</font></td>
+            <td WIDTH="46%" VALIGN="MIDDLE" class="light"><font FACE="Arial" SIZE="1">8.95%<br>
+            12.00%</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">MAP
+            example: <br>
+            Based on a mortgage of £50,000 on a property valued at £55,000. The LTV is 90.9% of
+            valuation so the MAP rate from the table above is 8.95%.<p>75% of the valuation of
+            £55,000 is £41,250 which is then deducted from the loan amount of £50,000 i.e. £8,750.
+            This multiplied by the Map rate of 8.95% gives a MAP charge of £783.13.</p>
+            <p>Note: MAP will be charged (where applicable above) where customers move house and keep
+            the existing mortgage terms.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">MIRAS</font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">This
+            was a government scheme discontinued in April 2001 that allowed you to claim tax relief on
+            the interest you paid on your mortgage. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Mortgage</font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A loan
+            made against the security of a property.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><a name="MortgageLoanguard" class="table" href="loanguard.asp"><font FACE="Arial" SIZE="1">Mortgage Loanguard</font></a></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            payment protection policy that covers your monthly mortgage payments in the event of
+            accident, sickness or unemployment.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><a name="MortgageRate" class="bookmark"><font FACE="Arial" SIZE="1">Mortgage Rate</font></a></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">The
+            standard variable interest rate quoted by all mortgage lenders which normally varies with
+            the Bank of England base rate. All discounted rates are based on this Mortgage Rate. There
+            are 2 tiers of Mortgage Rate, standard variable and 100% standard variable. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="n" class="bookmark">Negative Equity</a></font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">Where a
+            mortgage is greater than the value of the property</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><a class="bookmark" name="offer of loan" class="bookmark"><font FACE="Arial" SIZE="1">Offer of Loan</font></a></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            formal document approving the mortgage you have requested and detailing the terms and
+            conditions that will apply.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="p" class="bookmark">Payment Break</a></font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">An
+            option on our <a href="flexible.htm" class="table">Flexible Choice Mortgage</a> that
+            allows you to stop making mortgage payments for up to 6 months. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" HEIGHT="31" class="dark"><font FACE="Arial" SIZE="1">Pension
+            Plan Mortgage</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" HEIGHT="31" class="light"><font FACE="Arial" SIZE="1">A type of interest only mortgage where the loan is designed to be repaid by a
+            lump sum from a pension plan when you retire.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="r" class="bookmark">Re-mortgaging</a></font></td>
+            <td WIDTH="84%" VALIGN="MIDDLE" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">Moving
+            mortgage from one lender to another without moving house.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Reserve Facility</font></td>
+            <td WIDTH="84%" VALIGN="MIDDLE" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">An
+            option available on our <a href="flexible.htm" class="table">Flexible Choice Mortgage</a>
+            that allows you to release equity in your home when you want to. As a maximum amount is
+            agreed at the same time as your mortgage, no further application forms or approval are
+            required before you access the funds. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><a href="specialist.htm" class="table"><font FACE="Arial" SIZE="1">Right-to-Buy Mortgages</font></a></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">Mortgages
+            for public sector tenants who qualify to buy their home under the Government's
+            Right-to-Buy scheme. Most of our mortgages are available under this scheme.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="s" class="bookmark">Sealing Fee</a></font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            charge made for the administration work involved in closing your mortgage account.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><a href="specialist.htm" class="table"><font FACE="Arial" SIZE="1">Self build scheme</font></a></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            package for customers who are looking to build their new home themselves.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Stamp Duty</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A
+            charge levied by the government on house purchases over £60,000.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Standard Variable
+            Mortgage Rate</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">See <a href="jargon.htm#MortgageRate" class="table">Mortgage Rate</a></font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><a name="Survey" class="bookmark"><font FACE="Arial" SIZE="1">Survey</font></a></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">A more
+            thorough and costly evaluation of the condition and value of a property. Paid for by the
+            customer. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="t" class="bookmark">Term</a></font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">The
+            length of time you take to repay your mortgage.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Total Amount Payable</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">The
+            Consumer Credit Act requires the Bank to show the 'total amount payable' on quotations for
+            mortgages. The 'total amount payable' is the total of the mortgage repayments or, in the
+            case of an interest only mortgage, the interest payable over the term plus the final
+            capital repayment. It includes any Bank fees, likely valuation fees, an estimate of likely
+            legal costs and life assurance premiums.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Typical example</font></td>
+            <td WIDTH="84%" VALIGN="TOP" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">An
+            example of the repayments made by a typical customer for every mortgage type that the Bank
+            provides.</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="u" class="bookmark">Unemployment Cover</a></font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">One of
+            the options available with <a href="loanguard.asp" class="table">Mortgage Loanguard</a> to
+            protect against redundancy. If you are made unemployed, <a href="loanguard.asp" class="table">it</a> will pay your monthly mortgage payments for up to 12 months. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1"><a name="v" class="bookmark">Valuation</a></font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">An
+            independent assessment of the value of a property carried out by an approved surveyor.
+            Paid for by the customer, the valuation is used by the bank to decide how much they are
+            prepared to lend. Many customers also choose to arrange a more comprehensive <a href="jargon.htm#Survey" class="table">survey</a> for their own purposes before they
+            decide to buy a property. </font></td>
+          </tr>
+          <tr>
+            <td WIDTH="16%" VALIGN="top" class="dark"><font FACE="Arial" SIZE="1">Variable Rate</font></td>
+            <td WIDTH="84%" VALIGN="top" COLSPAN="2" class="light"><font FACE="Arial" SIZE="1">This
+            rate can go down as well as up during the course of your mortgage and is normally based on
+            The Bank of England Base Rate.</font></td>
+          </tr>
+        </table>
+        <font size="2"><p>These services are for the attention of UK residents only and are only
+        available in the UK. </font></p>
+        <p><!--End Content--></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td width="100%" colspan="2"><table border="1" width="100%" bordercolor="#C0C0C0" cellspacing="0">
+          <tr>
+            <td width="100%"><table border="0" cellPadding="4" cellSpacing="0" width="100%">
+<tbody>
+              <tr>
+                <td align="left" width="100%">&nbsp;&nbsp;&nbsp;<a href="javascript: popwin(&quot;/imp_info/personal/default.htm&quot;)"><img border="0" src="/images/up.gif" alt="#" WIDTH="9" HEIGHT="5"><font color="#000033" face="Arial, Helvetica" size="1">&nbsp;Please
+                see Important Information</font> </a></td>
+                <td width="0%"><img src="/images/rbs_blueonwhitesmall.gif" alt="Logo: The Royal Bank of Scotland" WIDTH="112" HEIGHT="26"></td>
+                <td width="0%"><img border="0" height="10" src="/images/spacer/spacer.gif" alt="*" width="26"> </td>
+              </tr>
+</tbody>
+            </table>
+            </td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</tbody>
+</table>
+</body>
+</html>
+

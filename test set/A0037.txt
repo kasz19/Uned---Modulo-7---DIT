@@ -1,0 +1,197 @@
+ID=A0037
+URL=http://www.co-operativebank.co.uk/about/news_ethics.html
+SIZE=22176
+DATE=27/06/02
+TIME=16:50:43
+DATASET=Commercial Banks
+HTML=<HTML>
+<HEAD>
+<!-- © 2000 The Co-operative Bank plc and TechnoPhobia ltd -->
+<!-- Website Designed and Maintained by TechnoPhobia ltd -->
+<!-- Created PKS 11/02/00 12:55:06 -->
+<!-- Modified JHB 09/04/02 09:11:17 -->
+<!-- Modified SDF 30/04/02 16:15:22 -->
+<!-- Modified JHB 14/05/02 16:08:35 -->
+<TITLE>The Co-operative Bank plc</TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- 
+// Do not remove the following comments
+// Copyright © 2000 TechnoPhobia Ltd All rights reserved.
+// This code, either in full or part, is not for reuse.
+
+var OptionSelected;
+
+function lightsOn(){
+	OptionSelected=window.event.srcElement;
+	OptionSelected.className="clsHighlight"
+}
+
+function lightsOff(){
+	OptionSelected=window.event.srcElement;
+	OptionSelected.className="clsNormal"
+}
+	
+function init(){
+	changeImage();
+	changeLink();
+}
+function changeImage(){
+	if( ((parseInt(navigator.appVersion) >= 3) && (navigator.appName == 'Netscape')) || ((parseInt(navigator.appVersion) >= 4) && (navigator.appName == 'Microsoft Internet Explorer')) ){
+		var i=0;
+		while(document.images[i]){
+			if(document.images[i].src.indexOf("spacer.gif") != -1){
+				if(document.images[i].name == 'changeme') document.images[i].src='../graphics/footer_back_news.gif';
+			}
+			i++;
+		}
+	}
+}
+function changeLink(){
+	var navName = navigator.appName;
+	var navVer = parseInt(navigator.appVersion);
+	if( ((navName == 'Netscape') && (navVer >= 3)) || ((navName == 'Microsoft Internet Explorer') && (navVer >= 4)) ){
+		var i=0;
+		while(document.links[i]){
+			if(document.links[i].href.indexOf("#1") != -1){
+				document.links[i].href='Javascript:goBack()';
+			}
+			i++;
+		}
+	}
+}
+function goBack(){
+	setTimeout('goBack2(document.location.href)',1000);
+	history.go(-1);
+}
+function goBack2(me){
+	if(document.location.href == me){
+		top.history.go(-1);
+	}
+}
+// -->
+</SCRIPT>
+
+<STYLE>
+<!-- 
+.clsNormal{color:003366; text-decoration:underline}
+.clsHighlight{color:FFFFFF; background:FF6666; cursor:hand; text-decoration:none}
+A	{text-decoration:none}
+// -->
+</STYLE></HEAD>
+
+<BODY onLoad="init()" BACKGROUND="../graphics/background_newsroom.gif" BGCOLOR="#CCCC99" TEXT="#003366" LINK="#003366" ALINK="#FF6666" VLINK="#003366" TOPMARGIN=0 LEFTMARGIN=0 MARGINWIDTH="0" MARGINHEIGHT="0">
+
+<!-- Logo -->
+<A HREF="http://www.co-operativebank.co.uk/" TITLE="Follow this link to return to the home page" TARGET="_top"><IMG SRC="../graphics/logo_coopbank.gif" WIDTH=254 HEIGHT=25 HSPACE=0 VSPACE=0 BORDER=0 ALT="The Co-operative Bank" ALIGN="right"></A><BR CLEAR="all">
+
+<!-- Header -->
+<TABLE WIDTH="100%" BORDER=0 CELLPADDING=0 CELLSPACING=0 HSPACE=0 VSPACE=0>
+<TR><TD WIDTH="50%"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0><TR><TD WIDTH="30"><IMG SRC="../graphics/blank.gif" WIDTH=30 HEIGHT=1 alt="*"></TD>
+	<TD><BR><BR><FONT FACE="Arial, Helvetica, Sans-serif"><FONT SIZE="+2"><B>The Media Centre Archives</B></FONT><BR>
+<FONT SIZE="+1"><B>Ethics and Ecology News</B></FONT><BR></TD></TR></TABLE></TD>
+	
+<!-- Banner -->
+	<TD ALIGN="right" VALIGN="top" COLSPAN="2"><IMG SRC="../graphics/blank.gif" WIDTH=248 HEIGHT=20 BORDER=0 alt="*"><IMG SRC="../graphics/blank.gif" WIDTH=248 HEIGHT=67 BORDER=0 alt="*" ALIGN="right"></TD>
+</TR>
+</TABLE>
+
+<!-- Body -->
+<TABLE WIDTH="100%" BORDER=0 CELLPADDING=0 CELLSPACING=0 HSPACE=0 VSPACE=0>
+<TR VALIGN="top">
+	<TD WIDTH=30><IMG SRC="../graphics/blank.gif" WIDTH=30 HEIGHT=1 alt="*"></TD>
+	<TD WIDTH="50%"><BR><FONT FACE="Arial, Helvetica, Sans-serif" SIZE="-1">
+  Click the icons to the right to view the document you require. Click below to read staff bulletins.
+  <P><A HREF="pdf_information.html" OnMouseOver="window.status='Click Here'; return true" OnMouseOut="window.status=''; return true"><SPAN CLASS=CLSNORMAL ONMOUSEOVER="lightsOn()" ONMOUSEOUT="lightsOff()"><B>Click here</B></SPAN></A> if you cannot open these documents.
+
+  <P><B>Staff Bulletins</B>
+  <BR><A HREF="../downloads/ethics/greentalk5.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A>Spring 2001
+  <P><A HREF="../downloads/ethics/greentalk4.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A>Winter 2000
+  <P><A HREF="../downloads/ethics/greentalk3.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A>Summer 2000
+  <P><A HREF="../downloads/ethics/greentalk1.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A>Spring 2000
+	<P><A HREF="../downloads/ethics/greentalk2.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A>Winter 1999
+
+
+	</FONT>
+	</TD>
+	<TD WIDTH=30><IMG SRC="../graphics/blank.gif" WIDTH=30 HEIGHT=1 alt="*"></TD>
+	<TD WIDTH="50%"><BR><FONT FACE="Arial, Helvetica, Sans-serif" SIZE="-1"><P><B>Press Releases</B><BR>
+<p>15/05/02<p><a href="../downloads/news/news_020515.pdf" OnMouseOver="window.status=''; return true"><img src="../graphics/news_pdf.gif" width="23" height="24" border="0" align="left" alt="PDF" hspace=6></a><font face="Arial, Helvetica, Sans-serif" size=-1>Ethics is worth more than £20M says The Co-operative Bank</font>	
+<p>01/05/02<p><a href="../downloads/news/news_020501.pdf" OnMouseOver="window.status=''; return true"><img src="../graphics/news_pdf.gif" width="23" height="24" border="0" align="left" alt="PDF" hspace=6></a><font face="Arial, Helvetica, Sans-serif" size=-1>Revised policy marks 10 years of ethics from The Co-operative Bank</font>	
+<p>18/03/02<p><a href="../downloads/news/news_020318.pdf" OnMouseOver="window.status=''; return true"><img src="../graphics/news_pdf.gif" width="23" height="24" border="0" align="left" alt="PDF" hspace=6></a><font face="Arial, Helvetica, Sans-serif" size=-1>Ten year fixed rate mortgage from The Co-operative Bank</font>	
+<p>18/03/02<p><a href="../downloads/news/news_020318_1.pdf" OnMouseOver="window.status=''; return true"><img src="../graphics/news_pdf.gif" width="23" height="24" border="0" align="left" alt="PDF" hspace=6></a><font face="Arial, Helvetica, Sans-serif" size=-1>Customers bring ethical bank to account </font>
+<p>18/03/02<p><a href="../downloads/news/news_020318_2.pdf" OnMouseOver="window.status=''; return true"><img src="../graphics/news_pdf.gif" width="23" height="24" border="0" align="left" alt="PDF" hspace=6></a><font face="Arial, Helvetica, Sans-serif" size=-1>Posh ethics</font>
+<p>13/03/02<p><a href="../downloads/news/news_020313.pdf" OnMouseOver="window.status=''; return true"><img src="../graphics/news_pdf.gif" width="23" height="24" border="0" align="left" alt="PDF" hspace=6></a><font face="Arial, Helvetica, Sans-serif" size=-1>Co-operative Bank swaps cheques for chocs</font>
+<p>11/02/02<p><a href="../downloads/news/news_020211.pdf" OnMouseOver="window.status=''; return true"><img src="../graphics/news_pdf.gif" width="23" height="24" border="0" align="left" alt="PDF" hspace=6></a><font face="Arial, Helvetica, Sans-serif" size=-1>Green fixed rate mortgage from The Co-operative Bank</font>
+<p>05/02/02<p><a href="../downloads/news/news_020205.pdf" OnMouseOver="window.status=''; return true"><img src="../graphics/news_pdf.gif" width="23" height="24" border="0" align="left" alt="PDF" hspace=6></a><font face="Arial, Helvetica, Sans-serif" size=-1>The Co-operative Bank increases affinity with RSPB</font>
+<p>03/12/01<p><a href="../downloads/news/news_011203.pdf" OnMouseOver="window.status=''; return true"><img src="../graphics/news_pdf.gif" width="23" height="24" border="0" align="left" alt="PDF" hspace=6></a><font face="Arial, Helvetica, Sans-serif" size=-1>Two Million Co-operative Bank Customers Polled on Ethics</font>
+<P>19/11/01<P><A HREF="../downloads/news/news_011119.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT FACE="Arial, Helvetica, Sans-serif" SIZE=-1>Co-operative bank index shows green spending up 18 per cent</FONT>	
+<P>13/07/01<P><A HREF="../downloads/news/news_010713.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT FACE="Arial, Helvetica, Sans-serif" SIZE=-1>Co-operative Bank wins top award for its impact on society</FONT>	
+<P>06/07/01<P><A HREF="../downloads/news/news_010706.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT FACE="Arial, Helvetica, Sans-serif" SIZE=-1>The Co-operative Bank urges bosses to go green</FONT>	
+<P>08/05/01<P><A HREF="../downloads/news/news_010508.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT FACE="Arial, Helvetica, Sans-serif" SIZE=-1>Co-operative Bank launches fourth annual Partnership Report</FONT>
+<P>17/04/01<P><A HREF="../downloads/news/news_010417.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT FACE="Arial, Helvetica, Sans-serif" SIZE=-1>Two million Co-operative Bank customers to be polled on ethics</FONT>
+<P>23/03/01<P><A HREF="../downloads/news/news_010323.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT FACE="Arial, Helvetica, Sans-serif" SIZE=-1>The Co-operative Bank win ACCA Environmental Reporting Award</FONT>	
+<P>14/03/01<P><A HREF="../downloads/news/news_010314.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT FACE="Arial, Helvetica, Sans-serif" SIZE=-1>Co-operative Bank and EIRIS open up debate on genetic engineering</FONT>	
+<P>03/12/00<P><A HREF="../downloads/news/news_001203.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT FACE="Arial, Helvetica, Sans-serif" SIZE=-1>Co-operative Bank signs up for more green energy</FONT>
+<P><FONT FACE="Arial, Helvetica, Sans-serif" SIZE="-1">
+<P>25/09/00<P><A HREF="../downloads/news/news_000925.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT FACE="Arial, Helvetica, Sans-serif" SIZE=-1>Co-operative Bank launches green low-cost flexible mortgage</FONT>
+<P><FONT FACE="Arial, Helvetica, Sans-serif" SIZE="-1">
+<P>25/04/00<P><A HREF="../downloads/latest/news_000425.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH=23 HEIGHT=24 BORDER=0 ALIGN="left" ALT="PDF" HSPACE=6></A><FONT FACE="Arial, Helvetica, Sans-serif" SIZE=-1>The Illisu Dam Campaign benefits from laughter at The Comedy Store</FONT>
+<P>18/04/00<P><A HREF="../downloads/latest/news_000418.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT FACE="Arial, Helvetica, Sans-serif" SIZE=-1>The Co-operative Bank reveals its &quot;warts and all&quot; Partnership Report</FONT>
+<P>05/04/00<P><A HREF="../downloads/latest/news_000405.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT FACE="Arial, Helvetica, Sans-serif" SIZE=-1>Co-operative Bank predicts healthy future for community banking</FONT>
+<P>07/12/99<P><A HREF="../downloads/ethics/news_asa.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>ASA Ruling on <NOBR>Co-operative Bank</NOBR>/Greenpeace Biodegradable Visa Card</FONT>
+<P>31/08/99<P><A HREF="../downloads/ethics/news_990831.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Co-operative bank unveils annual ethical health check</FONT>
+<P>21/07/99<P><A HREF="../downloads/ethics/news_990721.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Ship canal hydro electricity fuels co-operative bank</FONT>
+<P>16/07/99<P><A HREF="../downloads/ethics/news_990716.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>The Co-operative Bank wins brace of BITC Awards</FONT>
+<P>15/06/99<P><A HREF="../downloads/ethics/news_990615.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>The Co-operative Bank solves Salford recycling mystery</FONT>
+<P>07/06/99<P><A HREF="../downloads/ethics/news_990607.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Top people given unique insight to pyramid thanks to top U.K.</FONT>
+<P>23/02/99<P><A HREF="../downloads/ethics/news_990223.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Environment Minister presents Co-operative Bank with award</FONT>
+<P>14/01/99<P><A HREF="../downloads/ethics/news_990114.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>The Co-operative Bank's Partnership Report is the world's best</FONT>
+<P>30/12/98<P><A HREF="../downloads/ethics/news_981230.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>The Co-operative Bank's ethical barometer updated</FONT>
+<P>11/12/98<P><A HREF="../downloads/ethics/news_981211.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Climate study says manchester and the north west will get wetter</FONT>
+<P>10/11/98<P><A HREF="../downloads/ethics/news_981110.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Bank meets government emissions targets ten years early</FONT>
+<P>05/11/98<P><A HREF="../downloads/ethics/news_981105.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Top bosses back fair trade coffee</FONT>
+<P>31/08/98<P><A HREF="../downloads/ethics/news_980831.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Bosnian land mine scandal exposed</FONT>
+<P>03/08/98<P><A HREF="../downloads/ethics/news_980803.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Bank customers want a say in how their money is used</FONT>
+<P>21/07/98<P><A HREF="../downloads/ethics/news_980721.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Companies urged to take positive approach to transport white paper</FONT>
+<P>18/06/98<P><A HREF="../downloads/ethics/news_980618.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Clare Short MP urges top bosses to back fair trade coffee</FONT>
+<P>17/06/98<P><A HREF="../downloads/ethics/news_980617.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Sustainability key to future says new chief</FONT>
+<P>15/04/98<P><A HREF="../downloads/ethics/news_980415a.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Co-operative Bank first to launch &quot;WARTS AND ALL&quot; stakeholding report</FONT>
+<P>31/12/97<P><A HREF="../downloads/ethics/news_971231.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Co-operative Bank and BIFU underline partnership approach</FONT>
+<P>10/12/97<P><A HREF="../downloads/ethics/news_971210a.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Companies follow the lead from Kyoto</FONT>
+<P>16/10/97<P><A HREF="../downloads/ethics/news_971016a.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Co-operative Bank chief condems UK's forest failure</FONT>
+<P>16/10/97<P><A HREF="../downloads/ethics/news_971016.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Four new woodlands mark Co-operative Bank anniversary</FONT>
+<P>06/10/97<P><A HREF="../downloads/ethics/news_971006.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>New Co-operative Bank to give boost to local charity</FONT>
+<P>18/09/97<P><A HREF="../downloads/ethics/news_970918a.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Co-operative Bank launchs its biggest ever customer consultation exercise</FONT>
+<P>12/09/97<P><A HREF="../downloads/ethics/news_970912.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Dancing fish signal Co-operative Bank's positive approach</FONT>
+<P>31/07/97<P><A HREF="../downloads/ethics/news_970731.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>New campaign challenges media's portrayal of disabled people</FONT>
+<P>21/07/97<P><A HREF="../downloads/ethics/news_970721.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Co-operative Bank warns that business is failing to benefit from green technology</FONT>
+<P>11/07/97<P><A HREF="../downloads/ethics/news_970711b.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Co-operative Bank chief urges commercial organisations to democratise their business</FONT>
+<P>11/07/97<A HREF="../downloads/ethics/news_970711a.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Good treatment of staff is vital to companies' reputation</FONT>
+<P>22/01/97<P><A HREF="../downloads/ethics/news_970122.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>The Co-operative Bank recruitment drive targets unemployed</FONT>
+<P>20/01/97<P><A HREF="../downloads/ethics/news_970120.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Top banker calls on companies to adopt partnership approach</FONT>
+<P>16/10/96<P><A HREF="../downloads/ethics/news_961016a.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>The Co-operative Bank's landmine ad wins approval from ASA</FONT>
+<P>16/10/96<P><A HREF="../downloads/ethics/news_961016.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Co-operative Bank M.D. urges all banks to act on landmines</FONT>
+<P>16/10/96<P><A HREF="../downloads/ethics/news_961016b.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Clare Short MP to clear minefield at Westminster</FONT>
+<P>05/07/96<P><A HREF="../downloads/ethics/news_960705.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Co-operative Bank asks internet users to vote on its ethical stance</FONT>
+<P>22/03/96<P><A HREF="../downloads/ethics/news_960322.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Leading banker calls for government action on contaminated land</FONT>
+<P>22/03/96<P><A HREF="../downloads/ethics/news_960322a.pdf" OnMouseOver="window.status=''; return true"><IMG SRC="../graphics/news_pdf.gif" WIDTH="23" HEIGHT="24" BORDER="0" ALIGN="left" ALT="PDF" HSPACE=6></A><FONT SIZE=-1>Tony Blair to open Co-operative Bank ecology centre</FONT>
+	</FONT>
+	</TD>
+	<TD WIDTH=30><IMG SRC="../graphics/blank.gif" WIDTH=30 HEIGHT=1 alt="*"></TD></TR>
+</TABLE>
+
+<!-- Footer -->
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 HSPACE=0 VSPACE=0>
+<TR><TD WIDTH=30 VALIGN="bottom"><IMG SRC="../graphics/blank.gif" WIDTH=30 HEIGHT=1 alt="*"></TD>
+	<TD VALIGN="bottom"><BR><BR><A NAME="1" HREF="#1" OnMouseOver="window.status=''; return true" OnMouseOut="window.status=''; return true"><IMG SRC="../graphics/spacer.gif" WIDTH=55 HEIGHT=75 BORDER=0 alt="*" name="changeme"></A><A HREF="http://www.co-operativebank.co.uk/" TITLE="Follow this link to return to the home page" TARGET="_top" OnMouseOver="window.status=''; return true" OnMouseOut="window.status=''; return true"><IMG SRC="../graphics/footer_home_news.gif" WIDTH=75 HEIGHT=75 BORDER=0 ALT="Home"></A>
+	</TD>
+</TR>
+
+</TABLE>
+
+<BR>&nbsp;
+
+</BODY></HTML>
+
+
+

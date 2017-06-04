@@ -1,0 +1,139 @@
+ID=C0055
+URL=http://www.hhh.co.uk/travel1.htm
+SIZE=6722
+DATE=10/07/2002
+TIME=13:17:17
+DATASET=Insurance Agencies
+HTML=<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<table width="95%" align="center">
+  <tr>
+    <td>
+      <p>&nbsp;</p>
+      <p><b><font size="2" face="Arial, Helvetica, sans-serif" color="#5E94DB">*Annual 
+        Multi-trip (travelling more than once a year, maximum 31 or 62 days each 
+        trip)<br>
+        *Single Trip Policy </font></b></p>
+      <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Cover includes:</b></font></p>
+      <table width="95%" border="1" align="center">
+        <tr> 
+          <td><b><font size="2" face="Arial, Helvetica, sans-serif">Cover</font></b></td>
+          <td><b><font size="2" face="Arial, Helvetica, sans-serif">Sum Insured</font></b></td>
+          <td><b><font size="2" face="Arial, Helvetica, sans-serif">Excess Applicable</font></b></td>
+        </tr>
+        <tr> 
+          <td><font size="2" face="Arial, Helvetica, sans-serif">Cancellation</font></td>
+          <td><font size="2" face="Arial, Helvetica, sans-serif">Up to &pound;3,000</font></td>
+          <td><font size="2" face="Arial, Helvetica, sans-serif">&pound;40.00</font></td>
+        </tr>
+        <tr> 
+          <td><font face="Arial, Helvetica, sans-serif" size="2">Curtailment</font></td>
+          <td><font face="Arial, Helvetica, sans-serif" size="2">Up to &pound;3,000</font></td>
+          <td><font face="Arial, Helvetica, sans-serif" size="2">&pound;40.00</font></td>
+        </tr>
+        <tr> 
+          <td><font face="Arial, Helvetica, sans-serif" size="2">Personal Accident</font></td>
+          <td><font face="Arial, Helvetica, sans-serif" size="2">Up to &pound;10,000</font></td>
+          <td><font face="Arial, Helvetica, sans-serif" size="2">Nil</font></td>
+        </tr>
+        <tr> 
+          <td><font face="Arial, Helvetica, sans-serif" size="2">Emergency Medical 
+            Expenses</font></td>
+          <td><font face="Arial, Helvetica, sans-serif" size="2">Up to &pound;5,000,000</font></td>
+          <td><font face="Arial, Helvetica, sans-serif" size="2">&pound;40.00</font></td>
+        </tr>
+        <tr> 
+          <td><font size="2" face="Arial, Helvetica, sans-serif">Additional Hospital 
+            Benefit</font></td>
+          <td><font size="2" face="Arial, Helvetica, sans-serif">Up to &pound;1,000</font></td>
+          <td><font size="2" face="Arial, Helvetica, sans-serif">Nil</font></td>
+        </tr>
+        <tr> 
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">Baggage 
+            &amp; Personal Belongings<br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            </font></td>
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">Up 
+            to &pound;1,500<br>
+            Single Item limit &pound;200<br>
+            Valuables limit &pound;250<br>
+            Delayed baggage up to &pound;100<br>
+            </font></td>
+          <td valign="top"> 
+            <p><font size="2" face="Arial, Helvetica, sans-serif">&pound;40.00<br>
+              <br>
+              <br>
+              <br>
+              </font></p>
+          </td>
+        </tr>
+        <tr> 
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">Money 
+            </font></td>
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">Up 
+            to &pound;500 for Accidental loss of theft or in a safe<br>
+            Up to &pound;250 for cash</font></td>
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">&pound;40.00</font></td>
+        </tr>
+        <tr> 
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">Travel 
+            delay and abandonment</font></td>
+          <td><font size="2" face="Arial, Helvetica, sans-serif">Up to &pound;100-delayed<br>
+            Up to &pound;3,000-abandoned<br>
+            </font></td>
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">&pound;40.00<br>
+            </font></td>
+        </tr>
+        <tr> 
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">Missed 
+            Departure</font></td>
+          <td><font size="2" face="Arial, Helvetica, sans-serif">Up to &pound;1,000</font></td>
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">&pound;40.00 
+            </font></td>
+        </tr>
+        <tr> 
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">Personal 
+            Liability</font></td>
+          <td><font size="2" face="Arial, Helvetica, sans-serif">Up to &pound;2,000,000</font></td>
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">&pound;40.00</font></td>
+        </tr>
+        <tr> 
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">Legal 
+            Expenses</font></td>
+          <td><font size="2" face="Arial, Helvetica, sans-serif">Up to &pound;25,000</font></td>
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">Nil</font></td>
+        </tr>
+        <tr> 
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">Hijack</font></td>
+          <td><font size="2" face="Arial, Helvetica, sans-serif">Up to &pound;1,000</font></td>
+          <td valign="top"><font size="2" face="Arial, Helvetica, sans-serif">Nil</font></td>
+        </tr>
+      </table>
+      <p><font face="Arial, Helvetica, sans-serif" size="1">Full endorsement wording, 
+        conditions and exclusions are available on request. For full terms and 
+        conditions reference should be made to the policy wording-also available 
+        on request.</font></p>
+      <p><font face="Arial, Helvetica, sans-serif" size="1">Note: If you are travelling 
+        to a country in the EEC, obtain Form E111 from the Post Office. If you 
+        are travelling in Australia and require medical treatment, you must enrol 
+        with Medicare.</font></p>
+      <p><font face="arial" size="2">For all quotations contact our expert staff 
+        on 0800 0151512 between 8 - 10pm Monday to Friday or 9 - 6pm Saturday 
+        and Sunday.</font></p>
+      <p><font face="arial" size="2"> Alternatively email us at <a href="mailto:service@hhh.co.uk"><b>service@hhh.co.uk</b></a>.</font> 
+      <p><a href="travel.htm" target="main"><img src="images/back.gif" width="68" height="26" border="0" alt="back image"></a> 
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+

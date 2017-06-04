@@ -1,0 +1,492 @@
+ID=B0071
+URL=http://www.marsdenbs.co.uk/pages/mortgage/insurance.html
+SIZE=33907
+DATE=28/06/2002
+TIME=12:47:12
+DATASET=Building Societies
+HTML=<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Marsden Insurance</title>
+	</head>
+
+	<body style="background-attachment: fixed; background-repeat: no-repeat;" background="../../resource/backrose3.jpg" link="blue" alink="blue" vlink="blue">
+		<table cool width="720" height="2812" border="0" cellpadding="0" cellspacing="0" gridx="16" showgridx usegridx gridy="16" showgridy usegridy>
+			<tr height="2811">
+				<td width="704" height="2811" align="left" xpos="0" content valign="top" csheight="2811">
+					<div align="left">
+						<font size="7" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493"><b>Marsden Insurance</b></font>
+						<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="4"><b>
+									<hr>
+								</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">Marsden Building Society offers a range of insurance products backed by one of the UK's leading insurance companies. For further details, contact your nearest branch, or alternatively call free on 0800 801645<br>
+							</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493"><b><br>
+									<hr>
+									
+									
+						HOME &amp; CONTENTS</b></font></p>
+						<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="2"><b>Complete Home Insurance at a Very Competitive Price</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><br>
+								
+								
+						When you're buying a new home, everything, it seems, needs doing at once. It is undoubtedly one of the busiest times of your life. It is also a time when just about everything needs working out very carefully indeed.<br>
+								
+								
+						At Marsden Building Society, we can take at least one problem off your hands, that of insuring your new home and its contents.<br>
+								
+								
+						In conjunction with Norwich Union Insurance, one of the UK's biggest insurance companies, we've developed one of the most straightforward home insurance policies. It's all based on the rebuilding costs of your home, a figure we have to assess before we can grant you a mortgage. We use this figure to calculate your full home insurance needs. You need not worry about contents insurance, that's included with a &pound;30,000 claims limit. Contents are even covered against accidental damage during the move to your new home (providing it is undertaken by professionals).<br>
+								
+								
+						You need not worry about 'Index Linking', we automatically update your policy every year in December.<br>
+								
+								
+						There is no need to worry about the premiums, costs are calculated on a very competitive basis, and you pay the premiums monthly together with your mortgage repayments.<br>
+								<i>Everything really is just as easy as that and naturally, the cover you get is every bit as comprehensive as you would expect.<br>
+								</i></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="2"><b><br>
+									
+									
+						Valuables and Personal Possessions<br>
+								</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">Generally speaking, the contents of your home are covered by the Homesafe policy up to their full <i>'new for old'</i> value, subject to a limit of &pound;30,000. These contents include items of furniture, furnishings, household appliances and equipment, carpets, clothing (excluding furs), linen and personal effects.<br>
+								
+								
+						The same applies to most of your <i>'high risk</i>' items, defined as gold or other precious metals, jewellery, watches, furs, photographic equipment, pictures, works of art, binoculars, personal adornments, musical instruments, sports equipment and all tapes, disks and record discs associated with any of these items.<br>
+								
+								
+						The one clause that we do insist on however, is that <i>'high risk' items cover is limited to &pound;1,000 on any single item</i>, with total cover for such items being &pound;7,500 within the home and &pound;2,500 away from the home. In addition, you have cover on your freezer and refrigerator contents, pedal cycles (up to &pound;250 per cycle), personal money (up to &pound;300) and external door locks (maximum &pound;500).<br>
+								<b>The first &pound;50 of each claim is excluded.</b><br>
+								<b><br>
+								</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="2"><b>Eligibility for Homesafe<br>
+								</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">Marsden Homesafe Insurance can be bought by borrowers whose home is of standard construction, provided it is not used for any business purpose or let and does not possess abnormally large amounts of 'high risk' items.<br>
+							</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="2"><b><br>
+									
+									
+						Homesafe Cover Means Safe Cover</b></font></p>
+						<ul>
+							<li><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">Your buildings are covered to the full rebuilding costs.</font>
+							<li><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">Your contents are covered to their full 'new for old' replacement value (apart from pedal cycles), subject to a limit of &pound;30,000.</font>
+						</ul>
+						<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><b>Damage</b> caused by fire, explosion, theft or attempted theft, storm, falling trees (but not to gates, hedges and fences), floods, lightning, earthquakes, subsidence/heave or landslip (excluding the first &pound;1,000), water or oil leakage, malicious damage, impact by aircraft, vehicles or animals, collapse of TV or radio aerials.<br>
+								<b>Accidental</b> breakage of fixed glass, sanitary fittings and underground services.<br>
+								<b>Extended</b> accidental loss or damage to both buildings and contents may be included. This will cover such things as putting your foot through the ceiling, splashing paint on the wallpaper or carpet, breaking a costly ornament etc.<br>
+								<b>Payment</b> of architectural and other professional fees if your property has to be rebuilt.<br>
+								<b>Cost</b> of reasonable alternative accommodation if insured damage makes your house uninhabitable and loss of rent.<br>
+								<b>Loss </b>of, or damage to home contents temporarily away from your house but still in the UK or Europe, and in respect of valuables elsewhere in the rest of the world for a maximum of sixty consecutive days (but with certain restrictions).<br>
+								<b>Legal</b> liabilities to others as owner or occupier of your present and any previous houses - up to &pound;1 million.<br>
+								<b>Personal</b> liability and that of members of your family living permanently with you - up to &pound;1 million.<br>
+								<b>Compensation</b> for irrecoverable court awards - up to &pound;1 million.<br>
+								<b>External Door Locks</b> (&pound;500 limit).<br>
+								<b>Loss</b> of oil/metered water.<br>
+							</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="2"><b><br>
+									
+									
+						Premium Rates<br>
+								</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">From the tables below it is very easy to work out how much it will cost you to benefit from this cover.<br>
+								
+								
+						Simply multiply the re-instatement value of the buildings as recommended by the Society's valuer by the appropriate premium rate per &pound;1,000 value according to your postcode rating area. This will give you the monthly premium required. So for example if you live in postcode rating area 1 in a house valued at &pound;50,000 your monthly premium is &pound;18.50 to include Accidental Damage or &pound;13.25 excluding Accidental Damage.<br>
+							</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="2"><b><br>
+									
+									
+						Premium Rates per &pound;1,000 Value<br>
+									<table border="0" cellpadding="0" cellspacing="2" width="458">
+										<tr>
+											<td>
+												<div align="left">
+													<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><b>Accidental Damage</b></font></div>
+											</td>
+											<td colspan="5">
+												<div align="left">
+													<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><b>Postcode Rating Areas</b></font></div>
+											</td>
+										</tr>
+										<tr>
+											<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Yes</font></td>
+											<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1. &pound;0.37</font></td>
+											<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2. &pound;0.41</font></td>
+											<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">3. &pound;0.51</font></td>
+											<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">4. &pound;0.55</font></td>
+											<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">5. &pound;0.64</font></td>
+										</tr>
+										<tr>
+											<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">No</font></td>
+											<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1. &pound;0.265</font></td>
+											<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2. &pound;0.305</font></td>
+											<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">3. &pound;0.40</font></td>
+											<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">4. &pound;0.43</font></td>
+											<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">5. &pound;0.49</font></td>
+										</tr>
+									</table>
+								</b></font></p>
+						<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">NOTE:The above rates do not include insurance premium tax. A discount of 5% on premiums will be allowed where the sum insured is over &pound;100,000. For any postcode area not listed, please contact the Society.</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><br>
+								<br>
+								<table border="0" cellpadding="0" cellspacing="2" width="696">
+									<tr>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Postcode Area</b></font></td>
+										<td colspan="2"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Postcode District</b></font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Rating Area</b></font></td>
+										<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Postcode Area</b></font></td>
+										<td colspan="2"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Postcode District</b></font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Rating Area</b></font></td>
+									</tr>
+									<tr>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Blackburn</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">BB</font></td>
+										<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">All codes</font></td>
+										<td align="center"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">1</font></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Lancaster</font></td>
+										<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">LA</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">All codes</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+									</tr>
+									<tr>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Bradford</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">BD</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,3,4-9,12,16</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2</font></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Leeds</font></td>
+										<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">LS</font></td>
+										<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">6,18,22-24</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2</font></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">BD</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2,10</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">3</font></td>
+										<td></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">LS</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Any other code</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">BD</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Any other code</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Manchester</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">M</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">24,25,30,32,33,35</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2</font></td>
+									</tr>
+									<tr>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Bolton</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">BL</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">6,8,9</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2</font></td>
+										<td></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">M</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1-23,28,31,34</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">3</font></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">BL</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">4</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">4</font></td>
+										<td></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">M</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Any other code</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">BL</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Any other code</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Oldham</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">OL</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2,3,8,11,12,14,16</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2</font></td>
+									</tr>
+									<tr>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Carlisle</font></td>
+										<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">CA</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">All codes</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+										<td></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">OL</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Any other code</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+									</tr>
+									<tr>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Flyde</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">FY</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">All codes</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Preston</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">PR</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">8</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2</font></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td align="center"></td>
+										<td></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">PR</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Any other code</font></td>
+										<td align="center">1</td>
+									</tr>
+									<tr>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Huddersfield</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">HD</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">All codes</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td align="center"></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td align="center"></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Stockport</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">SK</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,7,8,9</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2</font></td>
+									</tr>
+									<tr>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Halifax</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">HX</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">All codes</font></td>
+										<td align="center">1</td>
+										<td></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">SK</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">17</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">4</font></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td align="center"></td>
+										<td></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">SK</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Any other code</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+									</tr>
+									<tr>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Liverpool</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">L</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">37-40,43-45,60,66</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2</font></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td align="center"></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">L</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">17,18,20,22,24-36</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">3</font></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Warrington</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">WA</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,5,7,11,14</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2</font></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">L</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">41,47-49,61-65</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">3</font></td>
+										<td></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">WA</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Any other code</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">L</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1,3,4,11,16</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">4</font></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td align="center"></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">L</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2,5-10,12-15,19</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">5</font></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Wigan</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">WN</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">5,7</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">2</font></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">L</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">21,23,42,46</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">5</font></td>
+										<td></td>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">WN</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Any other code</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+									</tr>
+									<tr>
+										<td></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">L</font></td>
+										<td><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Any other code</font></td>
+										<td align="center"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">1</font></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td></td>
+										<td align="center"></td>
+									</tr>
+								</table>
+								<br>
+								<hr>
+							</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493"><b>MORTGAGE PROTECTION</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><br>
+								<br>
+								
+								
+						The purchase of your new home is probably the biggest and most exciting financial transaction of your life. Yet your excitement may be tinged a little by the worry of your family finances being stretched or indeed lost in the unfortunate event of you becoming unemployed or disabled.<br>
+								<br>
+								
+								
+						Recognising these worries, we at the Marsden have negotiated a scheme with Norwich Union Insurance plc which will assist you to meet your monthly mortgage commitments including endowment/mortgage premiums for up to 12 months in the event of you being unable to work due to an accident, sickness or involuntary unemployment.<br>
+								<br>
+								
+								
+						We at the Marsden strongly recommend you take out this valuable protection which is available at low cost.<br>
+								<br>
+								
+								
+						The cover is ONLY available at the time of arranging your mortgage so please do not delay.<br>
+								<br>
+							</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="2"><b>Level of Cover</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><br>
+								<br>
+								
+								
+						It is recommended that you select a level of monthly benefit to cover your monthly mortgage payments, your mortgage related life assurance premiums, building and contents insurance premiums and the premiums for this protection plus up to a further 20%. The total monthly benefit must not be more than &pound;1,000.<br>
+								<br>
+							</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="2"><b>Eligibility</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><br>
+								<br>
+								
+								
+						To be eligible for this insurance you must meet the following conditions at the commencement date of this policy.</font></p>
+						<ul>
+							<li><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">You must have a loan with Marsden Building Society.</font>
+							<li><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">You must be aged between 18 and 64 years inclusive and live in the United Kingdom, the Channel Islands or the Isle of Man.</font>
+							<li><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">You must be working at your employment, for at least 16 hours a week, and have been doing so continuously for the past 6 months (if you are on holiday or you are on a statutory maternity leave from your employment, you will still meet this condition)</font>
+							<li><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">If you have received, are receiving or know of any medical treatment you need you will still be covered by this insurance but you will not be covered for the medical condition or disease you knew of .</font>
+							<li><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">If you know you will become unemployed we will not pay any claim for that unemployment.</font>
+						</ul>
+						<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="2"><b>Joint Cover</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><b><br>
+									<br>
+								</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">In the case of a joint mortgage, cover can either apply to only one person (the main income earner), or apply to both borrowers, in which case the monthly benefit will be split between applicants as indicated on the application form.<br>
+								<br>
+							</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="2"><b>Jobline</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><br>
+								<br>
+								
+								
+						Marsden Building Society and Norwich Union Insurance have introduced a telephone advice service for all Mortgage Payment Protection Plus policyholders faced with unemployment. It's called Jobline and is operated by PMA Limited, an independent, specialist consultancy. This excellent service is offered completely free of charge to those customers opting for unemployment cover.<br>
+								<br>
+							</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="2"><b>How much does it cost?</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><br>
+								<br>
+								
+								
+						The first 3 months premium are FREE!<br>
+								<br>
+								
+								
+						After the first 3 months the cost is &pound;5.00 per &pound;100 monthly benefit for Accident, Sickness and Unemployment cover. This does not include Insurance Premium Tax.<br>
+								<br>
+							</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493" size="2"><b>To arrange cover</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><br>
+								<br>
+								
+								
+						If you want to take out this cover or would like more information please contact a member of staff at your local Marsden Building Society branch.<br>
+								<br>
+							</font></p>
+						<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2">
+								<hr>
+							</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#ff1493"><b>Important Notes</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black" size="2"><br>
+								Marsden Building Society is a member of the General Insurance Standards Council. The Society has an internal complaints procedure, details of which are available on request. Complaints we cannot settle may be referred to the Financial Ombudsman Service. GISC is an independent organisation which regulates the sales, advisory and service standards of its members.</font>
+					</div>
+				</td>
+				<td width="15" height="2811"></td>
+				<td width="1" height="2811"><spacer type="block" width="1" height="2811"></td>
+			</tr>
+			<tr height="1" cntrlrow>
+				<td width="704" height="1"><spacer type="block" width="704" height="1"></td>
+				<td width="15" height="1"><spacer type="block" width="15" height="1"></td>
+				<td width="1" height="1"></td>
+			</tr>
+		</table>
+	</body>
+
+</html>
+

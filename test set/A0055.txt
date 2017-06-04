@@ -1,0 +1,560 @@
+ID=A0055
+URL=http://www.cahoot.com/cahoot_products/cahoot_insurance/rates_insurance.html
+SIZE=49780
+DATE=27/06/02
+TIME=16:51:17
+DATASET=Commercial Banks
+HTML=<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<META http-equiv="Content-Type" content="text/html; charset=UTF-16">
+<title>rates insurance</title>
+<link rel="stylesheet" type="text/css" href="../../cahoot.css" title="cahoot">
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<a name="top"></a>
+
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="14" height="36" class="grey" valign="bottom" align="right"><img src="../../images/misc/header_edge.gif" width="14" height="36" border="0"></td><td class="grey" colspan="3" valign="bottom" height="36" width="752"><img src="../../images/titles/title_cahoot_travel_insurance.gif" width="752" height="36" alt="cahoot travel insurance" border="0"></td><td width="14" height="36" class="grey" valign="bottom" align="right"><img src="../../images/misc/header_edge.gif" width="14" height="36" border="0"></td>
+</tr>
+</table>
+
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td colspan="3" align="right" valign="bottom"><font class="lightgreenbracket">{</font><a href="insurance_2.html"><font class="boldblack"> back </font></a><font class="lightgreenbracket">}</font></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td align="center" valign="bottom" colspan="3"><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="lightgreenbracket">{</font><a href="#table1"><font class="boldblack"> single trip </font></a><font class="lightgreenbracket">}</font><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="lightgreenbracket">{</font><a href="#table2"><font class="boldblack"> single trip - wintersports </font></a><font class="lightgreenbracket">}</font><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="lightgreenbracket">{</font><a href="#table3"><font class="boldblack"> european annual cover </font></a><font class="lightgreenbracket">}</font><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="lightgreenbracket">{</font><a href="#table4"><font class="boldblack"> worldwide annual cover </font></a><font class="lightgreenbracket">}</font><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="lightgreenbracket">{</font><a href="#table5"><font class="boldblack"> optional cover </font></a><font class="lightgreenbracket">}</font></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+<tr>
+<td align="left" valign="middle" colspan="4" height="40"><img src="../../images/titles/insurance_rates.gif" width="200" height="32" border="0" alt="travel rates"><br>
+<br>
+</td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+</table>
+<a name="table1"></a>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" class="grey"><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="boldblack">single trip excluding ski</font></td>
+</tr>
+</table>
+<br>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center" class="grey"><font class="boldpurple">UK and Ireland</font></td><td width="100" align="center" class="grey"><font class="boldpurple">adult</font></td><td width="100" align="center" class="grey"><font class="boldpurple">snr citizen</font></td><td width="100" align="center" class="grey"><font class="boldpurple">family</font></td><td width="100" align="center" class="grey"><font class="boldpurple">single parent</font></td><td width="100" align="center" class="grey"><font class="boldpurple">couple</font></td><td width="100" align="center" class="grey"><font class="boldpurple">snr citizen couple</font></td>
+</tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center"><font class="black">up to 5 days</font></td><td width="100" align="center"><font class="black">£6.50</font></td><td width="100" align="center"><font class="black">£9.75</font></td><td width="100" align="center"><font class="black">£14.30</font></td><td width="100" align="center"><font class="black">£7.87</font></td><td width="100" align="center"><font class="black">£13.00</font></td><td width="100" align="center"><font class="black">£19.50</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 9 days</font></td><td width="100" align="center"><font class="black">£7.20</font></td><td width="100" align="center"><font class="black">£10.80</font></td><td width="100" align="center"><font class="black">£15.84</font></td><td width="100" align="center"><font class="black">£8.71</font></td><td width="100" align="center"><font class="black">£14.40</font></td><td width="100" align="center"><font class="black">£21.60</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 12 days</font></td><td width="100" align="center"><font class="black">£8.00</font></td><td width="100" align="center"><font class="black">£12.00</font></td><td width="100" align="center"><font class="black">£17.60</font></td><td width="100" align="center"><font class="black">£9.68</font></td><td width="100" align="center"><font class="black">£16.00</font></td><td width="100" align="center"><font class="black">£24.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 17 days</font></td><td width="100" align="center"><font class="black">£8.70</font></td><td width="100" align="center"><font class="black">£13.05</font></td><td width="100" align="center"><font class="black">£19.14</font></td><td width="100" align="center"><font class="black">£10.53</font></td><td width="100" align="center"><font class="black">£17.40</font></td><td width="100" align="center"><font class="black">£26.10</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 24 days</font></td><td width="100" align="center"><font class="black">£11.00</font></td><td width="100" align="center"><font class="black">£16.50</font></td><td width="100" align="center"><font class="black">£24.20</font></td><td width="100" align="center"><font class="black">£13.31</font></td><td width="100" align="center"><font class="black">£22.00</font></td><td width="100" align="center"><font class="black">£33.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 31 days</font></td><td width="100" align="center"><font class="black">£11.70</font></td><td width="100" align="center"><font class="black">£17.55</font></td><td width="100" align="center"><font class="black">£25.74</font></td><td width="100" align="center"><font class="black">£14.16</font></td><td width="100" align="center"><font class="black">£23.40</font></td><td width="100" align="center"><font class="black">£35.10</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">EAW</font></td><td width="100" align="center"><font class="black">£3.30</font></td><td width="100" align="center"><font class="black">£4.95</font></td><td width="100" align="center"><font class="black">£7.26</font></td><td width="100" align="center"><font class="black">£3.99</font></td><td width="100" align="center"><font class="black">£6.60</font></td><td width="100" align="center"><font class="black">£9.90</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">Excess waiver</font></td><td width="100" align="center"><font class="black">£4.50</font></td><td width="100" align="center"><font class="black">£4.50</font></td><td width="100" align="center"><font class="black">£10.00</font></td><td width="100" align="center"><font class="black">£10.00</font></td><td width="100" align="center"><font class="black">£9.00</font></td><td width="100" align="center"><font class="black">£9.00</font></td>
+</tr>
+</table>
+<br>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center" class="grey"><font class="boldpurple">Europe</font></td><td width="100" align="center" class="grey"><font class="boldpurple">adult</font></td><td width="100" align="center" class="grey"><font class="boldpurple">snr citizen</font></td><td width="100" align="center" class="grey"><font class="boldpurple">family</font></td><td width="100" align="center" class="grey"><font class="boldpurple">single parent</font></td><td width="100" align="center" class="grey"><font class="boldpurple">couple</font></td><td width="100" align="center" class="grey"><font class="boldpurple">snr citizen couple</font></td>
+</tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center"><font class="black">up to 5 days</font></td><td width="100" align="center"><font class="black">£13.80</font></td><td width="100" align="center"><font class="black">£20.70</font></td><td width="100" align="center"><font class="black">£30.36</font></td><td width="100" align="center"><font class="black">£16.70</font></td><td width="100" align="center"><font class="black">£27.60</font></td><td width="100" align="center"><font class="black">£41.40</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 9 days</font></td><td width="100" align="center"><font class="black">£15.30</font></td><td width="100" align="center"><font class="black">£22.95</font></td><td width="100" align="center"><font class="black">£33.66</font></td><td width="100" align="center"><font class="black">£18.51</font></td><td width="100" align="center"><font class="black">£30.60</font></td><td width="100" align="center"><font class="black">£45.90</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 12 days</font></td><td width="100" align="center"><font class="black">£16.50</font></td><td width="100" align="center"><font class="black">£24.75</font></td><td width="100" align="center"><font class="black">£36.30</font></td><td width="100" align="center"><font class="black">£19.97</font></td><td width="100" align="center"><font class="black">£33.00</font></td><td width="100" align="center"><font class="black">£49.50</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 17 days</font></td><td width="100" align="center"><font class="black">£18.20</font></td><td width="100" align="center"><font class="black">£27.30</font></td><td width="100" align="center"><font class="black">£40.04</font></td><td width="100" align="center"><font class="black">£22.02</font></td><td width="100" align="center"><font class="black">£36.40</font></td><td width="100" align="center"><font class="black">£54.60</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 24 days</font></td><td width="100" align="center"><font class="black">£19.60</font></td><td width="100" align="center"><font class="black">£29.40</font></td><td width="100" align="center"><font class="black">£43.12</font></td><td width="100" align="center"><font class="black">£23.72</font></td><td width="100" align="center"><font class="black">£39.20</font></td><td width="100" align="center"><font class="black">£58.80</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 31 days</font></td><td width="100" align="center"><font class="black">£21.00</font></td><td width="100" align="center"><font class="black">£31.50</font></td><td width="100" align="center"><font class="black">£46.20</font></td><td width="100" align="center"><font class="black">£25.41</font></td><td width="100" align="center"><font class="black">£42.00</font></td><td width="100" align="center"><font class="black">£63.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">EAW</font></td><td width="100" align="center"><font class="black">£4.00</font></td><td width="100" align="center"><font class="black">£6.00</font></td><td width="100" align="center"><font class="black">£8.80</font></td><td width="100" align="center"><font class="black">£4.84</font></td><td width="100" align="center"><font class="black">£8.00</font></td><td width="100" align="center"><font class="black">£12.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">Excess waiver</font></td><td width="100" align="center"><font class="black">£4.50</font></td><td width="100" align="center"><font class="black">£4.50</font></td><td width="100" align="center"><font class="black">£10.00</font></td><td width="100" align="center"><font class="black">£10.00</font></td><td width="100" align="center"><font class="black">£9.00</font></td><td width="100" align="center"><font class="black">£9.00</font></td>
+</tr>
+</table>
+<br>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center" class="grey"><font class="boldpurple">World Wide</font></td><td width="100" align="center" class="grey"><font class="boldpurple">adult</font></td><td width="100" align="center" class="grey"><font class="boldpurple">snr citizen</font></td><td width="100" align="center" class="grey"><font class="boldpurple">family</font></td><td width="100" align="center" class="grey"><font class="boldpurple">single parent</font></td><td width="100" align="center" class="grey"><font class="boldpurple">couple</font></td><td width="100" align="center" class="grey"><font class="boldpurple">snr citizen couple</font></td>
+</tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center"><font class="black">up to 5 days</font></td><td width="100" align="center"><font class="black">£25.20</font></td><td width="100" align="center"><font class="black">£37.80</font></td><td width="100" align="center"><font class="black">£55.44</font></td><td width="100" align="center"><font class="black">£30.49</font></td><td width="100" align="center"><font class="black">£50.40</font></td><td width="100" align="center"><font class="black">£75.60</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 9 days</font></td><td width="100" align="center"><font class="black">£27.70</font></td><td width="100" align="center"><font class="black">£41.55</font></td><td width="100" align="center"><font class="black">£60.94</font></td><td width="100" align="center"><font class="black">£33.52</font></td><td width="100" align="center"><font class="black">£55.40</font></td><td width="100" align="center"><font class="black">£83.10</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 12 days</font></td><td width="100" align="center"><font class="black">£30.00</font></td><td width="100" align="center"><font class="black">£45.00</font></td><td width="100" align="center"><font class="black">£66.00</font></td><td width="100" align="center"><font class="black">£36.30</font></td><td width="100" align="center"><font class="black">£60.00</font></td><td width="100" align="center"><font class="black">£90.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 17 days</font></td><td width="100" align="center"><font class="black">£32.80</font></td><td width="100" align="center"><font class="black">£49.20</font></td><td width="100" align="center"><font class="black">£72.16</font></td><td width="100" align="center"><font class="black">£39.69</font></td><td width="100" align="center"><font class="black">£65.60</font></td><td width="100" align="center"><font class="black">£98.40</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 24 days</font></td><td width="100" align="center"><font class="black">£37.80</font></td><td width="100" align="center"><font class="black">£56.70</font></td><td width="100" align="center"><font class="black">£83.16</font></td><td width="100" align="center"><font class="black">£45.74</font></td><td width="100" align="center"><font class="black">£75.60</font></td><td width="100" align="center"><font class="black">£113.40</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 31 days</font></td><td width="100" align="center"><font class="black">£50.00</font></td><td width="100" align="center"><font class="black">£75.00</font></td><td width="100" align="center"><font class="black">£110.00</font></td><td width="100" align="center"><font class="black">£60.50</font></td><td width="100" align="center"><font class="black">£100.00</font></td><td width="100" align="center"><font class="black">£150.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">EAW</font></td><td width="100" align="center"><font class="black">£7.30</font></td><td width="100" align="center"><font class="black">£10.95</font></td><td width="100" align="center"><font class="black">£16.06</font></td><td width="100" align="center"><font class="black">£8.83</font></td><td width="100" align="center"><font class="black">£14.60</font></td><td width="100" align="center"><font class="black">£21.90</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">Excess waiver</font></td><td width="100" align="center"><font class="black">£4.50</font></td><td width="100" align="center"><font class="black">£4.50</font></td><td width="100" align="center"><font class="black">£10.00</font></td><td width="100" align="center"><font class="black">£10.00</font></td><td width="100" align="center"><font class="black">£9.00</font></td><td width="100" align="center"><font class="black">£9.00</font></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td colspan="3" align="right" valign="bottom"><font class="lightgreenbracket">{</font><a href="#table2"><font class="boldblack"> next </font></a><font class="lightgreenbracket">}</font><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="lightgreenbracket">{</font><a href="#top"><font class="boldblack"> top </font></a><font class="lightgreenbracket">}</font></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td colspan="3" align="right" valign="bottom"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+</table>
+<br>
+<hr width="80%">
+<br>
+<a name="table2"></a>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" class="grey"><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="boldblack">single trip - wintersports</font></td>
+</tr>
+</table>
+<br>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center" class="grey"><font class="boldpurple">UK and Ireland</font></td><td width="100" align="center" class="grey"><font class="boldpurple">adult</font></td><td width="100" align="center" class="grey"><font class="boldpurple">snr citizen</font></td><td width="100" align="center" class="grey"><font class="boldpurple">family</font></td><td width="100" align="center" class="grey"><font class="boldpurple">single parent</font></td><td width="100" align="center" class="grey"><font class="boldpurple">couple</font></td><td width="100" align="center" class="grey"><font class="boldpurple">snr citizen couple</font></td>
+</tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center"><font class="black">up to 5 days</font></td><td width="100" align="center"><font class="black">£13.00</font></td><td width="100" align="center"><font class="black">£19.50</font></td><td width="100" align="center"><font class="black">£28.60</font></td><td width="100" align="center"><font class="black">£15.73</font></td><td width="100" align="center"><font class="black">£26.00</font></td><td width="100" align="center"><font class="black">£39.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 9 days</font></td><td width="100" align="center"><font class="black">£14.50</font></td><td width="100" align="center"><font class="black">£21.75</font></td><td width="100" align="center"><font class="black">£31.90</font></td><td width="100" align="center"><font class="black">£17.55</font></td><td width="100" align="center"><font class="black">£29.00</font></td><td width="100" align="center"><font class="black">£43.50</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 12 days</font></td><td width="100" align="center"><font class="black">£16.00</font></td><td width="100" align="center"><font class="black">£24.00</font></td><td width="100" align="center"><font class="black">£35.20</font></td><td width="100" align="center"><font class="black">£19.36</font></td><td width="100" align="center"><font class="black">£32.00</font></td><td width="100" align="center"><font class="black">£48.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 17 days</font></td><td width="100" align="center"><font class="black">£17.50</font></td><td width="100" align="center"><font class="black">£26.25</font></td><td width="100" align="center"><font class="black">£38.50</font></td><td width="100" align="center"><font class="black">£21.18</font></td><td width="100" align="center"><font class="black">£35.00</font></td><td width="100" align="center"><font class="black">£52.50</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 24 days</font></td><td width="100" align="center"><font class="black">£21.80</font></td><td width="100" align="center"><font class="black">£32.70</font></td><td width="100" align="center"><font class="black">£47.96</font></td><td width="100" align="center"><font class="black">£26.38</font></td><td width="100" align="center"><font class="black">£43.60</font></td><td width="100" align="center"><font class="black">£65.40</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 31 days</font></td><td width="100" align="center"><font class="black">£23.30</font></td><td width="100" align="center"><font class="black">£34.95</font></td><td width="100" align="center"><font class="black">£51.26</font></td><td width="100" align="center"><font class="black">£28.19</font></td><td width="100" align="center"><font class="black">£46.60</font></td><td width="100" align="center"><font class="black">£69.90</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">EAW</font></td><td width="100" align="center"><font class="black">£6.60</font></td><td width="100" align="center"><font class="black">£9.90</font></td><td width="100" align="center"><font class="black">£14.52</font></td><td width="100" align="center"><font class="black">£7.99</font></td><td width="100" align="center"><font class="black">£13.20</font></td><td width="100" align="center"><font class="black">£19.80</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">Excess waiver</font></td><td width="100" align="center"><font class="black">£4.50</font></td><td width="100" align="center"><font class="black">£4.50</font></td><td width="100" align="center"><font class="black">£10.00</font></td><td width="100" align="center"><font class="black">£10.00</font></td><td width="100" align="center"><font class="black">£9.00</font></td><td width="100" align="center"><font class="black">£9.00</font></td>
+</tr>
+</table>
+<br>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center" class="grey"><font class="boldpurple">Europe</font></td><td width="100" align="center" class="grey"><font class="boldpurple">adult</font></td><td width="100" align="center" class="grey"><font class="boldpurple">snr citizen</font></td><td width="100" align="center" class="grey"><font class="boldpurple">family</font></td><td width="100" align="center" class="grey"><font class="boldpurple">single parent</font></td><td width="100" align="center" class="grey"><font class="boldpurple">couple</font></td><td width="100" align="center" class="grey"><font class="boldpurple">snr citizen couple</font></td>
+</tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center"><font class="black">up to 5 days</font></td><td width="100" align="center"><font class="black">£27.60</font></td><td width="100" align="center"><font class="black">£41.40</font></td><td width="100" align="center"><font class="black">£60.72</font></td><td width="100" align="center"><font class="black">£33.40</font></td><td width="100" align="center"><font class="black">£55.20</font></td><td width="100" align="center"><font class="black">£82.80</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 9 days</font></td><td width="100" align="center"><font class="black">£30.50</font></td><td width="100" align="center"><font class="black">£45.75</font></td><td width="100" align="center"><font class="black">£67.10</font></td><td width="100" align="center"><font class="black">£36.91</font></td><td width="100" align="center"><font class="black">£61.00</font></td><td width="100" align="center"><font class="black">£91.50</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 12 days</font></td><td width="100" align="center"><font class="black">£33.00</font></td><td width="100" align="center"><font class="black">£49.50</font></td><td width="100" align="center"><font class="black">£72.60</font></td><td width="100" align="center"><font class="black">£39.93</font></td><td width="100" align="center"><font class="black">£66.00</font></td><td width="100" align="center"><font class="black">£99.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 17 days</font></td><td width="100" align="center"><font class="black">£36.30</font></td><td width="100" align="center"><font class="black">£54.45</font></td><td width="100" align="center"><font class="black">£79.86</font></td><td width="100" align="center"><font class="black">£43.92</font></td><td width="100" align="center"><font class="black">£72.60</font></td><td width="100" align="center"><font class="black">£108.90</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 24 days</font></td><td width="100" align="center"><font class="black">£39.20</font></td><td width="100" align="center"><font class="black">£58.80</font></td><td width="100" align="center"><font class="black">£86.24</font></td><td width="100" align="center"><font class="black">£47.43</font></td><td width="100" align="center"><font class="black">£78.40</font></td><td width="100" align="center"><font class="black">£117.60</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 31 days</font></td><td width="100" align="center"><font class="black">£42.20</font></td><td width="100" align="center"><font class="black">£63.30</font></td><td width="100" align="center"><font class="black">£92.84</font></td><td width="100" align="center"><font class="black">£51.06</font></td><td width="100" align="center"><font class="black">£84.40</font></td><td width="100" align="center"><font class="black">£126.60</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">EAW</font></td><td width="100" align="center"><font class="black">£8.00</font></td><td width="100" align="center"><font class="black">£12.00</font></td><td width="100" align="center"><font class="black">£17.60</font></td><td width="100" align="center"><font class="black">£9.68</font></td><td width="100" align="center"><font class="black">£16.00</font></td><td width="100" align="center"><font class="black">£24.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">Excess waiver</font></td><td width="100" align="center"><font class="black">£4.50</font></td><td width="100" align="center"><font class="black">£4.50</font></td><td width="100" align="center"><font class="black">£10.00</font></td><td width="100" align="center"><font class="black">£10.00</font></td><td width="100" align="center"><font class="black">£9.00</font></td><td width="100" align="center"><font class="black">£9.00</font></td>
+</tr>
+</table>
+<br>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center" class="grey"><font class="boldpurple">World Wide</font></td><td width="100" align="center" class="grey"><font class="boldpurple">adult</font></td><td width="100" align="center" class="grey"><font class="boldpurple">snr citizen</font></td><td width="100" align="center" class="grey"><font class="boldpurple">family</font></td><td width="100" align="center" class="grey"><font class="boldpurple">single parent</font></td><td width="100" align="center" class="grey"><font class="boldpurple">couple</font></td><td width="100" align="center" class="grey"><font class="boldpurple">snr citizen couple</font></td>
+</tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center"><font class="black">up to 5 days</font></td><td width="100" align="center"><font class="black">£58.00</font></td><td width="100" align="center"><font class="black">£87.00</font></td><td width="100" align="center"><font class="black">£127.60</font></td><td width="100" align="center"><font class="black">£70.18</font></td><td width="100" align="center"><font class="black">£116.00</font></td><td width="100" align="center"><font class="black">£174.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 9 days</font></td><td width="100" align="center"><font class="black">£64.00</font></td><td width="100" align="center"><font class="black">£96.00</font></td><td width="100" align="center"><font class="black">£140.80</font></td><td width="100" align="center"><font class="black">£77.44</font></td><td width="100" align="center"><font class="black">£128.00</font></td><td width="100" align="center"><font class="black">£192.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 12 days</font></td><td width="100" align="center"><font class="black">£69.00</font></td><td width="100" align="center"><font class="black">£103.50</font></td><td width="100" align="center"><font class="black">£151.80</font></td><td width="100" align="center"><font class="black">£83.49</font></td><td width="100" align="center"><font class="black">£138.00</font></td><td width="100" align="center"><font class="black">£207.00</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 17 days</font></td><td width="100" align="center"><font class="black">£75.60</font></td><td width="100" align="center"><font class="black">£113.40</font></td><td width="100" align="center"><font class="black">£166.32</font></td><td width="100" align="center"><font class="black">£91.48</font></td><td width="100" align="center"><font class="black">£151.20</font></td><td width="100" align="center"><font class="black">£226.80</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 24 days</font></td><td width="100" align="center"><font class="black">£87.20</font></td><td width="100" align="center"><font class="black">£130.80</font></td><td width="100" align="center"><font class="black">£191.84</font></td><td width="100" align="center"><font class="black">£105.51</font></td><td width="100" align="center"><font class="black">£174.40</font></td><td width="100" align="center"><font class="black">£261.60</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">up to 31 days</font></td><td width="100" align="center"><font class="black">£94.50</font></td><td width="100" align="center"><font class="black">£141.75</font></td><td width="100" align="center"><font class="black">£207.90</font></td><td width="100" align="center"><font class="black">£114.35</font></td><td width="100" align="center"><font class="black">£189.00</font></td><td width="100" align="center"><font class="black">£283.50</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">EAW</font></td><td width="100" align="center"><font class="black">£16.80</font></td><td width="100" align="center"><font class="black">£25.20</font></td><td width="100" align="center"><font class="black">£36.96</font></td><td width="100" align="center"><font class="black">£20.32</font></td><td width="100" align="center"><font class="black">£33.60</font></td><td width="100" align="center"><font class="black">£50.40</font></td>
+</tr>
+<tr>
+<td width="100" align="center"><font class="black">Excess waiver</font></td><td width="100" align="center"><font class="black">£4.50</font></td><td width="100" align="center"><font class="black">£4.50</font></td><td width="100" align="center"><font class="black">£10.00</font></td><td width="100" align="center"><font class="black">£10.00</font></td><td width="100" align="center"><font class="black">£9.00</font></td><td width="100" align="center"><font class="black">£9.00</font></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td colspan="3" align="right" valign="bottom"><font class="lightgreenbracket">{</font><a href="#table3"><font class="boldblack"> next </font></a><font class="lightgreenbracket">}</font><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="lightgreenbracket">{</font><a href="#top"><font class="boldblack"> top </font></a><font class="lightgreenbracket">}</font></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td colspan="3" align="right" valign="bottom"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+</table>
+<br>
+<hr width="80%">
+<br>
+<a name="table3"></a>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" class="grey"><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="boldblack">european annual cover</font></td>
+</tr>
+</table>
+<br>
+<table width="70%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center" class="grey"><font class="boldpurple">excluding winter sports</font></td><td width="100" align="center" class="grey"><font class="boldpurple">Gross Incl. IPT</font></td>
+</tr>
+</table>
+<table width="70%" border="1" cellspacing="0" cellpadding="0">
+		     <tr>
+<td width="200" align="left"><font class="black">individual</font></td><td width="200" align="center"><font class="black">£53.25</font></td>
+</tr>
+		     <tr>
+<td width="200" align="left"><font class="black">excess waiver individual</font></td><td width="200" align="center"><font class="black">£11.25</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">Snr citizen</font></td><td width="200" align="center"><font class="black">£106.50</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver Snr citizen</font></td><td width="200" align="center"><font class="black">£11.25</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">family</font></td><td width="200" align="center"><font class="black">£78.60</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver family</font></td><td width="200" align="center"><font class="black">£24.00</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">single parent family</font></td><td width="200" align="center"><font class="black">£63.90</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver single parent family</font></td><td width="200" align="center"><font class="black">£24.00</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">couple</font></td><td width="200" align="center"><font class="black">£74.03</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver couple</font></td><td width="200" align="center"><font class="black">£21.00</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">Snr citizen couple</font></td><td width="200" align="center"><font class="black">£147.90</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver Snr citizen couple</font></td><td width="200" align="center"><font class="black">£21.00</font></td>
+</tr>
+		</table>
+<br>
+<table width="70%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center" class="grey"><font class="boldpurple">including winter sports</font></td><td width="100" align="center" class="grey"><font class="boldpurple">Gross Incl. IPT</font></td>
+</tr>
+</table>
+<table width="70%" border="1" cellspacing="0" cellpadding="0">
+		     <tr>
+<td width="200" align="left"><font class="black">individual</font></td><td width="200" align="center"><font class="black">£59.18</font></td>
+</tr>
+		     <tr>
+<td width="200" align="left"><font class="black">excess waiver individual</font></td><td width="200" align="center"><font class="black">£11.25</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">Snr citizen</font></td><td width="200" align="center"><font class="black">£118.36</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver Snr citizen</font></td><td width="200" align="center"><font class="black">£11.25</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">family</font></td><td width="200" align="center"><font class="black">£87.38</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver family</font></td><td width="200" align="center"><font class="black">£24.00</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">single parent family</font></td><td width="200" align="center"><font class="black">£71.04</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver single parent family</font></td><td width="200" align="center"><font class="black">£24.00</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">couple</font></td><td width="200" align="center"><font class="black">£82.27</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver couple</font></td><td width="200" align="center"><font class="black">£21.00</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">Snr citizen couple</font></td><td width="200" align="center"><font class="black">£164.37</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver Snr citizen couple</font></td><td width="200" align="center"><font class="black">£21.00</font></td>
+</tr>
+		</table>
+<br>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td colspan="3" align="right" valign="bottom"><font class="lightgreenbracket">{</font><a href="#table4"><font class="boldblack"> next </font></a><font class="lightgreenbracket">}</font><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="lightgreenbracket">{</font><a href="#top"><font class="boldblack"> top </font></a><font class="lightgreenbracket">}</font></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td colspan="3" align="right" valign="bottom"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+</table>
+<br>
+<hr width="80%">
+<br>
+<a name="table4"></a>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" class="grey"><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="boldblack">wordlwide annual cover</font></td>
+</tr>
+</table>
+<br>
+<table width="70%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center" class="grey"><font class="boldpurple">excluding winter sports</font></td><td width="100" align="center" class="grey"><font class="boldpurple">Gross Incl. IPT</font></td>
+</tr>
+</table>
+<table width="70%" border="1" cellspacing="0" cellpadding="0">
+		     <tr>
+<td width="200" align="left"><font class="black">individual</font></td><td width="200" align="center"><font class="black">£62.70</font></td>
+</tr>
+		     <tr>
+<td width="200" align="left"><font class="black">excess waiver individual</font></td><td width="200" align="center"><font class="black">£11.25</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">Snr citizen</font></td><td width="200" align="center"><font class="black">£125.40</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver Snr citizen</font></td><td width="200" align="center"><font class="black">£11.25</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">family</font></td><td width="200" align="center"><font class="black">£92.48</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver family</font></td><td width="200" align="center"><font class="black">£24.00</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">single parent family</font></td><td width="200" align="center"><font class="black">£75.18</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver single parent family</font></td><td width="200" align="center"><font class="black">£24.00</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">couple</font></td><td width="200" align="center"><font class="black">£87.17</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver couple</font></td><td width="200" align="center"><font class="black">£21.00</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">Snr citizen couple</font></td><td width="200" align="center"><font class="black">£174.15</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver Snr citizen couple</font></td><td width="200" align="center"><font class="black">£21.00</font></td>
+</tr>
+		</table>
+<br>
+<table width="70%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="center" class="grey"><font class="boldpurple">including winter sports</font></td><td width="100" align="center" class="grey"><font class="boldpurple">Gross Incl. IPT</font></td>
+</tr>
+</table>
+<table width="70%" border="1" cellspacing="0" cellpadding="0">
+		     <tr>
+<td width="200" align="left"><font class="black">individual</font></td><td width="200" align="center"><font class="black">£69.68</font></td>
+</tr>
+		     <tr>
+<td width="200" align="left"><font class="black">excess waiver individual</font></td><td width="200" align="center"><font class="black">£11.25</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">Snr citizen</font></td><td width="200" align="center"><font class="black">£139.36</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver Snr citizen</font></td><td width="200" align="center"><font class="black">£11.25</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">family</font></td><td width="200" align="center"><font class="black">£102.75</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver family</font></td><td width="200" align="center"><font class="black">£24.00</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">single parent family</font></td><td width="200" align="center"><font class="black">£83.53</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver single parent family</font></td><td width="200" align="center"><font class="black">£24.00</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">couple</font></td><td width="200" align="center"><font class="black">£96.87</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver couple</font></td><td width="200" align="center"><font class="black">£21.00</font></td>
+</tr>
+		
+		      <tr>
+<td width="200" align="left"><font class="black">Snr citizen couple</font></td><td width="200" align="center"><font class="black">£193.54</font></td>
+</tr>
+		      <tr>
+<td width="200" align="left"><font class="black">excess waiver Snr citizen couple</font></td><td width="200" align="center"><font class="black">£21.00</font></td>
+</tr>
+		</table>
+<br>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td colspan="3" align="right" valign="bottom"><font class="lightgreenbracket">{</font><a href="#table5"><font class="boldblack"> next </font></a><font class="lightgreenbracket">}</font><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="lightgreenbracket">{</font><a href="#top"><font class="boldblack"> top </font></a><font class="lightgreenbracket">}</font></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td colspan="3" align="right" valign="bottom"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+</table>
+<br>
+<hr width="80%">
+<br>
+<a name="table5"></a>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" class="grey"><img src="../../images/misc/spacer.gif" width="14" height="8"><font class="boldblack">optional cover</font></td>
+</tr>
+</table>
+<br>
+<table width="70%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+</tr>
+</table>
+<table width="70%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100" align="left" class="grey"><font class="boldpurple">&nbsp;&nbsp;wedding cover</font></td><td width="100" align="left" class="grey"><font class="boldpurple">&nbsp;&nbsp;Gross Incl. IPT</font></td>
+</tr>
+<tr>
+<td width="100" align="left"><font class="black">&nbsp;</font></td><td width="100" align="left"><font class="black">£15.00 per couple</font></td>
+</tr>
+<tr>
+<td width="100" align="left" class="grey"><font class="boldpurple">&nbsp;&nbsp;golf cover</font></td><td width="100" align="left" class="grey"><font class="boldpurple">&nbsp;&nbsp;Gross Incl. IPT</font></td>
+</tr>
+<tr>
+<td width="100" align="left"><font class="black">annual cover</font></td><td width="100" align="left"><font class="black">£7.50 per person</font></td>
+</tr>
+<tr>
+<td width="100" align="left"><font class="black">&nbsp;</font></td><td width="100" align="left"><font class="black">£15.00 per family</font></td>
+</tr>
+<tr>
+<td width="100" align="left"><font class="black">single trip</font></td><td width="100" align="left"><font class="black">£5.25 per person</font></td>
+</tr>
+</table>
+<br>
+<hr width="80%">
+<br>
+<p align="center">
+<table width="70%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center"><font class="black">
+			Deletion of Personal baggage &amp; Money cover - 12.5% discount
+			</font>
+<br>
+</td>
+</tr>
+</table>
+</p>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td colspan="3" align="right" valign="bottom"><font class="lightgreenbracket">{</font><a href="#top"><font class="boldblack"> top </font></a><font class="lightgreenbracket">}</font></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+<tr>
+<td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td colspan="3" align="right" valign="bottom"><img src="../../images/misc/spacer.gif" width="14" height="8"></td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+</table>
+</td><td width="14"><img src="../../images/misc/spacer.gif" width="14" height="8"></td>
+</tr>
+</table>
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="780" class="black"><img src="../../images/misc/spacer.gif" width="14" height="5" border="0"></td>
+</tr>
+</table>
+</body>
+</html>
+

@@ -1,0 +1,644 @@
+ID=D0028
+URL=http://www.hoskinson.net/java/buttonmenu/default.asp
+SIZE=22665
+DATE=16/07/02
+TIME=14:35:06
+DATASET=Java
+HTML=
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>Hoskinson's Button Menu Applet</title>
+<script language="JavaScript">
+
+
+<!--Hide contents from old browsers
+
+function frameLoaded() {
+
+	if (top.frames.length > 0) {
+
+		//top.location.href = "/java/buttonmenu/default.asp";
+	}
+         
+        if (isMsie4orGreater()) {
+            document.body.onmouseover=HighlightLink;
+            document.body.onmouseout=NormalLink;
+    }
+}
+
+function isMsie4orGreater() { 
+var ua = window.navigator.userAgent;   var msie = ua.indexOf ( "MSIE " );
+if  (msie > 0)
+ {return (parseInt ( ua.substring ( msie+5, ua.indexOf ( ".", msie ) ) ) >=4) && (ua.indexOf("MSIE 4.0b") <0) ;}
+else {return false;}}
+
+    function HighlightLink() {
+        src = event.toElement;
+        if (src.tagName == "A") {
+            src.oldcol = src.style.color;
+            src.style.color = "FF0000";
+
+        }
+    }
+    function NormalLink() {
+        src=event.fromElement;
+        if (src.tagName == "A") {
+            src.style.color = src.oldcol;
+        }
+    }
+
+//-->
+
+
+</script>
+
+</head>
+
+<body bgcolor="#000080" onload="frameLoaded();">
+<div align="center"><center>
+
+<table border="0" cellpadding="5" cellspacing="0" width="740" bgcolor="#FFFFFF">
+  <TR>
+    <TD align=middle bgcolor="#800000" colSpan=2 vAlign="top">
+<div align=center>
+
+
+
+<!-- Begin Amazon Honor System Paybox -->
+<img src="http://s1.amazon.com/exec/varzea/tipbox/A3D2A69T2X71CW/T11Q9JL8BNOJIG" usemap="#T11Q9JL8BNOJIG" border="0" alt="Amazon Honor System">
+<map name="T11Q9JL8BNOJIG">
+<area coords="350,0,460,60" href="http://s1.amazon.com/exec/varzea/pay/T11Q9JL8BNOJIG" alt="Click Here to Pay" target=_top>
+<area coords="165,40,310,55" href="http://s1.amazon.com/exec/varzea/subst/fx/help/how-we-know.html" alt="Learn More" target=_top>
+</map>
+<!-- End Amazon Honor System Paybox -->
+
+
+
+
+</div>
+</TD></TR>
+  <tr>
+    <td align="center" valign="top" bgcolor="#d3d3d3" width="130">
+<font face="Arial" color="#000080"><b>JResources.com Channels</b></font>
+<!--div align="center">
+<form method="post" action="/java/search/default.asp">
+<input type="text" name="searchstring" size="10">&nbsp;
+<input type="submit" value="Search">
+</form>
+</div-->
+</td>
+    <td align="center" valign="top">
+
+<div align="center">
+<font face="Arial" size="2">
+(<a href="http://www.amazon.com/paypage/P1YUD9DSI7B7W7">Download</a> the Java source code for the JResources.com applet collection)
+</font>
+</div>
+
+
+<p align="center"><font size="5" face="Arial" color="#000080"><strong>Hoskinson's Button
+Menu Applet</strong> </font></p>
+</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#d3d3d3" width="130">
+<!--div align="center">
+<form method="post" action="/java/search/default.asp">
+<input type="text" name="searchstring" size="10">
+<br>
+<input type="submit" value="Search">
+</form>
+</div-->
+<DIV xmlns:xsl="http://www.w3.org/TR/WD-xsl">
+<TABLE width="100%" BORDER="0" CELLSPACING="0" CELLPADDING="2">
+<TR><TD BGCOLOR="#000080">
+<FONT Face="Arial" Size="2" color="#d3d3d3"><B>
+Home
+</B></FONT>
+</TD></TR>
+<TR><TD>
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/default.asp">
+Introduction
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/search/default.asp">
+Search
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/discussion/default.asp">
+Discussion Forums
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/disclaimer.asp">
+Disclaimer
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/license.asp">
+License
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/feedback.asp">
+Feedback
+</a>
+</FONT>
+<BR />
+<BR />
+</TD></TR>
+<TR><TD BGCOLOR="#000080">
+<FONT Face="Arial" Size="2" color="#d3d3d3"><B>
+Applets
+</B></FONT>
+</TD></TR>
+<TR><TD>
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/adbanner/default.asp">
+Ad banner
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/ticker/default.asp">
+Ticker
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/ticker_link/default.asp">
+Hyperlinked ticker
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/verticalScroll/default.asp">
+Vertical scroller
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/banner_links/default.asp">
+Hyperlinked banner
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/buttonmenu/default.asp">
+Button menu
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/choiceMenu/default.asp">
+Web site shortcuts
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/animator/default.asp">
+Animator
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/clock/default.asp">
+Digital clock
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/growing_text/default.asp">
+Growing text
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/rainbow_text/default.asp">
+Rainbow text
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/rgb/default.asp">
+RGB calculator
+</a>
+</FONT>
+<BR />
+<BR />
+</TD></TR>
+<TR><TD BGCOLOR="#000080">
+<FONT Face="Arial" Size="2" color="#d3d3d3"><B>
+Servlets
+</B></FONT>
+</TD></TR>
+<TR><TD>
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/jcs/index.html">
+JDBC Connector Servlet
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/discussion/thread.asp?id=24">
+XMLDataGateway Servlet
+</a>
+</FONT>
+<BR />
+<BR />
+</TD></TR>
+<TR><TD BGCOLOR="#000080">
+<FONT Face="Arial" Size="2" color="#d3d3d3"><B>
+Applications
+</B></FONT>
+</TD></TR>
+<TR><TD>
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/qryHTTPd/default.asp">
+Web server query tool
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/simpleTextEditor/default.asp">
+Simple text editor
+</a>
+</FONT>
+<BR />
+<BR />
+</TD></TR>
+<TR><TD BGCOLOR="#000080">
+<FONT Face="Arial" Size="2" color="#d3d3d3"><B>
+MS Java Resources
+</B></FONT>
+</TD></TR>
+<TR><TD>
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/guidgen/default.asp">
+GUID generator
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="/java/nslookup/default.asp">
+Java NSLookup
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="http://www.zdnet.com/devhead/stories/articles/0,4413,2230972,00.html">
+Code-behind HTML (Pt 1)
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="http://www.zdnet.com/devhead/stories/articles/0,4413,2249283,00.html">
+Code-behind HTML (Pt 2)
+</a>
+</FONT>
+<BR />
+<BR />
+</TD></TR>
+<TR><TD BGCOLOR="#000080">
+<FONT Face="Arial" Size="2" color="#d3d3d3"><B>
+Other Resources
+</B></FONT>
+</TD></TR>
+<TR><TD>
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="http://www.javasoft.com/">
+JavaSoft
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="http://www.gamelan.com/">
+Gamelan
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="http://www.jars.com/">
+JARS
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="http://www.microsoft.com/java/">
+MS Java
+</a>
+</FONT>
+<BR />
+<FONT Face="Arial" Size="1">
+<a target="_top" HREF="http://www.hoskinson.net">
+Hoskinson.net
+</a>
+</FONT>
+<BR />
+<BR />
+</TD></TR>
+</TABLE>
+</DIV>
+<div align="center">
+<!-- Begin Amazon Honor System Paybox -->
+<img src="http://s1.amazon.com/exec/varzea/tipbox/A3D2A69T2X71CW/T24L2SITUKMCC" usemap="#T24L2SITUKMCC" border="0" alt="Amazon Honor System">
+<map name="T24L2SITUKMCC">
+<area coords="13,64,108,117" href="http://s1.amazon.com/exec/varzea/pay/T24L2SITUKMCC" alt="Click Here to Pay" target=_top>
+<area coords="13,133,108,145" href="http://s1.amazon.com/exec/varzea/subst/fx/help/how-we-know.html" alt="Learn More" target=_top>
+</map>
+<!-- End Amazon Honor System Paybox -->
+</div>
+</td>
+    <td valign="top"><font size="3">
+    
+ <br>
+
+<font face="Arial">
+
+<p align="center">
+<applet align="baseline" code="buttonMenu_andyhosk.class" height="100"
+name="Menu Applet Demo" width="315">
+  <param name="cabbase" value="buttonMenu_andyhosk.cab">
+  <param name="buttonlabels" value="Home Page^Java Resources^RGB Calculator^License^">
+  <param name="rows" value="2">
+  <param name="fgcolor" value="yellow">
+  <param name="xcoord" value="center">
+  <param name="urls" value="/^/java/^/java/rgb/^/java/license.asp^">
+  <param name="targets" value="_top^_top^_self^_self^">
+  <param name="bgcolor" value="white">
+  <param name="linkcolor" value="lightgray">
+  <param name="buffer" value="1">
+  <param name="raisedborder" value="6">
+  <param name="cols" value="2">
+  <param name="fontname" value="SanSerif">
+  <param name="fontsize" value="16">
+  <param name="buttoncolor" value="blue">
+  <param name="fonttype" value="bold">
+  <param name="ycoord" value="center"><b> Sorry, your browser does not support Java</b>
+</applet>
+<font face="Arial"> </font></p>
+
+<p><font size="2"><font color="#0000ff" face="Arial">Hoskinson's Button Menu Applet allows
+you to create your own&nbsp;customized web site button bar. &nbsp;With the Button Menu
+Applet, you can:</font><font face="Arial"> </font></font>
+
+<ol>
+  <li><font face="Arial" size="2">Display a customized web site button bar arrayed in any
+    combination of rows and columns. </font></li>
+  <li><font face="Arial" size="2">Assign each button it's own hyperlink and browser frame
+    target. Hyperlinks can be defined as either absolute or relative URLs. </font></li>
+  <li><font face="Arial" size="2">Define a custom font name, style, and size for your button
+    bar. </font></li>
+  <li><font face="Arial" size="2">Specify a custom foreground and background color for your
+    button bar. </font></li>
+  <li><font face="Arial" size="2">Specify a custom &quot;hot spot&quot; color for your button
+    bar. Each button label changes to this color when the mouse is moved over the
+    button.&nbsp; </font></li>
+</ol>
+<font size="2">
+
+<hr>
+</font>
+
+<p><font face="Arial" size="2">This is what the mark-up looks like to implement the Button
+Menu applet in your HTML page (Note: this assumes that<i> buttonMenu_andyhosk.class </i>and
+supporting files are<i> </i>in the same directory as their parent HTML page). The
+parameters, by the way, correspond to the instance that is running at the top of this
+page: </font></p>
+
+<form>
+  <div align="center"><center><p><font face="Arial"><textarea cols="50"
+  name="applettagesource" rows="10">&lt;applet code=&quot;buttonMenu_andyhosk.class&quot;
+align=&quot;baseline&quot; width=&quot;315&quot; height=&quot;100&quot; name=&quot;Menu Applet Demo&quot;&gt;&lt;param
+name=&quot;bgcolor&quot; value=&quot;white&quot;&gt;&lt;param name=&quot;buffer&quot; value=&quot;1&quot;&gt;&lt;param
+name=&quot;buttoncolor&quot; value=&quot;blue&quot;&gt;&lt;param name=&quot;buttonlabels&quot;
+value=&quot;Home Page^Java Resources^RGB Calculator^License^&quot;&gt;&lt;param
+name=&quot;cabbase&quot; value=&quot;buttonMenu_andyhosk.cab&quot;&gt;&lt;param name=&quot;cols&quot;
+value=&quot;2&quot;&gt;&lt;param name=&quot;fgcolor&quot; value=&quot;yellow&quot;&gt;&lt;param
+name=&quot;fontname&quot; value=&quot;SanSerif&quot;&gt;&lt;param name=&quot;fontsize&quot;
+value=&quot;16&quot;&gt;&lt;param name=&quot;fonttype&quot; value=&quot;bold&quot;&gt;&lt;param
+name=&quot;linkcolor&quot; value=&quot;lightgray&quot;&gt;&lt;param name=&quot;raisedborder&quot;
+value=&quot;6&quot;&gt;&lt;param name=&quot;rows&quot; value=&quot;2&quot;&gt;&lt;param name=&quot;targets&quot;
+value=&quot;_top^_top^_self^_self^&quot;&gt;&lt;param name=&quot;URLs&quot;
+value=&quot;/^/java/^/java/rgb/^/java/license.asp^&quot;&gt;&lt;param
+name=&quot;xcoord&quot; value=&quot;center&quot;&gt;&lt;param name=&quot;ycoord&quot; value=&quot;center&quot;&gt;&lt;b&gt;Sorry, your browser does not support Java&lt;/b&gt;&lt;/applet&gt;</textarea><font
+  size="2"> </font></font></p>
+  </center></div>
+</form>
+
+<table border="1" cellpadding="1" cellspacing="0">
+  <tr>
+    <td><font face="Arial" size="2">Parameter</font></td>
+    <td align="middle"><font face="Arial" size="2">Default Value</font></td>
+    <td><font face="Arial" size="2">Possible Values</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">buttonlabels</font></td>
+    <td align="middle"><font face="Arial" size="2">Hoskinson's Home Page</font></td>
+    <td><font face="Arial" size="2">A carat (&quot;^&quot;) delimited string representing the
+    button labels. &nbsp;Please note that the number of buttonlabels must match the number of
+    URLs.</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">URLs</font></td>
+    <td align="middle"><font face="Arial" size="2">http://members.aol.com/andyhosk/</font></td>
+    <td><font face="Arial" size="2">A carat (&quot;^&quot;) delimited string representing the
+    URLs that are loaded when their respective button is clicked. &nbsp;These URLs can be
+    either absolute or relative URLs. If you want to use a relative URL, your URL should be
+    relative to the URL of the document in which the applet is running. &nbsp;Please note that
+    the number of URLs must match the number of buttonlabels.</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">targets</font></td>
+    <td align="middle"><font face="Arial" size="2"><em>_self</em> for all buttons</font></td>
+    <td><font face="Arial" size="2">This is an<i>optional parameter</i> representing the
+    target browser windows in which the aforementioned URLs are loaded when their respective
+    button&nbsp;is clicked. &nbsp;You can use this parameter in one of three ways: </font><ol>
+      <li><font face="Arial" size="2">Omit this parameter in it's entirety. &nbsp;If this
+        parameter is not present, the TARGET attribute will default to <i>_self </i>(the current
+        browser window or frame) for all hyperlinks. </font></li>
+      <li><font face="Arial" size="2">Specify one (and only one) frame target. &nbsp;All
+        hyperlinks will default to this frame target. Allowable values include <i>_top</i> (the
+        top level browser window), <i>_self</i> (the current browser window or frame), <i>_blank </i>(a
+        new browser window), or the name of any open browser frame. &nbsp; </font></li>
+      <li><font face="Arial" size="2">Specify a carat (&quot;^&quot;) delimited string
+        representing the target browser windows in which the aforementioned URLs are loaded when
+        their respective button is clicked. &nbsp;Allowable values include <i>_top</i> (the top
+        level browser window), <i>_self </i>(the current browser window or frame), <i>_blank </i>(a
+        new browser window), or the name of any open browser frame. &nbsp;If you use this option,
+        the number of targets must match the number of buttonlabels and URLs. </font></li>
+    </ol>
+    </td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">fontname</font></td>
+    <td align="middle"><font face="Arial" size="2">Arial</font></td>
+    <td><font face="Arial" size="2">Any installed font.</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">fonttype</font></td>
+    <td align="middle"><font face="Arial" size="2">bold</font></td>
+    <td><font face="Arial" size="2">plain, bold, or italic.</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">fontsize</font></td>
+    <td align="middle"><font face="Arial" size="2">12</font></td>
+    <td><font face="Arial" size="2">Any valid point size.</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">bgcolor</font></td>
+    <td align="middle"><font face="Arial" size="2">white</font></td>
+    <td><font face="Arial" size="2">The applet's background color. Legal values include white,
+    black, red, blue, green, yellow, lightGray, gray, darkGray, magenta, cyan, pink, orange, <i>or</i>
+    an integer representing the RGB value (See Note Below).</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">fgcolor</font></td>
+    <td align="middle"><font face="Arial" size="2">blue</font></td>
+    <td><font face="Arial" size="2">The applet's foreground color. Legal values include white,
+    black, red, blue, green, yellow, lightGray, gray, darkGray, magenta, cyan, pink, orange, <i>or</i>
+    an integer representing the RGB value (See Note Below).</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">buttoncolor</font></td>
+    <td align="middle"><font face="Arial" size="2">defaults to the background color</font></td>
+    <td><font face="Arial" size="2">The color of the individual buttons. &nbsp;This is an
+    optional parameter; if it is not used, it defaults to the background color. &nbsp;Legal
+    values include white, black, red, blue, green, yellow, lightGray, gray, darkGray, magenta,
+    cyan, pink, orange, <i>or</i> an integer representing the RGB value (See Note Below).</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">linkcolor</font></td>
+    <td align="middle"><font face="Arial" size="2">red</font></td>
+    <td><font face="Arial" size="2">The &quot;hot spot&quot; color to which each
+    button&nbsp;label changes when the mouse is moved over the button. Legal values include
+    white, black, red, blue, green, yellow, lightGray, gray, darkGray, magenta, cyan, pink,
+    orange, <i>or</i> an integer representing the RGB value (See Note Below).</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">rows</font></td>
+    <td align="middle"><font face="Arial" size="2">1</font></td>
+    <td><font face="Arial" size="2">The number of rows you want to use in arraying your button
+    bar. &nbsp;For best results, (rows *&nbsp;cols) should equal the number of buttons.</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">cols</font></td>
+    <td align="middle"><font face="Arial" size="2">1</font></td>
+    <td><font face="Arial" size="2">The number of columns you want to use in arraying your
+    button bar. &nbsp;For best results, (rows *&nbsp;cols) should equal the number of buttons.</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">buffer</font></td>
+    <td align="middle"><font face="Arial" size="2">10</font></td>
+    <td><font face="Arial" size="2">The buffer (in pixels) between buttons. &nbsp;Defaults to
+    10.</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">raisedborder</font></td>
+    <td align="middle"><font face="Arial" size="2">0</font></td>
+    <td><font face="Arial" size="2">The 3D raised border of each button (in pixels). Defaults
+    to 0 (no border).</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">xcoord</font></td>
+    <td align="middle"><font face="Arial" size="2">center</font></td>
+    <td><font face="Arial" size="2">Upper left x coordinate of the button labels, <i>or</i>
+    &quot;center&quot; (if you want the button labels centered horizontally).</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">ycoord</font></td>
+    <td align="middle"><font face="Arial" size="2">center</font></td>
+    <td><font face="Arial" size="2">Upper left y coordinate of the button labels, <i>or</i>
+    &quot;center&quot; (if you want the button labels centered vertically).</font></td>
+  </tr>
+  <tr>
+    <td><font face="Arial" size="2">cabbase</font></td>
+    <td><p align="center"><font face="Arial" size="2">None</font></td>
+    <td><font size="2" face="Arial">This is an optional parameter used to identify the Java
+    Cabinet file that Microsoft Internet Explorer 3.x uses to find the applet .class files. I
+    have provided a Cabinet file called <a href="buttonMenu_andyhosk.cab">buttonMenu_andyhosk.cab</a>
+    which contains the applet's three class files (<a href="buttonMenu_andyhosk.class">buttonMenu_andyhosk.class
+    </a>, <a href="buttonMenu_lib.class">buttonMenu_lib.class</a>, and <a
+    href="menuButton_andyhosk.class">menuButton_andyhosk.class</a>). </font><p><font
+    face="Arial" size="2">I emphasize that this is an optional parameter. It is not required
+    that you use the Cabinet file, even for your Internet Explorer users. It does improve
+    performance for your MSIE users, though, by decreasing download times. </font></p>
+    <p><font face="Arial" size="2">If the <em>cabbase</em> parameter is used, the Cabinet file
+    must be located in the CODEBASE directory. If you use the cabinet file, you should still
+    include the .class files in the CODEBASE directory for Netscape Navigator users. </font></td>
+  </tr>
+</table>
+
+<p><font size="2"><font color="#ff0000" face="Arial">Troubleshooting Note</font><font
+face="Arial">: &nbsp;If you have problems implementing this applet in your HTML page, take
+a look at your browser's Java log......the applet logs all error and warning messages
+there, and will most likely log the cause of your problem (BTW, a vast majority of
+problems implementing this applet are due to syntax errors in the APPLET tag parameters,
+so please double-check your mark-up). &nbsp; </font></font></p>
+
+<h2><font face="Arial" size="2">Background and Foreground Color Attributes </font></h2>
+
+<p><font size="2" face="Arial">Most people will find the thirteen basic colors sufficient.
+However, you can set the background and foreground color of the applet to any one of the
+16+ million colors in the 24 bit RGB (Red-Green-Blue) spectrum. But first, you must
+calculate the value of your custom color. To facilitate this, please use this <a
+href="/java/rgb/">calculator</a>. </font></p>
+<font size="2">
+
+<hr>
+</font>
+
+<h2><font face="Arial" size="2">To use this applet, download the following three files: </font></h2>
+
+<p><font size="2" face="Arial">Download <a href="buttonMenu_andyhosk.class"><i>buttonMenu_andyhosk.class</i>
+</a>, <a href="buttonMenu_lib.class"><i>buttonMenu_lib.class</i></a>, and <a
+href="menuButton_andyhosk.class"><i>menuButton_andyhosk.class</i></a>, and place all three
+files in the same directory). </font></p>
+</font><p><hr> </p>
+        <h5 align="center"><font face="Arial">Copyright © 1996-99, <a href="http://www.jresources.com/" target="_top">JResources.com</a>. All rights
+        reserved.</font></h5>
+<div align="center">
+<font face="Arial" size="2">
+<a href="http://www.amazon.com/paypage/P1YUD9DSI7B7W7">Download</a> the Java source code for the JResources.com applet collection
+</font>
+</div>
+</td>
+  </tr>
+<TR>
+    <TD align=middle bgcolor="#800000" colSpan=2 vAlign="top">
+<div align=center>
+
+
+
+<!-- Begin Amazon Honor System Paybox -->
+<img src="http://s1.amazon.com/exec/varzea/tipbox/A3D2A69T2X71CW/T11Q9JL8BNOJIG" usemap="#T11Q9JL8BNOJIG" border="0" alt="Amazon Honor System">
+<map name="T11Q9JL8BNOJIG">
+<area coords="350,0,460,60" href="http://s1.amazon.com/exec/varzea/pay/T11Q9JL8BNOJIG" alt="Click Here to Pay" target=_top>
+<area coords="165,40,310,55" href="http://s1.amazon.com/exec/varzea/subst/fx/help/how-we-know.html" alt="Learn More" target=_top>
+</map>
+<!-- End Amazon Honor System Paybox -->
+
+
+
+
+
+
+</div>
+</TD></TR>
+
+</table>
+</center></div>
+
+</body>
+</html>
+

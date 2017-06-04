@@ -1,0 +1,137 @@
+ID=B0029
+URL=http://www.nottingham-bs.co.uk/enter.htm
+SIZE=6542
+DATE=28/06/2002
+TIME=12:46:33
+DATASET=Building Societies
+HTML=<!-- This page is: 1100 -->
+<html>
+<head>
+
+<title>Nottingham Building Society</title>
+<meta name="description" content="The Nottingham Building Society. Take a look at our range of mortgages and savings accounts, which are regularly featured as best buys. Get a quick mortgage quote with our mortgage calculator or see how much interest you could earn with our savings calculator. If you¹re buying a house, you can search for a property online. You can also apply online for a personal loan.">
+<meta name="keywords" content="Nottingham Building Society, Nottingham, building society, mortgages, mortgage calculator, mortgage payment calculator, mortgage quote, savings account, investments, estate agent, properties, personal loans">
+
+
+<meta HTTP-EQUIV="Pragma" CONTENT="No-Cache">
+<meta HTTP-EQUIV="Expires" CONTENT="0">
+
+<script language="JavaScript">
+<!--
+var thispage = 1100;
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+
+
+
+// -->
+</script>
+
+
+<script language="JavaScript1.2" src="js/menus.js"></script>
+
+
+<LINK TYPE="text/css" REL="stylesheet" HREF="nbs.css">
+</head>
+
+
+
+
+
+
+ <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0"  >
+
+
+ <script language="JavaScript1.2" src="js/nottsbsmenu.js"></script>
+
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0" height="103">
+  <tr>
+    <td width="100%" height="103" background="images/menubar/headers/1bgd.gif">&nbsp;</td>
+  </tr>
+</table>
+
+ <div id="topnav" style="position:absolute; left:0px; top:0px; width:780px; height:99px; z-index:1">
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><a href="main.asp?p=1100"><img src="images/menubar/headers/1.gif" width="771" height="73" border="0"></a></td>
+  </tr>
+  <tr>
+    <td><img src="images/furniture/spacer.gif" width="10" height="35"></td>
+  </tr>
+</table>
+</div>
+
+
+
+<div id="Layer6" style="position:absolute; left:150px; top:208px; width:238px; height:161px; z-index:6">
+<table cellspacing="0" cellpadding="0" width="300"><tr><td class="nbssec11">Welcome to the Nottingham Building Society website</td></tr><tr><td class="nbsh2">Take a look at our range of mortgages and savings accounts. You'll find Nottingham Building Society interest rates regularly featured as best buys. <br />Search for a house online with Nottingham Property Services or get a quick quote with the Nottingham Building Society mortgage calculator. </td></tr></table><table cellspacing="0" cellpadding="0" width="300"><tr><td class="">
+     
+    </td></tr></table>
+</div>
+
+<div id="Layer1" style="position:absolute; left:0px; top:221px; width:300px; height:221px; z-index:1"><img src="images/general/dog.gif" width="295" height="217" Alt="The Nottingham Building Society"></div>
+
+<div id="Layer2" style="position:absolute; left:509px; top:138px; width:264px; height:263px; z-index:2">
+<table border="0" cellpadding="0" cellspacing="4"><tr><td><img border="0" width="120" height="120" Alt="The Nottingham Building Society" src="images/homepage/banners/cartoon4.gif" /></td><td><a href="main.asp?p=1720"><img border="0" width="120" height="120" Alt="The Nottingham Building Society" src="images/homepage/banners/ad5.gif" /></a></td></tr><tr><td><a href="main.asp?p=1204"><img border="0" width="120" height="120" Alt="The Nottingham Building Society" src="images/homepage/banners/ad16.gif" /></a></td><td><img border="0" width="120" height="120" Alt="The Nottingham Building Society" src="images/homepage/banners/cartoon2.gif" /></td></tr></table>
+</div>
+
+<div id="Layer3" style="position:absolute; left:317px; top:418px; width:200px; height:70px; z-index:13">
+<table cellspacing="0" cellpadding="0" width="300"><tr><td class="nbsh1b">Nottingham Building Society,<br />Nottingham House,<br />5/13 Upper Parliament Street,<br />Nottingham, <br />NG1 2BX<br />Telephone: 0115 948 1444 <br />Fax: 0115 948 3948</td></tr></table>
+</div>
+<div id="Layer4" style="position:absolute; left:317px; top:541px; width:403px; height:39px; z-index:4"> 
+  <table cellspacing="0" cellpadding="0" width="450"><tr><td class="nbsh1">Nottingham Building Society is a member of the Building Societies Association, the Council of Mortgage lenders and the Financial Ombudsman Service, is a participant in the Financial Services Compensation Scheme and complies with the Banking Code and Mortgage Code.<br /><br />Any financial advice given will relate only to the products of Norwich Union and Nottingham Building Society. Nottingham Building Society introduces only to the Norwich Union Marketing Group, members of which are regulated by the Financial Services Authority, for life assurance, pensions and investments.</td></tr></table>
+</div>
+<div id="Layer5" style="position:absolute; left:32px; top:155px; width:358px; height:41px; z-index:5"><img src="images/general/werebetter.gif" width="354" height="38" Alt="The Nottingham Building Society, We're better off together"></div>
+
+
+
+<div id="Layer7" style="position:absolute; left:8px; top:540px; width:213px; height:35px; z-index:7"> 
+  <table border="0" cellspacing="0" cellpadding="0"><tr><td class="nbsh1">Site last updated: 19 June 2002</td></tr></table>
+</div>
+
+
+<div id="robotLinks" style="position: absolute; left: -100; top: -100; width: 93; height: 15; z-index: 1"> 
+
+    <a  href="main.asp?p=1910">&nbsp;</a>  
+    <a  href="main.asp?p=1820">&nbsp;</a>  
+    <a  href="main.asp?p=1817">&nbsp;</a>  
+    <a  href="main.asp?p=1816">&nbsp;</a>  
+    <a  href="main.asp?p=1815">&nbsp;</a>  
+    <a  href="main.asp?p=1814">&nbsp;</a>  
+    <a  href="main.asp?p=1813">&nbsp;</a>  
+    <a  href="main.asp?p=1812">&nbsp;</a>  
+    <a  href="main.asp?p=1811">&nbsp;</a>  
+    <a  href="main.asp?p=1810">&nbsp;</a>  
+    <a  href="main.asp?p=1770">&nbsp;</a>  
+    <a  href="main.asp?p=1760">&nbsp;</a>  
+    <a  href="main.asp?p=1740">&nbsp;</a>  
+    <a  href="main.asp?p=1730">&nbsp;</a>  
+    <a  href="main.asp?p=1720">&nbsp;</a>  
+    <a  href="main.asp?p=1710">&nbsp;</a>  
+    <a  href="main.asp?p=1700">&nbsp;</a>  
+    <a  href="main.asp?p=1610">&nbsp;</a>  
+    <a  href="main.asp?p=1530">&nbsp;</a>  
+    <a  href="main.asp?p=1520">&nbsp;</a>  
+    <a  href="main.asp?p=1510">&nbsp;</a>  
+    <a  href="main.asp?p=1360">&nbsp;</a>  
+    <a  href="main.asp?p=1350">&nbsp;</a>  
+    <a  href="main.asp?p=1340">&nbsp;</a>  
+    <a  href="main.asp?p=1330">&nbsp;</a>  
+    <a  href="main.asp?p=1320">&nbsp;</a>  
+    <a  href="main.asp?p=1300">&nbsp;</a>  
+    <a  href="main.asp?p=1209">&nbsp;</a>  
+    <a  href="main.asp?p=1250">&nbsp;</a>  
+    <a  href="main.asp?p=1202">&nbsp;</a>  
+    <a  href="main.asp?p=1200">&nbsp;</a>  
+    <a  href="main.asp?p=1100">&nbsp;</a>
+</div>
+
+</body>
+</html>

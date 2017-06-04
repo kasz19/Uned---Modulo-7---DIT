@@ -1,0 +1,424 @@
+ID=B0077
+URL=http://www.paragon-mortgages.co.uk/mortgagereference.nsf/legal/58FDBF5E2EBF9376802565D700536996
+SIZE=37784
+DATE=28/06/2002
+TIME=12:47:14
+DATASET=Building Societies
+HTML=<HTML>
+<!-- Lotus-Domino (Release 5.0.4 - June 8, 2000 on OS/400) -->
+<HEAD>
+<HEAD><TITLE>UK Mortgages - Paragon Mortgages</TITLE></HEAD><!--</HEAD>
+<BODY TEXT="000000" BGCOLOR="ffffff" BACKGROUND="/images/general/generalwatermark.gif" BGCOLOR="#FFFFFF" TEXT="#000066" LINK="#000066" VLINK="#000066" ALINK="#000066"><A NAME="top"></A>
+<CENTER>
+
+<TABLE ALIGN="CENTER" WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+  <MAP NAME="kbnav">
+  <AREA SHAPE="RECT" COORDS="2,2,90,21" HREF="/mortgagehome.nsf/about" TITLE="Who are Paragon?" ALT="Who are Paragon?" >
+  <AREA SHAPE="RECT" COORDS="120,2,220,21" HREF="/mortgagehome.nsf/incomeCalcDetection" TITLE="Affordability Calculator" ALT="Affordability Calculator" >
+  <AREA SHAPE="RECT" COORDS="250,2,350,21" HREF="/mortgagetools.nsf" TITLE="Tools and Calculators" ALT="Tools and Calculators" >
+  <AREA SHAPE="RECT" COORDS="380,2,450,21" HREF="/mortgagereference.nsf" TITLE="Reference Area" ALT="Reference Area" >
+  <AREA SHAPE="RECT" coords="480,2,550,21" HREF="/mortgageapplications.nsf/aip" TITLE="Apply Online" ALT="Apply Online" >
+  </MAP>
+  <TR>
+    <TD COLSPAN="2" ALIGN="LEFT" VALIGN="TOP" NOWRAP><IMG
+      SRC="/images/general/titlelogo.gif"
+      WIDTH="238" HEIGHT="65" BORDER="0"><A
+      HREF="/mortgagehome.nsf/sitemap"><IMG
+      SRC="/images/general/titlecompass.gif"
+      ALT="Site Map"
+      WIDTH="67" HEIGHT="65" BORDER="0"></A><IMG
+      SRC="/images/general/titlecompassspace.gif"
+      WIDTH="47" HEIGHT="65" BORDER="0"><A
+      HREF="/mortgagereference.nsf/search"><IMG
+      SRC="/images/general/titleglass.gif"
+      ALT="Search"
+      WIDTH="58" HEIGHT="65" BORDER="0"></A><IMG
+      SRC="/images/general/titleglassspace.gif"
+      WIDTH="44" HEIGHT="65" BORDER="0"><A
+      HREF="/mortgagehome.nsf/help"><IMG
+      SRC="/images/general/titlequestion.gif"
+      ALT="Help"
+      WIDTH="64" HEIGHT="65" BORDER="0"></A><IMG
+      SRC="/images/general/titlequestionspace.gif"
+      WIDTH="20" HEIGHT="65" BORDER="0"><A
+      HREF="/"><IMG
+      SRC="/images/general/titlehome.gif"
+      ALT="Paragon Mortgages Home"
+      WIDTH="54" HEIGHT="65" BORDER="0"></A><IMG
+      SRC="/images/general/titlehomespace.gif"
+      WIDTH="8" HEIGHT="65" BORDER="0"><BR><IMG
+      SRC="/images/general/titlelogostrip1.gif"
+      WIDTH="600" HEIGHT="15" BORDER="0"><BR>
+      <IMG NAME=kbnav" SRC="/mortgagehome.nsf/kbnav.gif" ALIGN="right" WIDTH="604" HEIGHT="23" BORDER="0" USEMAP=#kbnav>
+    </TD>
+  </TR>
+</TABLE><TABLE WIDTH="580" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+  <TR>
+    <TD ALIGN="LEFT" COLSPAN="2">
+      <FONT FACE="Arial, Helvetica" SIZE="+2"><B><I>
+      <BR>Mortgage Conditions<BR>
+      </I></B></FONT>
+    </TD>
+  </TR>
+
+  <TR>
+    <TD ALIGN="LEFT" COLSPAN="2">
+      <FONT FACE="Arial, Helvetica" SIZE="-2">
+      Paragon Mortgages Reference Area - 28 June 2002
+      </FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD ALIGN="CENTER" COLSPAN="2"><IMG
+      SRC="/images/bhr.gif" WIDTH="580" HEIGHT="1" BORDER="0">
+    </TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" COLSPAN="2">
+      <FONT FACE="Arial, Helvetica">
+      1. DEFINITIONS AND INTERPRETATIONS
+
+<P><FONT FACE="Arial">1.1 - In the Conditions:</FONT><BR>
+<FONT FACE="Arial"><blockquote>1.1.1 - Administrator means a person for the time being administering the Mortgage.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.2 - Assignment means the assignment of the Policy by way of security and includes any further assignment.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.3 - Borrower means the person specified as such in the Mortgage.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.4 - Buildings Insurance means any Policy of insurance to the extent that it insures loss or damage to the Property or premises of which the Property forms part.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.5 - Business Day means a day (other than Saturday or Sunday) on which banks are open for business.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.6 - Interest Period means a Quarter unless specified otherwise in the Offer of Loan or varied under the Conditions or (as the case may be) the Offer of Loan.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.7 - Lender means the person specified as such in the Mortgage and its assignees (legal and equitable) and the persons deriving title through it or them and includes the person who may from time to time exercise the Lender's powers and discretion's.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.8 - Loan means any sum lent by the Lender to the Borrower and includes any further loan to the Borrower and the Mortgage shall secure such further loans and constitute a continuing security accordingly.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.9 - Mortgage means the charge or mortgage into which the Conditions have been incorporated and includes any further charge.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.10 - Mortgage Rate means the rate of interest specified in the Offer of Loan as varied under the Conditions or (as the case may be) the Offer of Loan.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.11 - Offer of Loan means any offer of loan issued by the Lender and pursuant to which a Loan is advanced to the Borrower or (as the case may be) issued by the Lender under Condition 23.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.12 - Payment means the Borrower's payment as specified in the Offer of Loan as varied under the Conditions or (as the case may be) the Offer of Loan.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.13 - Policy means any Policy of life assurance required to be assigned to, or deposited with, the Lender as security.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.14 - Property means the property specified in the Mortgage and any part or parts of it.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.15 - Quarter means each period running from 1 January until 31 March, 1 April until 30 June, 1 July until 30 September and 1 October until 31 December inclusive</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.1.16 - Outstanding Balance means all monies outstanding for the time being under the terms of the Mortgage.</FONT><BR>
+<FONT FACE="Arial"></blockquote></FONT><BR>
+<FONT FACE="Arial">1.2 - These definitions apply if not inconsistent with the subject or context in which they appear.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.3 - Any reference to an act of parliament includes a reference to it as modified or re-enacted.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.4 - Obligations of more than one person are joint and several.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.5 - Any right or power given under the Mortgage may be exercised, and any duty or obligation imposed under the Mortgage is to be performed, from time to time as occasion requires.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.6 - If there is any inconsistency between the Offer of Loan and the Conditions the Offer of Loan shall prevail (subject to the power of variation in Condition 23).</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.7 - The Mortgage will not extend or apply to a regulated agreement, as defined by the Consumer Credit Act 1974.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.8 - Any consent of the Lender under the Conditions must be in writing and obtained before the event and may impose such conditions or stipulations as the Lender considers appropriate.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.9 - If any provision of the Mortgage is or becomes illegal, void or invalid that shall not affect the legality and validity of the other provisions.</FONT><BR>
+<BR>
+<FONT FACE="Arial">1.10 - In the Conditions the singular includes the plural and visa versa. Where an expression includes more than one person it shall include any one or more of them.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">2. THE ADMINISTRATOR </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">The Borrower acknowledges and agrees that:</FONT><BR>
+<BR>
+<FONT FACE="Arial">2.1 - the Lender may subcontract or delegate all or any part of the administration of the Mortgage, including the authority to exercise all or some of the Lender's powers and discretion's, to the Administrator</FONT><BR>
+<BR>
+<FONT FACE="Arial">2.2 - the Administrator shall have no liability for the obligations of the Lender under the Mortgage or otherwise.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">3. PAYMENT OBLIGATIONS </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">3.1 - The Borrower shall pay when due and without being asked:</FONT><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">3.1.1 - each Payment until the Loan and all other monies secured under the  Mortgage are repaid in full</FONT><BR>
+<BR>
+<FONT FACE="Arial">3.1.2 - the charges, costs, expenses and liabilities payable by, or recoverable from, the Borrower</FONT><BR>
+<BR>
+<FONT FACE="Arial">3.1.3 - all premiums on the Buildings Insurance and the Policy</FONT><BR>
+<BR>
+<FONT FACE="Arial">3.1.4 - interest.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<FONT FACE="Arial">3.2 - The Borrower shall pay the Outstanding Balance on demand.</FONT><BR>
+<BR>
+<FONT FACE="Arial">3.3 - Subject to any variation made under the Conditions or (as appropriate) the Offer of Loan the first Payment will be made within five Business Days of the advance of the Loan and subsequent Payments will be made on the last Business Day of each month commencing in the month after the month in which the Loan is advanced.</FONT><FONT FACE="Arial"> </FONT><BR>
+<BR>
+<FONT FACE="Arial">3.4 - All Payments must be made by direct debit. The Lender may make a charge for each direct debit payment application refused by the Borrower's bank. </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">4. PAYMENTS AND INTEREST PERIODS </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">4.1 - The Lender may calculate the Payment so as to comprise all or any part of the principal, interest, insurance premiums, or other monies payable by, or recoverable from, the Borrower</FONT><BR>
+<BR>
+<FONT FACE="Arial">4.2 - The Lender may vary the size of Payment to take account of the amount or rate of principal, interest, insurance premiums or other monies payable by, or recoverable from, the Borrower.</FONT><BR>
+<BR>
+<FONT FACE="Arial">4.3 - The Lender may vary:</FONT><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">4.3.1 - the date upon which the Payment is made</FONT><BR>
+<BR>
+<FONT FACE="Arial">4.3.2 - the period within which the Outstanding Balance is repayable</FONT><BR>
+<BR>
+<FONT FACE="Arial">4.3.3 - the frequency with which the Payment is made</FONT><BR>
+<BR>
+<FONT FACE="Arial">4.3.4 - the number of Payments to be made in any Interest Period</FONT><BR>
+<BR>
+<FONT FACE="Arial">4.3.5 - the Interest Period. </FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<FONT FACE="Arial">4.4 - Any variation under this Condition may be made without notice to the Borrower and with effect from any date. The Borrower shall provide whatever mandates or authorities the lender may request to implement a variation. </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">5. INTEREST </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">5.1 - For any Interest Period, the Lender shall be entitled to charge interest on:</FONT><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">5.1.1 - the Outstanding Balance on the last day of the preceding Interest Period and</FONT><BR>
+<BR>
+<FONT FACE="Arial">5.1.2 - any amount advanced to, or becoming payable by, the Borrower during the Interest Period from the date it was advanced or became payable.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<FONT FACE="Arial">5.2 - An amount is advanced when it is released by the Lender. Where only part of an intended advance has been made, interest shall not be charged on the part withheld by the Lender until that part is released.</FONT><BR>
+<BR>
+<FONT FACE="Arial">5.3 - Interest shall accrue from day to day and be payable wholly or partly in advance (depending upon the appointed date and frequency of Payments) as all or part of the Payments.</FONT><BR>
+<BR>
+<FONT FACE="Arial">5.4 - Interest shall be charged at the Mortgage Rate (both before and after any judgement).</FONT><BR>
+<BR>
+<FONT FACE="Arial">5.5 - In the absence of any provision to the contrary in the Offer of Loan, the Lender may increase or decrease the Mortgage Rate without notice to the Borrower and with effect from any date.</FONT><BR>
+<BR>
+<FONT FACE="Arial">5.6 - In addition to the Loan and interest accruing, all other sums becoming due to the Lender shall be payable by the Borrower on demand and in default and at the option of the Lender shall be added to the Borrower's account and carry interest at the Mortgage Rate applicable to the earliest Offer of Loan under which amounts remain outstanding which interest shall be capable of being capitalised.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">6. BORROWER'S DUTIES </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">6.1 - The Borrower shall: </FONT><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">6.1.1 - comply with the Borrower's obligations contained or implied in the Mortgage, the Assignment and the Offer of Loan</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.2 - complete, without delay and to the satisfaction of the Lender, any outstanding building work in relation to the Property</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.3 - put and keep the Property in good and substantial repair</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.4 - comply with all statutes, regulations, bylaws and other legislation affecting the Property</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.5 - permit the Lender or its agents, on reasonable prior notice, to inspect the Property</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.6 - not alter or change the use of the Property</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.7 - comply with the requirements of any competent authority relating to the Property and serve promptly on the Lender a copy of any notice affecting the Property received from such an authority</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.8 - comply with all covenants, stipulations, regulations and agreements affecting the Property including any contained in any lease under which the Property is held by the Borrower</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.9 - pay when due all rent and other outgoings payable under any such lease or in respect of the Property and, when requested, provide the Lender with evidence of payment</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.10 - if the Borrower receives any notice served under section 146 of the Law of Property Act 1925 or any proceedings are commenced for forfeiture of such lease or any superior lease or the lessor or any superior lessor attempts to re- enter, give immediate notice in writing to the Lender and at the request of the Lender (and at the expense of the Borrower) take such steps as the Lender may require</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.11 - promptly tell the Lender if the Borrower acquires any interest in an estate superior to the lease under which the Borrower hULds the Property or in any entity which owns such an estate or if the Borrower acquires any extension or renewal of such lease and in any such case to enter into a legal mortgage of what the Borrower has acquired in such form as the Lender requires</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.12 - give to the Lender such information about the Property as the Lender may require</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.13 - not leave the Property vacant for a continuous period of more than 28 days;</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.14 - only use the Property as a private dwelling home for the Borrower and the Borrowers immediate family and must not take in lodgers or otherwise part with, or share possession or occupation of, the Property. Any rights the Borrower may have under law to let or take surrenders of leases of the Property are excluded</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.15 - not sell, mortgage or dispose of any interest in the Property or create any new rights over the Property or purport to dispose of the Property subject to the Mortgage</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.16 - advise the Lender of, and not negotiate or settle, any claim for compensation in respect of the compulsory acquisition of the Property and account to the Lender for any receipts</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.17 - not obtain an improvement or similar grant without the prior consent of the Lender</FONT><BR>
+<BR>
+<FONT FACE="Arial">6.1.18 - maintain a suitable bank or other account from which payments to the Lender may be debited.</FONT><FONT FACE="Arial"> </blockquote> </FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">7. LENDER'S RIGHTS AND REMEDIES </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">7.1 - The powers of enforcement conferred upon the Lender shall for the purpose of the Law of Property Act 1925 and the Conditions be deemed to arise immediately upon execution of the Mortgage.</FONT><BR>
+<BR>
+<FONT FACE="Arial">7.2 - Section 93 of the Law of Property Act 1925 shall not apply.</FONT><BR>
+<BR>
+<FONT FACE="Arial">7.3 - At any time after the Outstanding Balance has become due and payable the Lender may:- </FONT><FONT FACE="Arial"> <blockquote></FONT><BR>
+<BR>
+<FONT FACE="Arial">7.3.1 - exercise all powers and rights given to it as a mortgagee by law or the Conditions but without the restrictions imposed by section 103 of the Law of Property Act 1925</FONT><BR>
+<BR>
+<FONT FACE="Arial">7.3.2 - take possession of the Property.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<BR>
+<FONT FACE="Arial">7.4 - After taking possession of the Property the Lender may (as agent of the Borrower and at the Borrower's expense) remove, store, sell or generally deal with any furniture or goods which the Borrower has not removed from the Property but not so as to constitute the Mortgage a bill of sale.</FONT><BR>
+<BR>
+<FONT FACE="Arial">7.5 - The Lender may appoint any person (including an employee of the Administrator) to be receiver of the Property. A receiver may be appointed and removed in writing and, in addition to his statutory powers, shall have all the powers conferred on the Lender as mortgagee by law or the Conditions.</FONT><BR>
+<BR>
+<FONT FACE="Arial">7.6 - The Lender may agree with the receiver his remuneration and give directions as to how money received by him is to be applied and the amount he is to retain from that money in respect of his expenses or to cover estimated future expenses.</FONT><BR>
+<BR>
+<FONT FACE="Arial">7.7 - The Lender may give back possession of the Property or remove a receiver whether or not appointing another in his place.</FONT><BR>
+<BR>
+<FONT FACE="Arial">7.8 - The Lender may grant or accept the surrender of a lease of the Property upon whatever terms it considers appropriate without regard to sections 99 and 100 of the Law of Property Act 1925.</FONT><BR>
+<BR>
+<FONT FACE="Arial">7.9 - The Lender may sell the Property for a price and in the manner it considers appropriate.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">8. ADDITIONAL POWERS OF THE LENDER </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">8.1 - The Lender may fulfil or put right any non performance or breach of the Borrower's obligations under the Mortgage.</FONT><BR>
+<BR>
+<FONT FACE="Arial">8.2 - Without limiting the general nature of Condition 8.1, the Lender may enter the Property (on reasonable notice except in an emergency) and carry out any work which the Borrower has failed to do or which is, in the opinion of the Lender, necessary to protect or improve the Property.</FONT><BR>
+<BR>
+<FONT FACE="Arial">8.3 - The Lender, or its agents, may (on reasonable notice except in an emergency) enter and inspect the Property.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">9. PROPERTY INSURANCE </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">9.1 - The Lender may arrange Buildings Insurance with an insurer of its choice for whatever risk and amount it considers appropriate. The manner and names in which the insurance is taken out will be agreed between the Lender and the insurer concerned.</FONT><BR>
+<BR>
+<FONT FACE="Arial">9.2 - Subject to obtaining the prior written consent of the Lender, the Borrower may arrange Buildings Insurance. Any consent by the Lender may be withdrawn or varied at the option of the Lender.</FONT><BR>
+<BR>
+<FONT FACE="Arial">9.3 - Where the Borrower arranges Buildings Insurance he must produce the Policy, or details of the terms of insurance, and evidence that the insurance is on foot whenever requested by the Lender</FONT><BR>
+<BR>
+<FONT FACE="Arial">9.4 - The Borrower shall hULd any money received by him under the Buildings Insurance as trustee for the Lender.</FONT><BR>
+<BR>
+<FONT FACE="Arial">9.5 - The Borrower must not do or allow to be done anything which might prejudice any Buildings Insurance or increase the premium.</FONT><BR>
+<BR>
+<FONT FACE="Arial">]9.6 - The Lender may settle and adjust with the insurers under the Buildings Insurance. The Borrower must, within seven days of it arising, inform the Lender in writing of any circumstance which might prejudice any Buildings Insurance, increase the premium or give rise to a claim.</FONT><BR>
+<BR>
+<FONT FACE="Arial">9.7 - The Lender may retain any commission, discount or other benefit received as a result of the Lender (or the Administrator on behalf of the Lender) placing Buildings Insurance with an insurer.</FONT><BR>
+<BR>
+<FONT FACE="Arial">9.8 - The premiums payable on the Buildings Insurance and, as appropriate, any contents or other insurance linked to the Loan may be included in the Payment at the option of the Lender.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">10. LIFE ASSURANCE </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">10.1 - The Borrower confirms:-</FONT><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">10.1.1 - that the Policy is valid and in force and that all payments are up to date</FONT><BR>
+<BR>
+<FONT FACE="Arial">10.1.2 - that nothing has been done which might prejudice the Policy or prevent the Lender from receiving any of the money to become payable under the Policy.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<FONT FACE="Arial">10.2 - The Borrower shall:  <blockquote></FONT><BR>
+<FONT FACE="Arial">10.2.1 - at the request of the Lender, if it has not already done so, place the Policy on deposit with the Lender and execute an assignment of the same to the Lender as security for the Outstanding Balance in such form as the Lender may require</FONT><BR>
+<BR>
+<FONT FACE="Arial">10.2.2 - keep the Policy on foot and not do or allow to be done anything which might prejudice the Policy or the Lenders security over it or prevent the Lender from receiving any money to become payable under the Policy</FONT><BR>
+<BR>
+<FONT FACE="Arial">10.2.3 - pay the Policy premiums punctually and provide evidence of payment whenever required by the Lender.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<FONT FACE="Arial">10.3 - At any time after the Outstanding Balance has become due and payable the Lender may do one or more of the following:-  <blockquote></FONT><BR>
+<FONT FACE="Arial">10.3.1 - exercise all rights and powers given to it as mortgagee by law in relation to the Policy</FONT><BR>
+<BR>
+<FONT FACE="Arial">10.3.2 - anything which the Borrower ought to have done (including restoring the Policy or arranging a new Policy)</FONT><BR>
+<BR>
+<FONT FACE="Arial">10.3.3 - convert the Policy into a paid up Policy and retain it as collateral security</FONT><BR>
+<BR>
+<FONT FACE="Arial">10.3.4 - surrender the Policy</FONT><BR>
+<BR>
+<FONT FACE="Arial">10.3.5 - sell the Policy</FONT><BR>
+<BR>
+<FONT FACE="Arial">10.3.6 - make such other arrangements with the insurer or any other person regarding the Policy as the Lender considers appropriate.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<FONT FACE="Arial">10.5 - Unless and until the Policy has been legally assigned to the Lender, the deposit of the Policy with the Lender shall constitute an equitable charge on the Policy.  </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">11. INSTALMENT LOANS AND REPETITIONS </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">The Lender may refuse to release any Loan retention or instalment or to make any advance of further monies if the Borrower is in breach of any of his obligations under the Mortgage or any precondition to release specified in the Offer of Loan (or otherwise agreed with the Borrower) is not met.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">12. REDEMPTION </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">12.1 - Subject to Condition 22.1, the Borrower may at any time repay all or part of the Outstanding Balance before it is due and owning. The minimum repayment is £500 except where the balance on the Borrowers account is, or with the repayment would be, less than £1,000 in which case the Outstanding Balance may only be </FONT><BR>
+<BR>
+<FONT FACE="Arial">12.2 - The Lender may charge the Borrower a fee for discharging or redeeming any part of the Lender's security.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">13. EXPENSES </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">13.1 - All charges, costs and expenses made or incurred by the Lender in connection with the Mortgage, the Assignment, the Property, the Policy or the Buildings Insurance - including (but not limited to) in:-</FONT><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">13.1.1 - administering the Mortgage</FONT><BR>
+<BR>
+<FONT FACE="Arial">13.1.2 - recovering or attempting to recover the Outstanding Balance</FONT><BR>
+<BR>
+<FONT FACE="Arial">13.1.3 - protecting, realising or enforcing the Mortgage or any other security for the Outstanding Balance</FONT><BR>
+<BR>
+<FONT FACE="Arial">13.1.4 - considering any application for the Lender's licence, consent or approval whether or not such licence, consent or approval is given</FONT><BR>
+<BR>
+<FONT FACE="Arial">13.1.5 - exercising any of the Lender's rights under the Mortgage</FONT><BR>
+<BR>
+<FONT FACE="Arial">13.1.6 - remedying any breach of the Borrower's obligations under the Mortgage; shall be payable by the Borrower on a full indemnity basis and secured under the Mortgage and the Assignment.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<BR>
+<FONT FACE="Arial">13.2 - The charges, costs and expenses referred to in Condition 13.1:-</FONT><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">13.2.1 - shall be included in the Outstanding Balance from the time when made or incurred</FONT><BR>
+<BR>
+<FONT FACE="Arial">13.2.2 - may be debited to the Borrower's account and/or included in the Payment</FONT><BR>
+<BR>
+<FONT FACE="Arial">13.2.3 - may include a reasonable sum for the cost of the time, accommodation, facilities and services of employees and agents of the Lender.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<BR>
+<FONT FACE="Arial">13.3 - To the extent permitted by law, the Borrower agrees not to require any costs to be taxed.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">14. MIRAS </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">For so long as the Lender is satisfied that the Borrower is entitled to deduct income tax from interest payable to it, the Lender may notify the Borrower in writing of the sum which it will for the time being accept as representing the Payment after proper allowance has been made for the amount of tax deductible.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">15. POWER OF ATTORNEY </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">15.1 - The Borrower appoints the Lender and the Administrator severally to be the agent of, and attorney for, the Borrower to:-</FONT><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">15.1.1 - do anything (including the execution and delivery of deeds or documents) that the Borrower is required by the Lender to do under the Conditions;</FONT><BR>
+<BR>
+<FONT FACE="Arial">15.1.2 - receive any money payable to the Borrower under the Policy or Buildings Insurance or under any agreement, insurance or guarantee relating to the repair or reinstatement of the Property or the title to the Property;</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<FONT FACE="Arial">15.2 - The power under 15.1 is given for security purposes and is exercisable whether or not the security has become enforceable. Anything done by the Lender under the appointment shall be ratified by the Borrower and may be done in the name of the Borrower and be as binding on the Borrower as if done by the Borrower himself.</FONT><BR>
+<BR>
+<FONT FACE="Arial">15.3 - The Lender and Administrator may delegate any of the powers and authorities given - to it under Condition 15.1.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">16. FURTHER ASSISTANCE </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">The Borrower shall do all things (including the execution of documents) that the Lender may require to:-</FONT><BR>
+<BR>
+<FONT FACE="Arial">16.1 - perfect or protect any security for the Outstanding Balance</FONT><BR>
+<BR>
+<FONT FACE="Arial">16.2 - exercise any right of the Lender under such security and in particular to facilitate the sale of the Property, the Policy or any other asset upon which the Outstanding Balance is secured. </FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">17. WAIVER </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">The waiver by the Lender of any breach by the Borrower of a Condition shall not prevent the subsequent enforcement of that Condition and shall not be deemed a waiver of any subsequent breassch. </FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">18. NOTICES </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">18.1 - The Lender may give notice to the Borrower by any method permitted by law or by ordinary prepaid post at the address of the Property. Any notice sent by post shall be deemed to be received on the second Business Day after posting.</FONT><BR>
+<BR>
+<FONT FACE="Arial">18.2 - Where there are joint Borrowers, any notice shall be properly given to each of them if addressed to the two whose name stand first in the Lender's records of the Mortgage concerned. </FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">19. RIGHTS OF ACTION </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">19.1 - As security for the Loan, the Borrower will hULd in trust for the Lender any present or future right of action he may have against any person in connection with any report, valuation or statement of fact or opinion:- </FONT><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">19.1.1 - given in connection with the Property or the Policy; or</FONT><BR>
+<BR>
+<FONT FACE="Arial">19.1.2 - affecting the Borrower's decision to enter into the Mortgage.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<FONT FACE="Arial">19.2 - The Borrower shall take whatever proceedings or actions the Lender may reasonably require in relation to any right of action he hULds in trust for the Lender.</FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">20. PROTECTION OF LENDER </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">The Lender, and any receiver appointed by it, shall not be liable in respect of any loss or damage which arises out of the exercise, or the attempted exercise, of their powers. The exercise of such powers shall not make the Lender, or a receiver, a mortgagee in possession or require it to account for anything other than actual receipts.</FONT><FONT FACE="Arial"></blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">21. TRANSFER </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">In addition to all other rights available to it, the Lender may in its absULute discretion, without the consent of or notice to the Borrower, transfer or agree to transfer all or any of its duties, powers and remedies under any security held for the whULe or any part of the Outstanding Balance to any person or persons whatsoever who may exercise such duties, powers and remedies, upon such conditions as it or they may determine. </FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">22. RECEIPTS </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">22.1 - The Lender shall, at its option, apply any monies received by it under or in connection with the Mortgage, including (but not limited to):-</FONT><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">22.1.1 - any Payment</FONT><BR>
+<BR>
+<FONT FACE="Arial">22.1.2 - any repayment under Condition 12</FONT><BR>
+<BR>
+<FONT FACE="Arial">22.1.3 - any monies becoming payable under the Policy or the Building Insurance</FONT><BR>
+<BR>
+<FONT FACE="Arial">22.1.4 - the net proceeds on realisation of any security for the Outstanding Balance or from the exercise of any rights of the Lender in respect of the Outstanding Balance</FONT><BR>
+<BR>
+<FONT FACE="Arial">22.1.5 - the proceeds of any action held in trust for the Lender under Condition 19 or any agreement, insurance or guarantee referred to in Condition 15.1.2; either in reduction or discharge of the Outstanding Balance or, if the Lender considers it appropriate, in making good any insured loss or damage to the Property. Any amount applied in reduction of the Outstanding Balance shall be applied in satisfaction of principal, interest or any other liability in such order or proportion as the Lender feels fit. </FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<FONT FACE="Arial">22.2 - The receipt of the Lender alone shall be a sufficient and proper discharge for all monies payable under or in connection with the Mortgage. </FONT><FONT FACE="Arial"> </blockquote></FONT><BR>
+<B><FONT SIZE=4 FACE="Arial">23. VARIATION </FONT></B><FONT FACE="Arial"> <blockquote></FONT><BR>
+<FONT FACE="Arial">23.1 - If requested by or agreed with the Borrower, the Lender may (but shall not be obliged to) by notice to the Borrower vary any provision of the Mortgage, the Offer of Loan, the Conditions or the Assignment.</FONT><BR>
+<BR>
+<FONT FACE="Arial">23.2 - If the Borrower fails to perform any obligation under the Mortgage the Lender may by notice to the Borrower vary any provision of the Offer of Loan so as to convert the Mortgage to any type (or combination of types) of mortgage.</FONT><BR>
+<BR>
+<FONT FACE="Arial">23.3 - Any variation under this Condition shall take effect from the date specified in the notice. Any notice by the Lender under this Condition may take such form (including a fresh Offer of Loan) as the Lender considers appropriate.</FONT><BR>
+<BR>
+<FONT FACE="Arial">23.4 - The Lender may, at its option, make a charge for any variation under this Condition and debit the Borrowers account accordingly.</FONT><FONT FACE="Arial"> </blockquote></FONT>      <BR>
+      </FONT>
+    </TD>
+  </TR>
+
+  <TR>
+    <TD ALIGN="LEFT">
+      <FONT FACE="Arial, Helvetica" SIZE="-1">
+      <A HREF="/mortgagereference.nsf/legal/58FDBF5E2EBF9376802565D700536996?Navigate&To=Prev">< Previous Document</A>
+      </FONT>
+    </TD>
+    <TD ALIGN="RIGHT">
+      <FONT FACE="Arial, Helvetica" SIZE="-1">
+      <A HREF="/mortgagereference.nsf/legal/58FDBF5E2EBF9376802565D700536996?Navigate&To=Next">Next Document ></A>
+      </FONT>
+    </TD>
+  </TR>
+
+  <TR>
+    <TD ALIGN="CENTER" COLSPAN="2"><IMG
+      SRC="/images/bhr.gif" WIDTH="560" HEIGHT="1" BORDER="0">
+    </TD>
+  </TR>
+
+</TABLE>
+
+<TABLE ALIGN="CENTER" WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP" NOWRAP><IMG
+      SRC="/images/general/footerlogo.gif"
+      WIDTH="156" HEIGHT="52" BORDER="0"><A
+      HREF="/"><IMG
+      SRC="/images/general/footerhome.gif"
+      ALT="Paragon Mortgages Home"
+      WIDTH="54" HEIGHT="52" BORDER="0"></A><A
+      HREF="/mortgagehome.nsf/sitemap"><IMG
+      SRC="/images/general/footercompass.gif"
+      ALT="Site Map"
+      WIDTH="54" HEIGHT="52" BORDER="0"></A><A
+      HREF="/mortgagereference.nsf/search"><IMG
+      SRC="/images/general/footerglass.gif"
+      ALT="Search"
+      WIDTH="53" HEIGHT="52" BORDER="0"></A><A
+      HREF="/mortgagehome.nsf/help"><IMG
+      SRC="/images/general/footerquestion.gif"
+      ALT="Help"
+      WIDTH="55" HEIGHT="52" BORDER="0"></A><IMG
+      SRC="/images/general/footerspacer.gif"
+      WIDTH="170" HEIGHT="52" BORDER="0"><A
+      HREF="#top"><IMG
+      SRC="/images/general/footertop.gif"
+      ALT="Go To Top of Page"
+      WIDTH="58" HEIGHT="52" BORDER="0"></A></TD>
+  </TR>
+</TABLE>
+
+</CENTER></HTML></BODY>
+</BODY>
+</HTML>
+

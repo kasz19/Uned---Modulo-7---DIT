@@ -1,0 +1,1196 @@
+ID=C0069
+URL=http://www.rapidinsure.co.uk/business/insurance/travannual/travannualtncs.asp
+SIZE=71728
+DATE=10/07/2002
+TIME=13:17:47
+DATASET=Insurance Agencies
+HTML=
+
+<html>
+<head>
+<title>T&amp;C Business</title>
+
+<META Name="description" content="RapidInsure, the premier UK insurance site offering a range of policies to UK resident Internet users only.">
+		<META Name="keywords"    content="insurance,rapidinsure,rapid insurance,insurance rapid,rapid insure,apply for insurance,insurance online,online insurance,quote,quotes,insurance quote,insurance quotes,direct,cheap,cheapest,finance,broker,brokers,comprehensive,find insurance,find,accident,accident insurance,house,household insurance,travel,travel insurance,computer,computer insurance,office,office insurance,term life,home owner,life assurance,pet,cat,dog,pet cat,pet doc,pet insurance,pet travel insurance,business insurance,insruance,company insurance,professional indemnity">
+	<script >
+	<!--
+	   function open_win(url)
+   {
+           if (navigator.appName == "Netscape")
+           {
+                var siteseal_win = window.open(url, "win", "screenX=0,screenY=0,toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=0,resizable=0,width=645,height=540");
+                   siteseal_win.focus();
+           }
+           if (navigator.appName == "Microsoft Internet Explorer")
+           {
+                   var siteseal_win = window.open(url, "win", "top=0,left=0,toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=0,resizable=0,width=645,height=540");
+           }
+   }
+	function openHelpWindow(helpNo){
+        var helpWindow = window.open("/displayHelpNote.asp?helpNo="+helpNo, "helpWindow", "screenX=0,screenY=0,top=0,left=0,toolbar=0,location=0,directories=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=285,height=350");
+        helpWindow.focus();}
+	function openBigHelpWindow(helpNo){
+        var helpWindow = window.open("/displayHelpNote.asp?helpNo="+helpNo, "bighelpWindow", "screenX=0,screenY=0,top=0,left=0,toolbar=0,location=0,directories=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=580,height=350");
+        helpWindow.focus();}
+	function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+	  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+	    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+	  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+	}
+	MM_reloadPage(true);
+	// -->
+	
+	function MM_swapImgRestore() { //v3.0
+	  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+	}
+	
+	function MM_preloadImages() { //v3.0
+	  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+	    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+	    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}
+	
+	function MM_findObj(n, d) { //v3.0
+	  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+	    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+	  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+	  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+	}
+	
+	function MM_swapImage() { //v3.0
+	  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+	   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+	}
+	
+	function MM_showHideLayers() { //v3.0
+	  var i,p,v,obj,args=MM_showHideLayers.arguments;
+	  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+	    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+	    obj.visibility=v; }
+	}
+	function MM_displayStatusMsg(msgStr) { //v1.0
+		status=msgStr;
+		document.MM_returnValue = true;
+	}
+				
+	function HelpWindow(){
+			window.open("/Information/help/help.htm", "helpWindow", "width=285,height=350")
+	}
+	//-->
+	</script>
+<link rel="stylesheet" href="/navigation/business/master.css">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#333399" link="#0000FF" vlink="#0000FF" alink="#00CC33" onLoad="MM_preloadImages('/navigation/business/images/BusinessButton2.gif','/navigation/business/images/img_09b.gif','/navigation/business/images/img_07b.gif','/navigation/business/images/piOn.gif','/images/summaryOn.gif')">
+<div id="list1" style="position:absolute; left:240px; top:134px; width:196px; height:92px; z-index:14; visibility: hidden">
+<div class="members"><font face="Arial, Helvetica, sans-serif" size="1">
+<b><a href="/business/aboutPI.asp" onMouseOver="MM_showHideLayers('list1','','show','menu1','','show','logolayer','','show','contentsLayer','','hide')">
+What is PI?</a><br>
+<br>
+</b></font></div>
+<div class="members"><font face="Arial, Helvetica, sans-serif" size="1">
+<b><a href="/business/insurance/pimedia/pimedia.asp" onMouseOver="MM_showHideLayers('list1','','show','menu1','','show','logolayer','','show','contentsLayer','','hide')">
+Media and Marketing</a><br>
+<br>
+</b></font></div>
+<div class="members"><font face="Arial, Helvetica, sans-serif" size="1">
+<b><a href="/business/insurance/pibmanagement/piBManagement.asp" onMouseOver="MM_showHideLayers('list1','','show','menu1','','show','logolayer','','show','contentsLayer','','hide')">
+Business and Management</a><br>
+<br>
+</b></font></div>
+<div class="members"><font face="Arial, Helvetica, sans-serif" size="1">
+<b><a href="/business/insurance/piinfotech/piinfotech.asp" onMouseOver="MM_showHideLayers('list1','','show','menu1','','show','logolayer','','show','contentsLayer','','hide')">
+Information Technology</a><br>
+<br>
+</b></font></div>
+</div><div id="BG" style="position:absolute; left:-7px; top:0px; width:544px; height:84px; z-index:1"><img src="/navigation/business/images/BG_business.gif" width="790" height="134" border="0"></div><div id="Banner" style="position:absolute; left:224px; top:0px; width:2px; height:0px; z-index:2">
+<a href="/banmanpro/banman.asp?ZoneID=1&Task=Click&Mode=HTML&PageID=1160">
+<img src="/banmanpro/banman.asp?ZoneID=1&Task=Get&Mode=HTML&PageID=1160" width="468" height="60" border="0"></a>
+</div> 
+<div id="Cats" style="position:absolute; left:78px; top:66px; width:450px; height:73px; z-index:5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/business/insurance/businesscomputer/computer.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image16','','/navigation/business/images/Img_07b.gif',1)"><img name="Image16" border="0" src="/navigation/business/images/Img_07.gif" width="68" height="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/business/insurance/travannual/travannual.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image17','','/navigation/business/images/business_trav_on.gif',1)"><img name="Image17" border="0" src="/navigation/business/images/business_trav_off.gif" width="66" height="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/business/insurance/travgroup/travgroup.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image18','','/navigation/business/images/group_travel_on.gif',1)"><img name="Image18" border="0" src="/navigation/business/images/group_travel_off.gif" width="66" height="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div> 
+<div id="Business" style="position:absolute; left:495px; top:93px; width:84px; height:0px; z-index:4"><a href="/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image10','','/navigation/business/images/BusinessButton2.gif',1)"><img name="Image10" border="0" src="/navigation/business/images/BusinessButton.gif" width="278" height="39"></a></div> 
+</div>
+<div id="Layer1" style="position:absolute; left:0px; top:3px; width:171px; height:49px; z-index:11"><a href="/business"><img src="/navigation/business/images/rapid_animBus.gif" width="189" height="68" alt="Return to RapidInsure Home page" border="0"></a></div> 
+<div id="services" style="position:absolute; left:559px; top:68px; width:210px; height:5px; z-index:12"> 
+  <table width=200 border="0" cellspacing="0" cellpadding="0" height="21" align="center">
+    <tr> 
+      <td  align=center valign=middle> 
+        <a href="https://www.rapidinsure.co.uk/members/memberlogin.asp" class="members"><font color=white>&nbsp;&nbsp;Members</font></a>
+      </td>
+      <td  align=center valign=middle> 
+        <a href="/information" class="members"><font color=white>&nbsp;&nbsp;Info&nbsp;&nbsp;</font></a>
+      </td>
+      <td  align=center valign=middle> 
+        <a href="javascript:HelpWindow();" class="members"><font color=white>Help&nbsp;&nbsp;</font></a> 
+      </td>
+      <td  align=center valign=middle>
+        <a href="/press" class="members"><FONT COLOR=WHITE>Press</font></a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="logolayer" onMouseOver="MM_showHideLayers('list1','','hide','menu1','','hide','logolayer','','hide','contentsLayer','','show')" onMouseOut="MM_showHideLayers('list1','','hide','menu1','','hide','logolayer','','hide','contentsLayer','','show')" style="position:absolute; left:0px; top:146px; width:750px; height:242px; z-index:1; visibility: hidden"><a href="#" onMouseOver="MM_showHideLayers('list1','','hide','menu1','','hide','logolayer','','hide','contentsLayer','','show')" onMouseOut="MM_showHideLayers('list1','','hide','menu1','','hide','logolayer','','hide','contentsLayer','','show')"><img src="/navigation/business/images/Movie1b.gif" width="750" height="245" border="0"></a></div>
+<div id="contentsLayer" style="position:absolute; left:1px; top:149px; width:750px; height:242px; z-index:1">
+
+
+<body bgcolor="#FFFFFF" text="#333399" link="#333399">
+<table width="580" border="0">
+  <tr> 
+  	
+    <td>
+      <table width="580" border="0">
+        <tr> 
+          <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="3"> 
+            <img src="../../../Images/logo.gif" width="232" height="81"></font></b></td>
+          <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="3"> 
+            Business Travel Insurance Terms and Conditions</font></b></td>
+          <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+            <a href="javascript:history.back()" onMouseOver="MM_displayStatusMsg('Go Back!');
+			return document.MM_returnValue" onMouseOut="MM_displayStatusMsg(' ');
+			return document.MM_returnValue"><img src="../../../Images/back.gif" width="77" height="34" border="0"> 
+            </a></font></b></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  
+  <tr> 
+    <td> 
+      <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#333399"><b><font color="#FF3333"><i>This 
+        is a legal document and may not be altered in any way.</i></font></b></font><br>
+        <br>
+        <b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Underwritten 
+        by certain syndicates at Lloyd's and arranged by RapidInsure.co.uk </font></b> 
+      </p>
+    </td>
+  </tr>
+  <tr> 
+    <td> 
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The following 
+        are the <b>FULL DETAILS, TERMS, CONDITIONS, DEFINITIONS AND EXCLUSIONS</b> 
+        of a travel Insurance scheme arranged by Rapidinsure.co.uk.<br>
+        <br>
+        This is to certify that in accordance with the authorisation granted under 
+        Contract Number PA/999 to the Issuing Agent by certain syndicates at Lloyd's 
+        (hereafter referred to as the Underwriters), whose definitive numbers 
+        and the proportions underwritten by them, which will be supplied on application, 
+        can be ascertained by reference to the said Contract which bears the Seal 
+        of Lloyd's Policy Signing Office, and in consideration of the payment 
+        of the premium specified herein, the said Underwriters are hereby bound, 
+        severally and not jointly, their Executors and Administrators, to insure 
+        the person(s) named in the Schedule, for the Benefits detailed herein.<br>
+        </font></p>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="2">OPERATIVE 
+        TIME</font></b><br>
+        <br>
+        To cover a single trip or in the case of an annual multi trip policy, 
+        trips not exceeding 60 days each trip, having a destination outside the 
+        United Kingdom, during the period shown in Validating Schedule.<br>
+        <br>
+        Cover operates from the time the Insured Person leaves home or place of 
+        employment (whichever is the later) during the whole time away and until 
+        return to place of employment or home (whichever is the earlier). <br>
+        <br>
+        Each trip is deemed to be a separate insurance, each being subject to 
+        the terms, Definitions, Exclusions and Conditions contained herein. </font></p>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="2">SCHEDULE 
+        OF BENEFITS</font></b><br>
+        <br>
+        THIS EVIDENCE INSURES ONLY THOSE ITEMS WHICH HAVE AN AMOUNT ENTERED BY 
+        THEM ON THE VALIDATING SCHEDULE. ITEMS NOT INSURED HAVE THE WORDS 'NOT 
+        COVERED' BY THEM. </font></p>
+      <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>SECTION</b><br>
+      <br>
+      <a href="#">1. </a></font><a href="#medical"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">MEDICAL 
+      AND ADDITIONAL EXPENSES </font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+      <br>
+      <a href="#">2</a></font><a href="#cancellation"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">. 
+      CANCELLATION AND CURTAILMENT </font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+      <a href="#employee"><br>
+      3. EMPLOYEE REPLACEMENT </a><br>
+      <br>
+      <a href="#journey">4. JOURNEY CONTINUATION</a><br>
+      <br>
+      <a href="#delay">5. TRAVEL DELAY </a><br>
+      <br>
+      <a href="#liabs">6. PERSONAL LIABILITY </a><br>
+      <br>
+      <a href="#le">7. LEGAL EXPENSES </a><br>
+      <br>
+      <a href="#pa">8. PERSONAL ACCIDENT </a><br>
+      <br>
+      <a href="#hospital">9. HOSPITAL BENEFIT </a><br>
+      <br>
+      <a href="#baggage">10. ACCOMPANIED PERSONAL BAGGAGE, CLOTHING OR EFFECTS, 
+      BUSINESS EQUIPMENT SAMPLES AND MONEY </a> <b> (this section is optional 
+      and is only operative if shown on the validating schedule)</b><br>
+      <br>
+      <a href="#passport">11. LOSS OF PASSPORT </a><br>
+      <br>
+      <a href="#hijack">12. HI-JACK, KIDNAP AND DETENTION </a><br>
+      <br>
+      <a href="#excess">13. CAR HIRE EXCESS WAIVER</a></font> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">THIS EVIDENCE 
+        IS VALID ONLY WHEN ISSUED WITH A NUMBERED AND DATED VALIDATING SCHEDULE 
+        WHICH FORMS PART OF THIS INSURANCE. </font></p>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="2">NOTICE 
+        TO THE INSURED PERSON OR ASSURED IF APPLICABLE </font></b><br>
+        <br>
+        The cover referred to in this Evidence is subject to English Law. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Any enquiry 
+        or complaint should be addressed in the first instance to </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">RapidInsure.co.uk<br>
+          Phoenix Park<br>
+          Blakewater Road<br>
+          Blackburn, Lancs.<br>
+          BB1 5SJ<br>
+          <br>
+          Telephone: 01254 266260</font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you are 
+        not satisfied with the way a complaint has been dealt with you may ask 
+        the Complaints Department to review your case without prejudice to your 
+        rights in law. The address is: </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Complaints 
+          Department <br>
+          Lloyd's <br>
+          One Lime Street<br>
+          London <br>
+          EC3M 7HA </font></p>
+      </blockquote>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>CLAIMS 
+        PROCEDURE</b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+        <br>
+        Notice must be given under all Sections, other than Section 7, Legal Expenses, 
+        to the adjusters: </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> Cassidy 
+          Davis Insurance Services Ltd<br>
+          21 Perrymount Road<br>
+          Haywards Heath<br>
+          West Sussex<br>
+          RH16 3TP<br>
+          <br>
+          </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Tel: 
+          (+44) (0)1444 450550</font></p>
+        </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> as soon 
+        as possible, or in the event of a claim under Section 2, Cancellation 
+        and Curtailment, immediate notice must be given of any occurrence which 
+        may give rise to a claim. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">In the event 
+        of a claim under Section 7, Legal Expenses, notice must be given to </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Eastgate 
+          Assistance<br>
+          Eastgate House<br>
+          The Business Park<br>
+          Stephenson Road<br>
+          Colchester<br>
+          Essex<br>
+          CO4 4QR</font></p>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Telephone: 
+          08705 234567</font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> as soon 
+        as possible. Please quote reference "RapidInsure".</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> If possible, 
+        the original or a copy of your Validating Schedule should be sent when 
+        notifying a claim as this will ensure prompt attention. </font></p>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>WHAT TO 
+        DO IN THE CASE OF A SERIOUS MEDICAL EMERGENCY </b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+        <br>
+        Telephone CEGA Emergency 24 Hour Service on </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="2">CHICHESTER, 
+          UK +44 (0)1243 776255</font></b></font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> immediately 
+        but in any event within 48 hours of any serious accident or illness abroad 
+        requiring in-patient hospitalisation, extended treatment or alteration 
+        to travel arrangements. <br>
+        <br>
+        HAVE THE FOLLOWING INFORMATION AVAILABLE:-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 1. The 
+          number of this Evidence. <br>
+          2. The name and address of the Issuing Agent/Broker.<br>
+          3. The telephone number from which you are calling. <br>
+          4. The name and telephone number of the Doctor and Hospital attending 
+          the ill/injured Insured Person.</font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> FAILURE 
+        TO CONSULT WITH CEGA AND TO ACT IN ACCORDANCE WITH THEIR INSTRUCTIONS 
+        COULD PREJUDICE YOUR CLAIM.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> If you want 
+        to know what to do in the event of Hi-Jack, Kidnap and Detention, or should 
+        you be travelling to a hazardous area and require advice, please call.</font></p>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>DEFINITIONS</b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>"BODILY 
+        INJURY"</b> means identifiable physical injury which:- </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">a) is sustained 
+          by an Insured Person, and <br>
+          <br>
+          b) is caused by an Accident during the Operative Time, and <br>
+          <br>
+          c) solely and independently of any other cause, except illness </font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">directly 
+        resulting from or medical or surgical treatment rendered necessary by 
+        such injury, occasions the death or disablement of an Insured Person within 
+        twelve months from the date of the Accident.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>"ACCIDENT"</b> 
+        means a sudden, unexpected, unusual, specific event which occurs at an 
+        identifiable time and place during the Operative Time, but also includes 
+        exposure resulting from a mishap to a conveyance in which an Insured Person 
+        is travelling.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <b>"LOSS 
+        OF LIMB"</b> means permanent loss by physical separation of a hand at 
+        or above the wrist or of a foot at or above the ankle, and includes permanent 
+        total and irrecoverable loss of use of a hand, arm or leg. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>"PERMANENT 
+        TOTAL DISABLEMENT"</b> means disablement which entirely prevents an Insured 
+        Person from attending to the duties of his usual business or occupation 
+        and which lasts twelve months and at the expiry of that period is beyond 
+        hope of improvement.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <b>"DEPENDANT 
+        CHILDREN"</b> Means all children aged  18 or under who are dependant on you 
+		or your Partner and are travelling with an adult known to you or as an unaccompanied 
+		minor on a scheduled air service. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>"HI-JACK"</b> 
+        means the unlawful seizure or wrongful exercise of control of an aircraft 
+        or conveyance or the crew thereof, in which the Insured Person is travelling 
+        as a passenger. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>"VALUABLES"</b> 
+        means watches, furs, jewellery and photographic, video, audio and computer 
+        equipment.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <b>"SUM 
+        INSURED"</b> shall be the limit of Underwriters liability as shown on 
+        the Validating Schedule. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>"AIRCRAFT 
+        ACCUMULATION LIMIT"</b> means that in the event of an Accident to an aircraft 
+        involving more than one Insured Person, where the claim exceeds the Accumulation 
+        Limit specified in the Validating Schedule, the compensation payable in 
+        respect of each Insured Person under Section 8, Personal Accident, shall 
+        be proportionately reduced until the total does not exceed that limit. 
+        </font></p>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>GENERAL 
+        EXCLUSIONS </b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+        <br>
+        The Underwriters shall not be liable under any Section of this Insurance 
+        in respect of:- </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1. Any trip 
+        which is booked or commenced by an Insured Person:- </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">a) contrary 
+          to medical advice, or<br>
+          <br>
+          b) to obtain medical treatment, or <br>
+          <br>
+          c) after a terminal prognosis has been made. </font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">2. Any part 
+        of any trip which is booked or commenced by an Insured Person in the knowledge 
+        that such trip will be longer than 60 days. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">3. Any claims 
+        from an Insured person who was over 70 years of age at the inception date 
+        of this certificate. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">4. Any trip 
+        undertaken by Dependant Children under the age of 18 unless accompanied 
+        by an adult insured under this Insurance. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">5. Any claims 
+        or expenses arising directly or indirectly from any medical condition 
+        of an Insured Person for which medical advise or treatment has been given 
+        by a Medical Practitioner or Hospital during the 12 months prior to inception 
+        of cover under this Insurance. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">6. Any claims 
+        directly or indirectly caused or contributed to by an Insured Person's 
+        intentional self injury, suicide or attempted suicide, provoked assault, 
+        fighting (except in bona fide self defence) or from an Insured Person's 
+        own criminal act or whilst engaged or taking part in civil commotions 
+        or riots of any kind. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">7. The first 
+        £30.00 each claim, each Insured Person. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">8. Any claims 
+        due to any condition caused by, prolonged by, or aggravated by any psyciatric, 
+        mental or nervous disorder of an Insured Person, including anxiety and/or 
+        depression. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">9. Any loss 
+        or destruction of or damage to any property whatsoever or any loss or 
+        expense whatsoever resulting or arising therefrom or any consequential 
+        loss or any legal liability of whatsoever nature, directly or indirectly 
+        caused by or contributed to by or arising from </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">(i) ionising 
+          radiations or contamination by radioactivity from any nuclear fuel or 
+          from any nuclear waste from the combustion of nuclear fuel<br>
+          <br>
+          (ii) the radioactive, toxic, explosive or other hazardous properties 
+          of any explosive nuclear assembly or nuclear component thereof. </font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">10. In respect 
+        of a single trip policy, winter sporting activities are excluded unless 
+        the appropriate premium has been paid. In respect of an Annual Multi-Trip 
+        policy, winter sporting activities are included, but limited to 17 days 
+        in all during the period of insurance.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">IN ADDITION 
+        TO THESE GENERAL EXCLUSIONS THERE ARE EXCLUSIONS WHICH APPLY TO EACH SECTION. 
+        </font></p>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="2">CONDITIONS 
+        </font> </b> </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1. Any fraud, 
+        misstatement or concealment in the statements made by or on behalf of 
+        an Insured Person prior to or when arranging this Insurance or in the 
+        submission of a claim made hereunder shall render this Insurance null 
+        and void and all claims shall be forfeited. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">2. No endorsement 
+        or amendment to this Evidence shall override the exclusions applicable 
+        to Section 6, Personal Liability. </font></p>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>EXTENSION<br>
+        </b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+        If an Insured Person has not returned to the United Kingdom before the 
+        expiration of a trip for reasons which are beyond his control, this Insurance 
+        will remain in force for a further 21 days or until return, whichever 
+        is the earlier, without additional premium, but in the event of an Insured 
+        Person being Hi-Jacked, cover shall continue whilst such Insured Person 
+        is subject to the control of the person(s) or their associates making 
+        the Hi-Jack and during travel direct to his domicile and/or original destination, 
+        up to twelve months from the date of his Hi-Jack. </font></p>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a name="medical"></a>SECTION 
+        1. MEDICAL AND ADDITIONAL EXPENSES - UP TO £5,000,000 </b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        will pay up to the Sum Insured each Insured Person for the following expenses 
+        should an Insured Person suffer Bodily Injury or illness during the Operative 
+        Time:-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> i. Normal 
+          and necessary expenses incurred outside the United Kingdom for medical 
+          or surgical treatment including specialists' fees, emergency dental 
+          treatment, emergency ophthalmic fees, hospital, nursing home and nursing 
+          attendance charges, physiotherapy, massage and manipulative treatment, 
+          surgical and medical requisites and ambulance charges.<br>
+          <br>
+          ii. Reasonable additional accommodation and repatriation expenses incurred 
+          by the Insured Person and any one member of his family or travel party 
+          or business associate who has to remain or travel with the injured or 
+          ill Insured Person. <br>
+          <br>
+          iii. Reasonable travel and accommodation expenses of one person to travel 
+          from the United Kingdom if his presence with the injured or ill Insured 
+          Person is necessary on medical grounds.<br>
+          <br>
+          iv. Reasonable expenses incurred in transporting the remains or ashes 
+          of the Insured Person to his former place of residence in the United 
+          Kingdom or country of domicile or reasonable funeral expenses incurred 
+          abroad.<br>
+          <br>
+          v. Expenses incurred with the prior consent and authorisation of the 
+          Emergency 24 Hour Service Company appointed by Underwriters, whose full 
+          details are given within the Claims Procedure Section of this Evidence, 
+          for the provision of an air ambulance or the use of air transport, including 
+          qualified attendants, to repatriate the seriously ill or injured Insured 
+          Person to the United Kingdom or country of domicile.</font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <b><font size="2">EXCLUSIONS</font></b><br>
+        <br>
+        The Underwriters shall not be liable to pay for :-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">i. Any 
+          claims due to Winter Sports involving ski and ski-bob racing in international 
+          or national events, services or inter-services championships, or heats 
+          or officially organised practice or training for these events, ski-jumping, 
+          ice hockey or the use of skeletons or bob-sleighs.<br>
+          <br>
+          </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">ii. 
+          Any claims due to the Insured Person participating in motor competitions 
+          or professional sport.<br>
+          <br>
+          iii. Any expenses arising from pregnancy, childbirth or any medical 
+          complications resulting therefrom if delivery is expected during a trip 
+          or within 2 months upon expiration thereof.<br>
+          <br>
+          iv. The costs of continuing regular medication for any condition for 
+          which medical advice or treatment is being followed at the time of booking 
+          or commencing a trip. <br>
+          <br>
+          v. Any expenses incurred more than 24 months after the date the first 
+          expense was incurred, or any continuing expenses incurred after the 
+          Insured Person is fit to travel and has refused the option of repatriation 
+          to the United Kingdom or country of domicile.<br>
+          <br>
+          vi. Any claims consequent upon Venereal Disease or any expenses incurred 
+          either directly or indirectly in the treatment, diagnosis or counselling 
+          of either Acquired Immune Deficiency Syndrome (A.I.D.S.), A.I.D.S. Related 
+          Complex (A.R.C.) or Human Immunodeficiency Virus (H.I.V.) howsoever 
+          these have been acquired or may be named. </font></p>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Note: Claims 
+          for repatriation on the grounds of the fear of contracting A.I.D.S., 
+          A.R.C. or H.I.V. from medical treatment will only be admitted if agreed 
+          by medical advisors at CEGA.</font></p>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">vii Anything 
+          included within the General Exclusions of this Evidence. </font></p>
+        </blockquote>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a name="cancellation"></a>SECTION 
+        2. CANCELLATION AND CURTAILMENT - UP TO £5,000 </b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        will pay up to the Sum Insured each Insured Person for any irrecoverable 
+        payments paid or contracted to be paid for travel, accommodation and unused 
+        pre-booked excursions (including reasonable additional travel and accommodation 
+        expenses incurred for return to the United Kingdom) should the projected 
+        trip be cancelled before commencement or curtailed before completion, 
+        directly as a result of:</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">i. Death, 
+          Bodily Injury, illness or compulsory quarantine of:- </font></p>
+        <blockquote> 
+          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">a) an 
+            Insured Person, or <br>
+            <br>
+            b) any member of the travel party, or <br>
+            <br>
+            c) any person with whom an Insured Person intends to reside or conduct 
+            business with during the trip, or <br>
+            <br>
+            d) any close relative (including fiancé(e)) or business associate 
+            necessitating an Insured Person's presence in the United Kingdom.</font></p>
+        </blockquote>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> ii. Marital 
+          breakdown (provided that formal legal proceedings have been commenced) 
+          of:-</font></p>
+        <blockquote> 
+          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">a) an 
+            Insured Person, or <br>
+            <br>
+            b) any member of the travel party, or <br>
+            <br>
+            c) a close business associate. </font></p>
+        </blockquote>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">iii. Summoning 
+          to jury service or witness attendance in a court of the United Kingdom 
+          or unavoidable requirement to be present in the United Kingdom for service 
+          in any military or civil emergency of:- </font></p>
+        <blockquote> 
+          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">a) an 
+            Insured Person, or<br>
+            <br>
+            b) any member of the travel party.<br>
+            <br>
+            c) a close business associate.</font></p>
+        </blockquote>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> iv. Major 
+          damage or burglary at the home or place of business of:- </font></p>
+        <blockquote> 
+          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">a) an 
+            Insured Person, or <br>
+            <br>
+            b) any member of the travel party, or <br>
+            <br>
+            c) any person with whom an Insured Person intends to reside or conduct 
+            business with, during the trip.</font></p>
+        </blockquote>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> v. Adverse 
+          weather conditions making it impossible for an Insured Person to travel 
+          to the point of departure at commencement of the outward trip.</font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <font size="2"><b>CANCELLATION 
+        AND CURTAILMENT EXCLUSIONS</b></font></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> The Underwriters 
+        shall not be liable to pay for :- </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">i. Any 
+          expenses arising from pregnancy, childbirth or any medical complications 
+          resulting therefrom if delivery is expected during a trip or within 
+          2 months upon expiration thereof.<br>
+          <br>
+          ii. Any claims attributable to any condition or set of circumstances 
+          known to the Insured Person at the time of effecting this Insurance 
+          or booking a trip, where such condition or set of circumstances could 
+          reasonably have been expected to give rise to cancellation or curtailment 
+          of a trip.<br>
+          <br>
+          iii. Any claims where medical or other suitable evidence is not provided 
+          as proof of the necessity to cancel or curtail a trip<br>
+          <br>
+          iv. Any claims consequent upon Venereal Disease or any expenses incurred 
+          either directly or indirectly in the treatment, diagnosis or counselling 
+          of either Acquired Immune Deficiency Syndrome (A.I.D.S.), A.I.D.S. Related 
+          Complex (A.R.C.) or Human Immunodeficiency Virus (H.I.V.) howsoever 
+          these have been acquired or may be named. <br>
+          <br>
+          Note: Claims for repatriation on the grounds of the fear of contracting 
+          A.I.D.S., A.R.C. or H.I.V. from medical treatment will only be admitted 
+          if agreed by medical advisors at CEGA.<br>
+          <br>
+          v. Any claims caused or contributed to by the failure of or the fear 
+          of the failure of or the inability of any equipment or any computer 
+          program to recognise, interpret correctly or process any date as its 
+          true calendar date or to continue to function correctly beyond that 
+          date. <br>
+          <br>
+          vi. Anything included within the General Exclusions of this Evidence.</font></p>
+      </blockquote>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a name="employee"></a>SECTION 
+        3 - EMPLOYEE REPLACEMENT - UP TO £3,000 </b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        will pay up to the Sum Insured each Insured Person for additional expenses 
+        necessarily and reasonably incurred in recruiting and sending another 
+        employee overseas to replace an Insured Person should he have to be replaced 
+        and return home before completion of his work overseas, for any of the 
+        following reasons:-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> i. The 
+          death, accidental Bodily Injury, illness or compulsory quarantine of 
+          an Insured Person, spouse or business associate(s). <br>
+          <br>
+          ii. Hi-jack of an Insured Person. Note: The onus of proof that replacement 
+          was necessary, lies with the Assured/Employer. </font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="2">EXCLUSIONS 
+        </font></b><br>
+        The Underwriters shall not be liable to pay for :- </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">i. Any 
+          claims due to the Insured Person participating in motor competitions 
+          or professional sport.<br>
+          <br>
+          ii. Any claims arising from pregnancy or childbirth or any medical complications 
+          resulting therefrom if delivery is expected during a trip or within 
+          2 months upon expiration thereof. <br>
+          <br>
+          iii. Any claims attributable to any condition or set of circumstances 
+          known to the Insured Person at the time of effecting this Insurance 
+          or booking a trip, where such condition or set of circumstances could 
+          reasonably have been expected to give rise to replacement.<br>
+          <br>
+          iv. Any claims where medical or other suitable evidence is not provided 
+          as proof of the necessity to replace the Insured Person.<br>
+          <br>
+          v. Anything included within the General Exclusions of this Evidence.</font></p>
+      </blockquote>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font size="2"><b><a name="journey"></a>SECTION 
+        4. JOURNEY CONTINUATION - UP TO &pound;500</b></font></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> The Underwriters 
+        will pay up to the Sum Insured each Insured Person for reasonable additional 
+        travel and accommodation expenses incurred in meeting a reserved overseas 
+        travel connection or reaching reserved accommodation, if at commencement 
+        of, or during a trip an Insured Person misses a reserved air, sea, coach 
+        or rail journey through any of the following contingencies directly affecting 
+        the means of transport in which he is travelling or intending to travel:-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> i. If 
+          travel is by non-scheduled transport, interruption caused by strike, 
+          locked out workers, industrial action, riot or civil commotion, bomb 
+          scare, criminal or terrorist action, hi-jack, fire, avalanche, landslide, 
+          earthquake, flood, or accident to or mechanical breakdown of such non-scheduled 
+          transport, an official warning issued by the UK government advising 
+          against travel to or through a country that forms a major part of the 
+          pre booked itinerary, or travel restrictions by the government of the 
+          country in question against free passage of UK passport holders. <br>
+          <br>
+          ii. If travel is by scheduled public transport, the contingencies specified 
+          in i. above, and adverse weather conditions.</font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>EXCLUSIONS</b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+        <br>
+        The Underwriters shall not be liable to pay for :- </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">i. Any 
+          claims arising out of any of the contingencies specified in i. or ii. 
+          above, if they had already started or been forecast before the original 
+          reservations were made. <br>
+          <br>
+          ii. Any claims caused or contributed to by the failure of or the fear 
+          of the failure of or the inability of any equipment or any computer 
+          program to recognise, interpret correctly or process any date as its 
+          true calendar date or to continue to function correctly beyond that 
+          date.<br>
+          <br>
+          iii. Anything included within the General Exclusions of this Evidence. 
+          </font></p>
+      </blockquote>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="2"><a name="delay"></a>SECTION 
+        5. TRAVEL DELAY - UP TO £100 </font></b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        will pay up to the Sum Insured each Insured Person in accordance with 
+        the following scale, should the aircraft, sea vessel, coach or train on 
+        which an Insured Person is booked to travel be delayed as a result of 
+        strike, locked out workers, industrial action, riot or civil commotion, 
+        bomb scare, criminal or terrorist action, hi-jack, fire, avalanche, landslide, 
+        earthquake, flood, adverse weather conditions, or accident to or mechanical 
+        breakdown of such passenger transport:-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> i. £30 
+          for the first completed 4 hour period an Insured Person is delayed for, 
+          and<br>
+          <br>
+          ii. £15 for each subsequent completed 4 hour period that an Insured 
+          Person is delayed for. </font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">OR <br>
+        <br>
+        In the event of delay to the Insured Person due to the contingencies specified 
+        above of at least 24 hours, the Underwriters will pay up to the Sum Insured 
+        by Section 2, Cancellation and Curtailment, each Insured Person for any 
+        irrecoverable payments paid or contracted to be paid in respect of travel 
+        and accommodation in the event of the cancellation of a trip.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <b><font size="2">EXCLUSIONS</font></b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> The Underwriters 
+        shall not be liable to pay for :-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> i. Any 
+          claims attributable to any condition or set of circumstances known to 
+          the Insured Person at the time of effecting this Insurance or booking 
+          a trip, where such condition or set of circumstances could reasonably 
+          have been expected to give rise to a claim under this Section.<br>
+          <br>
+          ii. Any claims arising directly or indirectly out of the failure of 
+          the Insured Person to check in according to the itinerary supplied to 
+          him, and obtain written confirmation from the carriers, or their handling 
+          agents, of the number of hours delay and the reason for such delay.<br>
+          <br>
+          iii. Any claims caused or contributed to by the failure of or the fear 
+          of the failure of or the inability of any equipment or any computer 
+          program to recognise, interpret correctly or process any date as its 
+          true calendar date or to continue to function correctly beyond that 
+          date.<br>
+          <br>
+          iv. Anything included within the General Exclusions of this Evidence 
+          other than exclusion 3.</font></p>
+      </blockquote>
+      <hr>
+      <p><a name="liabs"></a><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="2">SECTION 
+        6. PERSONAL LIABILITY - UP TO £1,000,000 </font></b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        will indemnify up to the Sum Insured each Insured Person, any one event 
+        or series of events and in all (including legal expenses), should an Insured 
+        Person become legally liable to pay claims for accidental bodily injury 
+        to the public or accidental loss of or damage to property, occurring during 
+        the Operative Time.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <b><font size="2">EXCLUSIONS</font></b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> The Underwriters 
+        shall not be liable to pay for :-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> i. Any 
+          claims arising out of Bodily Injury to any member of an Insured Person's 
+          family or household or to any employee. <br>
+          <br>
+          ii. Any claims arising out accidental loss of or damage to, property 
+          belonging to or in the care, custody or control of an Insured Person 
+          or any member of his family or household or of any employee.<br>
+          <br>
+          iii. Any claims arising out of the ownership, possession or use of any 
+          horse drawn or mechanically propelled vehicle (other than golf buggies), 
+          aircraft, waterborne craft (other than sailboards, surfboards, canoes, 
+          rowing dinghies, foot or hand propelled paddle boats, and inflatable 
+          dinghies), firearms or animals. <br>
+          <br>
+          iv. Any claims arising out of the ownership, possession, occupation 
+          or use of lands or buildings. <br>
+          <br>
+          v. Any claims arising out of the profession, occupation or business 
+          of the Insured Person or arising out of liability assumed under a contract, 
+          if such liability would not otherwise have attached. <br>
+          <br>
+          vi. Anything included within the General Exclusions of this Evidence. 
+          </font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>SPECIAL 
+        CONDITIONS APPLYING TO SECTION 6 </b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1. The Insured 
+        Person must not make any admission of liability whatsoever, or make any 
+        arrangements, offer, promise or payment without the written consent of 
+        the Underwriters.<br>
+        <br>
+        2. The Underwriters shall be entitled, if they so desire, to take over 
+        and conduct in the name of the Insured Person, the defence of any claim 
+        or to prosecute in his name for their own benefit any claims for indemnity 
+        or damages or otherwise against any third party, and shall have full discretion 
+        in the conduct of any negotiations or proceedings or the settlement of 
+        any claim. The Insured Person shall, whenever possible, give all such 
+        information and assistance as the Underwriters may require.</font></p>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <b><font size="2"><a name="le"></a>SECTION 
+        7. LEGAL EXPENSES - UP TO £25,000</font></b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        will pay up to the Sum Insured each Insured Person, legal expenses incurred 
+        by or on behalf of an Insured Person in the pursuit of a claim for damages 
+        against a third party who has caused Bodily Injury to or illness or death 
+        of an Insured Person by an Accident during the Operative Time. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>EXCLUSIONS</b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> The Underwriters 
+        shall not be liable to pay for :- </font></p>
+      <blockquote>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">i. Legal 
+          expenses incurred without their written consent (which shall not be 
+          unreasonably withheld).<br>
+          <br>
+          ii. Actions against travel agents, tour operators, Underwriters or their 
+          agents, or an Insured Person's spouse or family. <br>
+          <br>
+          iii. Anything included within the General Exclusions of this Evidence.</font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>SPECIAL 
+        CONDITIONS APPLYING TO SECTION 7 </b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1. Eastgate 
+        Assistance., shall be entitled to nominate and appoint a legal representative 
+        to act on behalf of an Insured Person and to have direct access at all 
+        times to the legal representative. <br>
+        <br>
+        2. The Underwriters reserve the right to withdraw at any stage and thereafter 
+        they shall not be liable for any further expenses. </font></p>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a name="pa"></a>SECTION 
+        8. PERSONAL ACCIDENT - UP TO £50,000 </b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        will pay up to the Sum Insured each Insured Person in accordance with 
+        the following Schedule of Compensation should he suffer Bodily Injury 
+        during the Operative Time:- </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>SCHEDULE 
+        OF COMPENSATION</b> </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1. Death 
+          or <br>
+          2. Permanent Total Loss of Sight of One or Both Eyes or<br>
+          3. Loss of One or More Limbs or<br>
+          4. Permanent Total Disablement (other than loss of sight of one or both 
+          eyes or loss of limb(s)).</font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Provided 
+        Always That:-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 1. Compensation 
+          shall not be payable under more than one of the items of the Schedule 
+          of Compensation in respect of the consequences of one Accident. <br>
+          <br>
+          2. The total sum payable under this Section in respect of any one Insured 
+          Person or any one or more Accidents shall not exceed in all, the largest 
+          Sum Insured payable under any one of the items of the Schedule of Compensation.</font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <b><font size="2">EXCLUSIONS 
+        </font></b><br>
+        <br>
+        The Underwriters shall not be liable to pay for :-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">i. Any 
+          claims due to Winter Sports involving ski and ski-bob racing in international 
+          or national events, services or inter-services championships, or heats 
+          or officially organised practice or training for these events, ski-jumping, 
+          ice hockey or the use of skeletons or bob-sleighs.<br>
+          <br>
+          ii. Any claims due to the Insured Person participating in:- </font></p>
+        <blockquote> 
+          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">a) mountaineering 
+            and/or rock climbing normally involving the use of ropes and/or guides, 
+            or potholing, or <br>
+            <br>
+            b) motor competitions or professional sport. <br>
+            <br>
+            c) aeronautics or aviation, other than as a passenger. </font></p>
+        </blockquote>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">iii. Any 
+          claims whilst the Insured Person is participating in Military, Air Force 
+          or Naval Service or Operations (other than reserve or volunteer training).</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+          <br>
+          iv. Anything included within the General Exclusions of this Evidence. 
+          </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+          </font></p>
+        </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>DISAPPEARANCE 
+        EXTENSION </b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">It is agreed 
+        that, provided Item 1 of the Schedule of Compensation is covered and subject 
+        to all the terms, Definitions, Exclusions and Conditions of this Section, 
+        if an Insured Person disappears during the Operative Time and the body 
+        is not found within 90 days after such disappearance, and sufficient evidence 
+        is produced satisfactory to the Underwriters that leads them inevitably 
+        to the conclusion that he sustained Bodily Injury and that such injury 
+        caused his death, Underwriters shall forthwith pay the death benefit under 
+        this Section provided that the person or persons to whom such sum is paid 
+        shall sign an undertaking to refund such sum to the Underwriters if the 
+        Insured Person is subsequently found to be living. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>SPECIAL 
+        CONDITIONS APPLYING TO INSURED PERSONS UNDER 18 YEARS OF AGE</b></font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 1. The 
+          Sum Insured by Item 1 of the Schedule of Compensation, Death, shall 
+          be limited to £5,000. <br>
+          <br>
+          2. The definition of Permanent Total Disablement shall be amended to 
+          read:-</font></p>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <b>"PERMANENT 
+          TOTAL DISABLEMENT"</b> shall be deemed to have occurred when an Insured 
+          Person has been totally disabled from attending full time education 
+          for a period of 12 consecutive months and at the end of that period 
+          is beyond hope of improvement and without prospect of being able to 
+          undertake any gainful occupation or of being able to support him/herself 
+          financially. </font></p>
+      </blockquote>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a name="hospital"></a>SECTION 
+        9. HOSPITAL BENEFIT - UP TO £1,500 </b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#333399">The 
+        Underwriters will pay &pound;50 for each complete 24 hour period, up to 
+        a maximum of &pound;1,500, that an Insured Person spends as an in-patient 
+        in a hospital outside the United Kingdom.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <b><font size="2">EXCLUSIONS 
+        </font></b> </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        shall not be liable to pay for :-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">i. Any 
+          claims due to Winter Sports involving ski and ski-bob racing in international 
+          or national events, services or inter-services championships, or heats 
+          or officially organised practice or training for these events, ski-jumping, 
+          ice hockey or the use of skeletons or bob-sleighs.<br>
+          <br>
+          ii. Any claims due to the Insured Person participating in motor competitions 
+          or professional sport. <br>
+          <br>
+          iii. Any claims arising from pregnancy, childbirth or any medical complications 
+          resulting therefrom if delivery is expected during a trip or within 
+          2 months upon expiration thereof.<br>
+          <br>
+          iv. Any claims consequent upon Venereal Disease or any expenses incurred 
+          either directly or indirectly in the treatment, diagnosis or counselling 
+          of either Acquired Immune Deficiency Syndrome (A.I.D.S.), A.I.D.S. Related 
+          Complex (A.R.C.) or Human Immunodeficiency Virus (H.I.V.) howsoever 
+          these have been acquired or may be named.<br>
+          <br>
+          v. Anything included within the General Exclusions of this Evidence. 
+          </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+          </font></p>
+      </blockquote>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a name="baggage"></a>SECTION 
+        10. ACCOMPANIED PERSONAL BAGGAGE, CLOTHING OR EFFECTS, BUSINESS EQUIPMENT, 
+        SAMPLES AND MONEY </b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        will pay up to the Sum Insured each Insured Person in the event of loss 
+        of or damage to accompanied personal baggage, clothing or effects, business 
+        equipment, samples and money (including reasonable expenses incurred as 
+        a result of loss of money), during the Operative Time, subject to:-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 1. The 
+          limit for personal baggage, clothing or effects which is stated in the 
+          Schedule of Benefits <br>
+          <br>
+          2. A limit for business equipment and business samples which is stated 
+          in the schedule of Benefits. <br>
+          <br>
+          3. A limit of £300 any one article or pair or set of articles. <br>
+          <br>
+          4. A limit of £500 for business samples.<br>
+          <br>
+          5. A limit of £1,000 for money (cash £500). </font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>BAGGAGE 
+        DELAY EXTENSION</b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> If accompanied 
+        personal baggage, clothing, or effects is temporarily lost for more than 
+        12 hours by the carrier, Underwriters will pay up to the Sum Insured for 
+        the purchase of immediate necessities, but such payment will be deducted 
+        from the final claim if the loss becomes permanent. Receipts for such 
+        purchases must be provided. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>EXCLUSIONS</b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> The Underwriters 
+        shall not be liable to pay for :-</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> i. Any 
+          claims due to moth, vermin, wear and tear and gradual deterioration, 
+          or money shortages due to error, omission or depreciation in value.<br>
+          <br>
+          </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+          ii. Any claims in respect of money not reported to the police or appropriate 
+          authority. <br>
+          <br>
+          iii. Any claims arising from confiscation or detention by customs or 
+          any other authority.<br>
+          <br>
+          iv. Any claims in respect of business equipment or samples otherwise 
+          insured. <br>
+          <br>
+          v. Any claims in respect of valuables or money whilst in the custody 
+          of a carrier.<br>
+          <br>
+          vi. Any claims arising out of electrical and/or mechanical breakdown. 
+          <br>
+          <br>
+          vii. Any claims arising from the fraudulent use of credit cards, charge 
+          cards or banker's cards, if the Insured Person and/or the Assured has 
+          not reported the loss of the card to the issuing bank or company, and 
+          otherwise not complied with the terms and conditions under which the 
+          card was issued. The Underwriters liability shall be limited to any 
+          loss not covered by any guarantee given by the issuing bank or company 
+          to the Insured Person and/or Assured.<br>
+          <br>
+          viii. Any loss of or damage, directly or indirectly resulting from or 
+          attributable to war, invasion, civil war, armed hostilities, rebellion, 
+          revolution, insurrection, or military or usurped power, unless whilst 
+          airborne or waterborne. <br>
+          <br>
+          ix. Any claims caused or contributed to by the failure of or the fear 
+          of the failure of or the inability of any equipment or any computer 
+          program to recognise, interpret correctly or process any date as its 
+          true calendar date or to continue to function correctly beyond that 
+          date.<br>
+          <br>
+          x. Anything included within the General Exclusions of this Evidence. 
+          </font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Note:</b></font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1. Money 
+          shall mean:- </font></p>
+        <blockquote> 
+          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">a) Cash, 
+            bank or currency notes, signed travellers cheques, letters of credit, 
+            postal orders, passports, green cards, petrol coupons or travel tickets, 
+            or <br>
+            <br>
+            b) Credit cards, charge cards, or banker's cards, resulting in the 
+            fraudulent use thereof. </font></p>
+        </blockquote>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">2. In respect 
+          of foreign currency and signed travellers cheques only, cover shall 
+          be effective from the time of collection from a bank or travel agent 
+          or from 3 days prior to commencement of a trip, whichever is the later, 
+          and up to 2 days after completion of a trip, or time of conversion or 
+          encashment, whichever is the earlier.</font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <font size="2"><b>SPECIAL 
+        CONDITIONS APPLYING TO SECTION 10 </b></font></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Insured 
+        Person shall, in the event of any loss or damage, take all reasonable 
+        steps to make a recovery. If the Insured Person purchases a comparable 
+        replacement for a lost or damaged article, the Underwriters shall pay 
+        for the replacement cost, providing that such article was less than 2 
+        years old at the time, and that evidence of the original purchase is provided. 
+        For articles of 2 years old or more, or if the article is not actually 
+        replaced, or evidence of the original purchase cannot be provided, payment 
+        shall be based upon the value of such article at the time of loss, or 
+        the cost of repair. </font></p>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a name="passport"></a>SECTION 
+        11. LOSS OF PASSPORT - UP TO £500 </b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        will pay up to the Sum Insured each Insured Person for reasonable additional 
+        expenses incurred in obtaining a replacement passport, should the original 
+        be lost or stolen during the Operative Time. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>EXCLUSIONS</b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
+        </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        shall not be liable to pay for :- </font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">i. Anything 
+          included within the exclusions shown in Section 10 of this Evidence. 
+          </font></p>
+      </blockquote>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a name="hijack"></a>SECTION 
+        12. HI-JACK, KIDNAP AND DETENTION - UP TO £15,000 </b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        will pay up to the Sum Insured each Insured Person the following expenses 
+        incurred in the event of detainment, internment, hi-jack or kidnap during 
+        the Operative Time.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> i. £100 
+        per completed 24 hour period of detention, up to 50 days. <br>
+        <br>
+        ii. Legal, travel, accommodation and related incidental expenses reasonably 
+        and necessarily incurred to secure the release of an Insured Person. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>EXCLUSIONS 
+        </b> </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        shall not be liable to pay for:</font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> i. Any 
+          claims relating to payment of ransom monies. <br>
+          <br>
+          ii. Any claims arising out of any act(s) by an Insured Person which 
+          would be considered an offence by a court of the United Kingdom if committed 
+          in the United Kingdom. <br>
+          <br>
+          iii. Any claims where the detainment, internment, hi-jack or kidnap 
+          of an Insured Person is for a period of less than 3 days.<br>
+          <br>
+          iv. Anything included within the General Exclusions of this Evidence. 
+          </font></p>
+      </blockquote>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font size="2">SPECIAL 
+        CONDITIONS APPLYING TO SECTION 12. </font></b></font></p>
+      <blockquote> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">1. The 
+          Insured Person has not engaged in any political or other activity which 
+          would prejudice this Insurance. <br>
+          <br>
+          2. The Insured Person has no family or business connections that could 
+          be expected to prejudice this Insurance or increase Underwriters' risk. 
+          <br>
+          <br>
+          3. All visas and documents are in order. </font></p>
+      </blockquote>
+      <hr>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a name="excess"></a>SECTION 
+        13. CAR HIRE EXCESS WAIVER - UP TO £250</b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        will pay up to the Sum Insured each Insured Person for any monetary excess 
+        or deductible that the Insured Person is legally liable to pay in respect 
+        of loss or damage to a rental vehicle hired by the Insured Person during 
+        the Operative Time.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <b><font size="2">EXCLUSIONS</font></b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The Underwriters 
+        shall not be liable to pay for :-</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> i. Any claims 
+        arising out of loss or damage due to the operation of the rental vehicle 
+        in violation of the terms of the rental agreement. <br>
+        <br>
+        ii. Any claims due to wear and tear, gradual deterioration, damage from 
+        insects or vermin, inherent vice, latent defect or damage.<br>
+        <br>
+        iii. Anything included within the General Exclusions of this Evidence. 
+        </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>SPECIAL 
+        CONDITIONS APPLYING TO SECTION 13. </b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The rental 
+        car must be rented from a licensed rental agency. As part of the hiring 
+        agreement, the Insured Person must take up all comprehensive motor insurance 
+        or waivers offered by the rental organisation, whether discretionary or 
+        mandatory, against loss or damage to the rental vehicle during the rental 
+        period. The Insured Person must comply with all the requirements of the 
+        rental organisation under the hiring agreement and of the vehicle insurer. 
+        </font></p>
+      <hr>
+      <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="javascript:history.back()" onMouseOver="MM_displayStatusMsg('Go Back!');
+	return document.MM_returnValue" onMouseOut="MM_displayStatusMsg(' ');
+	return document.MM_returnValue"><img src="../../../Images/back.gif" width="77" height="34" border="0"></a></font></b></p>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+<br><br><br><br><div class=copyright><p align=center>&copy;RapidInsure.co.uk and associates<br>All visitors to our website are covered by our <a href="/information/siteusage.asp">Terms of Service</a></div><br><br><br><br></div>
+</body>
+</html>
+

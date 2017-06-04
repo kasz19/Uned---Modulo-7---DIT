@@ -1,0 +1,1575 @@
+ID=C0020
+URL=http://www.insuranceclub.co.uk/insuranceclub/cover.htm
+SIZE=51078
+DATE=10/07/2002
+TIME=13:15:27
+DATASET=Insurance Agencies
+HTML=<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+
+<HEAD>
+
+<TITLE>Cyber Home Insurance Policy</TITLE>
+
+<META NAME="GENERATOR" CONTENT="Internet Assistant for Word 0.95">
+<META NAME="AUTHOR" CONTENT="Peter Loughlin, modified by Adam D. Moss of Unipalm PIPEX">
+</HEAD>
+
+<BODY>
+
+<img align=right src="home-small.gif" width=221 height=130>
+<center><H1>Cyber Home Insurance Policy</H1>
+<H3><i>Policy Wording</i></H3></center>
+<HR size=5>
+
+<H2>Contents</H2>
+
+<table>
+<tr align=middle>
+<td>
+<A HREF="#Definitions">Definitions</A> 
+</td><td>
+<A HREF="#BuildingsCover">Buildings Cover</A> 
+</td><td>
+<A HREF="#ContentsCover">Contents Cover</A> 
+</td><td>
+<A HREF="#AllRisks">All Risks Cover</A> 
+</td></tr><tr align=middle><td>
+<A HREF="#Specified">Specified items</A> 
+</td><td>
+<A HREF="#unspecified">Unspecified valuables, personal effects and clothing</A>
+</td><td>
+<A HREF="#Sports">Sports equipment</A> 
+</td><td>
+<A HREF="#Computers">Computer equipment, sound equipment and portable television sets</A>
+</td></tr><tr align=middle><td>
+<A HREF="#Cycles">Pedal cycles</A> 
+</td><td>
+<A HREF="#Money">Money, credit cards</A> 
+</td><td>
+<A HREF="#Generalconditions">General Conditions</A> 
+</td><td>
+<A HREF="#Generalexcl">General Exclusions</A> 
+</td></tr><tr align=middle><td>
+<A HREF="#Complaint">What to do if you have a complaint</A>
+</td></tr>
+</table>
+<HR>
+
+<H1><A NAME="Definitions">Definitions </A></H1>
+
+<P>
+<STRONG>We </STRONG>have set out below definitions of certain
+words or phrases that are repeated throughout the Policy. Wherever
+these words or phrases appear they will be in <B>bold type.</B>
+
+<P>
+If any of these words or phrases appear in an <B>endorsement</B>
+to this Policy, they will have the same meaning.
+<H3>Buildings</H3>
+
+<P>
+The<STRONG> home </STRONG>plus landlord's fixtures and fittings,
+tennis courts, swimming pools, central heating oil or gas tanks,
+septic tanks, paved terraces, patios, paths, walls, gates, fences
+and hedges all on the same site.
+<P>
+The <B>home</B>, unless<STRONG> we </STRONG>describe it differently,
+is built of brick, stone or concrete and roofed with slates, tiles,
+concrete, asphalt, metal, sheets or slabs made of mineral ingredients
+which do not burn. Up to 33% of the total roof area may be built
+of flat felt or bitumen roofing.
+<P>
+<B>Buildings</B> does not include:
+<UL>
+<LI>Television and radio aerials, including externally fixed satellite
+receiving dishes and their fittings and masts.
+</UL>
+
+<H3>Claim payment</H3>
+
+<P>
+The amount<STRONG> we </STRONG>agree to pay<STRONG> you </STRONG>for
+any claim<STRONG> you </STRONG>make which is covered under this
+Policy. <B>We</B> may choose to settle the claim by paying cash,
+replacing the item or repairing it to its original state. The
+maximum amount<STRONG> we </STRONG>will pay for any one claim
+is the sum insured for the items shown in the<STRONG> schedule
+</STRONG>(unless<STRONG> we </STRONG>state otherwise).
+<H3>Contents</H3>
+
+<P>
+Household goods, <B>personal possessions and clothing </B>and
+other items in the<STRONG> home </STRONG>which belong to you,
+<STRONG>your family</STRONG>, or people who are your guests at
+the<STRONG> home </STRONG>or for which<STRONG> you </STRONG>are
+responsible, including <STRONG>money</STRONG>.
+<P>
+Contents also includes television and radio aerials, including
+externally fixed satellite receiving dishes and their fittings
+and masts while fixed to the<STRONG> buildings </STRONG>of your
+home.
+<P>
+<B>Contents</B> does not include the following:
+<UL>
+<LI>Motor vehicles (except for domestic gardening equipment),
+motorcycles, caravans, trailers, or any accessories to these items.
+<LI>Pets and livestock.
+<LI>Landlord's fixtures and fittings.
+<LI>Any property which is more specifically insured by this or
+any other policy.
+<LI>Securities, certificates, or documents of any kind except
+those<STRONG> we </STRONG>define as <STRONG>money</STRONG>.
+<LI>Contact or corneal lenses.
+<LI>Any property held or used for any business or professional
+purposes.
+</UL>
+
+<H3>Credit cards</H3>
+
+<P>
+Credit, cheque, bankers and cash debit cards which belong to<STRONG>
+you </STRONG>or <STRONG>your family</STRONG><B>.</B> 
+<H3>Endorsement</H3>
+
+<P>
+A variation in the terms (or a change in details) of your Policy.
+<H3>Home</H3>
+
+<P>
+The private house, self-contained flat or bungalow at the address
+and including any garage or outbuilding used for domestic purposes
+(as shown in the <B>schedule</B>).
+<H3>Indemnity value</H3>
+
+<P>
+The costs of replacing items insured less a deduction for wear
+and tear or loss of value.
+<H3>Index-linked</H3>
+
+<P>
+The sum insured will be <B>index-linked.</B> This means that the
+amounts are linked to the following indices and each month<STRONG>
+we </STRONG>will adjust the sum insured (as shown in your <B>schedule</B>)
+according to those indices.
+<P>
+For<STRONG> buildings </STRONG>the index<STRONG> we </STRONG>use
+is the House Rebuilding Cost Index produced by the Royal Institution
+of Chartered Surveyors or another appropriate index.
+<P>
+For<STRONG> contents </STRONG>and all risks the index<STRONG>
+we </STRONG>use is the Government's General Index of Retail Prices
+or another appropriate index.
+<P>
+<STRONG>We </STRONG>will not make a charge for index-linking during
+the <B>period of insurance</B> but each time your insurance is
+renewed<STRONG> we </STRONG>will recalculate your premium on the
+adjusted sum insured.
+<H3>Money</H3>
+
+<P>
+Personal<STRONG> money </STRONG>kept in the<STRONG> home </STRONG>by<STRONG>
+you </STRONG>or<STRONG> your family </STRONG>for private purposes.
+Money includes the following:
+<UL>
+<LI>Current coin or bank notes (which do not form part of a collection),
+cheques and travellers cheques.
+<LI>Postal or<STRONG> money </STRONG>orders and current postage
+stamps.
+<LI>National Savings Stamps and Certificates and Premium Bonds.
+<LI>Trading stamps including television licence stamps and those
+bought for gas, electricity or other bills and luncheon vouchers.
+<LI>Gift vouchers or tokens.
+</UL>
+
+<H3>Period of insurance</H3>
+
+<P>
+This is the length of time the Policy lasts as shown in the <B>schedule</B>.
+It also includes any extra period for which<STRONG> we </STRONG>accept
+your premium.
+<H3>Personal effects and clothing</H3>
+
+<P>
+Articles of personal use worn or carried by<STRONG> you </STRONG>or
+<STRONG>your family</STRONG><B>.</B> 
+<H3>Replacement value</H3>
+
+<UL>
+<LI>For<STRONG> buildings </STRONG>- the cost of rebuilding the<STRONG>
+home </STRONG>and<STRONG> buildings </STRONG>including an allowance
+for architects' and surveyors' fees, site clearance costs, propping
+up or supporting parts of your<STRONG> buildings </STRONG>and
+meeting any Local Authority requirements.
+<LI>For<STRONG> contents </STRONG>- the cost of replacing the
+insured contents of the<STRONG> home </STRONG>with new items of
+the same kind.
+<LI>For All Risks sub-sections 1-4 the cost of replacing the items
+insured with new items of the same kind.
+</UL>
+
+<H3>Schedule</H3>
+
+<P>
+The<STRONG> schedule </STRONG>shows details of the <B>Policyholder</B>,
+the property insured, the <B>period of insurance</B> and the Covers
+which apply. The<STRONG> schedule </STRONG>is part of the Policy
+and can be found inside the front cover. We will issue a new<STRONG>
+schedule </STRONG>when the Policy is altered.
+<P>
+Personal effects and clothing does not include valuables or <STRONG>money</STRONG>.
+<H3>Unoccupied</H3>
+
+<UL>
+<LI>Where the<STRONG> home </STRONG>is not furnished for permanent
+occupation; or
+<LI>where the<STRONG> home </STRONG>is furnished but has not been
+lived in for more than 30 consecutive days.
+</UL>
+
+<H3>Valuables</H3>
+
+<P>
+Articles of gold, silver, or jewellery, precious metals, furs,
+curios, pictures or other works of art, clocks, watches, photographic
+equipment, and stamp or coin collections which belong to<STRONG>
+you </STRONG>or <STRONG>your family</STRONG><B>.</B> 
+<P>
+<I>Valuables does not include items more specifically insured
+by this or any other policy.</I> 
+<H3>We, us</H3>
+
+<P>
+The Independent Insurance Company Limited.
+<H3>You,<STRONG> Policyholder</STRONG></H3>
+
+<P>
+The person or people named in the<STRONG> schedule.</STRONG> 
+<H3>Your family</H3>
+
+<P>
+Your spouse, children, parents and other relatives who permanently
+live with <B>you</B>.<HR>
+
+<H1><A NAME="BuildingsCover">Buildings Cover</A></H1>
+
+<P>
+Your Policy<STRONG> schedule </STRONG>shows if this section applies.
+<H3>Basic cover</H3>
+
+<H3>What is covered</H3>
+
+<P>
+<STRONG>We </STRONG>will pay for loss of or damage to your<STRONG>
+buildings </STRONG>during the<STRONG> period of insurance</STRONG>
+caused by the following:
+<OL>
+<LI>Fire and smoke.
+<LI>Explosion.
+<LI>Lightning and thunderbolt.
+<LI>Earthquake.
+<LI>Riot, civil commotion, strikes and labour disturbances.
+<LI>Aircraft and other aerial devices or anything dropped or falling
+from them.
+<LI>Storm or flood.
+<LI>Theft or attempted theft.
+<LI>Escape of water or oil from any fixed domestic water or heating
+installation.
+<LI>Collision by any vehicle or animal.
+<LI>Breakage or collapse of television or radio aerials, externally
+fixed satellite receiving dishes, their fittings or masts.
+<LI>Malicious acts or vandalism.
+<LI>Water freezing in any fixed domestic water or heating installation.
+<LI>Falling trees, telegraph poles or lamp posts or any parts
+of them.
+<LI>Subsidence, heave or landslip of the site on which your buildings
+stand.
+</OL>
+
+<H3>What is not covered</H3>
+
+<P>
+<I>The first &#163;50 of any claim under basic cover 1 to 14 unless
+shown differently in the</I><STRONG><I> schedule.</I></STRONG><I>
+</I>
+<P>
+<I>See 1 above</I> 
+<UL>
+<LI>Loss or damage from any gradually-operating cause.
+</UL>
+
+<P>
+<I>See 7 above</I> 
+<UL>
+<LI>Loss or damage by frost.
+<LI>Loss or damage to fences, gates and hedges unless your<STRONG>
+home </STRONG>is damaged at the same time.
+</UL>
+
+<P>
+See 8. above
+<UL>
+<LI>Loss or damage while your<STRONG> home </STRONG>is <STRONG>unoccupied</STRONG>.
+</UL>
+
+<P>
+See 9 above
+<UL>
+<LI>Loss or damage to the installation itself.
+<LI>Loss or damage if your<STRONG> home </STRONG>is left <STRONG>unoccupied</STRONG>.
+</UL>
+
+<P>
+See 10 above
+<UL>
+<LI>Loss or damage caused by any insect, vermin, bird or domestic
+pet.
+</UL>
+
+<P>
+See 11 above
+<UL>
+<LI>Loss or damage to the dish or aerial itself.
+</UL>
+
+<P>
+See 12 above
+<UL>
+<LI>Loss or damage by any person lawfully in your home.
+<LI>Loss or damage while your<STRONG> home </STRONG>is <STRONG>unoccupied</STRONG>.
+</UL>
+
+<P>
+See 13 above
+<UL>
+<LI>Loss or damage caused by corrosion or wear and tear.
+<LI>Loss or damage if your<STRONG> home </STRONG>is left <STRONG>unoccupied</STRONG>.
+</UL>
+
+<P>
+See 14 above
+<UL>
+<LI>The cost of removing and disposing of them.
+<LI>Loss or damage to fences, gates and hedges.
+</UL>
+
+<P>
+See 15 above
+<UL>
+<LI>Loss or damage caused by:
+</UL>
+
+<P>
+- river or coastal erosion;
+<P>
+- new structures bedding down;
+<P>
+- newly made-up ground settling;
+<P>
+- normal settlement, shrinkage or expansion;
+<P>
+- demolition, structural alteration or repair;
+<P>
+- defective design; or
+<P>
+- inadequate foundations which do not meet building regulations
+current at the time of construction.
+<UL>
+<LI>Loss or damage to solid floor slabs or damage resulting from
+their movement unless the foundations beneath the external walls
+of the<STRONG> home </STRONG>are destroyed or damaged at the same
+time and from the same cause.
+<LI>Loss or damage to swimming pools, tennis courts, central heating
+oil or gas tanks, paved terraces, patios, paths, drives, boundary
+and garden walls, fences and gates and septic tanks, unless the<STRONG>
+home </STRONG>is damaged at the same time and from the same cause.
+<LI>Loss or damage to the<STRONG> buildings </STRONG>if they are
+covered by a NHBC Certificate of Insurance.
+<LI>The first amount of each claim as shown in the<STRONG> schedule.</STRONG>
+
+</UL>
+<HR>
+
+<P>
+Your Policy<STRONG> schedule </STRONG>shows &quot;Replacement
+plus accidental damage&quot; if this Cover applies.
+<H3>Accidental damage to buildings</H3>
+
+<H3>What is covered</H3>
+
+<P>
+<STRONG>We </STRONG>will pay for accidental damage to your buildings.
+<H3>What is not covered</H3>
+
+<UL>
+<LI>Any loss or damage caused by:
+</UL>
+
+<P>
+- any other event in the Basic cover;
+<P>
+- any kind of rot, woodworm, moth, insect or vermin, domestic
+pet, frost or weather condition or any other gradually-operating
+cause;
+<P>
+- deliberate acts by<STRONG> you </STRONG>or <STRONG>your family</STRONG>;
+<P>
+- mechanical or electrical faults, breakdown or failure;
+<P>
+- faulty workmanship, defective design or use of defective materials;
+or
+<P>
+- wear and tear, settlement or shrinkage.
+<UL>
+<LI>Loss or damage while your<STRONG> home </STRONG>or any part
+is lent or let.
+<LI>The costs of routine maintenance or normal costs of decoration.
+<LI>The first &#163;50 of any claim under this extension.
+</UL>
+
+<H3>Protection from inflation</H3>
+
+<P>
+This section is <B>index-linked.</B> 
+<P>
+After a claim for loss or damage which is covered under this section,
+the sum insured will continue to be<STRONG> index-linked</STRONG>
+while the<STRONG> buildings </STRONG>are being repaired or reinstated
+as long as<STRONG> you </STRONG>take all reasonable steps to make
+sure the work is completed without delay.<HR>
+
+<P>
+In addition to the Basic cover,<STRONG> we </STRONG>will cover
+the following:
+<H3>What is covered</H3>
+
+<P>
+<B>1. Additional expenses</B> 
+<UL>
+<LI>After a claim which is insured under the Basic cover,<STRONG>
+we </STRONG>will pay the following expenses or losses which<STRONG>
+you </STRONG>have incurred with our permission: Architects', surveyors',
+legal and other fees to rebuild or repair your buildings.
+<LI>The cost of clearing the site, demolishing, propping up or
+supporting parts of your<STRONG> buildings </STRONG>which have
+been damaged.
+<LI>The additional costs of rebuilding or repairing the damaged
+parts of your<STRONG> buildings </STRONG>to meet any Government
+or Local Authority requirements.
+</UL>
+
+<P>
+<B>2. Rent and alternative accommodation</B> 
+<P>
+If<STRONG> you </STRONG>have to move out of your<STRONG> home
+</STRONG>because of any loss or damage which is insured under
+the Basic cover,<STRONG> we </STRONG>will pay<STRONG> you </STRONG>the
+following expenses or losses which<STRONG> you </STRONG>have incurred
+with our permission:
+<UL>
+<LI>The cost of reasonable alternative accommodation while<STRONG>
+you </STRONG>cannot live in your home.
+<LI>Rent<STRONG> you </STRONG>would have received if your<STRONG>
+home </STRONG>could have been lived in.
+<LI>The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>for
+any one claim is 15% of the total sum insured on your buildings.
+</UL>
+
+<P>
+<B>3. Accidental damage and breakage</B> 
+<P>
+<STRONG>We </STRONG>will pay replacement or repair expenses<STRONG>
+you </STRONG>have incurred due to the following events:
+<UL>
+<LI>Accidental damage to underground service pipes and cables
+for which<STRONG> you </STRONG>are responsible.
+<LI>Accidental breakage of fixed glass in windows, doors, fanlights
+and skylights of your<STRONG> home </STRONG>or ceramic hobs in
+fixed appliances.
+<LI>Accidental breakage of sanitary fixtures in your home.
+</UL>
+
+<P>
+<B>4. Conveyancing cover</B> 
+<P>
+When<STRONG> you </STRONG>have exchanged contracts to sell your
+home,<STRONG> we </STRONG>will give the buyer the benefit of this
+insurance until the sale is completed.
+<P>
+<B>5. Property owner's liability</B> 
+<P>
+<STRONG>We </STRONG>will pay all amounts which<STRONG> you </STRONG>(or
+after your death your legal representatives) become legally liable
+to pay due to:
+<UL>
+<LI>accidental death of or bodily injury to any person other than
+a member of<STRONG> your family </STRONG>or a domestic employee;
+or
+<LI>accidental damage to property which does not belong to or
+is not in the charge or control of<STRONG> you </STRONG>or<STRONG>
+your family </STRONG>or domestic employees
+</UL>
+
+<P>
+which arise from:
+<UL>
+<LI><STRONG>you </STRONG>owning the<STRONG> home </STRONG>and
+its land; or
+<LI><STRONG>you </STRONG>previously owning and occupying any<STRONG>
+home </STRONG>under section 3 of the Defective Premises Act 1972.
+</UL>
+
+<P>
+<STRONG>We </STRONG>will not pay more than &#163;2,500,000 for
+any one event. In addition,<STRONG> we </STRONG>will also pay
+any costs and expenses<STRONG> you </STRONG>have incurred with
+our written permission.
+<H3>What is not covered</H3>
+
+<P>
+Any costs of preparing a claim under this Policy.
+<P>
+See 3 above
+<UL>
+<LI>Loss or damage while your<STRONG> home </STRONG>is <STRONG>unoccupied</STRONG>.
+</UL>
+
+<P>
+See 4 above
+<UL>
+<LI>Any claim for loss or damage to the<STRONG> buildings </STRONG>if
+the buyer is insured under any other policy.
+</UL>
+
+<P>
+See 5 above
+<P>
+You are not covered for liability arising from:
+<UL>
+<LI>any trade or business activity;
+<LI>the use of lifts or mechanically or electrically propelled
+vehicles (other than domestic garden equipment);
+<LI>a contract unless<STRONG> you </STRONG>would have been legally
+liable anyway;
+<LI>an incident which occurs over 7 years from the date the Policy
+was cancelled after your<STRONG> home </STRONG>was sold; or where<STRONG>
+you </STRONG>are entitled to indemnity from another source.
+<LI>any condition which is directly or indirectly related to HIV
+(Human Immunodeficiency Virus) and/or any HIV related illness
+including Acquired Immune Deficiency Syndrome (AIDS) and/or mutant
+derivatives or variations however caused.
+</UL>
+
+<H1>Basis of settling claims</H1>
+
+<P>
+<STRONG>We </STRONG>will settle your claim by paying the cost
+of rebuilding or repairing the part of your<STRONG> buildings
+</STRONG>destroyed or damaged where:
+<P>
+1. You have stated that the sum insured (as shown on your <B>schedule</B>)
+represents the full replacement value of your<STRONG> buildings
+</STRONG>including the additional expenses listed under &quot;additional
+cover 1&quot;.
+<P>
+If the <B>replacement value</B> of your<STRONG> buildings </STRONG>is
+greater than the sum insured shown on your schedule,<STRONG> you
+</STRONG>will have to pay a proportionate share of the claim.
+For example, if your sum insured only covers two thirds of the
+replacement value of your <B>buildings,</B><STRONG> we </STRONG>will
+only pay two thirds of the claim .
+<P>
+2. Your<STRONG> buildings </STRONG>are kept in good repair.
+<P>
+If your<STRONG> buildings </STRONG>are in a poor state of repair
+or decoration<STRONG> we </STRONG>will make a deduction for wear
+and tear.
+<P>
+After<STRONG> we </STRONG>have settled a claim<STRONG> we </STRONG>will
+not reduce your sum insured on your<STRONG> buildings </STRONG>as
+long as<STRONG> you </STRONG>take any reasonable measures<STRONG>
+we </STRONG>suggest to prevent any further loss or damage.<HR>
+
+<H1><A NAME="ContentsCover">Contents Cover </A></H1>
+
+<P>
+Your Policy<STRONG> schedule </STRONG>shows if this section applies.
+<H3>Basic cover</H3>
+
+<H3>What is covered</H3>
+
+<P>
+<STRONG>We </STRONG>will pay for loss of or damage to your<STRONG>
+contents </STRONG>whilst in the<STRONG> home </STRONG>during the<STRONG>
+period of insurance</STRONG> caused by the following:
+<OL>
+<LI>Fire and smoke.
+<LI>Explosion.
+<LI>Lightning and thunderbolt.
+<LI>Earthquake.
+<LI>Riot, civil commotion, strike and labour disturbances.
+<LI>Aircraft and other aerial devices or anything dropped or falling
+from them.
+<LI>Storm or flood.
+<LI>Theft or attempted theft.
+<LI>Escape of water from any fixed domestic water or heating installation.
+<LI>Collision by any vehicle or animal.
+<LI>Malicious acts or vandalism.
+<LI>Oil leaking from any fixed domestic oil-fired heating installation.
+<LI>Subsidence, heave or landslip of the site on which your home
+stands.
+<LI>Falling trees, telegraph poles, lamp posts, breakage or collapse
+of television or radio aerials, externally fixed satellite receiving
+dishes, their fittings or masts.
+</OL>
+
+<H3>Protection From Inflation</H3>
+
+<P>
+This section is<STRONG> index-linked</STRONG>.
+<H3>What is not covered</H3>
+
+<H3>Excess</H3>
+
+<P>
+The first &#163;50 of any claim under basic cover 1 to 14 unless
+shown differently in the<STRONG> schedule.</STRONG> 
+<P>
+See 1 above
+<UL>
+<LI>Loss or damage from any gradually-operating cause.
+</UL>
+
+<P>
+See 7 above
+<UL>
+<LI>Loss or damage by frost.
+</UL>
+
+<P>
+See 8 above
+<UL>
+<LI>Loss or damage while your<STRONG> home </STRONG>is <STRONG>unoccupied</STRONG>.
+<LI>Loss or damage while the<STRONG> home </STRONG>or any part
+is lent or let unless a person has used violent force to enter
+or leave the home.
+</UL>
+
+<P>
+See 9 above
+<UL>
+<LI>Loss or damage to the installation itself.
+<LI>Loss or damage while the<STRONG> home </STRONG>is <STRONG>unoccupied</STRONG>.
+</UL>
+
+<P>
+See 10 above
+<UL>
+<LI>Loss or damage caused by any insect, vermin, bird or domestic
+pet.
+</UL>
+
+<P>
+See 11 above
+<UL>
+<LI>Loss or damage by any person lawfully in your home.
+<LI>Loss or damage while your<STRONG> home </STRONG>is <STRONG>unoccupied</STRONG>.
+</UL>
+
+<P>
+See 13 above
+<UL>
+<LI>Loss or damage due to coastal or river erosion.
+</UL>
+<HR>
+
+<P>
+Your Policy<STRONG> schedule </STRONG>shows &quot;Replacement
+plus accidental damage&quot; if this Cover applies.
+<H3>What is covered</H3>
+
+<P>
+<STRONG>We </STRONG>will pay for accidental damage to contents.
+<H3>What is not covered</H3>
+
+<H3>Excess</H3>
+
+<UL>
+<LI>The first &#163;50 of any claim under this extension
+<LI>Loss or damage caused by:
+</UL>
+
+<P>
+- any other Basic cover;
+<P>
+- any kind of cleaning, dyeing, or repairing or restoring due
+to wear and tear or depreciation
+<P>
+- any kind of rot, woodworm, moths, insects or vermin, frost,
+atmospheric or climatic condition or any other gradual cause;
+<P>
+- deliberate acts by<STRONG> you </STRONG>or <STRONG>your family</STRONG>;
+<P>
+- mechanical or electrical faults or breakdown;
+<P>
+- faulty workmanship, defective design or defective materials;
+<P>
+- any household removal unless by professional removal contractors
+but excluding denting, chipping and scratching.
+<UL>
+<LI>Loss or damage while the<STRONG> home </STRONG>or any part
+is lent or let.
+</UL>
+
+<H3>Protection from Inflation</H3>
+
+<P>
+This section is<STRONG> index-linked</STRONG><HR>
+
+<H3>What is covered</H3>
+
+<P>
+<B>1. Contents temporarily removed from the home</B> 
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>for loss or
+damage to your<STRONG> contents </STRONG>which are temporarily
+removed from the<STRONG> home </STRONG>but only if the items are
+within Great Britain, the Isle of Man or the Channel Islands and
+the loss or damage is caused by an event under the Basic cover.
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>is
+15% of the total sum insured on contents.
+<P>
+<B>2. Accidental breakage of ceramic hobs, mirrors and glass</B>
+
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>for accidental
+breakage of glass fixed in furniture (other than television sets),
+including plate glass, mirrors and ceramic tops or hobs in free
+standing cookers.
+<P>
+3. Accidental damage to computer equipment and<STRONG> home </STRONG>electronics
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>for accidental
+damage to television sets, including aerials and masts and externally
+fixed satellite receiving dishes, radios, record players, tape
+and video recorders and computer equipment in the<STRONG> home
+</STRONG>which<STRONG> you </STRONG>own or are responsible for
+and which are only for private purposes.
+<P>
+The most<STRONG> we </STRONG>will pay for any one item of equipment
+, except computer equipment is &#163;1,000.
+<P>
+The most<STRONG> we </STRONG>will pay in any one<STRONG> period
+of insurance</STRONG> for computer equipment is &#163;5,000.
+<P>
+<B>4. Freezer contents</B> 
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>the cost of
+replacing food in your domestic deep freezer if it is spoiled
+by any of the following:
+<UL>
+<LI>The freezer unit accidentally breaking down.
+<LI>The refrigerant or refrigerant fumes escaping from the unit.
+<LI>The electricity or gas supply accidentally failing.
+</UL>
+
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>for
+any one claim is &#163;350.
+<P>
+<B>5. Compensation for death</B> 
+<P>
+<STRONG>We </STRONG>will pay &#163;5,000 if<STRONG> you </STRONG>or
+your spouse dies from an injury within 3 months of it happening
+if that injury was caused by fire or an assault by thieves in
+your home.
+<P>
+The most<STRONG> we </STRONG>will pay under this fatal accident
+extension during any one<STRONG> period of insurance</STRONG>
+is &#163;5,000.
+<P>
+<B>6. Loss of rent or the cost of alternative accommodation</B>
+
+<P>
+While your<STRONG> home </STRONG>cannot be lived in due to an
+event covered under the Basic cover<STRONG> we </STRONG>will pay<STRONG>
+you </STRONG>the following:
+<UL>
+<LI>The cost of reasonable alternative accommodation for you,<STRONG>
+your family </STRONG>and your domestic pets, if this is necessary
+(as long as<STRONG> you </STRONG>have our permission).
+<LI>Rent which<STRONG> you </STRONG>still have to pay.
+</UL>
+
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>for
+any one claim is 15% of the total sum insured on your contents.
+<P>
+<B>7. Metered water and oil used for heating</B> 
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>for loss of
+metered water or oil if the loss is caused by accidental damage
+to your fixed domestic water or heating installation.
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>in
+any one<STRONG> period of insurance</STRONG> is &#163;1,000.
+<P>
+<B>8. Wedding gifts</B> 
+<P>
+If any of your children who permanently live with<STRONG> you
+</STRONG>get married,<STRONG> we </STRONG>will cover their wedding
+gifts against any of the Basic covers for 1 month before and after
+the wedding date but only while they are:
+<UL>
+<LI>in your <B>home</B>;
+<LI>in the building where the reception is being held;
+<LI>in the married couple's <B>home</B>; or
+<LI>being transported between the places specified above.
+</UL>
+
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>for
+any one claim is &#163;1,000.
+<P>
+<B>9. Liability as a tenant</B> 
+<P>
+<STRONG>We </STRONG>will pay all amounts that<STRONG> you </STRONG>become
+legally liable to pay because of your tenancy of the<STRONG> home
+</STRONG>if damage to the<STRONG> buildings </STRONG>is caused
+by:
+<UL>
+<LI>accidental damage as described in additional covers 3 on page
+10 under Buildings Cover; or
+<LI>Basic cover as described on page 7 and 8 under Buildings Cover.
+</UL>
+
+<P>
+The most<STRONG> we </STRONG>will pay is 15% of the total sum
+insured on<STRONG> contents </STRONG>in any one<STRONG> period
+of insurance</STRONG>.
+<P>
+<B>10. Accidents to domestic employees</B> 
+<P>
+<STRONG>We </STRONG>will pay all amounts that<STRONG> you </STRONG>become
+legally liable to pay due to a domestic employee's accidental
+death or bodily injury. In addition<STRONG> we </STRONG>will also
+pay any costs and expenses<STRONG> you </STRONG>have incurred
+with our written permission.
+<P>
+<B>11. Liability to the public and personal liability</B> 
+<P>
+<STRONG>We </STRONG>will pay all amounts which<STRONG> you </STRONG>(or,
+after your death, your legal representatives) and<STRONG> your
+family </STRONG>become legally liable to pay due to:
+<UL>
+<LI>accidental death of or bodily injury to any person other than
+a member of<STRONG> your family </STRONG>or a domestic employee;
+or
+<LI>accidental damage to property which does not belong to<STRONG>
+you </STRONG>or is not in the charge or control of<STRONG> you
+</STRONG>or<STRONG> your family </STRONG>or domestic employees
+other than any building temporarily occupied for private purposes.
+The damage must occur within Great Britain, the Isle of Man or
+the Channel Islands or during a temporary visit elsewhere in the
+world.
+</UL>
+
+<P>
+<STRONG>We </STRONG>will not pay more than &#163;2,500,000 for
+any one event. In addition,<STRONG> we </STRONG>will also pay
+any costs and expenses<STRONG> you </STRONG>have incurred with
+our written permission.
+<P>
+<B>12. Unrecovered damages</B> 
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>all sums which<STRONG>
+you </STRONG>have been awarded in Courts of United Kingdom jurisdiction
+and which have not been paid to<STRONG> you </STRONG>within 3
+months of the date of the award, if:
+<P>
+- additional cover 11 on this page would have insured<STRONG>
+you </STRONG>if the award had been made against<STRONG> you </STRONG>rather
+than in your favour; and
+<P>
+-<STRONG> you </STRONG>do not have an appeal pending.
+<P>
+<STRONG>We </STRONG>will not pay more than the limit of indemnity
+under additional cover 11 on this page.
+<P>
+What is not covered
+<P>
+What is covered
+<P>
+<B>13. Loss of keys</B> 
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>for replacing
+locks, including keys to:
+<UL>
+<LI>any external doors and windows; and
+<LI>intruder alarms and safes installed in your home
+</UL>
+
+<P>
+if the keys are:
+<UL>
+<LI>stolen; or
+<LI>accidentally lost.
+</UL>
+
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>for
+any one claim is &#163;250.
+<P>
+<B>14. Loss of title deeds</B> 
+<P>
+<STRONG>We </STRONG>will pay up to &#163;250 if<STRONG> you </STRONG>need
+to replace the title deeds to your<STRONG> home </STRONG>as a
+result of any loss or damage which is insured under Basic covers
+1 to 14 of this section. You are covered while the title deeds
+are within your<STRONG> home </STRONG>or in your bank.
+<H3>What is not covered</H3>
+
+<P>
+See 1 above
+<P>
+Loss or damage:
+<UL>
+<LI>to<STRONG> money </STRONG>and valuables;
+<LI>caused by storm or flood if the property is in the open;
+<LI>caused by theft unless:
+</UL>
+
+<P>
+- from a building where<STRONG> you </STRONG>or<STRONG> your family
+</STRONG>are living or working (not students' halls of residence);
+<P>
+- from any other building where violent force is used to enter
+or leave the building;
+<P>
+- by robbery while the property is in the charge of<STRONG> you
+</STRONG>or<STRONG> your family </STRONG>or an authorised person;
+or
+<P>
+- from the gardens of your home. We will not pay the first &#163;25
+of any claim and the most<STRONG> we </STRONG>will pay for any
+claim is &#163;250.
+<UL>
+<LI>when the property is being transported or in a furniture store
+house.
+</UL>
+
+<P>
+See 2 above
+<UL>
+<LI>Loss or damage while your<STRONG> home </STRONG>is <STRONG>unoccupied</STRONG>.
+</UL>
+
+<P>
+See 3 above
+<UL>
+<LI>Accidental loss or damage caused by:
+</UL>
+
+<P>
+- mechanical or electrical fault, breakdown or failure; or
+<P>
+- setting up, maintaining, repairing, or dismantling equipment
+or faulty design or construction.
+<UL>
+<LI>Loss or damage to audio or video tapes, records, compact or
+computer discs, cartridges or cassettes.
+<LI>Accidental loss or damage to any component if the loss or
+damage occurs when it is not installed in the equipment covered.
+<LI>Loss or damage to video cameras.
+</UL>
+
+<P>
+See 4 above
+<P>
+Loss or damage:
+<UL>
+<LI>If caused by the deliberate act of the supply authority.
+<LI>If caused by the deliberate act of a member of <STRONG>your
+family</STRONG>.
+<LI>If your freezer unit is over 15 years old at the date of loss.
+</UL>
+
+<P>
+See 7 above
+<P>
+Loss or damage while your<STRONG> home </STRONG>is <STRONG>unoccupied</STRONG>.
+<P>
+See 8 above
+<P>
+Loss or damage whilst your<STRONG> home </STRONG>or the married
+couple's<STRONG> home </STRONG>is <STRONG>unoccupied</STRONG>.
+<P>
+See 9 above
+<P>
+Loss or damage:
+<UL>
+<LI>While the<STRONG> home </STRONG>is <STRONG>unoccupied</STRONG>.
+<LI>To any property which<STRONG> you </STRONG>own.
+</UL>
+
+<P>
+See 10 above
+<P>
+Liability arising from the following:
+<UL>
+<LI>You owning the<STRONG> home </STRONG>and its land or any other
+building or land.
+<LI>Any profession, business or employment involving<STRONG> you
+</STRONG>or any member of <STRONG>your family</STRONG>.
+<LI>You occupying any land or building other than your<STRONG>
+home </STRONG>or allotment.
+<LI>You owning or possessing a prescribed animal under the Dangerous
+Dogs Act 1991 (and any amending Legislation).
+<LI>A contract, unless<STRONG> you </STRONG>would have been legally
+liable anyway.
+<LI>You owning or using any:
+</UL>
+
+<P>
+- lift, caravan, aircraft (including model aircraft) or watercraft;
+<P>
+- mechanically or electrically propelled vehicles (other than
+domestic garden equipment); or
+<P>
+- animals other than horses, domestic dogs or cats.
+<UL>
+<LI>Any condition which is directly or indirectly related to HIV
+(Human Immunodeficiency Virus) and/or any HIV related illness
+including Acquired Immune Deficiency Syndrome (AIDS) and/or mutant
+derivatives or variations however caused.
+</UL>
+
+<H3>Protection from Inflation</H3>
+
+<P>
+This section is<STRONG> index-linked</STRONG><HR>
+
+<H1>Basis of settling claims</H1>
+
+<P>
+<STRONG>We </STRONG>will settle your claims based on either indemnity
+value or replacement value as shown in your<STRONG> schedule.</STRONG>
+
+<P>
+1 Where<STRONG> you </STRONG>have chosen indemnity value, the
+following conditions apply:
+<UL>
+<LI>You have stated that the sum insured (as shown on your schedule)represents
+the replacement value of the<STRONG> contents </STRONG>including
+a deduction for wear and tear and loss of value.
+<LI>If the indemnity value of the<STRONG> contents </STRONG>is
+greater than the sum insured shown on your schedule,<STRONG> you
+</STRONG>will have to pay a proportionate share of the claim.
+For example, if your sum insured only covers two thirds of the
+indemnity value of your contents,<STRONG> we </STRONG>will only
+pay two thirds of the claim.
+<LI>If the sum insured is adequate,<STRONG> we </STRONG>will settle
+the claim by either replacing the item or paying<STRONG> you </STRONG>the
+cost of repairing or replacing your property in the same form
+and style as new with a deduction for wear and tear and loss of
+value.
+</UL>
+
+<P>
+2 Where<STRONG> you </STRONG>have chosen replacement value, the
+following conditions apply:
+<UL>
+<LI>You have stated that the sum insured is the full replacement
+value of the contents.
+<LI>If the full replacement value of your<STRONG> contents </STRONG>is
+greater than the sum insured shown on your schedule,<STRONG> you
+</STRONG>will have to pay a proportionate share of the claim.
+For example, if your sum insured only covers two thirds of the
+replacement value of your contents,<STRONG> we </STRONG>will only
+pay two thirds of the claim.
+<LI>If the sum insured is adequate,<STRONG> we </STRONG>will settle
+the claim by either replacing the item or paying<STRONG> you </STRONG>the
+cost of repairing or replacing your property in the same form
+and style as new, except for clothing and linen where a deduction
+for wear and tear and loss of value will be made.
+</UL>
+
+<P>
+3 We will not pay more than:
+<UL>
+<LI>One third of the total sum insured for<STRONG> contents </STRONG>in
+any one claim for valuables.
+<LI>5% of the total sum insured for<STRONG> contents </STRONG>for
+any one valuable or collection of stamps or coins unless shown
+differently on your<STRONG> schedule.</STRONG> 
+<LI>&#163;250 for any one claim for <STRONG>money</STRONG>.
+</UL>
+
+<P>
+4 After<STRONG> we </STRONG>have settled a claim<STRONG> we </STRONG>will
+not reduce your sum insured on your<STRONG> contents </STRONG>as
+long as<STRONG> you </STRONG>take any reasonable measures<STRONG>
+we </STRONG>suggest to prevent any further loss or damage.<HR>
+
+<H1><A NAME="AllRisks">All Risks Cover</A></H1>
+
+<P>
+Your Policy<STRONG> schedule </STRONG>shows which covers apply.
+<H3>What is covered</H3>
+
+<P>
+<STRONG>We </STRONG>will cover<STRONG> you </STRONG>in accordance
+with your<STRONG> schedule </STRONG>for accidental loss, damage
+or theft within Great Britain, the Isle of Man , the Channel Islands
+and temporarily overseas for up to 60 days in any one<STRONG>
+period of insurance</STRONG>.
+<P>
+<B><A NAME="Specified">1. Specified items</A></B> 
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>the cost of
+replacing or repairing your valuables and any other item specified
+in the<STRONG> schedule.</STRONG> 
+<P>
+<STRONG>We </STRONG>will not pay<STRONG> you </STRONG>more than
+the sum insured for that item as shown in the<STRONG> schedule.</STRONG>
+
+<P>
+<B><A NAME="unspecified">2. Unspecified valuables, personal effects
+and clothing.</A></B> 
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>the cost of
+replacing or repairing your valuables, personal effects and clothing.
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>for
+any one article is &#163;500.
+<P>
+<B><A NAME="Sports">3. Sports equipment</A></B> 
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>the cost of
+replacing or repairing your sports equipment and clothing.
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>for
+any one article is &#163;500.
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>for
+any one claim is &#163;1000.
+<P>
+<B><A NAME="Computers">4. Computer equipment, sound equipment
+and portable television sets</A></B> 
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>the cost of
+replacing or repairing your portable television sets, radio receivers,
+audio equipment, personal computer equipment, video cassette recorders,
+aerials, masts and fixed satellite receiving dishes.
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>for
+any one claim except for computer equipment is &#163;1,000
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>in
+any one<STRONG> period of insurance</STRONG> for computer equipment
+is shown in the<STRONG> endorsement </STRONG>attached to your<STRONG>
+schedule.</STRONG> 
+<P>
+<B><A NAME="Cycles">5. Pedal cycles</A></B> 
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>the cost of
+replacing or repairing your pedal cycles or accessories.
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>for
+any one cycle and its accessories unless<STRONG> we </STRONG>have
+shown differently in the<STRONG> schedule </STRONG>is &#163;350.
+<P>
+<B><A NAME="Money">6. Money, credit cards</A></B> 
+<P>
+<B>Money</B> 
+<P>
+<STRONG>We </STRONG>will pay for loss of your <STRONG>money</STRONG>.
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>for
+any one claim is &#163;500.
+<P>
+<B>Credit cards</B> 
+<P>
+<STRONG>We </STRONG>will pay<STRONG> you </STRONG>for loss due
+to unauthorised use of your <STRONG>credit cards</STRONG>.
+<P>
+The most<STRONG> we </STRONG>will pay<STRONG> you </STRONG>for
+any one claim is &#163;1000.
+<H3>Protection from inflation</H3>
+
+<P>
+Sub-sections 1 to 4 above are<STRONG> index-linked</STRONG>.
+<H3>What is not covered</H3>
+
+<UL>
+<LI>Loss or damage involving:
+</UL>
+
+<P>
+- mechanical or electrical fault, breakdown or failure;
+<P>
+- wear and tear, deterioration, mildew, any moth, vermin or domestic
+pet or any repair, restoration or renovation work;
+<P>
+- any property used professionally or for any trade purposes;
+or
+<P>
+- theft from an unattended motor vehicle unless all doors, windows
+and other openings are locked and property is locked in the boot
+or hidden from view.
+<P>
+See 2 above
+<UL>
+<LI>Loss or damage to:
+</UL>
+
+<P>
+- contact or corneal lenses;
+<P>
+- sports equipment, vehicles, cycles and their accessories;
+<P>
+- hearing aids; or
+<P>
+- musical instruments.
+<UL>
+<LI>The first &#163;50 of any claim.
+</UL>
+
+<P>
+See 3 above
+<UL>
+<LI>Loss or damage to:
+</UL>
+
+<P>
+- motor vehicles, boats, caravans, trailers, gliders and accessories
+belonging to any of these; or
+<P>
+- sports equipment whilst in use.
+<UL>
+<LI>The first &#163;50 of any claim.
+</UL>
+
+<P>
+See 4 above
+<UL>
+<LI>Loss or damage to:
+</UL>
+
+<P>
+- any component part which is not installed in the equipment covered
+or if the maker's instructions are not being followed;
+<P>
+- the equipment during the setting up, repair or removal of the
+installation or any part of them; or
+<P>
+- audio or video tapes, records, compact or computer discs, cartridges
+or cassettes.
+<UL>
+<LI>The first &#163;50 of any claim.
+</UL>
+
+<P>
+See 5 above
+<UL>
+<LI>Theft of your cycle accessories unless the cycle is stolen
+at the same time.
+<LI>Loss or damage to the pedal cycle while it is being used for
+racing.
+<LI>Theft of unattended cycles unless they are in a locked building
+at the time or have been immobilised by a security device.
+<LI>Damage to tyres unless the cycle is damaged at the same time.
+<LI>The first &#163;50 of any claim unless<STRONG> we </STRONG>have
+shown differently in the<STRONG> schedule.</STRONG> 
+</UL>
+
+<P>
+See 6 above
+<UL>
+<LI>Any losses which are not reported to the police (and for <STRONG>credit
+cards</STRONG> to the issuer of the card), within 24 hours of
+discovering the loss.
+<LI>Loss of value, confiscation or shortages due to your error.
+<LI>For <STRONG>credit cards</STRONG>, any loss due to<STRONG>
+you </STRONG>breaking their terms and conditions of use.
+<LI>The first &#163;50 of any claim.
+</UL>
+
+<H3>Basis of settling claims</H3>
+
+<P>
+<STRONG>We </STRONG>will settle your claims in accordance with
+these conditions:
+<P>
+1. You have stated the sum insured (as shown on your schedule)
+is as follows:
+<UL>
+<LI>Personal effects and clothing - the maximum amount of these
+items that may be covered at any one time.
+<LI>Valuables - the total value of these items owned by<STRONG>
+you </STRONG>or<STRONG> your family </STRONG>valued at the current
+cost of replacing them.
+<LI>Sports equipment and sound equipment - the total value of
+this equipment owned by<STRONG> you </STRONG>or<STRONG> your family
+</STRONG>valued at current replacement costs.
+</UL>
+
+<P>
+2. If the full value of the property as described above, is greater
+than the sum insured shown on your schedule,<STRONG> you </STRONG>will
+have to pay a proportionate share of the claim. For example, if
+your sum insured only covers two thirds of the full value of the
+property,<STRONG> we </STRONG>will only pay two thirds of the
+claim.
+<P>
+<STRONG>3. We </STRONG>will not pay more than the sum insured
+shown against each item in the<STRONG> schedule </STRONG>during
+any one<STRONG> period of insurance</STRONG>.
+<P>
+4. In sub-sections 1 to 4<STRONG> we </STRONG>will settle your
+claim subject to the following:
+<UL>
+<LI>Valuables -<STRONG> we </STRONG>will pay for a replacement,
+repair or the amount of the loss or damage but only up to the
+sum insured for the article as shown in the<STRONG> schedule.</STRONG>
+
+<LI>Other items -<STRONG> we </STRONG>will pay for the cost of
+repairing or replacing your insured property in the same form
+and style as new, except for clothing and linen where a deduction
+for wear, tear and loss of value will be made.
+</UL>
+
+<P>
+5. In sub-sections 5 and 6,<STRONG> we </STRONG>will settle your
+claim on an indemnity value basis unless shown otherwise in the<STRONG>
+schedule.</STRONG> <HR>
+
+<H1><A NAME="Generalconditions">General Conditions</A></H1>
+
+<P>
+<B>1. Reasonable care</B> 
+<P>
+<B>You</B> must take all reasonable care to prevent accidents,
+disease, loss or damage and keep your property in a good state
+of repair and condition.
+<P>
+<B>2. Contribution</B> 
+<P>
+If at the time of any loss, damage or liability covered under
+this Policy,<STRONG> you </STRONG>have any other insurance which
+covers the same loss, damage or liability,<STRONG> we </STRONG>will
+only pay a rateable share of the claim.
+<P>
+<B>3. Claims</B> 
+<P>
+When a claim, or possible claim, occurs<STRONG> you </STRONG>must
+tell us in writing as soon as possible:
+<P>
+For loss or damage claims<STRONG> you </STRONG>must give us any
+documents, information and evidence<STRONG> we </STRONG>need at
+your expense. You must also tell the police immediately if the
+claim is being made as a result of accidental loss, damage by
+malicious persons, theft or any attempted theft.
+<P>
+For liability claims<STRONG> you </STRONG>must send us any claim,
+writ or summons as soon as<STRONG> you </STRONG>receive it. Do
+not negotiate, pay, settle, admit or deny any claim without our
+written permission.
+<P>
+<B>4. Our rights after a claim</B> 
+<P>
+<STRONG>We </STRONG>are allowed to enter any building where loss
+or damage to the property has happened, to take possession of
+and deal with any salvage in a reasonable manner. But<STRONG>
+you </STRONG>must not abandon any property and leave it to us.
+<P>
+Before or after<STRONG> we </STRONG>pay your claim under this
+Policy,<STRONG> we </STRONG>can take action, in your name, or
+in the name of anyone else who is covered under the Policy, to
+enforce your rights against any other person. We will pay any
+costs or expenses involved.
+<P>
+Following a claim<STRONG> you </STRONG>must install any additional
+protective measures or devices which<STRONG> we </STRONG>specify.
+<P>
+<B>5. Fraudulent Claims</B> 
+<P>
+If<STRONG> you </STRONG>make a claim under this Policy and<STRONG>
+you </STRONG>know the claim is false or fraudulent in any way,
+the Policy is void and any claim will not be paid.
+<P>
+<B>6. Arbitration</B> 
+<P>
+If<STRONG> we </STRONG>accept your claim but<STRONG> you </STRONG>disagree
+over the amount<STRONG> you </STRONG>will be paid, the dispute
+will be referred to an Arbitrator who will be appointed in accordance
+with current law. When this occurs, the Arbitrator must decide
+on an award before<STRONG> you </STRONG>can bring proceedings
+against us.
+<P>
+<B>7. Cancellation</B> 
+<P>
+<STRONG>We </STRONG>can cancel your Policy, or any part of it,
+by sending<STRONG> you </STRONG>7 days' notice by recorded delivery
+to your last known address. In these circumstances<STRONG> we
+</STRONG>will repay any unused part of your premium.
+<P>
+<B>8. Monthly payments</B> 
+<P>
+If your Policy is cancelled<STRONG> we </STRONG>will stop asking
+for your monthly premium and<STRONG> you </STRONG>must tell your
+bank that payments will stop.
+<P>
+If your bank does not pay any single monthly premium, your Policy
+will be cancelled. We will give<STRONG> you </STRONG>7 days' written
+notice first.<HR>
+
+<H1><A NAME="Generalexcl">General Exclusions</A></H1>
+
+<P>
+<B>You</B> are not covered for loss or destruction of or damage
+to any property or consequential loss or any legal liability directly
+or indirectly caused by or contributed to, or arising from the
+following:
+<OL>
+<LI>Ionising radiation or contamination by radio-activity from
+any nuclear fuel or from any nuclear waste from the burning of
+nuclear fuel.
+<LI>The radioactive, toxic, explosive or other hazardous properties
+of any explosive nuclear assembly or its nuclear components.
+<LI>War, invasion, act of foreign enemy, hostilities (whether
+war is declared or not), civil war, rebellion, revolution, military
+force or coup.
+<LI>Pressure waves from aircraft and other aerial devices travelling
+at sonic or supersonic speeds.
+</OL>
+
+<P>
+<B>You</B> are also not covered for any of the following:
+<OL>
+<LI>Any loss suffered by<STRONG> you </STRONG>due to any person
+obtaining any property by deception.
+<LI>Any loss or damage which happened to<STRONG> you </STRONG>before
+the first<STRONG> period of insurance</STRONG>.
+<LI>Wear and tear or any gradually-operating cause.
+<LI>Consequential loss of any kind incurred by<STRONG> you </STRONG>or
+<STRONG>your family</STRONG>.
+<LI>Loss of value following a claim payment.
+<LI>Mechanical or electrical fault, breakdown or failure.
+<LI>The cost of replacing any undamaged item or parts of items
+which form part of a set, suite or has a uniform nature, colour
+or design when damage has occured within a clearly identifiable
+area or to a specific part and a replacement cannot be matched.
+</OL>
+<HR>
+
+<H1><A NAME="Complaint">What to do if<STRONG> you </STRONG>have
+a complaint</A></H1>
+
+<P>
+Complaints Procedure
+<P>
+If<STRONG> you </STRONG>have a complaint about your Policy, there
+are a number of steps<STRONG> you </STRONG>can follow to get the
+problem solved.
+<P>
+To help us deal with your case as quickly as possible, please
+have the details of your Policy ready (surname, initials, policy
+number, departmental reference etc.).
+<P>
+<B>Procedure:</B> 
+<P>
+<B>1. Intermediary</B> 
+<P>
+First contact the intermediary who arranged your Policy for<STRONG>
+you.</STRONG> If the complaint concerns a registered insurance
+broker<STRONG> you </STRONG>can approach the Insurance Brokers
+Registration Council (IBRC) at:
+<ADDRESS>
+Insurance Brokers Registration Council 
+</ADDRESS>
+
+<ADDRESS>
+15 St. Helens Place, London EC3A 6DS 
+</ADDRESS>
+
+<ADDRESS>
+Tel: (0171) 588 4387 
+</ADDRESS>
+
+<P>
+<B>2. Branch Manager</B> 
+<P>
+Alternatively, write to the manager of the branch of Independent
+Insurance which issued your Policy.
+<P>
+<B>3. Chief Executive</B> 
+<P>
+If<STRONG> you </STRONG>are not satisfied, write to Michael Bright,
+Chairman and Managing Director of Independent Insurance at the
+following address:
+<ADDRESS>
+Marsland House 
+</ADDRESS>
+
+<ADDRESS>
+Marsland Road, Sale 
+</ADDRESS>
+
+<ADDRESS>
+Cheshire M33 3AQ 
+</ADDRESS>
+
+<ADDRESS>
+Tel: (0161) 962 2288 
+</ADDRESS>
+
+<P>
+<B>4. Association of British Insurers</B> 
+<P>
+At any stage<STRONG> you </STRONG>can contact the Association
+of British Insurers for help at its London Headquarters:
+<ADDRESS>
+Consumer Information Department 
+</ADDRESS>
+
+<ADDRESS>
+Association of British Insurers 
+</ADDRESS>
+
+<ADDRESS>
+51 Gresham Street, London EC2V 7HQ 
+</ADDRESS>
+
+<ADDRESS>
+Tel: (0171) 600 3333 
+</ADDRESS>
+
+<P>
+<B>5. Insurance Ombudsman</B> 
+<P>
+If<STRONG> you </STRONG>are still unhappy,<STRONG> you </STRONG>can
+ask the Insurance Ombudsman to review your case by contacting
+The Insurance Ombudsman at:
+<ADDRESS>
+The Insurance Ombudsman Bureau 
+</ADDRESS>
+
+<ADDRESS>
+City Gate 1 
+</ADDRESS>
+
+<ADDRESS>
+135 Park Street, London SE1 9EA 
+</ADDRESS>
+
+<ADDRESS>
+Tel: (0171) 928 4488 
+</ADDRESS>
+<HR>
+
+</BODY>
+
+</HTML>
+

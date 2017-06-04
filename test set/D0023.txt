@@ -1,0 +1,300 @@
+ID=D0023
+URL=http://www.japhar.org/mauve-results-11.html
+SIZE=20169
+DATE=16/07/02
+TIME=14:35:01
+DATASET=Java
+HTML=<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+  <head>
+    <title>japhar.org</title>
+    <style type="text/css">
+      TH {font-family: helvetica,arial;}
+      TD {font-family: helvetica,arial;}
+      H1 {font-family: helvetica,arial;}
+      SUP {color: #cc6666;}
+    </style>
+  </head>
+
+  <body bgcolor=#ffffff text=#000000 vlink=#cc6666 link=#cc6666 alink=#ffffff>
+
+  <table>
+    <tr valign="middle">
+    <td>
+      <img valign=center align="left" src="images/japhar-icon.gif" alt="Japhar" width=100 height=100>
+    <td>
+      <font size="+1"><em>A portable interpreter<br>
+      for Java bytecodes</em></font>
+  </table>
+    <table height="60%" width="90%" border="0" cellpadding=5 cellspacing=0>
+      
+      <tr valign="top">
+	<td rowspan=5 bgcolor=#dddddd width=25%>
+	  <table border=0 cellpadding=1 cellspacing=1>
+	  <tr><td><img src="images/bullet1.gif"></td><td colspan=3><a href="index.html">Japhar</a></td></tr>
+	  <tr><td></td><td><img src="images/bullet1.gif"></td><td colspan=2><a href="getting.html">Getting it</a></td></tr>
+	  <tr><td></td><td><img src="images/bullet1.gif"></td><td colspan=2><a href="lists.html">Mailing Lists</a></td></tr>
+	  <tr><td></td><td><img src="images/bullet1.gif"></td><td colspan=2><a href="supported.html">Supported Platforms</a></td></tr>
+	  <tr><td></td><td><img src="images/bullet1.gif"></td><td colspan=2><a href="mauve.html">Mauve Results</a></td></tr>
+	  <tr></tr>
+	  <tr><td><img src="images/bullet1.gif"></td><td colspan=3><a href="docs.html">Documentation</a></td></tr>
+	  <tr><td></td><td><img src="images/bullet1.gif"></td><td colspan=2><a href="javadocs.html">JavaSoft Docs</a></td></tr>
+	  <tr><td></td><td><img src="images/bullet1.gif"></td><td colspan=2><a href="japhardocs.html">Japhar Docs</a></td></tr>
+	  <tr><td></td><td></td><td><img src="images/bullet1.gif"></td><td><a href="oji.html">Japhar/OJI</a></td></tr>
+	  <tr><td></td><td></td><td><img src="images/bullet1.gif"></td><td><a href="news.html">Release News</a></td></tr>
+	  <tr></tr>
+	  <tr><td><img src="images/bullet1.gif"></td><td colspan=3><a href="related.html">Related Projects</a></td></tr>
+	  <tr></tr>
+	  </table>
+	</td>
+	  <td>
+<body bgcolor="#ffffff" text="#000000">
+<center><b>Mauve Test Results for JDK1.1.7 classes.zip</b></center>
+<p>
+some java.lang was excluded since it seems to cause problems with japhar -- the gmake check hangs... strange.
+</p>
+<p>
+<font color="#ff0000">Tests failed: 20</font> &nbsp;&nbsp;&nbsp;&nbsp;
+Total tests run: 673
+</p>
+<table cellspacing=1 border=0 bgcolor="#dddddd">
+  <tr><th align=left>java.beans</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">DescriptorTest</td><td align="left"><em>3 tests</em></td>
+<th colspan="3" bgcolor="#ffff00">1 tests failed</th>              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">1</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;</td></tr>
+        <tr><td align="right">IntrospectorTest</td><td align="left"><em>30 tests</em></td>
+<th colspan="3" bgcolor="#ffff00">3 tests failed</th>              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">16</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;</td></tr>
+              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">17</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;</td></tr>
+              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">18</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;</td></tr>
+    </td>
+  </tr>
+  <tr><th align=left>java.io.BufferedByteOutputStream</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">Test</td><td align="left"><em>2 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.BufferedCharWriter</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">Test</td><td align="left"><em>2 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.BufferedInputStream</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">MarkReset</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">ProtectedVars</td><td align="left"><em>5 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">SimpleRead</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.BufferedReader</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">MarkReset</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">SimpleRead</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.ByteArrayInputStream</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">MarkReset</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">ProtectedVars</td><td align="left"><em>4 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">SimpleRead</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.CharArrayReader</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">ProtectedVars</td><td align="left"><em>4 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">SimpleRead</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.DataInputOutput</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">ReadReference</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">WriteRead</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.LineNumberInputStream</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">Test</td><td align="left"><em>2 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.LineNumberReader</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">Test</td><td align="left"><em>2 tests</em></td>
+<th colspan="3" bgcolor="#ffff00">1 tests failed</th>              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">1</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;getLineNumber - first series </td></tr>
+    </td>
+  </tr>
+  <tr><th align=left>java.io.PipedReaderWriter</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">Test</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.PipedStream</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">Test</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.PushbackInputStream</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">BufferOverflow</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">ProtectedVars</td><td align="left"><em>2 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.PushbackReader</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">BufferOverflow</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.SequenceInputStream</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">Test</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.StringBufferInputStream</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">MarkReset</td><td align="left"><em>4 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">ProtectedVars</td><td align="left"><em>3 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">SimpleRead</td><td align="left"><em>2 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.StringWriter</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">Test</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.io.Utf8Encoding</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">ReadReference</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">WriteRead</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.lang.Boolean</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">equals_Boolean</td><td align="left"><em>6 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">get</td><td align="left"><em>3 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">hashcode_Boolean</td><td align="left"><em>2 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">new_Boolean</td><td align="left"><em>8 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">value</td><td align="left"><em>4 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.lang.Byte</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">new_Byte</td><td align="left"><em>5 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.lang.Math</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">cos</td><td align="left"><em>3 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">max</td><td align="left"><em>32 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">min</td><td align="left"><em>32 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">rint</td><td align="left"><em>2 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.lang.Short</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">hash</td><td align="left"><em>5 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.lang.String</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">charAt</td><td align="left"><em>2 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">compareTo</td><td align="left"><em>12 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">decode</td><td align="left"><em>8 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">indexOf</td><td align="left"><em>16 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">new_String</td><td align="left"><em>5 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">startsWith</td><td align="left"><em>8 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">substring</td><td align="left"><em>6 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">to</td><td align="left"><em>2 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.lang.StringBuffer</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">plus</td><td align="left"><em>6 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.lang.System</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">arraycopy</td><td align="left"><em>23 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.lang.reflect.Modifier</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">toString</td><td align="left"><em>13 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.sql.Connection</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">TestJdbc10</td><td align="left"><em>5 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.sql.DatabaseMetaData</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">TestJdbc10</td><td align="left"><em>43 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.sql.Types</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">TestJdbc10</td><td align="left"><em>21 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.text.CharacterIterator</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">implement</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.text.ChoiceFormat</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">format</td><td align="left"><em>19 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">next</td><td align="left"><em>2 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">parse</td><td align="left"><em>9 tests</em></td>
+<th colspan="3" bgcolor="#ffff00">2 tests failed</th>              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">4</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;</td></tr>
+              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">5</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;</td></tr>
+    </td>
+  </tr>
+  <tr><th align=left>java.text.DateFormat</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">Test</td><td align="left"><em>30 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.text.DateFormatSymbols</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">Test</td><td align="left"><em>9 tests</em></td>
+<th colspan="3" bgcolor="#ffff00">1 tests failed</th>              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">2</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;patterns </td></tr>
+    </td>
+  </tr>
+  <tr><th align=left>java.text.DecimalFormat</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">format</td><td align="left"><em>28 tests</em></td>
+<th colspan="3" bgcolor="#ffff00">1 tests failed</th>              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">2</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;pattern #.# </td></tr>
+        <tr><td align="right">parse</td><td align="left"><em>16 tests</em></td>
+<th colspan="3" bgcolor="#ffff00">2 tests failed</th>              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">1</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;pattern 0.0000E# </td></tr>
+              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">2</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;pattern 0.0000E# </td></tr>
+        <tr><td align="right">position</td><td align="left"><em>6 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">topattern</td><td align="left"><em>5 tests</em></td>
+<th colspan="3" bgcolor="#ffff00">4 tests failed</th>              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">1</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;</td></tr>
+              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">2</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;</td></tr>
+              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">3</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;</td></tr>
+              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">5</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;</td></tr>
+    </td>
+  </tr>
+  <tr><th align=left>java.text.MessageFormat</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">format</td><td align="left"><em>14 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>        <tr><td align="right">parse</td><td align="left"><em>8 tests</em></td>
+<th colspan="3" bgcolor="#ffff00">3 tests failed</th>              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">1</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;one variable </td></tr>
+              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">1</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;number format </td></tr>
+              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">2</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;no variables </td></tr>
+    </td>
+  </tr>
+  <tr><th align=left>java.text.ParseException</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">Test</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.text.SimpleDateFormat</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">Test</td><td align="left"><em>1 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.text.StringCharacterIterator</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">constructor</td><td align="left"><em>25 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.util.BitSet</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">jdk10</td><td align="left"><em>35 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.util.Hashtable</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">basic</td><td align="left"><em>12 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.util.Random</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">basic</td><td align="left"><em>20 tests</em></td>
+<th colspan="3" bgcolor="#00ff00">all passed</th>    </td>
+  </tr>
+  <tr><th align=left>java.util.ResourceBundle</th><td colspan="4">&nbsp;</td></tr>
+        <tr><td align="right">getBundle</td><td align="left"><em>23 tests</em></td>
+<th colspan="3" bgcolor="#ffff00">1 tests failed</th>              <tr><td>&nbsp;</td><td>&nbsp;</td><th bgcolor="#ff0000">5</th><td align="right" bgcolor="#ff0000">FAIL</td><td bgcolor="#ff0000">&nbsp;book sample </td></tr>
+    </td>
+  </tr>
+</table>
+<em>(generated Mon Mar 15 06:07:54 PST 1999
+)</em>
+	</td>
+      </table>
+    <tr>
+        <td colspan=2>
+  	  <A HREF="http://www.freebsd.org/">
+            <IMG ALIGN="right" SRC="http://www.hungry.com/images/power-FreeBSD-button.gif"
+	    name="freebsd" border=0></A>
+
+	  <hr>
+
+          <font size="-1"><em>Last modified: Sun Mar  5 17:16:55 PST 2000
+</em></font>
+        </td>
+      </tr>
+   </table>
+  </body>
+</html>
+

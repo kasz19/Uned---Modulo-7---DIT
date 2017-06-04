@@ -1,0 +1,1322 @@
+ID=B0091
+URL=http://www.verso-mortgage.co.uk/products/content/buytolet-info.html
+SIZE=71703
+DATE=28/06/2002
+TIME=12:47:23
+DATASET=Building Societies
+HTML=<html>
+<!-- #BeginTemplate "/www/templates/verso-basic-wide.dwt" --> 
+<!--Produced by LOT2 Ltd. t:+44 (0)1608 652105  e:lot2@pobox.com-->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>Verso: Buy to let - lending criteria</title>
+<!-- #EndEditable --> 
+<link rel="stylesheet" href="../../verso.css" type="text/css">
+<!-- #BeginEditable "script" -->
+<script language="JavaScript">
+<!--
+<!--
+if (self == top) {
+  if (parseInt(navigator.appVersion) == 2) // is the browser Navigator 2?
+    location.href = "../buytolet-info.html" // for Netscape Navigator 2
+  else
+    location.replace("../buytolet-info.html");
+}
+// -->
+
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+//-->
+</script>
+<!-- #EndEditable -->
+</head>
+<body leftmargin=20 topmargin=0 marginwidth="20" marginheight="0" bgcolor="#FFFFFF">
+<table width="720" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="720" valign="top"><img src="../../images/space.gif" width="149" height="20"> 
+    </td>
+  </tr>
+  <tr> 
+    <td width="720" height="45" valign="top"> <!-- #BeginEditable "PageTitle" --><img src="../../images/title-buytolet.gif" width="150" height="40" alt="Title: Buy to let"><br>
+      <!-- #EndEditable --> </td>
+  </tr>
+  <tr>
+    <td width="720" valign="top" height="35"> 
+      <p class="VersoStrapline"><!-- #BeginEditable "Subtitle" --><span class="strapline">Verso 
+        mortgage lending criteria</span><!-- #EndEditable --></p>
+    </td>
+  </tr>
+  <tr> 
+    <td width="720" valign="top"><!-- #BeginEditable "Content" --> 
+      <p class="VersoBodyRegular">Return to Buy to let <a href="../buytolet.html" onMouseOver="MM_displayStatusMsg('Link: Return to Buy to let &#145;at a glance&#146;');return document.MM_returnValue" onMouseOut="MM_displayStatusMsg('');return document.MM_returnValue" target="_parent">&#145;at 
+        a glance&#146;</a> or see our full <a href="../index.html" target="_parent" onMouseOver="MM_displayStatusMsg('');MM_displayStatusMsg('Link: Return to our full product range');return document.MM_returnValue">product 
+        range</a></p>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#ffffff"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#ffffff">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">Benefits</span></p>
+          </td>
+          <td width="535" bgcolor="#ffffff" valign="top" align="left"> 
+            <table width="535" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td valign="top"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">All completion fees will be added 
+                    to the loan</p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">No HPA charged</p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Interest calculated on a daily basis</p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Capital raise for any purpose to 
+                    75% LTV (including raising finance to buy further investment 
+                    properties) </p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Applicants do not have to be home 
+                    owners</p>
+                </td>
+              </tr>
+              <tr> 
+                <td  height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Additional loans available after 
+					6 months (subject to status)</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#ffffff">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#e6f2de"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#e6f2de">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">Purpose</span></p>
+          </td>
+          <td width="535" bgcolor="#e6f2de" valign="top" align="left"> 
+            <table width="535" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td valign="top" width="30"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Purchase or Remortgage</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#e6f2de">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#c6c6d1"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht">Loan size</p>
+          </td>
+          <td width="535" bgcolor="#c6c6d1" valign="top" align="left"> 
+            <table width="535" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td valign="top" width="30"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Up to 85% LTV</p>
+                </td>
+              </tr>
+              <tr> 
+                <td  height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Minimum £25,001 Maximum £500,000 
+                    per borrower either on a single property or aggregate of multiple 
+                    properties (note: minimum property value £30,000)</p>
+                </td>
+              </tr>
+              <tr> 
+                <td  height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Multiple property applications: 
+                    the maximum LTV will be based on each individual property, 
+                    not the total of the portfolio</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#ffffff"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#ffffff">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">Remortgage purpose</span></p>
+          </td>
+          <td width="535" bgcolor="#ffffff" valign="top" align="right"> 
+            <table border="0" cellspacing="0" cellpadding="0" width="535">
+              <tr> 
+                <td width="30" height="15"><img src="../../images/space.gif" width="30" height="1"></td>
+                <td height="15" width="200" class="VersoBodyBold">Purpose</td>
+                <td height="15" width="22"><img src="../../images/space.gif" width="22" height="1"></td>
+                <td height="15" width="200" align="left" class="VersoBodyBold">Additional 
+                  conditions</td>
+                <td align="center" width="22"><img src="../../images/space.gif" width="22" height="1"></td>
+                <td valign="bottom" width="61" class="VersoBodyBold">Max LTV</td>
+              </tr>
+              <tr> 
+                <td width="30" height="6">&nbsp;</td>
+                <td colspan="5" height="6"><img src="../../images/rule-blue.gif" width="505" height="1"></td>
+              </tr>
+              <tr valign="top"> 
+                <td width="30" height="15" class="VersoBodyRegular">&nbsp;</td>
+                <td width="200" height="15" class="VersoBodyRegular">Refinancing 
+                  of an existing mortgage</td>
+                <td align="right" width="22" height="15" class="VersoBodyRegular">&nbsp;</td>
+                <td align="left" height="15" width="200" class="VersoBodyRegular"> 
+                  Additional borrowing not to exceed 4% of the existing mortgage</td>
+                <td align="center" width="22" class="VersoBodyRegular">&nbsp;</td>
+                <td class="VersoBodyRegular">85%</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="6">&nbsp;</td>
+                <td class="VersoBodyRegular" colspan="5" height="6"><img src="../../images/rule-blue.gif" width="505" height="1"></td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="200" height="15" valign="top">Investment 
+                  property: repair improvement and maintenance</td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" align="left" height="15" width="200" valign="top">Subject 
+                  to sight of receipts/estimates</td>
+                <td class="VersoBodyRegular" align="center" width="22" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" valign="top">85%</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="6">&nbsp;</td>
+                <td class="VersoBodyRegular" colspan="5" height="6"><img src="../../images/rule-blue.gif" width="505" height="1"></td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="200" height="15" valign="top">Investment 
+                  property: purchase of additional property</td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" align="left" height="15" width="200" valign="top">Subject 
+                  to additional investment property being in mortgage to Verso</td>
+                <td class="VersoBodyRegular" align="center" width="22" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" valign="top">85%</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="6">&nbsp;</td>
+                <td class="VersoBodyRegular" colspan="5" height="6"><img src="../../images/rule-blue.gif" width="505" height="1"></td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="200" height="15" valign="top">Financing 
+                  home improvements/repairs</td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" align="left" height="15" width="200" valign="top">Subject 
+                  to sight of receipts/estimates</td>
+                <td class="VersoBodyRegular" align="center" width="22" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" valign="top">75%</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="6">&nbsp;</td>
+                <td class="VersoBodyRegular" colspan="5" height="6"><img src="../../images/rule-blue.gif" width="505" height="1"></td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="200" height="15" valign="top">Repay 
+                  existing secured/unsecured loans</td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" align="left" height="15" width="200" valign="top">Not 
+                  applicable </td>
+                <td class="VersoBodyRegular" align="center" width="22" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" valign="top">75%</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="6">&nbsp;</td>
+                <td class="VersoBodyRegular" colspan="5" height="6"><img src="../../images/rule-blue.gif" width="505" height="1"></td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="200" height="15" valign="top">Matrimonial 
+                  settlements</td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" align="left" height="15" width="200" valign="top">Subject 
+                  to sight of satisfactory evidence</td>
+                <td class="VersoBodyRegular" align="center" width="22" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" valign="top">75%</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="6">&nbsp;</td>
+                <td class="VersoBodyRegular" colspan="5" height="6"><img src="../../images/rule-blue.gif" width="505" height="1"></td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="200" height="15" valign="top">Payment 
+                  of school fees</td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" align="left" height="15" width="200" valign="top">Subject 
+                  to sight of satisfactory evidence</td>
+                <td class="VersoBodyRegular" align="center" width="22" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" valign="top">75%</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="6">&nbsp;</td>
+                <td class="VersoBodyRegular" colspan="5" height="6"><img src="../../images/rule-blue.gif" width="505" height="1"></td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="200" height="15" valign="top">Purchase 
+                  of second home</td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" align="left" height="15" width="200" valign="top">Subject 
+                  to sight of satisfactory evidence</td>
+                <td class="VersoBodyRegular" align="center" width="22" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" valign="top">75%</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="6">&nbsp;</td>
+                <td class="VersoBodyRegular" colspan="5" height="6"><img src="../../images/rule-blue.gif" width="505" height="1"></td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="200" height="15" valign="top">Purchase 
+                  of share in professional partnership in which applicant works 
+                </td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" align="left" height="15" width="200" valign="top">Subject 
+                  to sight of satisfactory evidence</td>
+                <td class="VersoBodyRegular" align="center" width="22" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" valign="top">75%</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="6">&nbsp;</td>
+                <td class="VersoBodyRegular" colspan="5" height="6"><img src="../../images/rule-blue.gif" width="505" height="1"></td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="200" height="15" valign="top">Equity 
+                  release for any purpose (other than capital raising for business 
+                  purposes or purposes of a speculative nature)</td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" align="left" height="15" width="200" valign="top">Not 
+                  applicable </td>
+                <td class="VersoBodyRegular" align="center" width="22" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" valign="top">75%</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="6">&nbsp;</td>
+                <td class="VersoBodyRegular" colspan="5" height="6"><img src="../../images/rule-blue.gif" width="505" height="1"></td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="200" height="15" valign="top">Capital 
+                  raising for any purpose/s</td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" align="left" height="15" width="200" valign="top">Subject 
+                  to the product maximum as shown</td>
+                <td class="VersoBodyRegular" align="center" width="22" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" valign="top">75%<span class="VersoSubnote">*</span></td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="6">&nbsp;</td>
+                <td class="VersoBodyRegular" colspan="5" height="6"><img src="../../images/rule-blue.gif" width="505" height="1"></td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="200" height="20" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15" valign="top">&nbsp;</td>
+                <td class="VersoBodyRegular" align="left" height="20" colspan="3" valign="bottom"><span class="VersoSubnote">*(Max 
+                  loan £500,000 per borrower)</span></td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#ffffff">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#e6f2de"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#e6f2de">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">Minimum age</span></p>
+          </td>
+          <td width="535" bgcolor="#e6f2de" valign="top" align="left"> 
+            <table width="535" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td valign="top" width="30"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505" valign="top"> 
+                  <p class="VersoBodyRegular">18 years all applicants</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#e6f2de">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#c6c6d1"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">Income multiples</span></p>
+          </td>
+          <td width="535" bgcolor="#c6c6d1" valign="top" align="left"> 
+            <table width="535" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td valign="top"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">The gross rental income must represent 
+                    125% of the mortgage interest, calculated at a notional rate. 
+                    The notional rate varies by product, please refer for details.</p>
+                </td>
+              </tr>
+              <tr> 
+                <td  height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Please provide anticipated rental 
+                    income at time of application</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#ffffff"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#ffffff">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">Commitments</span></p>
+          </td>
+          <td width="535" bgcolor="#ffffff" valign="top" align="right"> 
+            <table width="535" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td valign="top" width="30"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505" valign="top"> 
+                  <p class="VersoBodyRegular">Existing personal income must be 
+                    sufficient to cover all existing commitments (not including 
+                    any other self funding Buy to Let mortgages the applicant 
+                    may have)</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#ffffff">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#e6f2de"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#e6f2de">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">Term</span></p>
+          </td>
+          <td width="535" bgcolor="#e6f2de" valign="top" align="left"> 
+            <table width="535" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td valign="top" width="30"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505" valign="top"> 
+                  <p class="VersoBodyRegular">Minimum 5 years</p>
+                </td>
+              </tr>
+              <tr> 
+                <td  height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Maximum 30 years</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#e6f2de">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#c6c6d1"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">Portable</span></p>
+          </td>
+          <td width="535" bgcolor="#c6c6d1" valign="top" align="left"> 
+            <table width="535" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td valign="top" width="30"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505" valign="top"> 
+                  <p class="VersoBodyRegular">Yes, subject to normal lending terms</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#ffffff"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#ffffff">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">Repayment type</span></p>
+          </td>
+          <td width="535" bgcolor="#ffffff" valign="top" align="right"> 
+            <table width="535" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td valign="top" width="30"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505" valign="top"> 
+                  <p class="VersoBodyRegular">Repayment, interest only or combination 
+                    of both (You must ensure that with interest only mortgages 
+                    a means of repaying the loan at the end of the term is arranged) 
+                  </p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#ffffff">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#e6f2de"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#e6f2de">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">High percentage 
+              advance fee</span></p>
+          </td>
+          <td width="535" bgcolor="#e6f2de" valign="top" align="left"> 
+            <table width="535" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td valign="top" width="30"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505" valign="top"> 
+                  <p class="VersoBodyRegular">Not applicable</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#e6f2de">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#c6c6d1"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">Application fee</span></p>
+          </td>
+          <td width="535" bgcolor="#c6c6d1" valign="top" align="left"> 
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15"><img src="../../images/space.gif" width="30" height="15"></td>
+                <td class="VersoBodyRegular" colspan="5" height="15">£30,000</td>
+                <td class="VersoBodyRegular" width="22" align="center" height="15">=</td>
+                <td class="VersoBodyRegular" height="15">£</td>
+                <td class="VersoBodyRegular" height="15">199</td>
+                <td class="VersoBodyRegular" rowspan="7" align="right" width="20" height="15">&nbsp;</td>
+                <td class="VersoSubnote" rowspan="7" align="left" valign="top"> 
+                  <p>The application fee consists of a valuation fee and an £80.00 
+                    non-refundable administration fee.</p>
+                  <p>Verso can also arrange a home buyer survey report at an additional 
+                    cost. </p>
+                  <p>Cheque payments should be made payable to Verso</p>
+                </td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="7" height="15">£</td>
+                <td class="VersoBodyRegular" align="right" width="48" height="15">30,001</td>
+                <td class="VersoBodyRegular" width="38" align="center" height="15">&#150;</td>
+                <td class="VersoBodyRegular" width="9" height="15">£</td>
+                <td class="VersoBodyRegular" width="50" height="15">75,000</td>
+                <td class="VersoBodyRegular" width="22" align="center" height="15">=</td>
+                <td class="VersoBodyRegular" height="15">£</td>
+                <td class="VersoBodyRegular" height="15">224</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="7" height="15">£</td>
+                <td class="VersoBodyRegular" align="right" width="48" height="15">75,001</td>
+                <td class="VersoBodyRegular" width="38" align="center" height="15"> 
+                  &#150;</td>
+                <td class="VersoBodyRegular" width="9" height="15"> £</td>
+                <td class="VersoBodyRegular" width="50" height="15">100,000</td>
+                <td class="VersoBodyRegular" width="22" align="center" height="15">	
+                  =</td>
+                <td class="VersoBodyRegular" height="15"> £</td>
+                <td class="VersoBodyRegular" height="15">249</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="7" height="15">£</td>
+                <td class="VersoBodyRegular" align="right" width="48" height="15">100,001</td>
+                <td class="VersoBodyRegular" width="38" align="center" height="15">&#150;</td>
+                <td class="VersoBodyRegular" width="9" height="15">£</td>
+                <td class="VersoBodyRegular" width="50" height="15">150,000</td>
+                <td class="VersoBodyRegular" width="22" align="center" height="15">=</td>
+                <td class="VersoBodyRegular" height="15">£</td>
+                <td class="VersoBodyRegular" height="15">268</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="7" height="15">£</td>
+                <td class="VersoBodyRegular" align="right" width="48" height="15">150,001</td>
+                <td class="VersoBodyRegular" width="38" align="center" height="15">&#150;</td>
+                <td class="VersoBodyRegular" width="9" height="15"> 
+                  <p>£</p>
+                </td>
+                <td class="VersoBodyRegular" width="50" height="15">250,000</td>
+                <td class="VersoBodyRegular" width="22" align="center" height="15">=</td>
+                <td class="VersoBodyRegular" height="15">£</td>
+                <td class="VersoBodyRegular" height="15">330</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="7" height="15">&pound;</td>
+                <td class="VersoBodyRegular" align="right" width="48" height="15">250,001</td>
+                <td class="VersoBodyRegular" width="38" align="center" height="15">&#150;</td>
+                <td class="VersoBodyRegular" width="9" height="15">&pound;</td>
+                <td class="VersoBodyRegular" width="50" height="15">350,000</td>
+                <td class="VersoBodyRegular" width="22" align="center" height="15">=</td>
+                <td class="VersoBodyRegular" height="15">£</td>
+                <td class="VersoBodyRegular" height="15">393</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="7" height="15">£</td>
+                <td class="VersoBodyRegular" align="right" width="48" height="15">350,001</td>
+                <td class="VersoBodyRegular" width="38" align="center" height="15">&#150;</td>
+                <td class="VersoBodyRegular" width="9" height="15">£</td>
+                <td class="VersoBodyRegular" width="50" height="15">500,000</td>
+                <td class="VersoBodyRegular" width="22" align="center" height="15">=</td>
+                <td class="VersoBodyRegular" height="15" width="9">£</td>
+                <td class="VersoBodyRegular" height="15">518</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" colspan="1" valign="top" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" colspan="9" valign="top" height="15">Over 
+                  £500,000 by negotiation</td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#ffffff"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#ffffff">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">Other fees</span></p>
+          </td>
+          <td width="535" bgcolor="#ffffff" valign="top" align="left"> 
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15"><img src="../../images/space.gif" width="30" height="15"></td>
+                <td class="VersoBodyRegular" height="15" width="152"><b>Applicable 
+                  to applications<span class="VersoSubnote">*</span></b></td>
+                <td class="VersoBodyRegular" height="15" width="22"><img src="../../images/space.gif" width="22" height="15"></td>
+                <td class="VersoBodyRegular" height="15" colspan="2"><b>Fee</b></td>
+                <td class="VersoBodyRegular" align="right" width="22" valign="bottom"> 
+                  <img src="../../images/space.gif" width="22" height="15"></td>
+                <td  rowspan="6" valign="bottom" colspan="2"> 
+                  <p class="VersoSubnote">Fees will be added <br>
+                    to the advance</p>
+                </td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="152" height="15" valign="top">Arrangement 
+                  fee </td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" align="left" height="15" colspan="3" valign="top">1% 
+                  of advance (min. fee £500)</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="152" height="15">Telegraphic 
+                  transfer fee </td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" align="center" height="15" width="9"> 
+                  £</td>
+                <td class="VersoBodyRegular" width="143" height="15">40</td>
+                <td class="VersoBodyRegular" rowspan="4" align="right" valign="bottom"><br>
+                  <p class="VersoSubnote">*<br>
+                    <br>
+                  </p>
+                </td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="152" height="15">Insurance 
+                  administration </td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" align="center" height="15" width="9">£</td>
+                <td class="VersoBodyRegular" height="15" width="143">25</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="152" height="15">Final inspection 
+                  fee </td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" align="center" height="15" width="9">£</td>
+                <td class="VersoBodyRegular" height="15" width="143">35</td>
+              </tr>
+              <tr> 
+                <td class="VersoBodyRegular" width="30" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" width="152" height="15" valign="top">Re-inspection 
+                  fee</td>
+                <td class="VersoBodyRegular" align="right" width="22" height="15">&nbsp;</td>
+                <td class="VersoBodyRegular" align="center" height="15" width="9" valign="top">£</td>
+                <td class="VersoBodyRegular" height="15" width="143" valign="top">55</td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#ffffff">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#ffffff">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#e6f2de"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#e6f2de">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">References required</span></p>
+          </td>
+          <td width="535" bgcolor="#e6f2de" valign="top" align="left"> 
+            <table width="535" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td valign="top"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Existing lender&#146;s reference 
+                    required for all mortgages held, please enclose a cheque/s 
+                    made payable to the applicants existing lender for this reference 
+                    (refer to lender for charge) </p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Alternatively, latest original lenders 
+                    statement, together with most recent 3 months full bank statements 
+                    should be supplied NB: Where applicant/s own several properties, 
+                    which are subject to a mortgage, please refer to Verso in 
+                    the first instance</p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Clear credit bureau search (ie. 
+                    no CCJs/defaults etc)</p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Where applicants do not have an 
+                    existing mortgage or are first time buyers: most recent 3 
+                    months full bank statements for each applicant and these must 
+                    be consecutive</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#e6f2de">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#e6f2de">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#c6c6d1"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+      </table>
+      <table width="720" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" bgcolor="#10114f" valign="top" align="left"> 
+            <p class="VersoBodyBoldWht"><span class="mortgage3">Other requirements</span></p>
+          </td>
+          <td width="535" bgcolor="#c6c6d1" valign="top" align="left"> 
+            <table width="535" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">First time buyer: only available 
+                    to Self employed if Self cert option chosen</p>
+                </td>
+              </tr>
+			  <tr> 
+                <td  height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Assured shorthold tenancy for a 
+                    maximum of 12 months</p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Only 1 tenancy per property</p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">No CCJs, DSS tenants, company lets, 
+                    tenants with diplomatic immunity or multi-let properties will 
+                    be considered</p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Applicant/s must be UK or EU nationals 
+                    and resident in the UK and in employment</p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Verso reserve the right to insist 
+                    on the appointment of a suitably qualified letting agent </p>
+                </td>
+              </tr>
+              <tr> 
+                <td  height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Although the property is to be let, 
+                    the principal use of the property must be residential owner 
+                    occupier and this must be confirmed by the valuer who must 
+                    also confirm that there is a good demand for a) sale on an 
+                    owner-occupier basis and b) letting on an assured shorthold 
+                    basis.The valuer must also confirm that the property is in 
+                    a suitable condition to be let. The rental valuation will 
+                    be assessed on the basis of a single &#147;family unit&#148; 
+                    letting on an unfurnished basis</p>
+                </td>
+              </tr>
+              <tr> 
+                <td  height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">No commercial properties, ex-local 
+                    authority flats, ex Ministry of Defence properties, ex housing 
+                    association properties or specially adapted properties or 
+                    properties with special or restricted uses will be considered</p>
+                </td>
+              </tr>
+              <tr> 
+                <td  height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Location of property: England, Scotland 
+                    and Wales only </p>
+                </td>
+              </tr>
+              <tr> 
+                <td  height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">Comprehensive property insurance 
+                    is required, applicant/s solicitors may act for Verso providing 
+                    they are on the Verso panel </p>
+                </td>
+              </tr>
+              <tr> 
+                <td  height="5"><img src="../../images/space.gif" width="30" height="5"></td>
+                <td width="505" height="5"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="left"><img src="../../images/bullet-white.gif" width="30" height="9"></td>
+                <td width="505"> 
+                  <p class="VersoBodyRegular">All applications will be subject 
+                    to a credit score assessment</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="5" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="5" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="175" height="10" bgcolor="#10114f">&nbsp;</td>
+          <td width="535" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+          <td width="5" height="10" bgcolor="#c6c6d1">&nbsp;</td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="720">
+        <tr> 
+          <td valign="top"  width="180" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="180" height="1"></td>
+          <td valign="top"  width="540" height="1" bgcolor="#c6c6d1"><img src="../../images/space.gif" width="540" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top" colspan="2" height="1" bgcolor="#339933"><img src="../../images/space.gif" width="720" height="1"></td>
+        </tr>
+      </table>
+      <br>
+      <span class="VersoBodyRegular">Return to Buy to let <a href="../buytolet.html" onMouseOver="MM_displayStatusMsg('Link: Return to Buy to let &#145;at a glance&#146;');return document.MM_returnValue" onMouseOut="MM_displayStatusMsg('');return document.MM_returnValue" target="_parent">&#145;at 
+      a glance&#146;</a> or see our full <a href="../index.html" target="_parent" onMouseOver="MM_displayStatusMsg('');MM_displayStatusMsg('Link: Return to our full product range');return document.MM_returnValue">product 
+      range</a></span> <!-- #EndEditable --> </td>
+  </tr>
+</table>
+<!-- #BeginEditable "Footer" --><p class="VersoSubnote">&nbsp;</p>
+<!-- #BeginLibraryItem "/www/Library/Don%27tShow-wide.lbi" --><table border="0" bordercolor="#336699" cellpadding="0" cellspacing="0" width="720">
+  <tr> 
+    <td  width="720" colspan="2" height="2" valign="middle" bgcolor="#339933"><img src="../../images/space-drkgreen.gif" width="5" height="2"></td>
+  </tr>
+  <tr> 
+    <td  width="5"   valign="middle" bgcolor="#339933"><img src="../../images/space-drkgreen.gif" width="5" height="2"></td>
+    <td  width="715" valign="middle" bgcolor="#339933"><span class="VersoBodyBoldWht">IMPORTANT:&nbsp;&nbsp;</span><span class="VersoBodyRegularWht">On no account is this document to be given or shown to prospective borrowers</span></td>
+  </tr>
+  <tr> 
+    <td  width="720" colspan="2" height="2" valign="middle" bgcolor="#339933"><img src="../../images/space-drkgreen.gif" width="5" height="2"></td>
+  </tr>
+</table><!-- #EndLibraryItem --><br>
+<table border="0" cellpadding="2" cellspacing="0" width="720">
+          <tr align="center"> 
+            
+    <td valign="top"> 
+      <p class="VersoBodyRegular">Verso undertakes to comply with the Mortgage 
+        Code and you must therefore register with Verso before you submit business.<br>
+        To register follow the link above or telephone our call centre on <span class="VersoBodyBold">0845 
+        8 40 30 20</span><span class="VersoSubnote">*</span></p>
+            </td>
+          </tr>
+        </table>
+        <br>
+        <table border="0" cellpadding="2" cellspacing="0" width="720">
+          <tr> 
+            
+    <td valign="top"> 
+      <p class="VersoSubnote">*Calls will be charged at local rate and may be 
+        monitored for training purposes only.</p>
+      <p class="VersoSubnote">This information is for the guidance of financial 
+        intermediaries only and information contained within is not intended to 
+        be usedto indicate a willingness to enter into any transactions to which 
+        the details relate. Only Verso advertising material complying with the 
+        Consumer Credit Act 1974 should be used for this purpose.</p>
+      <p class="VersoSubnote">Verso is the trading name of Verso Limited, incorporated 
+        in England and Wales (Company No. 2716687) and of Mortgage Agency Services 
+        Number Two Limited (the ‘Lender’), incorporated in England and Wales (Company 
+        No. 2221553), and both having their registered office at Newton House, 
+        Leek, Staffordshire ST13 5RG.</p>
+    </td>
+          </tr>
+        </table>
+      <p class="VersoSubnote">&nbsp;</p>
+      
+<!-- #BeginLibraryItem "/www/Library/footer-wide.lbi" --> 
+<table border="0" cellpadding="0" cellspacing="0" width="720">
+  <tr> 
+    <td valign="top"><span class="VersoSubnote">Part of the <a href="http://www.britannia.co.uk" target="_blank"><img src="../../images/logo-britannia.gif" width="57" height="14" align="absmiddle" border="0" alt="Logo: Britannia Group"></a> group of companies<br><br></span></td>
+    <td valign="top" align="right"><span class="VersoSubnote">Last updated: 
+      <script language="JavaScript">
+<!--//Date Stamp
+		var dayArray = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+		var monthArray = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+		var lastUpdate = new Date(document.lastModified);
+		var thisDay=dayArray[lastUpdate.getDay()];
+		var thisDate=lastUpdate.getDate() < 10 ? '0'+lastUpdate.getDate() : lastUpdate.getDate();
+		var thisMonth=monthArray[lastUpdate.getMonth()];
+		var thisMonthNum=lastUpdate.getMonth()+1 < 10 ? '0'+ (lastUpdate.getMonth()+1) : lastUpdate.getMonth()+1;
+		var thisFullYear=String(lastUpdate.getFullYear());
+		var thisYear= thisFullYear.charAt(2) + thisFullYear.charAt(3);
+
+		document.write(thisDate + ' ' + thisMonth.charAt(0)+thisMonth.charAt(1)+thisMonth.charAt(2) + ' ' + thisFullYear);
+//-->
+      </script>
+	  </span>
+    </td>
+  </tr>
+</table>
+<!-- #EndLibraryItem --><!-- #EndEditable --> 
+</body>
+<!-- #EndTemplate --></html>
+

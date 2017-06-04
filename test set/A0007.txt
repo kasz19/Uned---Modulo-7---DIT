@@ -1,0 +1,678 @@
+ID=A0007
+URL=http://www.bristol-west.co.uk/mortgages/Guidetocharges.asp
+SIZE=46256
+DATE=27/06/02
+TIME=16:49:58
+DATASET=Commercial Banks
+HTML=
+
+<HTML>
+
+<HEAD>
+<TITLE>BRISTOL & WEST</TITLE>
+
+
+	<!--Start of Javascript Area-->
+	
+	<!--End of Javascript Area-->
+
+
+</HEAD>
+
+<BODY leftmargin=0 topmargin=0 marginwidth=0 marginheight=0 rightmargin=0 bottommargin=0 background="/images/back1.gif" vlink=#000069 link=#515198 alink=#E77100>
+
+
+	<map name="FPMap0">
+	<area href="http://www.bristol-west.co.uk/default.asp" shape="rect" coords="16, 13, 152, 51">
+	<area href="http://www.bristol-west.co.uk/mortgages/default.asp" shape="rect" coords="162, 13, 295, 51">
+	<area href="http://www.bristol-west.co.uk/savings/default.asp" shape="rect" coords="305, 13, 441, 51">
+	<area href="http://www.bristol-west.co.uk/investments/default.asp" shape="rect" coords="452, 13, 585, 51"></map>
+
+	<TABLE height=69 width=100% border=0 cellpadding=0 cellspacing=0 marginwidth=0 marginheight=0>
+		<TR>
+			<TD width=129><a href="/default.asp"><IMG src="/images/title/logo1.gif" border=0 height=69 width=129 alt="Go to Bristol & West home page"></a></TD>
+			<TD background="/images/Nav1/topback1.gif" width=100% border=0 height=69 valign=bottom nowrap><IMG src="/images/blank.gif" align=bottom height=69 width=5 border=0><IMG src="/images/Nav1/nav1_lft_crn.gif" align=bottom height=69 width=19 border=0><IMG src="/images/Nav1/mtg_nav1.gif" usemap="#FPMap0" height=69 width=601 border=0><IMG src="/images/Nav1/nav1_rgt_crn.gif" height=69 width=19 border=0></TD>
+		</TR>
+	</TABLE>
+
+
+<TABLE border=0 cellpadding=0 cellspacing=0 width=660>
+
+	
+	<TR>
+		<TD width=129 rowspan=5 valign=top>
+			<IMG src="/images/blank.gif" border=0 width=129 height=21><BR>
+			
+				<a href="http://www.bristol-west.co.uk/mortgages/productcategories.asp" target=""><IMG src="/images/Nav2/mtg_1a.gif" border=0 alt="Go to the Mortgage Product list page"></a><BR>
+				
+				<a href="http://www.bristol-west.co.uk/mortgages/insurance/home.asp" target=""><IMG src="/images/Nav2/inscovnav2off.gif" border=0 alt="Insurance Cover"></a><BR>
+				
+				<a href="http://www.bristol-west.co.uk/mortgages/glossary.asp" target=""><IMG src="/images/Nav2/mtg_3a.gif" border=0 alt="Go to the Glossary of Terms"></a><BR>
+				
+				<a href="https://www.bristol-west.co.uk/mortgageApplication/applicationstart.asp" target=""><IMG src="/images/Nav2/mtg_4b.gif" border=0 alt="Go to the Mortgage Application Form"></a><BR>
+				
+			<SCRIPT LANGUAGE="Javascript">
+
+			function getAvailableHeight()
+				{
+				var nav = "";
+				var screen_width = screen.width;
+				var screen_height = screen.height;
+				var available_width;
+				var available_height;
+
+				if(navigator.appName == "Netscape" && navigator.appVersion.indexOf("X11") == -1) 
+					{
+					if(parseInt(navigator.appVersion) >= 4) 
+						nav = "ns4";
+					else if(parseInt(navigator.appVersion) == 3) 
+						nav = "ns3";
+					else if(parseInt(navigator.appVersion) == 2) 
+						nav = "ns2";
+					} 
+				else if (navigator.appName == "Microsoft Internet Explorer" && navigator.appVersion.indexOf("Macintosh") == -1 && navigator.appVersion.indexOf("X11") == -1) 
+					{
+					if(parseInt(navigator.appVersion) >= 4) 
+						nav = "ie4";
+					else if(parseInt(navigator.appVersion) == 3) 
+						nav = "ie3";
+					else 
+						nav = "verx";
+					}
+
+				if(nav == 'ns4') 
+					{
+				    available_width=innerWidth;
+					available_height=innerHeight;
+					}
+				else
+					{
+					available_width=document.body.clientWidth;
+					available_height=document.body.clientHeight;		
+					}
+
+				if (available_height < 550)
+					available_height = 550;
+				
+				return available_height;	
+				}		
+	
+			/*
+				returns the height of blank.gif on Nav2, 
+				making surethe Call2Action allways end 
+				up att the bottom of the screen.
+				Keiko 04-03-00
+			*/	
+			function setImageHeight(intImgHeight)
+				{
+				var intScreenHeight;
+				var intBlankImageHeight;
+
+				intScreenHeight = getAvailableHeight();
+
+				intBlankImageHeight = intScreenHeight - intImgHeight;
+				document.write("<IMG src='/images/blank.gif' border=0 width=1 height=" + intBlankImageHeight + ">");
+				}
+			
+			setImageHeight(340)
+			</SCRIPT>
+		
+			
+				<a href="http://www.bristol-west.co.uk/feedbackform/renderform.asp?id=8" Target="window_feedback"><IMG src="/images/Call2Action/call2action_3.gif" border=0 width=129 height=45 alt="Click here to Contact Direct Mortgages"></a><BR>
+				
+				<IMG src="/images/Call2Action/call2action_1.gif" border=0 width=129 height=45 alt=""><BR>
+				
+		</TD>
+		<TD rowspan=5 width=39><IMG src="/images/blank.gif" border=0 width=39 height=10></TD>
+		<TD colspan=2 height=42><IMG src="/images/title/guideto_hd.gif" border=0 vspace=4></TD>
+	</TR>
+	<TR>
+		<TD colspan=2 height=20><IMG src="/images/blank.gif" border=0 height=20 width=300></TD>
+	</TR>
+
+
+		
+	<TR>
+		<TD width=590 valign=top><IMG src="/images/blank.gif" border=0 width=590 height=1><BR>
+		
+		
+
+	<!--Start of Content Area-->
+	
+	<font face="Arial, Helvetica" size=2 color="#000000">
+	
+		<font face="Arial, Helvetica" size=2 color="#000000"><%= strContent %></font>
+	
+<TABLE border=0 cellPadding=0 cellSpacing=5 width=600><TBODY><TR><TD vAlign=top>
+<UL style="LIST-STYLE: url(images/bullet.gif)">
+<LI><FONT face="Arial, Helvetica" size=-1 color="#000000"><A href="#apply">Charges when you apply for a mortgage or further loan</A></FONT> 
+<LI><FONT face="Arial, Helvetica" size=-1 color="#000000"><A href="#life">Charges during the life of your mortgage or further loan</A></FONT> 
+<LI><FONT face="Arial, Helvetica" size=-1 color="#000000"><A href="#pay">Charges when you pay off all or part of the mortgage or loan</A></FONT> 
+<LI><FONT face="Arial, Helvetica" size=-1 color="#000000"><A href="#other">Charges which may be made in other circumstances</A></FONT> 
+<LI><FONT face="Arial, Helvetica" size=-1 color="#000000"><A href="#further">Further points to note</A></FONT></LI>
+<LI><FONT face="Arial, Helvetica" size=-1 color="#000000"><A href="fees.asp">Details of our Fee Saver package</A></FONT> </LI></UL>
+<HR><P><FONT face="Arial, Helvetica, sans-serif"><STRONG><A name=apply>Charges when you apply for a mortgage or further loan</A></STRONG></FONT></P>
+<P><FONT face="Arial, Helvetica, sans-serif" size=-1><STRONG>Valuations</STRONG></FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">Mortgage valuation report</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">A report will be required by us to confirm/establish the value of the property and make sure it is suitable security for a mortgage.</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">When you are applying for your mortgage, we will arrange for a valuer to inspect the property. This report is only for our use, but we will send you a copy.</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">For more details, please read the valuation section of the &#39;Notes for Mortgage Applicants and Consent to Transfer&#39; leaflet, and the &#39;Notes for Further Loan Applicants and Consent to Transfer&#39; leaflet.</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">The fee for the valuation will normally be based on the purchase price of the property. If you already own the property, or are re-mortgaging the property, the valuation fee will be based on the valuation confirmed by the surveyor.</FONT></P>
+<img src=/images/mortgages/guide_to_charge_tab_tit1.gif border=0 width=580 height=40><br>
+<table width=580 border=0 cellpadding=5 cellspacing=0><TR><TD
+background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">up to £50,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£150.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£50,001 to £75,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£170.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£75,001 to £100,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£190.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£100,001 to £150,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£210.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£150,001 to £200,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£240.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£200,001 to £250,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£280.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£250,001 to £350,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£350.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£80.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£350,001 to £500,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£460.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£80.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£500,001 to £750,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£600.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£80.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£750,001 to £1,000,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£800.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£80.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Above £1,000,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">By negotiation</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£80.00</FONT></TD></TR>
+
+<tr><td background=/images/bluedot.gif width=290><img src=/images/blank.gif border=0 width=280 height=1></TD>
+<td background=/images/bluedot.gif width=145><img src=/images/blank.gif border=0 width=135 height=1></TD>
+<td background=/images/bluedot.gif width=145><img src=/images/blank.gif border=0 width=135 height=1></TD></tr></TABLE>
+<img src=/images/mortgages/guide_to_charge_tab_bot1.gif border=0 width=580 height=20><br><P>
+
+<FONT face="Arial, Helvetica" size=-1 color="#000000"><STRONG>Homebuyers report</STRONG></FONT>
+</P><P>	<FONT face="Arial, Helvetica" size=-1 color="#000000">You may choose to have a 
+homebuyers report carried out. This report includes the mortgage valuation and more details about the property.</FONT></P>
+<img src=/images/mortgages/guide_to_charge_tab_tit1.gif border=0 width=580 height=40><br>
+<TABLE border=0 cellPadding=5 cellSpacing=0 width=580>
+<tr><td background=/images/bluedot.gif width=290>
+<img src=/images/blank.gif border=0 width=280 height=1></TD>
+<td background=/images/bluedot.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=1></TD>
+<td background=/images/bluedot.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=1></TD></tr>
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">up to £50,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£280.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£50,001 to £75,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£320.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£75,001 to £100,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£360.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£100,001 to £150,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£400.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£150,001 to £200,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£440.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£200,001 to £250,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£490.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£250,001 to £350,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£560.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£80.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£350,001 to £500,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£760.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£80.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£500,001 to £750,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£830.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£80.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£750,001 to £1,000,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£920.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£80.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=290D>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Above £1,000,000</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">By negotiation</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>		
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£80.00</FONT></TD></TR></table>
+		
+<table width=580 border=0 cellpadding=5 cellspacing=0></tr>
+<tr><td background=/images/mortgages/guide_to_charge_tab_tit3_l.gif width=290>
+<img src=/images/blank.gif border=0 width=280 height=30></TD>
+<td background=/images/mortgages/guide_to_charge_tab_tit3_m.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=30></TD>
+<td background=/images/mortgages/guide_to_charge_tab_tit3_r.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=30></TD></tr>
+<tr><TD background=/images/mortgages/table_border.gif width=290><FONT face="Arial, Helvetica" size=-1 color="#000000">The surveyor may need to visit the property more than once if the property is being built or if we are keeping some money back from your loan for work that must be done. A valuation will have to be carried out first and a fixed fee will be charged for each further visit.</FONT></TD>
+<TD background=/images/mortgages/table_border.gif width=145><FONT face="Arial, Helvetica" size=-1 color="#000000">£45.00</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145><FONT face="Arial, Helvetica" size=-1 color="#000000">£3.87</FONT></TD></TR></table>
+
+<img src=/images/mortgages/guide_to_charge_tab_tit2.gif border=0 width=580 height=40><br>
+<table width=580 border=0 cellpadding=5 cellspacing=0>
+
+<TR><TD background=/images/mortgages/table_border.gif width=290>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">If you are applying for a further loan, we may need to carry out revaluation of your property.  This may also apply to Flex3 and easyflex Total customers who wish to increase their further loan facility.  <P>Value up to £250,000<br>Value over £250,000</FONT></TD>
+
+<TD background=/images/mortgages/table_border.gif width=145, valign="bottom">
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£95.00<br>£125.00</FONT></TD>
+
+<TD background=/images/mortgages/table_border2.gif width=145, valign="bottom">
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£15.00<br>£20.00</FONT></TD></TR>
+<td background=/images/bluedot.gif width=290><img src=/images/blank.gif border=0 width=280 height=1></TD>
+<td background=/images/bluedot.gif width=145><img src=/images/blank.gif border=0 width=135 height=1></TD>
+<td background=/images/bluedot.gif width=145><img src=/images/blank.gif border=0 width=135 height=1></TD>
+
+
+</TABLE>
+
+<img src=/images/mortgages/guide_to_charge_tab_bot1.gif border=0 width=580 height=20><br>
+
+
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000"><STRONG>Buildings Insurance</STRONG></FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">If you arrange your own buildings insurance we will ask you to pay a fee of £25.00.</FONT></P>
+
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000"><STRONG>Non-Refundable Booking Fees</STRONG></FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">Some of our products require you to pay a booking fee with the application.  The fee has to be paid before we will consider your application and will not be refundable if you decide not to proceed or if we decline the application.  The product literature will tell you if there is a booking fee and, if so, how much it is.</FONT></P>
+
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000"><STRONG>Arrangement fees</STRONG></FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">Mortgage</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">Some of our mortgage rate products require you to pay an arrangement fee on completion. Such a fee may also be charged, if during the term of your mortgage, you apply for any of the transfer products that may be available at the time.</FONT></P>			
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">Further loans </FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">We will make a charge for arranging a further loan for which land is security.  This also applies to Flex3 and easyflex Total customers who wish to increase their further loan facility.</FONT></P>
+<TABLE border=0 cellPadding=5 cellSpacing=0 width=580>
+<tr><td background=/images/mortgages/guide_to_charge_tab_top_l1.gif width=435>
+<img src=/images/blank.gif border=0 width=425 height=10></TD>
+<td background=/images/mortgages/guide_to_charge_tab_top_r1.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=10></TD></tr>
+<TR><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Fee deducted from the further loan.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£199.00</FONT></TD></TR></TABLE>
+<img src=/images/mortgages/guide_to_charge_tab_bot1.gif border=0 width=580 height=20><br><P>
+
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">CHAPS</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">We take a fee when we send 
+the money for your mortgage or loan by CHAPS (Clearing House Automated Payment system).</FONT></P>
+<TABLE border=0 cellPadding=5 cellSpacing=0 width=580>
+<tr><td background=/images/mortgages/guide_to_charge_tab_top_l1.gif width=435>
+<img src=/images/blank.gif border=0 width=425 height=10></TD>
+<td background=/images/mortgages/guide_to_charge_tab_top_r1.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=10></TD></tr>
+<TR><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Sending money by CHAPS.
+<p>A £30.00 fee is not charged for any Flex3 or easyflex drawdowns.  However, such a fee may be charged if monies are transferred by CHAPS in any other situation.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£30.00</FONT></TD></TR></TABLE>
+<img src=/images/mortgages/guide_to_charge_tab_bot1.gif border=0 width=580 height=20><br><P>
+  
+<HR><P><FONT face="Arial, Helvetica, sans-serif"><STRONG><A name=life>Charges during 
+the life of your mortgage or further loan</A></STRONG></FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000"><STRONG>Providing information about your mortgage</STRONG></FONT></P>
+<TABLE border=0 cellPadding=5 cellSpacing=0 width=580>
+<tr><td background=/images/mortgages/guide_to_charge_tab_top_l1.gif width=435>
+<img src=/images/blank.gif border=0 width=425 height=10></TD>
+<td background=/images/mortgages/guide_to_charge_tab_top_r1.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=10></TD></tr>
+<TR><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">When you need a further copy of your annual mortgage statement.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£15.00 a copy</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Providing a reference, based on your mortgage account.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£55.00</FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Providing information based on your mortage account together with title information from your Deeds.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£60.00 </FONT></TD></TR>
+<TR><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Providing information on loans which have been repaid in full at least 12 months ago.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica, sans-serif" size=-1>£20.00</FONT></TD></TR></TABLE>
+<img src=/images/mortgages/guide_to_charge_tab_bot1.gif border=0 width=580 height=20><br><P>
+
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000"><STRONG>Payments</STRONG></FONT></P>
+<TABLE border=0 cellPadding=5 cellSpacing=0 width=580>
+<tr><td background=/images/mortgages/guide_to_charge_tab_top_l1.gif width=435>
+<img src=/images/blank.gif border=0 width=425 height=10></TD>
+<td background=/images/mortgages/guide_to_charge_tab_top_r1.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=10></TD></tr>
+<TR><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">When we have to pay ground rent or a service charge for you.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£50.00</FONT></TD></TR></TABLE>
+<img src=/images/mortgages/guide_to_charge_tab_bot1.gif border=0 width=580 height=20><br><P>
+
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">When a mortgage or loan repayment is not made because there is something wrong with your cheque details or because there is not enough money in your bank account to pay the direct debit or cheque, charges are as follows:</FONT></P>
+<TABLE border=0 cellPadding=5 cellSpacing=0 width=580>
+<tr><td background=/images/mortgages/guide_to_charge_tab_top_l1.gif width=435>
+<img src=/images/blank.gif border=0 width=425 height=10></TD>
+<td background=/images/mortgages/guide_to_charge_tab_top_r1.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=10></TD></tr>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"><b>Returning a cheque payment.</b>
+<br>This charge will also apply for returning a cheque payment in a lump sum overpayment situation on our flexible mortgages</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£25.00 </FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"><b>Returning a direct debit payment.</b></FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£25.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica, sans-serif" size=-1><b>Buildings Insurance</b>
+<br>If, at any time, you change from Bristol & West to another provider for your buildings insurance.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"> <BR>£25.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica, sans-serif" size=-1><b>Conversions</b>
+<BR>When you change your mortgage type, for example, repayment method to endowment method.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"> <BR>£50.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica, sans-serif" size=-1><b>Rate Transfers</b><BR>When you apply to transfer your mortgage a fee may apply.  The fee will depend on your mortgage and the new rate we offer you.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">You will be advised of the products available and any charges when you enquire.</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"><b>Deeds</b>
+<BR>Deeds sent out to Solicitors for Redemption or any other reason.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica, sans-serif" size=-1> <BR>£50.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">When we provide a copy of the deeds.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£15.00 for up to 10 sheets then 50p for each extra sheet.</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"><b>Part release of land from the deeds</b>
+<BR>When you want us to give up our interest in part of the land or property your mortgage is secured on.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica, sans-serif" size=-1> <BR>£75.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Plus a fee for providing the deeds.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£50.00</FONT></TD></TR>
+
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Bristol & West will make a charge for transactions relating to the title of your property.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">You will be advised of these charges when you enquire.</FONT></TD></TR></TABLE>
+<img src=/images/mortgages/guide_to_charge_tab_bot1.gif border=0 width=580 height=20><br><P>
+
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">The property may need to be 
+revalued and the fee depends on the property value. Please consult Direct Mortgages for valuation fee details.</FONT></P>
+<p><FONT face="Arial, Helvetica" size=-1 color="#000000"><STRONG><b>Term Extension or Reduction</b></strong>
+<p>When you request for your mortgage term to be extended or reduced (or if it becomes necessary on maturity), there will be a fee of £20.00.<p>
+
+<TABLE border=0 cellPadding=5 cellSpacing=0 width=580>
+<tr><td background=/images/mortgages/guide_to_charge_tab_top_l1.gif width=435>
+<img src=/images/blank.gif border=0 width=425 height=10></TD>
+<td background=/images/mortgages/guide_to_charge_tab_top_r1.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=10></TD></tr>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"><b>Changing your endowment policy.</b>
+<BR>When you replace one endowment policy with another.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"> <BR>£50.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"><b>Letting your residential property.</b>
+<BR>When you ask us to approve or continue our approval for part or all of your property to be rented out.  This does not apply for mortgages that have been applied for on a Buy-to-Let mortgage</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"> <BR>£100.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"><b>Changing owners</b>
+<BR>When the owners of the property change through a transfer of equity but at least one of the original owners remain.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"> <BR>£100.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Plus a fee for providing the deeds.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£50.00</FONT></TD></TR></TABLE>
+<img src=/images/mortgages/guide_to_charge_tab_bot1.gif border=0 width=580 height=20><br><P>
+
+<P><HR><P><FONT face="Arial, Helvetica, sans-serif"><STRONG><b>Council Grants</b></strong>
+<p><FONT face="Arial, Helvetica" size=-1 color="#000000">When you request proof of title for council grant purposes there will be a fee of £15.00.
+
+<P><HR><P><FONT face="Arial, Helvetica, sans-serif"><STRONG><A name=pay>Charges when you pay off all or part of the mortgage early</A></STRONG></FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000"><STRONG>For all loans</STRONG></FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">For full or part pay off of any loan, we will charge interest and a fee.</FONT></P>
+<P><FONT face="Arial, Helvetica, sans-serif" size=-1><STRONG>Interest:</STRONG></FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">For full or part pay off of loans interest is charged to the date of redemption.  Unless the mortgage product you have chosen charges interest to the end of the month in which repayment occurs.  Please refer to your original offer for details.</FONT></P>
+<FONT face="Arial, Helvetica, sans-serif" size=-1><STRONG>Early Repayment Charges:</STRONG><BR>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">For full or part pay off of loans on our Standard Variable Rate or reverting Base Rate Tracker and outside of any early repayment charge period, no early repayment charges apply.<BR>
+<Br>For full or part pay off of loans on our Standard Variable Rate or reverting Base Rate Tracker or on any other rate, and inside any early repayment charge period, you may have to pay an early repayment charge. For example, an amount equal to six months&#39; interest at Standard Variable Rate, or, 4.5% of the amount you pay off. The special conditions in the Offer document you received when we approved your loan will tell you when and if an early repayment charge is payable.</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000"><STRONG>Fees applied in addition to any interest charge at the time the mortgage is redeemed:</STRONG></FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">For full pay off of a main loan there will be a £100.00 administration fee and a fee for the release of deeds.</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">For full pay off of a further loan there will be a £50.00 administration fee.</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">For part pay off there will be a fee of £50.00.
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">The fees are charged to cover our reasonable administration costs. These include discharge at Land Registry if required and secure postage.</FONT></P>
+<FONT face="Arial, Helvetica, sans-serif" size=-1><STRONG>Transfer charges:</STRONG><p>
+If you elect to transfer to another Bristol & West product during the life of your current mortgage we may make a transfer charge.
+<BR><HR><P><FONT face="Arial, Helvetica, sans-serif"><STRONG><A name=other>Charges which may be made in other circumstances.</A></STRONG></FONT></P>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Negative Equity</FONT></br>
+<TABLE border=0 cellPadding=5 cellSpacing=0 width=580>
+<tr><td background=/images/mortgages/guide_to_charge_tab_top_l1.gif width=435>
+<img src=/images/blank.gif border=0 width=425 height=10></TD>
+<td background=/images/mortgages/guide_to_charge_tab_top_r1.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=10></TD></tr>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">We will charge a fee following a request to sell the mortgaged property where the amount of the mortgage loan is greater than the sale price of the property.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica, sans-serif" size=-1>£100.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">A charge will be made for each &#39;office copy&#39; obtained from the HM Land Registry<BR>There will also be valuation fees. These fees will be different for each property.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£8.00 per copy</FONT></TD></TR></TABLE>
+<img src=/images/mortgages/guide_to_charge_tab_bot1.gif border=0 width=580 height=20><br><P>
+
+<p><FONT face="Arial, Helvetica" size=-1 color="#000000">Capitalisation of Arrears</FONT></br>
+<TABLE border=0 cellPadding=5 cellSpacing=0 width=580>
+<tr><td background=/images/mortgages/guide_to_charge_tab_top_l1.gif width=435>
+<img src=/images/blank.gif border=0 width=425 height=10></TD>
+<td background=/images/mortgages/guide_to_charge_tab_top_r1.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=10></TD></tr>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">When we agree to add the arrears to the balance of your mortgage. Arrears are not permitted on any of our flexible mortgages.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"> </FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">For arrears up to £4,999.99</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£25.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">For arrears from £5,000.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£50.00</FONT></TD></TR></TABLE>
+<img src=/images/mortgages/guide_to_charge_tab_bot1.gif border=0 width=580 height=20><br><P>
+
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000"><STRONG>Arrears administration fee</STRONG><BR>When you are behind with payments we make charges to help us cover our extra administration costs.</FONT></P>
+<TABLE border=0 cellPadding=5 cellSpacing=0 width=580>
+<tr><td background=/images/mortgages/guide_to_charge_tab_top_l1.gif width=435>
+<img src=/images/blank.gif border=0 width=425 height=10></TD>
+<td background=/images/mortgages/guide_to_charge_tab_top_r1.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=10></TD></tr>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Arrears statements.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">No charge</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"><b>No Response/Continual Default Fee</b>
+<BR>This fee will apply where there is a need to contact you about the conduct of your account.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"><BR> <BR>£15.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"><b>Late Charge Fee</B>
+<BR>We charge a fee for every month that your account is behind by at least 3 monthly payments. These fees are added up at the end of the financial year. You will have to pay these fees in 10 equal instalments, along with your monthly mortgage payments, in the following financial year.</FONT>
+</TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000"><BR> <BR>£25.00 per month</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">When your case is referred to an arrears counsellor.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica, sans-serif" size=-1>£95.00</FONT></TD>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">Drive-by fee when we make a property check.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica, sans-serif" size=-1>£60.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">If you don&#39;t keep an appointment with an arrears counsellor.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£25.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">If we decide to take legal action.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">£50.00</FONT></TD></TR>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">We will add further costs and fees to your mortgage once legal action has started.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">The total amount charged will depend upon your case</FONT></TD></TR></TABLE>
+<img src=/images/mortgages/guide_to_charge_tab_bot1.gif border=0 width=580 height=20><br><P>
+
+<p><FONT face="Arial, Helvetica" size=-1 color="#000000">If we repossess your property</br></FONT>
+<TABLE border=0 cellPadding=5 cellSpacing=0 width=580>
+<tr><td background=/images/mortgages/guide_to_charge_tab_top_l1.gif width=435>
+<img src=/images/blank.gif border=0 width=425 height=10></TD>
+<td background=/images/mortgages/guide_to_charge_tab_top_r1.gif width=145>
+<img src=/images/blank.gif border=0 width=135 height=10></TD></tr>
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">If we repossess your property, we will charge costs in connection with selling your property. These costs will be different for each property.</FONT></TD>
+<TD background=/images/mortgages/table_border2.gif width=145></td></tr>
+
+<TR vAlign=top><TD background=/images/mortgages/table_border.gif width=435>
+<FONT face="Arial, Helvetica" size=-1 color="#000000">There will also be one charge made by The Possession Management Department to cover administration costs.</FONT></TD>
+
+<TD background=/images/mortgages/table_border2.gif width=145>
+<FONT face="Arial, Helvetica, sans-serif" size=-1 valign=centre>£300.00</FONT></TD></TR>
+
+</TABLE>
+<img src=/images/mortgages/guide_to_charge_tab_bot1.gif border=0 width=580 height=20><br><P>
+
+<HR><P><FONT face="Arial, Helvetica, sans-serif"><STRONG><A name=further>Further points to note</A></STRONG></FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">If you are behind with your 
+repayments at the end of the financial year, this amount will be included in the balance we use to work out the next year&#39;s interest. The rate we use for this purpose will be the rate prevailing on your account at the time.</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">Interest on our flexible mortgages is calculated on the daily outstanding balance taking account of the following:</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">
+1. Lump sum overpayments are credited the day following receipt of monies<BR>
+2. Regular overpayments and monthly payments are applied for interest calculation at the end of each calendar month<BR>
+3. Drawdowns are applied the day following the release of funds</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">From time to time your mortgage repayment is recalculated, for example when there is a change in the rate of interest. This calculation is based on the balance we would expect to find if you had been paying the normal amount and not underpaying or overpaying.  However, the interest charged each month on your Mortgage is calculated on the total amount owed to us, as confirmed on your annual statement. This takes into account any arrears or credit balances.</FONT></P>
+<P><FONT face="Arial, Helvetica" size=-1 color="#000000">If the account is in arrears, the interest charged each month may be greater than the mortgage payment requested. If this is the case, the difference is added each month to the total amount owed to us.</FONT></P></TD></TR>
+</table>  
+
+<HR>
+	
+	</font>	
+	
+	<!--End of Content Area-->
+
+		</TD>
+		
+		<!--Start of Toolbox/Promo/Hero Area--><TD valign=top align=right><TABLE border=0 width=300>
+		</TABLE>
+	</TD><!--End of Toolbox/Promo/Hero Area-->
+		
+	</TR>
+
+	<!--Spacer Start-->
+	<TR>
+		<TD align=center height=20 colspan=2>
+			<IMG src="/images/blank.gif" border=0 width=300 height=20><br>
+		</td>
+	</TR>
+	<!--Spacer End-->
+	<TR>
+		<TD height=20 colspan=2>
+			&nbsp;
+
+	
+	<!--Start of Caveat Area-->
+	
+		<font face="Arial, Helvetica" size=1 color="#000000">
+		
+			
+		
+		</font>
+	
+	<!--End of Caveat Area-->
+
+		</TD>
+	</TR>
+
+
+</TABLE>
+
+</BODY>
+
+</HTML>

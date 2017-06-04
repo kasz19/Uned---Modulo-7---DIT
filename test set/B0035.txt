@@ -1,0 +1,559 @@
+ID=B0035
+URL=http://www.scarboroughbs.co.uk/docs/investment/investment02.asp
+SIZE=37058
+DATE=28/06/2002
+TIME=12:46:49
+DATASET=Building Societies
+HTML=<!--
+
+--------------------------------------------------------------------------
+   8th May 2000
+
+   This software was designed and developed by Black Sun Plc
+   on behalf of Scarborough Building Society.
+
+   Copyright Scarborough Building Society 2000, all rights reserved.
+
+   ** CREDITS **
+   Software Engineering
+      Technical Team Leader & Architect - James Mace
+      Technical Manager - Mirko Savarese
+      Software Engineers - Andrew Cottrell
+
+   Design
+      Creative Director - Russell Douglas
+      Designers - Domitilla Biondi
+
+   Black Sun Plc
+   9 Burlington Lodge Studios
+   Rigault Road
+   Fulham
+   London
+   SW6 4JJ
+   Tel: +44 (0)20 7736 0011
+   Fax: +44 (0)20 7736 1294
+
+--------------------------------------------------------------------------
+
+-->
+
+
+
+<HTML>
+<HEAD>
+
+    <TITLE>Scarborough Building Society</TITLE>
+
+    <meta http-equiv="Expires" content="now" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="building, society, mortgage, investments, bonus bonds, securities, savings, scarborough, endownment, insurance, payment protection insurance, best apr, flexible discount mortgage" />
+<meta name="description" content="Scarborough Building Society offer some of the most competitive mortgage rates available, plus property and mortgage payment protection insurance and life cover. They also offer a wide range of investment products which provide excellent returns." />
+
+
+    <SCRIPT LANGUAGE="JAVASCRIPT">
+    <!--
+    function MM_findObj(n, d) { //v3.0
+      var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+        d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+      if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+      for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+    }
+
+    function MM_showHideLayers() { //v3.0
+      var i,p,v,obj,args=MM_showHideLayers.arguments;
+      for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+        if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+        obj.visibility=v; }
+    }
+
+    function MM_swapImgRestore() { //v3.0
+      var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+    }
+
+    function MM_preloadImages() { //v3.0
+      var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+        var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+        if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+    }
+
+    function MM_swapImage() { //v3.0
+      var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+       if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+    }
+    // -->
+    </SCRIPT>
+
+    
+
+</HEAD>
+
+<BODY bgcolor="#FFFFFF" background="/images/bkg.gif" text="#000066" marginheight="0" marginwidth="0" style="margin-top: 0; margin-left: 0" onLoad="MM_preloadImages('/images/b_sms_on.gif','/images/subnav/b_mortg_3_on.gif','/images/subnav/b_mortg_1_on.gif','/images/subnav/b_mortg_2_on.gif','/images/subnav/b_guide_on.gif','/images/subnav/b_invest_3_on.gif','/images/subnav/b_invest_1_on.gif','/images/b_about_on.gif','/images/b_branch_on.gif','/images/b_news_on.gif','/images/b_annual_on.gif','/images/b_key_on.gif','/images/b_recruit_on.gif','/images/b_sitemap_on.gif','/images/b_feedback_on.gif','/images/b_links_on.gif','/images/subnav/b_aboutus_1_on.gif','/images/subnav/b_aboutus_2_on.gif','/images/subnav/b_aboutus_3_on.gif','/images/subnav/b_aboutus_4_on.gif','/images/subnav/b_aboutus_5_on.gif','/images/subnav/b_aboutus_6_on.gif')">
+
+<TABLE WIDTH="740" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+  <TR>
+    <TD COLSPAN="2"><A HREF="#" onMouseOver="MM_showHideLayers('aboutus','','hide','mortg','','hide','invest','','hide','sms','','hide')"><IMG SRC="../../images/g_house1.gif" WIDTH="220" HEIGHT="116" border=0></A><BR>
+      <IMG SRC="../../images/g_house2.gif" WIDTH="129" HEIGHT="42"><IMG SRC="../../images/investment/pict2.gif" WIDTH="91" HEIGHT="42"></TD>
+    <TD VALIGN="BOTTOM">
+      <IMG SRC="../../images/pxl_void.gif" WIDTH="300" HEIGHT="87"><BR>
+      <IMG SRC="../../images/investment/t_investment.gif" WIDTH="266" HEIGHT="22"><BR>
+      <!-- subsections-->
+      <NOBR><A HREF="investment02.asp"><IMG SRC="../../images/investment/sub_1_on.gif" WIDTH="212" HEIGHT="18" BORDER="0"></A><A HREF="investment03.asp"><IMG SRC="../../images/investment/sub_2_off.gif" WIDTH="208" HEIGHT="18" BORDER="0"></A></NOBR><BR>
+      <NOBR><A HREF="investment04.asp"><IMG SRC="../../images/investment/sub_3_off.gif" WIDTH="212" HEIGHT="17" BORDER="0"></A><A HREF="investment05.asp"><IMG SRC="../../images/investment/sub_4_off.gif" WIDTH="208" HEIGHT="17" border=0></A></NOBR><BR>
+	  <!-- end subsections-->
+
+      <IMG SRC="../../images/g_bottom_blue.gif" WIDTH="210" HEIGHT="7"></TD>
+    <TD VALIGN="BOTTOM"><A HREF="../sitemap/sitemap01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sitemap','','../../images/b_sitemap_on.gif',1)"><IMG SRC="../../images/b_sitemap_off.gif" WIDTH="100" HEIGHT="18" NAME="sitemap" BORDER="0"></A><BR>
+      <A HREF="../feedback/feedback01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('feedback','','../../images/b_feedback_on.gif',1)"><IMG SRC="../../images/b_feedback_off.gif" WIDTH="100" HEIGHT="18" NAME="feedback" BORDER="0"></A><BR>
+      <!-- <A HREF="../links/links01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('usefullinks','','../../images/b_links_on.gif',1)"><IMG SRC="../../images/b_links_off.gif" WIDTH="100" HEIGHT="18" NAME="usefullinks" BORDER="0"></A><BR> -->
+      <IMG SRC="../../images/flash_1.gif" WIDTH="100" HEIGHT="42"></TD>
+  </TR>
+  <TR>
+    <TD VALIGN="TOP"><A HREF="../../home.asp"><IMG SRC="../../images/b_home.gif" WIDTH="129" HEIGHT="18" BORDER="0"></A><BR>
+      <A HREF="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_showHideLayers('aboutusout','','show','aboutus','','show')"><IMG SRC="../../images/b_aboutus_off.gif" WIDTH="129" HEIGHT="18" NAME="about" BORDER="0"></A><BR><A HREF="#" onMouseOver="MM_showHideLayers('mortgout','','show','mortg','','show')"><IMG SRC="../../images/b_mortgage_off.gif" WIDTH="129" HEIGHT="18" BORDER="0" NAME="mortgage"></A><BR>
+      <A HREF="#" onMouseOver="MM_showHideLayers('investout','','show','invest','','show')"><IMG SRC="../../images/b_investment_on.gif" WIDTH="129" HEIGHT="18" BORDER="0" NAME="investment"></A><BR>
+      <A HREF="../news/news01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('news','','../../images/b_news_on.gif',1)"><IMG SRC="../../images/b_news_off.gif" WIDTH="129" HEIGHT="18" NAME="news" BORDER="0"></A><BR>
+      <A HREF="../annual/annual01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('annual','','../../images/b_annual_on.gif',1)"><IMG SRC="../../images/b_annual_off.gif" WIDTH="129" HEIGHT="18" NAME="annual" BORDER="0"></A><BR><A HREF="../branches/branches01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('branches','','../../images/b_branch_on.gif',1)"><IMG SRC="../../images/b_branch_off.gif" WIDTH="129" HEIGHT="18" NAME="branches" BORDER="0"></A><BR>
+      <A HREF="../key/key01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('key','','../../images/b_key_on.gif',1)"><IMG SRC="../../images/b_key_off.gif" WIDTH="129" HEIGHT="18" NAME="key" BORDER="0"></A><BR>
+       <A HREF="../recruit/recruit01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('recruit','','../../images/b_recruit_on.gif',1)"><IMG SRC="../../images/b_recruit_off.gif" WIDTH="129" HEIGHT="18" NAME="recruit" BORDER="0"></A><BR><A HREF="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_showHideLayers('smsout','','show','sms','','show')"><IMG SRC="../../images/b_sms_off.gif" WIDTH="129" HEIGHT="18" BORDER="0"></A><BR>
+      <IMG SRC="../../images/g_bottom_pink.gif" WIDTH="129" HEIGHT="18"><BR>
+    </TD>
+    <TD VALIGN="TOP"><A HREF="#" onMouseOver="MM_showHideLayers('aboutus','','hide','mortg','','hide','invest','','hide','sms','','hide')"><IMG SRC="../../images/investment/pict1.gif"  WIDTH="91" HEIGHT="296" ALIGH=right border=0></A></TD>
+    <TD VALIGN="TOP">
+      <BR>
+      <TABLE WIDTH="420" BORDER="0" CELLSPACING="0" CELLPADDING="8">
+        <TR>
+          <TD>
+            <P>&nbsp;</P>
+          </TD>
+          <TD VALIGN="TOP">
+            <DIV CLASS="MortgageText">
+              We take great pride in the fact that our total number of investors
+              has more than doubled in the past five years.
+              <BR><BR>
+              This success is due to both the attractive rates on our savings and investment
+              products and, importantly, the high quality of service offered to
+              every one of our members.
+              <BR><BR>
+              So if you are looking to make the most of your money, telephone today for an
+              application form.
+            </DIV>
+            <P><IMG SRC="../../images/investment/g_contactus.gif" WIDTH="157" HEIGHT="42" ALIGN="RIGHT"></P>
+          </TD>
+        </TR>
+      </TABLE>
+      <P> <IMG SRC="../../images/investment/t_products.gif" WIDTH="420" HEIGHT="19" BORDER=0><BR>
+      </P>
+      <TABLE WIDTH="420" BORDER="0" CELLSPACING="6" CELLPADDING="0">
+        
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>90 Day Access Bond Issue Three</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">4.50%</SPAN> <SPAN CLASS="ProductDetails"><I>(Gross per annum), variable rate on savings of £2,500 and above including a 0.50% fixed bonus payable for the first 6 months,</I></SPAN><SPAN CLASS="ProductLink">(AER 4.25%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">The 90 Day Access Bond Issue Three is a limited issue variable rate account - with the benefit of an introductory fixed bonus of 0.50% which is payable for six months from the date the Bond is opened.  The Bond also allows penalty free access to your money subject to 90 days' notice.<BR></DIV>
+		            <A HREF="product.asp?InvId=229"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+
+			    			<TR><TD><IMG SRC="../../images/pxl_void.gif" WIDTH=1 HEIGHT=2><BR></TD></TR>
+
+      		  		
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>Twelve Month Fixed Rate Bond (Issue Seven)</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">4.50%</SPAN> <SPAN CLASS="ProductDetails"><I>(gross per annum) on savings of £250 and above, fixed for the first twelve months,</I></SPAN><SPAN CLASS="ProductLink">(AER 4.50%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">After the initial twelve months the rate is guaranteed not to fall more than 0.25% below the Bank of England base rate for the remaining two years of the Bond for annual interest paying accounts.<BR></DIV>
+		            <A HREF="product.asp?InvId=231"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+					        <TR>
+					          <TD HEIGHT="2" COLSPAN="3"> <IMG SRC="../../images/g_hr.gif" WIDTH="407" HEIGHT="3" BORDER=0 VSPACE="10"></TD>
+					        </TR>
+
+					
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>Bonus 75 Day Bond (Issue Four)</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">4.35%</SPAN> <SPAN CLASS="ProductDetails"><I>(gross per annum), variable rate on savings of £5,000 and above including a 1.15% fixed bonus payable for the first 6 months,</I></SPAN><SPAN CLASS="ProductLink">(AER 3.78%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">The Bonus 75 Day Bond (Issue Four) is a limited issue variable rate account with the benefit of an introductory fixed bonus of 1.15% which is payable for six months from the date the Bond is opened. The Bond also allows penalty free access to your money subject to 75 days’ notice.
+<BR></DIV>
+		            <A HREF="product.asp?InvId=223"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+
+			    			<TR><TD><IMG SRC="../../images/pxl_void.gif" WIDTH=1 HEIGHT=2><BR></TD></TR>
+
+      		  		
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>Children's Savings Bond</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">5.00%</SPAN> <SPAN CLASS="ProductDetails"><I>(gross per annum) on savings from as little as £5 per month,</I></SPAN><SPAN CLASS="ProductLink">(AER 5.00%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">Our Children’s Savings Bond is available to anyone under the age of 18 and is specially designed to help young people save regularly and watch their savings grow.
+
+<BR></DIV>
+		            <A HREF="product.asp?InvId=216"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+					        <TR>
+					          <TD HEIGHT="2" COLSPAN="3"> <IMG SRC="../../images/g_hr.gif" WIDTH="407" HEIGHT="3" BORDER=0 VSPACE="10"></TD>
+					        </TR>
+
+					
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>Bonus Bond Issue Twenty Two (Limited Issue)</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">3.45%</SPAN> <SPAN CLASS="ProductDetails"><I>(Gross per annum), variable rate on savings of £100 and above including a 0.75% fixed bonus payable for the first 6 months,</I></SPAN><SPAN CLASS="ProductLink">(AER 3.08%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">The Bonus Bond Issue Twenty Two is a limited issue variable rate account - with the benefit of an introductory fixed bonus of 0.75% which is payable for six months from the date the Bond is opened.  The Bond also allows penalty free access to your money subject to 60 days' notice.<BR></DIV>
+		            <A HREF="product.asp?InvId=227"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+
+			    			<TR><TD><IMG SRC="../../images/pxl_void.gif" WIDTH=1 HEIGHT=2><BR></TD></TR>
+
+      		  		
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>Fixed Term Savings Bond (Issue Three)</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">4.90%</SPAN> <SPAN CLASS="ProductDetails"><I>(gross per annum) on savings of £100 and above, fixed for the first four months,</I></SPAN><SPAN CLASS="ProductLink">(AER 4.30%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">After the initial four months, the rate is guaranteed to match the Bank of England base rate for the next eight months and guaranteed to be only 1% below the Bank of England base rate for the remaining two years.<BR></DIV>
+		            <A HREF="product.asp?InvId=224"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+					        <TR>
+					          <TD HEIGHT="2" COLSPAN="3"> <IMG SRC="../../images/g_hr.gif" WIDTH="407" HEIGHT="3" BORDER=0 VSPACE="10"></TD>
+					        </TR>
+
+					
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>Fifty Five Day Access Bond By Post (Issue I) Limited Edition</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">2.60%</SPAN> <SPAN CLASS="ProductDetails"><I>(Gross per annum), variable rate on savings of £5,000 and above,</I></SPAN><SPAN CLASS="ProductLink">(AER 2.60%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">The 55 Day Access Bond By Post (Issue I) is a 55 day variable rate notice account, with the option of either annual interest or monthly income.<BR></DIV>
+		            <A HREF="product.asp?InvId=196"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+
+			    			<TR><TD><IMG SRC="../../images/pxl_void.gif" WIDTH=1 HEIGHT=2><BR></TD></TR>
+
+      		  		
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>Keepsafe By Post</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">0.75%</SPAN> <SPAN CLASS="ProductDetails"><I>(Gross per annum), variable rate can be earned on savings of £2,500 and above,</I></SPAN><SPAN CLASS="ProductLink">(AER 0.75%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">Our Keepsafe By Post Account is ideal for everyone - being a regular savings account that offers access without notice or penalty.  So decide now to save every month and look forward to building an investment for the future.<BR></DIV>
+		            <A HREF="product.asp?InvId=197"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+					        <TR>
+					          <TD HEIGHT="2" COLSPAN="3"> <IMG SRC="../../images/g_hr.gif" WIDTH="407" HEIGHT="3" BORDER=0 VSPACE="10"></TD>
+					        </TR>
+
+					
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>Keepsafe Savings Bond By Post</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">2.55%</SPAN> <SPAN CLASS="ProductDetails"><I>(Gross per annum), variable rate on savings of £15 and above,</I></SPAN><SPAN CLASS="ProductLink">(AER 2.55%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">Our Keepsafe Savings Bond By Post can be an effective way to build up your savings.  The Bond lasts for two years then transfers automatically to our First Post Account, giving you penalty free access to your money.  So decide now to save every month and look forward to building an investment for the future.<BR></DIV>
+		            <A HREF="product.asp?InvId=198"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+
+			    			<TR><TD><IMG SRC="../../images/pxl_void.gif" WIDTH=1 HEIGHT=2><BR></TD></TR>
+
+      		  		
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>One Year Variable Rate Bond By Post (Issue I) Limited Edition</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">2.10%</SPAN> <SPAN CLASS="ProductDetails"><I>(Gross per annum), variable rate on savings of £50,000 and above,</I></SPAN><SPAN CLASS="ProductLink">(AER 2.10%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">One Year Variable Rate Bond By Post (Issue I) is designed to give you the security of an interest rate guaranteed to be 0.50% gross above the Society's Scarborough 30 By Post Account.<BR></DIV>
+		            <A HREF="product.asp?InvId=199"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+					        <TR>
+					          <TD HEIGHT="2" COLSPAN="3"> <IMG SRC="../../images/g_hr.gif" WIDTH="407" HEIGHT="3" BORDER=0 VSPACE="10"></TD>
+					        </TR>
+
+					
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>40 Day Access Bond By Post (Issue I) Limited Edition</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">2.20%</SPAN> <SPAN CLASS="ProductDetails"><I>(Gross per annum), variable rate on savings of £1,000 and above,</I></SPAN><SPAN CLASS="ProductLink">(AER 2.20%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">The 40 Day Access Bond By Post (Issue I) is a 40 day variable rate notice account, which is designed with the option of either annual interest or monthly income.<BR></DIV>
+		            <A HREF="product.asp?InvId=200"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+
+			    			<TR><TD><IMG SRC="../../images/pxl_void.gif" WIDTH=1 HEIGHT=2><BR></TD></TR>
+
+      		  		
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>Scarborough 30 By Post</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">1.20%</SPAN> <SPAN CLASS="ProductDetails"><I>(Gross per annum), variable rate can be earned on savings of £50,000 and above,</I></SPAN><SPAN CLASS="ProductLink">(AER 1.20%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">Scarborough 30 By Post is a 30 day notice account, with the option of either annual interest or monthly income.<BR></DIV>
+		            <A HREF="product.asp?InvId=201"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+					        <TR>
+					          <TD HEIGHT="2" COLSPAN="3"> <IMG SRC="../../images/g_hr.gif" WIDTH="407" HEIGHT="3" BORDER=0 VSPACE="10"></TD>
+					        </TR>
+
+					
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>Scarborough 7 By Post</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">1.05%</SPAN> <SPAN CLASS="ProductDetails"><I>(Gross per annum), variable rate can be earned on savings of £25,000 and above,</I></SPAN><SPAN CLASS="ProductLink">(AER 1.05%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">Scarborough 7 By Post is a 7 day notice account, with the option of either annual interest or monthly income.<BR></DIV>
+		            <A HREF="product.asp?InvId=202"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+
+			    			<TR><TD><IMG SRC="../../images/pxl_void.gif" WIDTH=1 HEIGHT=2><BR></TD></TR>
+
+      		  		
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>Scarborough First Post Plus</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">0.40%</SPAN> <SPAN CLASS="ProductDetails"><I>(Gross per annum), variable rate can be earned on savings of £25,000 and above,</I></SPAN><SPAN CLASS="ProductLink">(AER 0.40%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">Scarborough First Post Plus allows withdrawals without notice or penalty - and offers the option of either annual interest or monthly income - enabling you to make the most of your Scarborough investment.<BR></DIV>
+		            <A HREF="product.asp?InvId=203"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+					        <TR>
+					          <TD HEIGHT="2" COLSPAN="3"> <IMG SRC="../../images/g_hr.gif" WIDTH="407" HEIGHT="3" BORDER=0 VSPACE="10"></TD>
+					        </TR>
+
+					
+		        <TR>
+		          <TD VALIGN="TOP" WIDTH="14"><IMG SRC="../../images/spacer.gif" WIDTH="14" HEIGHT="30" BORDER="0"></TD>
+		          <TD VALIGN="TOP"><IMG SRC="../../images/g_pound.gif" WIDTH="17" HEIGHT="15">
+		          </TD>
+		          <TD VALIGN="TOP">
+		            <DIV CLASS="ProductLink"><B>Scarborough First Post</B><BR>
+		            	<SPAN CLASS="ProductDetails">
+		               		<SPAN CLASS="ProductLink">0.40%</SPAN> <SPAN CLASS="ProductDetails"><I>(Gross per annum), variable rate can be earned on savings of £25,000 and above,</I></SPAN><SPAN CLASS="ProductLink">(AER 0.40%)</SPAN>
+		            	</SPAN>
+		            </DIV>
+		            <DIV CLASS="MortgageText">Scarborough First Post allows withdrawals without notice or penalty - and offers the option of either annual interest or monthly income - enabling you to make the most of your Scarborough investment.<BR></DIV>
+		            <A HREF="product.asp?InvId=204"><IMG SRC="../../images/b_product_details.gif" WIDTH="95" HEIGHT="14" VSPACE="3" BORDER="0"></A>
+		          </TD>
+		        </TR>
+
+		        	
+
+			    			<TR><TD><IMG SRC="../../images/pxl_void.gif" WIDTH=1 HEIGHT=2><BR></TD></TR>
+
+      		  		
+      </TABLE>
+    </TD>
+    <TD VALIGN="TOP">
+      <TABLE WIDTH="100" BORDER="0" CELLSPACING="0" CELLPADDING="5" BACKGROUND="../../images/flash_bkg.gif" BGCOLOR="#CC0000">
+        <TR ALIGN="RIGHT" valign=top>
+        	<TD>
+        		<DIV CLASS="MortgageText">
+	        		<FONT COLOR="#FFFFFF">
+		        		Find out about our lastest mortgage offer
+		        		<BR><BR>
+	        		</FONT>
+	        	</DIV>
+        	</TD>
+        </TR>
+      </TABLE>
+      <A HREF='../mortgage/mortgage01.asp'><IMG SRC='../../images/flash_bottom.gif' WIDTH=100 HEIGHT=43 border=0></A>
+
+    </TD>
+  </TR>
+</TABLE>
+
+<!-- SSI file that provides DHTML menu functionality -->
+<!-- aboutus layers -->
+<DIV ID="aboutusout" STYLE="position:absolute; z-index:13; left: 0px; top: 167px;  width: 500px; height: 200px; visibility: hidden"><A HREF="#" onMouseOver="MM_showHideLayers('aboutusout','','hide','aboutus','','hide')"><IMG SRC="../../images/spacer.gif" WIDTH="500" HEIGHT="200" BORDER="0"></A></DIV>
+<DIV ID="aboutus" STYLE="position:absolute; width:310px; height:75px; z-index:15; left: 0px; top: 175px;  visibility: hidden">
+  <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="310" HEIGHT="60">
+    <TR>
+       <TD VALIGN="TOP" WIDTH="129"><IMG SRC="../../images/spacer.gif" WIDTH="129" HEIGHT="1" BORDER=0><br><A HREF="../aboutus/aboutus01.asp"><IMG SRC="../../images/b_aboutus_on.gif" WIDTH="129" HEIGHT="18"  border=0></A><br><A HREF="#" onMouseOver="MM_showHideLayers('aboutusout','','hide','aboutus','','hide')"><IMG SRC="../../images/spacer.gif" WIDTH="129" HEIGHT="20" BORDER="0"></A></TD>
+      <TD VALIGN="TOP"><IMG SRC="../../images/pxl_white.gif" WIDTH="177" HEIGHT="1"><br>
+        <A HREF="../aboutus/aboutus01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('suba1','','../../images/subnav/b_aboutus_1_on.gif',1)"><IMG SRC="../../images/subnav/b_aboutus_1_off.gif" WIDTH="177" HEIGHT="18" BORDER="0" NAME="suba1"></A><BR>
+        <A HREF="../aboutus/aboutus02.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('suba2','','../../images/subnav/b_aboutus_2_on.gif',1)"><IMG SRC="../../images/subnav/b_aboutus_2_off.gif" WIDTH="177" HEIGHT="18" NAME="suba2" BORDER="0"></A><BR>
+        <A HREF="../aboutus/aboutus03.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('suba3','','../../images/subnav/b_aboutus_3_on.gif',1)"><IMG SRC="../../images/subnav/b_aboutus_3_off.gif" WIDTH="177" HEIGHT="18" NAME="suba3" BORDER="0"></A><BR>
+		<A HREF="../aboutus/aboutus04.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('suba4','','../../images/subnav/b_aboutus_4_on.gif',1)"><IMG SRC="../../images/subnav/b_aboutus_4_off.gif" WIDTH="177" HEIGHT="18" NAME="suba4" BORDER="0"></A><BR>
+		<A HREF="../aboutus/aboutus05.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('suba6','','../../images/subnav/b_aboutus_6_on.gif',1)"><IMG SRC="../../images/subnav/b_aboutus_6_off.gif" WIDTH="177" HEIGHT="18" NAME="suba6" BORDER="0"></A><BR>
+      </TD>
+    </TR>
+  </TABLE>
+</DIV>
+<!-- END aboutus layers -->
+
+<!-- morgage layers -->
+<DIV ID="mortgout" STYLE="position:absolute; z-index:3; left: 0px; top: 180px; width: 500px; height: 200px; visibility: hidden"><A HREF="#" onMouseOver="MM_showHideLayers('mortgout','','hide','mortg','','hide')"><IMG SRC="../../images/spacer.gif" WIDTH="500" HEIGHT="200" BORDER="0"></A></DIV>
+<DIV ID="mortg" STYLE="position:absolute; width:310px; height:75px; z-index:5; left: 0px; top: 193px; visibility: hidden">
+  <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="310" HEIGHT="60">
+    <TR>
+      <TD VALIGN="TOP" WIDTH="129"><IMG SRC="../../images/spacer.gif" WIDTH="129" HEIGHT="1"><br><A HREF="../mortgage/mortgage01.asp"><IMG SRC="../../images/b_mortgage_on.gif" WIDTH="129" HEIGHT="18"  border=0></A><br><A HREF="#" onMouseOver="MM_showHideLayers('mortgout','','hide','mortg','','hide')"><IMG SRC="../../images/spacer.gif" WIDTH="129" HEIGHT="20" BORDER="0"></A></TD>
+      <TD VALIGN="TOP"><IMG SRC="../../images/pxl_white.gif" WIDTH="177" HEIGHT="1"><br>
+        <A HREF="../mortgage/mortgage01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subm1','','../../images/subnav/b_mortg_1_on.gif',1)"><IMG SRC="../../images/subnav/b_mortg_1_off.gif" WIDTH="177" HEIGHT="18" BORDER="0" NAME="subm1"></A><BR>
+        <A HREF="../mortgage/mortgage02.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subm2','','../../images/subnav/b_mortg_2_on.gif',1)"><IMG SRC="../../images/subnav/b_mortg_2_off.gif" WIDTH="177" HEIGHT="18" NAME="subm2" BORDER="0"></A><BR>
+        <A HREF="#" onClick="javascript:window.open('../mortgage/mglossary.html','mglossary','width=400,height=300,menubar=yes');" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subm3','','../../images/subnav/b_glossary_on.gif',1)"><IMG SRC="../../images/subnav/b_glossary_off.gif" WIDTH="177" HEIGHT="18" NAME="subm3" BORDER="0"></A><BR>
+ 		<A HREF="../mortgage/mortgage03.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subm4','','../../images/subnav/b_mortg_3_on.gif',1)"><IMG SRC="../../images/subnav/b_mortg_3_off.gif" WIDTH="177" HEIGHT="18" BORDER="0" NAME="subm4"></A><BR>
+ 		<A HREF="../mortgage/mortgage04.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subm5','','../../images/subnav/b_mortg_4_on.gif',1)"><IMG SRC="../../images/subnav/b_mortg_4_off.gif" WIDTH="177" HEIGHT="18" BORDER="0" NAME="subm5"></A><BR>
+      </TD>
+    </TR>
+  </TABLE>
+</DIV>
+<!-- END morgage layers -->
+
+<!-- investment layers -->
+<DIV ID="investout" STYLE="position:absolute; z-index:23; left: 0px; top: 200px;  width: 500px; height: 250px; visibility: hidden"><A HREF="#" onMouseOver="MM_showHideLayers('investout','','hide','invest','','hide')"><IMG SRC="../../images/spacer.gif" WIDTH="500" HEIGHT="200" BORDER="0"></A></DIV>
+<DIV ID="invest" STYLE="position:absolute; width:310px; height:95px; z-index:25; left: 0px; top: 211px;  visibility: hidden">
+  <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="310" HEIGHT="60">
+    <TR>
+      <TD VALIGN="TOP" WIDTH="129"><IMG SRC="../../images/spacer.gif" WIDTH="129" HEIGHT="1"><br><A HREF="../investment/investment01.asp"><IMG SRC="../../images/b_investment_on.gif" WIDTH="129" HEIGHT="18" border=0></A><br><A HREF="#" onMouseOver="MM_showHideLayers('investout','','hide','invest','','hide')"><IMG SRC="../../images/spacer.gif" WIDTH="129" HEIGHT="20" BORDER="0"></A></TD>
+      <TD VALIGN="TOP"><IMG SRC="../../images/pxl_white.gif" WIDTH="177" HEIGHT="1"><br>
+        <A HREF="../investment/investment01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subi1','','../../images/subnav/b_invest_1_on.gif',1)"><IMG SRC="../../images/subnav/b_invest_1_off.gif" WIDTH="177" HEIGHT="18" BORDER="0" NAME="subi1"></A><BR>
+        <A HREF="../investment/investment02.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subi2','','../../images/subnav/b_invest_2_on.gif',1)"><IMG SRC="../../images/subnav/b_invest_2_off.gif" WIDTH="177" HEIGHT="18" NAME="subi2" BORDER="0"></A><BR>
+        <A HREF="../investment/investment03.asp"  onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subi3','','../../images/subnav/b_invest_3_on.gif',1)"><IMG SRC="../../images/subnav/b_invest_3_off.gif" WIDTH="177" HEIGHT="18" NAME="subi3" BORDER="0"></A><BR>
+		<A HREF="../investment/investment04.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subi4','','../../images/subnav/b_invest_4_on.gif',1)"><IMG SRC="../../images/subnav/b_invest_4_off.gif" WIDTH="177" HEIGHT="18" NAME="subi4" BORDER="0"></A><BR>
+		<A HREF="../investment/investment05.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subi5','','../../images/subnav/b_invest_5_on.gif',1)"><IMG SRC="../../images/subnav/b_invest_5_off.gif" WIDTH="177" HEIGHT="18" NAME="subi5" BORDER="0"></A><BR>
+      </TD>
+    </TR>
+  </TABLE>
+</DIV>
+<!-- END investment layers -->
+
+<!-- sms layers -->
+<DIV ID="smsout" STYLE="position:absolute; z-index:33; left: 0px; top: 300px;  width: 500px; height: 150px; visibility: hidden"><A HREF="#" onMouseOver="MM_showHideLayers('smsout','','hide','sms','','hide')"><IMG SRC="../../images/spacer.gif" WIDTH="500" HEIGHT="150" BORDER="0"></A></DIV>
+<DIV ID="sms" STYLE="position:absolute; width:310px; height:75px; z-index:35; left: 0px; top: 319px; visibility: hidden">
+  <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="310" HEIGHT="60">
+    <TR>
+      <TD VALIGN="TOP" WIDTH="129"><IMG SRC="../../images/spacer.gif" WIDTH="129" HEIGHT="1"><BR><A HREF="../sms/sms01.asp"><IMG SRC="../../images/b_sms_on.gif" WIDTH="129" HEIGHT="18" border=0></A><br><A HREF="#" onMouseOver="MM_showHideLayers('smsout','','hide','sms','','hide')"><IMG SRC="../../images/spacer.gif" WIDTH="129" HEIGHT="20" BORDER="0"></A></TD>
+      
+    </TR>
+  </TABLE>
+</DIV>
+
+<!--
+<TD VALIGN="TOP"><IMG SRC="../../images/pxl_white.gif" WIDTH="177" HEIGHT="1"><br>
+	<A HREF="../sms/sms01.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subs1','','../../images/subnav/b_sms_1_on.gif',1)"><IMG SRC="../../images/subnav/b_sms_1_off.gif" WIDTH="177" HEIGHT="18" BORDER="0" NAME="subs1"></A><BR>
+    <A HREF="../sms/sms02.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subs2','','../../images/subnav/b_sms_2_on.gif',1)"><IMG SRC="../../images/subnav/b_sms_2_off.gif" WIDTH="177" HEIGHT="18" NAME="subs2" BORDER="0"></A><BR>
+	<A HREF="../sms/sms03.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('subs4','','../../images/subnav/b_sms_3_on.gif',1)"><IMG SRC="../../images/subnav/b_sms_3_off.gif" WIDTH="177" HEIGHT="18" NAME="subs4" BORDER="0"></A><BR>
+</TD>
+-->
+ 
+<!-- END sms layers -->
+
+
+</BODY>
+</HTML>
+

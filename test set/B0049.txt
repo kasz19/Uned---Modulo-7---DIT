@@ -1,0 +1,197 @@
+ID=B0049
+URL=http://www.beverleybs.co.uk/investment.html
+SIZE=8714
+DATE=28/06/2002
+TIME=12:46:58
+DATASET=Building Societies
+HTML=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+
+<HTML>
+<HEAD>
+<TITLE>Investment</TITLE>
+<META NAME="Generator" CONTENT="TextPad 3.0">
+<META NAME="Author" CONTENT="Mark Healey, http://www.healey.cx/">
+</HEAD>
+
+<BODY TEXT="#000000" LINK="#FF0000" VLINK="#800000" ALINK="#FF00FF" BACKGROUND="images/bg.gif" bgproperties="fixed">
+
+<p><TABLE ALIGN="left" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="450">
+<TR ALIGN="right" VALIGN="top">
+<TD>
+<p><img src="images/investing2.gif" width="250" height="60" border="0" vspace="5" hspace="5" alt="" align="right">
+<img src="images/investing1.gif" width="155" height="173" border="0" vspace="5" hspace="5" alt="" align="right"></p>
+</td>
+</tr>
+<tr>
+<td>
+<font face="times, serif" size="-1">
+<p clear=all>At Beverley Building Society, we are dedicated to helping you. As a traditional mutual society, the Beverley is run solely for the benefit of it's members. Our friendly staff are on hand to help you choose the account that meets your individual requirements - just call in and see us!</p>
+
+<a name="top"><p><b>Our range of investment accounts provides competitive returns on your savings and gives you the choice and flexibility needed in today's changing world.</b></p></a>
+
+<P>
+<dl>
+<dd><A HREF="#bonus">The Beverley Bonus</A></dd>
+<dd><A HREF="#90day">60 Day Notice</A></dd>
+<dd><A HREF="#instant">Instant Access Account</A></dd>
+<dd><A HREF="#capital">Capital Bond</A></dd>
+<dd><A HREF="#young">Young Savers</A></dd>
+<dd><A HREF="#monthly">Monthly Savings Plan</A></dd>
+<dd><A HREF="#isa">Mini Cash ISA</A></dd>
+</dl>
+</p>
+<p>
+<a href="ciir.html" target="new">Click here</a> for our current investment interest rates.</p>
+<P><A name="bonus"><FONT SIZE="+1">The Beverley Bonus</FONT></A></p>
+
+<P>
+<ul type="square">
+<li>High Interest
+<li>Bonus
+<li>No Fixed Term
+<li>Accessibility
+</ul>
+</p>
+
+<P>The Beverley Bonus account gives high rates of interest provided you are
+prepared to leave your savings with us for a period of at least 120 days.</p>
+
+<P>Give 120 days notice of your intention to withdraw your savings and you will
+not lose any interest.   Should the need arise you still have immediate
+access to your savings however you will lose 120 days interest on any amount
+taken out.</p>
+
+<P>The interest rates quoted include a 1% bonus which is awarded if you don't
+make any withdrawls during the financial year.</p>
+
+<P align="right"><A HREF="#top">Back to top of page</A></p>
+
+<P><A name="60day"><FONT SIZE="+1">60 Day Notice</FONT></A></p>
+
+<P>
+<ul type="square">
+<li>High Interest
+<li>Flexibility
+<li>Accessibility
+<li>No Fixed Term
+<li>Monthly Income
+</ul>
+</p>
+
+<P>The Beverley Building Society 60 Day Account combines the benefit of high interest on savings with the flexibility to gain instant access to your money whenever you want.</p>
+
+<P>Maintain a minimum balance of £5,000, or give 60 days notice of your intention to withdraw your savings and you will not lose any interest. Even if you do not meet either of these conditions you can still have access to your savings to make withdrawals whenever you want and only lose 60 days interest on the amount taken out.</p>
+
+<P align="right">
+<A HREF="#top">Back to top of page</A></p>
+<P><A name="instant"><FONT SIZE="+1">Instant Access</FONT></A></p>
+
+<P>
+<ul type="square">
+<li>Monthly Income
+<li>High Interest
+<li>No Notice
+<li>No Penalties
+<li>No Fixed Term
+<li>Instant Access
+</ul>
+</p>
+
+<P>The Instant Access Account is a totally flexible savings account that provides competitive rates of interest and still enables you to have access to your savings whenever you want, without giving any notice and without incurring interest penalties.</p>
+
+<P>The more you invest the higher rate of interest your savings will earn. As soon as your savings reach a higher band, the total sum invested earns the higher rate.</p>
+
+<P align="right"><A HREF="#top">Back to top of page</A></p>
+<P><A name="capital"><FONT SIZE="+1">Capital Bond</FONT></A></p>
+
+<P>
+<ul type="square">
+<li>High Interest
+<li>Security
+<li>Fixed Term
+<li>Minimum Balance
+<li>Monthly Income
+<li>Accessibility
+</ul>
+</p>
+
+<P>The Beverley Building Society Capital Bond is designed for the investor looking for a secure, high income investment account, over a fixed period of one year from the opening month, at a rate that is guaranteed to remain at an attractive level for the total period of the investment.</p>
+
+<P>The minimum investment is £10,000 and you can add to this investment at any time. At the end of the period, the Capital Bond can be renewed for a further period or your savings can be transferred to any of our other accounts.</p>
+
+<P align="right"><A HREF="#top">Back to top of page</A></p>
+<P><A name="young"><FONT SIZE="+1">Young Savers</FONT></A></p>
+
+<P>
+<ul type="square">
+<li>High Interest
+<li>No Notice
+<li>No Penalties
+<li>No Fixed Term
+<li>Instant Access
+</ul>
+</p>
+
+<P>The Beverley Young Savers Account is a totally flexible savings account that allows people under 18 with savings under £2500 to benefit from a premium rate of interest while still having instant access to their savings without having to give any notice or incur any penalties.</p>
+
+<P>It is the ideal way for you to start saving for that new bike, the latest trainers or even your first home.</p>
+
+<P>Young people under 18 years are eligible for the Beverley Young Savers Account. This account can be held by an adult on behalf of the child or in the young person's own name.</p>
+
+<P>You can open a Young Savers account with a minimum of £1. As soon as your savings exceed £2500, you can transfer to another form of Beverley Savings Account - our staff are on hand to discuss your needs.</p>
+
+<P align="right"><A HREF="#top">Back to top of page</A></p>
+
+<P><A name="monthly"><FONT SIZE="+1">Monthly Savings Plan</FONT></A></p>
+
+<P>
+<ul type="square">
+<li>Minimum investment of £10 per month
+<li>Maximum investment of £150 per month
+<li>High rate of interest
+<li>Annual bonus
+<li>Five year plan
+</ul>
+</p>
+
+<P>The ideal savings plan for those wishing to invest a regular amount for a fixed period at a high rate of interest. The bonus will be paid annually provided that regular monthly payments have been made.</p>
+
+<p>No withdrawals are permitted until the end of the plan. In the event of an early withdrawal becoming necessary a penalty of 90 days interest will be incurred and the account will be closed.</p>
+
+<P align="right"><A HREF="#top">Back to top of page</A></p>
+
+<P><A name="isa"><FONT SIZE="+1">Mini Cash ISA</FONT></A></p>
+
+<P>
+<ul type="square">
+<li>Income Tax Free
+<li>No Charges
+<li>Minimum Subsequent Deposit After Account Opened
+<li>Withdrawals Available Immediately
+<li>Competitive Interest Rate
+</ul>
+</p>
+
+<P>ISA's are flexible and can be tailor made to suit your finances. You can choose between investing an annual lump sum, making monthly contributions or making contributions when you can afford them.</p>
+
+<p>With ISA's there is a minimum initial deposit of &pound;500 and subsequent deposits can be from &pound;10 upwards, subject to Inland Revenue annual subscription limits.</p>
+
+<p>Interest on your ISA is tax free and will always be at a highly competitive rate. Interest is added on an annual basis on the 5th April each year and full details of current rates can be obtained on a separate sheet from the Society.</p>
+
+<p>How much to save in your ISA is up to you, subject to Inland Revenue limits. You can save a regular amount each week or month, put lump sums in when they become available or a combination of both. Whichever way you decide to save, you will be provided with a passbook showing an up to the minute record of your savings.</p>
+
+<p>You can also transfer savings from any of your other accounts within the society or from any other bank or building society into your ISA, subject to the annual savings limit.</p>
+
+<p>Whilst interest will be paid without any tax deduction, withdrawals can be made at any time. You can make one penalty free withdrawal per financial year. However, any subsequent withdrawal will be subject to 60 days notice or immediately with a loss of 60 days interest on the amount withdrawn.</p>
+
+<P align="right"><A HREF="#top">Back to top of page</A></p>
+<p clear="all" align="center"><hr></p>
+<p align="center"><a href="main.html">Welcome</a> | <a href="mortgages.html">Mortgages</a> | <a href="investment.html">Investment Savings</a> | <a href="contact.html">Contact Us</a> | <a href="index.html" target="_top">Home</a></p>
+</font>
+</TD>
+</tr>
+</TABLE>
+</p>
+
+</BODY>
+</HTML>

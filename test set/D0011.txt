@@ -1,0 +1,186 @@
+ID=D0011
+URL=http://networkimprov.com/archive-jod.html
+SIZE=7910
+DATE=16/07/02
+TIME=14:34:40
+DATASET=Java
+HTML=<html>
+<head><title>Network Improv : Archive : Java & OpenDoc</title></head>
+<body bgcolor="#F0D0A0">
+
+<table width=100% cellpadding=5 cellspacing=0><tr>
+<td width=11% bgcolor=#000000 align=center>
+<a href=http://networkimprov.com/><img src=g/logo.jpg border=0 align=middle></a></td>
+<td width=1></td>
+<td>
+
+<table width=100% border=0 cellpadding=0 cellspacing=0><tr>
+<td bgcolor=#eaeaea><img src=g/greypixel.jpg height=6 width=1></td>
+<td bgcolor=#806030 rowspan=4 width=3 valign=top><img src=g/tanpixel.jpg height=4 width=3></td>
+</tr><tr><td nowrap bgcolor=#eaeaea>&#160;
+<font size=4>
+<font size=5>N</font> E T W O R K&#160;
+<font size=5>I</font> M P R O V&#160;
+-&#160;
+<font size=5>A</font> R C H I V E&#160;
+</font>
+&#160;</td>
+</tr><tr bgcolor=#eaeaea><td><img src=g/greypixel.jpg height=6 width=1></td>
+</tr><tr bgcolor=#806030><td><img src=g/tanpixel.jpg height=3 width=4></td>
+</tr></table>
+
+</td>
+<td width=22%></td></tr>
+
+<tr><td valign=top bgcolor=#eaeaea>
+<font size=-1 face=sans-serif><br>
+<a href=mailto:liam@networkimprov.com%20>Send eMail</a><p>
+<b>Projects</b><br>
+&#160;<a href=/enitl/enitl.html>eNITL</a><br>
+&#160;<a href=http://outrightradio.org/>Outright Radio</a><p>
+<b>Archive</b><br>
+&#160;<a href=/archive-jod.html>Java+OpenDoc</a>
+</font>
+</td><td></td><td valign=top>
+<font face=sans-serif size=-1>
+In the Spring of 1996, Liam Breck mounted a campaign via the Internet to
+lobby for the inclusion of Apple's OpenDoc component software system in the
+Java class libraries. Below is the home page of that campaign.
+</font><p>
+
+<h2 align=center>Sweeten Java with OpenDoc!</h2>
+<center><i>These two breakthrough technologies need each other!</i></center>
+<p>
+
+<h3>News...</h3>
+
+<b>16 Apr 96</b> - Over 120 email messages supporting OpenDoc for Java have
+been sent via this page. But Sun hasn't committed to this integration yet,
+so <b>they still need to hear from you!</b> <p>
+
+<b>25 Mar 96</b> - OpenDoc is now part of CORBA. OpenDoc-savvy Java clients
+for CORBA servers will enable solutions to be built from interchangable
+components in both client and server. <p>
+
+<b>26 Feb 96</b> - Sun has acknowledged the call for OpenDoc in Java, and
+created an OpenDoc "Request for Enhancement." Sun reports that OpenDoc is
+now the most requested feature for Java! <p>
+
+<h3>The Concept:</h3>
+
+Consider Java as a virtual platform, rather than a language or development
+environment. Eventually, this platform (the Java Virtual Machine) will be
+integrated into most real platforms. This will allow any application to
+embed Java applets, and <b>enable applets to embed other applets</b> in an
+OpenDoc-like way. <p>
+
+The best way to enable this capability is to <b>make OpenDoc a part of
+Java</b>'s UI class library (the AWT). It would be a shame if Sun decided
+instead to implement their own component software system, duplicating the
+huge effort that went into OpenDoc. <p>
+
+I believe Apple and IBM have their hands full with OpenDoc and development
+tools for it. But Sun or Netscape may have the resources to port the
+OpenDoc API to Java... <b>Rumor has it</b> that Sun is discussing this
+possibility with CILabs! If you like the idea, please<br>
+<center>
+<a href=mailto:jod@networkimprov.com%20>
+<b>Email JavaSoft (Sun), Netscape, CILabs and JavaWorld Magazine</b></a><br>
+</center> to express your support! <p>
+
+<h3>Java - OpenDoc Synergy!</h3>
+
+Few believe that Java will replace C, C++, Pascal, etc. But a huge number
+of developers now working in proprietary languages are heading towards
+Java. This community wants component software and compound document tools,
+and <b>OpenDoc is perfect</b> for the task, but it must be there at the
+beginning! <p>
+
+Integrated into the Java class library, OpenDoc would allow developers to
+create applets that:
+<table>
+<tr><td> *&#160;integrate easily and seamlessly with other applets</td></tr>
+<tr><td> *&#160;can be interchanged with other applets</td></tr>
+<tr><td> *&#160;create and edit data in compound documents
+</td></tr>
+</table><p>
+
+OpenDoc applet users would be able to:
+<table>
+<tr><td> *&#160;use a collection of applets to create a compound document</td></tr>
+<tr><td> *&#160;edit any compound document on any Java-enabled platform</td></tr>
+<tr><td> *&#160;send and retrieve compound documents via the Internet</td></tr>
+<tr><td> *&#160;transparently obtain any applets required for a particular
+document via the Internet
+</td></tr>
+</table><p>
+
+Many folks imagine the Java runtime as an OpenDoc part editor. <b>This idea
+isn't as useful</b> as it sounds. A Java applet running in a JVM part
+editor would not be able to use OpenDoc services, because they would not be
+part of the Java "platform." The applet therefore could not edit data in
+compound documents, embed other applets, send high-level requests to other
+applets, etc. For applets to have these features, OpenDoc has to be a
+standard part of Java so that applets can rely on OpenDoc services. <p>
+I have been working on the design for a specialized software development
+toolkit, and I wanted to base the UI aspect on OpenDoc. But <b>its market
+position forced me to reconsider</b>, and I now feel that it would be a
+poor market strategy for this project. I still want to use a component
+software system, and OLE's limited funtionality just isn't worth its
+complexity, so I'm looking favorably at Java applets. They don't match
+OpenDoc part editors for flexibility, but they sure look better on a
+business plan! I hate to see complementary technologies become competing
+products. <p>
+
+I believe <b>Java is OpenDoc's best potential platform</b>, and OpenDoc
+would bring a whole new level of capabilities to Java developers and applet
+users. It would also help in the struggle against so-called standards from
+market monopolies. So voice your support for this pairing! <p>
+
+<h3>Java and OpenDoc Resources on the Web?</h3>
+
+<table><tr>
+<td> *&#160;<a href=http://java.sun.com/>JavaSoft (Sun)</a></td>
+<td> *&#160;Newsgroups: <a href=news:comp.soft-sys.middleware.opendoc>OpenDoc</a>
+& <a href=news:comp.lang.java>Java</a></td>
+<td> *&#160;<a href=http://www.seas.upenn.edu/~mcrae/projects/macjava/>Mac Java</a></td>
+</tr><tr>
+<td> *&#160;<a href=http://www.cil.org/>CILabs</a></td>
+<td> *&#160;Yahoo: <a href=http://www.yahoo.com/Computers_and_Internet/Software/Development_Tools/OpenDoc/>OpenDoc</a>
+& <a href=http://www.yahoo.com/Computers_and_Internet/Languages/Java/>Java</a></td>
+<td> *&#160;<a href=http://www.cc.gatech.edu/people/home/mpinkert/opendoc/OpenDoc.html>OpenDoc Revolution</a></td>
+</tr><tr>
+<td> *&#160;<a href=http://www.opendoc.apple.com/>OpenDoc at Apple</a></td>
+<td> *&#160;LANL: <a href=http://www.acl.lanl.gov/sunrise/DistComp/OpenDoc/>OpenDoc</a>
+& <a href=http://www.acl.lanl.gov/Java/>Java</a></td>
+<td> *&#160;<a href=http://www.eng.uci.edu/~sroussey/NetVision/software/od_parts/>OpenDoc Part Ideas</a></td>
+</tr><tr>
+<td> *&#160;<a href=http://www.software.ibm.com/clubopendoc/>OpenDoc at IBM</a></td>
+<td> *&#160;<a href=http://www.gamelan.com/>Gamelan Java Index</a></td>
+<td> *&#160;<a href=http://www.teamjava.com/>Team Java</a></td>
+</tr><tr>
+<td> *&#160;<a href=http://www.javaworld.com/>JavaWorld Magazine</a></td>
+<td> *&#160;<a href=http://blueridge.infomkt.ibm.com/knudsen/javanews.html>Java News</a></td>
+<td> *&#160;<a href=http://infoweb.magi.com/~steve/java.html>Java Resources</a></td>
+</tr></table>
+
+<p><hr>
+<center>
+by <a href=http://networkimprov.com/>Liam Breck</a>,
+Info-Mac Network Special Projects Manager<br>
+Thanx to my host, <a href=http://summary.net/>Summary.Net</a>!
+</center>
+
+<hr>
+</td></tr>
+
+<tr><td valign=top bgcolor=#eaeaea>
+<center><font size=-2 face=sans-serif></font></center>
+</td>
+<td></td>
+<td></td>
+</tr>
+
+</table>
+</body></html>
+

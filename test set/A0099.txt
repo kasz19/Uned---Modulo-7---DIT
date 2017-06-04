@@ -1,0 +1,1075 @@
+ID=A0099
+URL=http://www.sainsburysbank.co.uk/insurance/insurance_home_contents.html
+SIZE=65223
+DATE=27/06/02
+TIME=16:52:13
+DATASET=Commercial Banks
+HTML=<!--
+CVS INFO
+Description of the template or HTML page
+Author : $Author: vastrom $
+Version : $Revision: 1.13 $
+Date : $Date: 2001/01/24 13:19:28 $
+-->
+<html><!-- #BeginTemplate "/Templates/cc_template_4_insurance.dwt" -->
+<head>
+<!-- #BeginEditable "docheader" --> 
+<title>Sainsbury's Bank</title>
+
+<meta name="keywords" content="Insurance, Home Insurance, Pet Insurance, Travel Insurance, Contents Insurance, Building Insurance, Dog Insurance, Cat Insurance, holiday insurance, online quote, apply online">
+<meta name="Description" content="Welcome to Sainsbury's Bank. Our aim is to provide the best deals to make life easier. We offer a range of insurances for your Home, your Pets and your holidays. Get a quote and purchase your Travel Insurance on-line now.">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+// called every time the form is submitted
+function lb_validate_form() 
+{
+  contentsSum(); // re-check values on submit
+  document.frmContents.submit();
+  return true;
+}
+
+// test value against regular expression and return true if passes, else false
+function test(v)
+{
+	// a variable that must be in currency format
+	var number = /^([0-9]*|[0-9]+\.?[0-9][0-9]|[0-9]+\.?[0-9]|\.?[0-9]|\.?[0-9][0-9])$/
+	
+	var t = number.test(v);
+	
+	return t;
+}
+
+function format(v)
+{
+	//determine number of pounds
+	var l = parseInt(v,10);
+	
+	//determine number of pennies
+	var d = v - Math.floor(v);
+	
+	// round the pennies
+	var p = Math.round(d * 100.0);
+	
+	//format result
+	var r = l + ".";
+	
+	if (p < 10)
+		r = r + "0" + p;
+	else
+		r = r + p;
+	
+	return r;
+}
+
+// sums the contents insurance 
+function contentsSum() 
+{
+  var runTotal = 0;
+  var runIncome = 0;
+
+  // get running total
+  for(iLoop=1;iLoop<=60;iLoop++)
+    {
+	// checks to see that data inputted is of type currency
+    if (test(document.frmContents['iVal'+iLoop].value) == true)
+    {
+       	runTotal += parseFloat(document.frmContents['iVal'+iLoop].value);
+    }
+    else 
+    {
+      alert ("Please enter a valid number");
+      document.frmContents['iVal'+iLoop].value = 0;
+    }
+  }
+  document.frmContents.total_contents.value = format(runTotal);
+}
+
+// sums the personal insurance
+function personalSum() 
+{
+  var runTotal1 = 0;
+  var runIncome1 = 0;
+
+  // get running total
+  for(jLoop=1;jLoop<=8;jLoop++)
+  {
+  // checks to see that data inputted is in correct format	
+  if (test(document.frmPersonal['jVal'+jLoop].value) == true) 
+    	{
+       		runTotal1 += parseFloat(document.frmPersonal['jVal'+jLoop].value);
+    	} 
+    	else 
+    	{
+    		alert ("Please enter a valid number");
+    		document.frmPersonal['jVal'+jLoop].value = 0;
+    	}
+  }
+  document.frmPersonal.total_personal.value = format(runTotal1);
+  
+}
+
+//-->
+</SCRIPT>
+<!-- #EndEditable --> 
+<script language="JavaScript" src="../css/insurance.js"></script>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- #BeginLibraryItem "/Library/top_nav_homeinsurance.lbi" --><table width="100%" height="63" border="0" cellspacing="0" cellpadding="0" background="../assets/top_nav/living_orange_bar.gif">
+<tr width="100%">
+<td>
+<table width="770" height="63" border="0" cellspacing="0" cellpadding="0" background="/Library/null">
+  <tr valign="bottom"> 
+          <td width="24"><img src="../assets/spacer.gif" width="24" height="45" alt=" "></td>
+          <td valign="bottom" width="165"><a href="../index.html" target="_top"><img src="../assets/top_nav/logo_top.gif" width="165" height="21" border="0" alt="Sainsbury's Bank"></a></td>
+          <td width="266"><img src="../assets/spacer.gif" height="1" width="266" alt=" "></td>
+          <td width="86">&nbsp;</td>
+          <td width="15"><img src="../assets/spacer.gif" width="15" height="1" alt=" "></td>
+          <td width="50"><a href="../legal_regulatory/legal_regulatory.html" onMouseOver="imgOver('legal')" onMouseOut="imgOut('legal')" target="_top"><img src="../assets/top_nav/legal_and_reg_off.gif" width="86" height="10" alt="legal and regulatory" name="legal" border="0"></a></td>
+          <td width="15"><img src="../assets/spacer.gif" width="15" height="1" alt=" "></td>
+          <td width="40"><a href="/sainsburys/sbkcontact.nsf/contact?openform&home" onMouseOver="imgOver('contact')" onMouseOut="imgOut('contact')" target="_top"><img src="../assets/top_nav/contact_us_off.gif" width="50" height="10" border="0" alt="contact us" name="contact"></a></td>
+          <td width="15"><img src="../assets/spacer.gif" width="15" height="1" alt=" "></td>
+          <td width="20"><a href="../site_map/site_map.html" onMouseOver="imgOver('site')" onMouseOut="imgOut('site')" target="_top"><img src="../assets/top_nav/site_map_off.gif" width="40" height="10" border="0" alt="site map" name="site"></a></td>
+          <td width="15"><img src="../assets/spacer.gif" width="15" height="1" alt=" "></td>
+          <td width="39"><a href="../tool_box/tool_box.html" onMouseOver="imgOver('tool_box')" onMouseOut="imgOut('tool_box')" target="_top"><img src="../assets/top_nav/tool_box_off.gif" width="39" height="10" border="0" alt="tool box" name="tool_box"></a></td>
+          <td width="20"><img src="../assets/spacer.gif" width="20" height="1" alt=" "></td>
+  </tr>
+  <tr valign="top"> 
+    <td width="24">&nbsp;</td>
+          <td valign="top" width="165"><a href="../index.html"><img src="../assets/top_nav/logo_bottom.gif" width="165" height="3" border="0" alt="Sainsbury's Bank"></a></td>
+    <td colspan="11">&nbsp;</td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+<br>
+<img src="../assets/spacer.gif" width="770" height="40" border="0" alt=" " />
+
+<!-- #EndLibraryItem --> 
+      <table width="770" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="25"><img src="../assets/spacer.gif" width="25" height="1" border="0" alt=" " /></td>
+          <td width="167" valign="top"> <!-- #BeginEditable "sideNav" -->
+  
+        <table border="0" cellpadding="0" cellspacing="0" width="167">
+          <tr> 
+            <td colspan="4"><a target="_top" href="../loans/loans.html"><img src="../assets/left_nav/loans_off.gif" width="167" height="28" border="0" alt="loans" /></a></td>
+          </tr>
+          <tr><!-- white spacer 3 --> 
+            <td colspan="4"><img src="../assets/spacer.gif" width="167" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="4"><a target="_top" href="../savings_investments/savings_homepage.html"><img src="../assets/left_nav/savings_investments_off.gif" width="167" height="28" border="0" alt="savings & investments" /></a></td>
+          </tr>
+          <tr><!-- white spacer 3 --> 
+            <td colspan="4"><img src="../assets/spacer.gif" width="167" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="4"><a target="_top" href="../credit_card/creditcard.html"><img src="../assets/left_nav/credit_card_off.gif" width="167" height="28" border="0" alt="credit card" /></a></td>
+          </tr>
+          <tr><!-- white spacer 3 --> 
+            <td colspan="4"><img src="../assets/spacer.gif" width="167" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="4"><a target="_top" href="../insurance/insurance.html"><img src="../assets/left_nav/insurance_on.gif" width="167" height="28" border="0" alt="insurance" /></a></td>
+          </tr>
+          <tr><!-- spacer 3 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="109"><img src="../assets/spacer.gif" width="109" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td rowspan="3" bgcolor="#FFCC00" width="109" valign="center"><a target="_top" href="../insurance/insurance_home.html" class="nav2levelYellowOn">home insurance</a></td>
+            <td rowspan="3" bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="23" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="2" height="19" background="../assets/left_nav/nav_yellow_bg.gif" colspan="2" width="48" valign="top"><a target="_top" href="../insurance/insurance_home.html"><img src="../assets/left_nav/yellow_arrow_on.gif" width="48" height="19" border="0" alt=" " /></a></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="5" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 3 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="109"><img src="../assets/spacer.gif" width="109" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="109"><a target="_top" href="../insurance/insurance_home_cover.html" class="nav3levelOff">&gt; the cover</a></td>
+            <td bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="10" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 7 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" colspan="2" width="119"><img src="../assets/spacer.gif" width="119" height="7" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="109"><a target="_top" href="../insurance/insurance_home_faq.html" class="nav3levelOff">&gt; any questions?</a></td>
+            <td bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="10" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 7 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" colspan="2" width="119"><img src="../assets/spacer.gif" width="119" height="7" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="109"><a target="_top" href="../insurance/insurance_home_claim.html" class="nav3levelOff">&gt; making a claim</a></td>
+            <td bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="10" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 7 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" colspan="2" width="119"><img src="../assets/spacer.gif" width="119" height="7" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="109"><a target="_top" href="../insurance/insurance_home_glossary.html" class="nav3levelOff">&gt; some definitions</a></td>
+            <td bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="10" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 7 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" colspan="2" width="119"><img src="../assets/spacer.gif" width="119" height="7" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="109"><a target="_top" href="../insurance/insurance_home_terms.html" class="nav3levelOff">&gt; important information</a></td>
+            <td bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="10" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 7 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="7" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" colspan="2" width="119"><img src="../assets/spacer.gif" width="119" height="7" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- white spacer 1 --> 
+            <td colspan="4"><img src="../assets/spacer.gif" width="167" height="1" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 3 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="109"><img src="../assets/spacer.gif" width="109" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td rowspan="3" bgcolor="#FFCC00" width="109" valign="center"><a target="_top" href="../insurance/insurance_travel.html" class="nav2levelOff">travel insurance</a></td>
+            <td rowspan="3" bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="23" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="2" height="19" background="../assets/left_nav/nav_yellow_bg.gif" colspan="2" width="48" valign="top"><a target="_top" href="../insurance/insurance_travel.html"><img src="../assets/left_nav/yellow_arrow_off.gif" width="48" height="19" border="0" alt=" " /></a></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="5" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 3 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="109"><img src="../assets/spacer.gif" width="109" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td rowspan="3" bgcolor="#FFCC00" width="109" valign="center"><a target="_top" href="../insurance/insurance_pet.html" class="nav2levelOff">pet insurance</a></td>
+            <td rowspan="3" bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="23" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="2" height="19" background="../assets/left_nav/nav_yellow_bg.gif" colspan="2" width="48" valign="top"><a target="_top" href="../insurance/insurance_pet.html"><img src="../assets/left_nav/yellow_arrow_off.gif" width="48" height="19" border="0" alt=" " /></a></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="5" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 3 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="109"><img src="../assets/spacer.gif" width="109" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FFCC00" width="10"><img src="../assets/spacer.gif" width="10" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- white spacer 3 --> 
+            <td colspan="4"><img src="../assets/spacer.gif" width="167" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="4"><a target="_top" href="../mortgages/mortgages.html"><img src="../assets/left_nav/mortgages_off.gif" width="167" height="28" border="0" alt="mortgages" /></a></td>
+          </tr>
+          <tr><!-- white spacer 3 --> 
+            <td colspan="4"><img src="../assets/spacer.gif" width="167" height="3" border="0" alt=" " /></td>
+          </tr>
+        </table>
+
+<!-- #EndEditable --> </td>
+          <td width="33" valign="top"><!-- spacer 1 --> <img src="../assets/spacer.gif" width="33" height="1" border="0" alt=" " /> 
+            <!-- #BeginEditable "Side%20Selection" --><!-- #EndEditable --></td>
+          
+    <td width="430" valign="top"> <!-- #BeginEditable "Header%20Images" --><img src="../assets/headers/insurance/contents_calculator.gif" width="430" height="21" alt="contents calculator"> 
+      <!-- #EndEditable --><br>
+      <!-- #BeginEditable "Local%20Navigation" -->
+
+<!-- #EndEditable --> <!-- #BeginEditable "Main%20Text" --> 
+      <p>You'll need to insure the cost of replacing everything in your home as 
+        new. </p>
+      <p>This calculator will help you work out the amount of your contents sum 
+        insured. All you have to do is fill in the amount it would cost to buy 
+        the same items new today.</p>
+      <p>Some items are more at risk of being stolen than others. We've listed 
+        these as high risk items. They have a limit of 1/3 of your contents sum 
+        insured in total and £2,000 for a single item. If your high risk items 
+        are worth more than this, please tell us so that we can make sure you're 
+        covered properly.</p>
+      <FORM NAME="frmContents" ACTION="#" METHOD="POST" onSubmit="return lb_validate_form();">
+        <table width="430" cellspacing="0" cellpadding="0" border="0">
+          <tr> 
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="97"><img src="../assets/spacer.gif" width="97" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="163"><img src="../assets/spacer.gif" width="163" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="142"><img src="../assets/spacer.gif" width="142" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          </tr>
+          <tr bgcolor="#FF6633"> 
+            <td colspan="3" class="bodyBold" height="23" valign="top"><img src="../assets/generic/orange_header_arrow.gif" width="13" height="23"></td>
+            <td class="tableHeader" height="23" width="97"> Contents</td>
+            <td colspan="2" class="bodyBold" height="23" valign="top">&nbsp;</td>
+            <td class="bodyBold" height="23" valign="top" width="163">&nbsp;</td>
+            <td colspan="2" class="bodyBold" height="23" valign="top">&nbsp;</td>
+            <td colspan="2" class="tableheader" height="23">Replacement cost (&pound;)</td>
+          </tr>
+          <tr> 
+            <td rowspan="61" valign="top" width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td rowspan="60" bgcolor="#FF6633" valign="top" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td rowspan="60" valign="top" width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td class="bodyBold" height="35" valign="center" width="97">sitting 
+              room</td>
+            <td rowspan="60" bgcolor="#FF6633" valign="top" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td rowspan="60" valign="top" width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td class="tablewhite" height="35" valign="center" width="163">carpets</td>
+            <td rowspan="60" bgcolor="#Ff6633" valign="top" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td rowspan="60" valign="top" width="6" bgcolor="#FFCCCC"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal1" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+            <td rowspan="60" bgcolor="#FF6633"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">curtains 
+              &amp; tracks</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal2" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">sofa 
+              &amp; chairs </td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal3" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">wall 
+              units</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal4" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">books, 
+              records, cassettes, CD's</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal5" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">lamps 
+              &amp; ornaments</span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal6" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">telephones 
+              &amp; fax machines</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal7" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">satellite 
+              receiver </td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal8" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">coffee 
+              table</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal9" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">TV 
+              &amp; video</span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal12" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">stereo 
+              system </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal15" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">personal 
+              computers </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal16" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">cameras, 
+              camcorder </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal17" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">other 
+              items </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal10" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+
+          <tr> 
+            <td class="bodyBold" height="35" valign="center" width="97">high risk 
+              items </td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">paintings 
+              / works of art</span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal11" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">collections 
+              of stamps/coins</span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal13" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">clocks 
+              </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal14" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+
+          <tr> 
+            <td class="bodyBold" height="35" valign="center" width="97">kitchen</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">cooker 
+              </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal18" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">refrigerator 
+              </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal19" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">freezer</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal20" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">washing 
+              machine</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal21" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">tumble 
+              dryer</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal22" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">dishwasher</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal23" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">microwave 
+              oven </td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal24" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">small 
+              appliances </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal25" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">china, 
+              glass cutlery </td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal26" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">utensils, 
+              saucepans </td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal27" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">food</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal28" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">spirits, 
+              beer </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal29" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">cleaning 
+              equipment </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal30" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">cleaning 
+              materials </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal31" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+
+          <!-- 59 -->
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">radio, 
+              cassette </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal59" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">other 
+              items </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal32" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="bodyBold" height="35" valign="center" width="97">high risk 
+              items </td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">clocks</span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal33" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="bodyBold" height="35" valign="center" width="97">dining 
+              room</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">carpets 
+              </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal34" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">curtains 
+              &amp; tracks</span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal35" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">table 
+              &amp; chairs</span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal36" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">sideboard 
+              </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal37" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">cutlery, 
+              table linen</span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal38" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">decanter 
+              &amp; glasses</span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal39" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">lamps 
+              &amp; ornaments</span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal40" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">other 
+              items </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal41" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="bodyBold" height="35" valign="center" width="97">high risk 
+              items </td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">clocks 
+              </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal42" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">paintings/works 
+              of art</span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal43" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="bodyBold" height="35" valign="center" width="97">bedrooms</td>
+            <td class="tablewhite" height="35" valign="center" width="163">carpets</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal44" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">curtains 
+              &amp; tracks</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal45" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">beds 
+              &amp; linen </td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal46" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">clothing</td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal47" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">wardrobes 
+            </td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal48" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+
+          <!-- 60 -->
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">radio, TV</span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal60" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">other 
+              items </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal49" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="bodyBold" height="35" valign="center" width="97">high risk 
+              items </td>
+            <td class="tablewhite" height="35" valign="center" width="163">clocks </td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal50" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">paintings 
+            </td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal51" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">jewellery, 
+              watches </td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal52" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">fur 
+              coats </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal53" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="bodyBold" height="35" valign="center" width="97">outbuildings</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">tools 
+              </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal54" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">lawnmowers 
+              </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal55" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">gardening 
+              equipment </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal56" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">pedal 
+              cycles </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal57" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="bodyBold" height="35" valign="center" width="97">other 
+              rooms</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd"> 
+              </span></td>
+            <td height="35" align="center" bgcolor="#FFCCCC" width="142"> 
+              <input class="formfield" name="iVal58" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+          </tr>
+          <!-- new code: total_outgoings --> 
+          <tr> 
+            <td bgcolor="#FF6633" colspan="10" height="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          </tr>
+        </table>
+        <br>
+        <table width="430" cellspacing="0" cellpadding="0" border="0">
+          <tr> 
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="267"><img src="../assets/spacer.gif" width="267" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="142"><img src="../assets/spacer.gif" width="142" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          </tr>
+          <tr> 
+            <td colspan="3" height="23" valign="top" bgcolor="#333399"><img src="../assets/generic/blue_header_arrow.gif" width="13" height="23"></td>
+            <td height="23" class="tableHeader" bgcolor="#333399" width="267">&nbsp; 
+            </td>
+            <td height="23" valign="top" bgcolor="#333399"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td height="23" valign="top" bgcolor="#333399">&nbsp;</td>
+            <td colspan="2" class="tableHeader" height="23" bgcolor="#333399">&nbsp; 
+            </td>
+          </tr>
+          <tr> 
+            <td rowspan="2" width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td bgcolor="#333399" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td class="bodyBold" height="35" valign="center" width="267">total 
+              contents sum insured</td>
+            <td bgcolor="#333399" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6" bgcolor="#CCCCFF"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td height="35" width="142" align="center" bgcolor="#CCCCFF"> 
+              <input class="formfield" name="total_contents" size="4" style="WIDTH: 50px" onChange="contentsSum();" value="0" />
+            </td>
+            <td bgcolor="#333399" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          </tr>
+          <!-- new code: total_outgoings --> 
+          <tr> 
+            <td bgcolor="#333399" colspan="9" height="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          </tr>
+        </table>
+      </form>
+      <p class="bodyItalic">&nbsp;</p>
+      <p class="bodyBold">personal belongings</p>
+      <p>It might also be a good idea to insure the things that you take away 
+        from your home like jewellery, clothing and cameras. </p>
+      <p>This calculator will help you to work out how much your personal belongings 
+        should be insured for. Again, you need to fill in how much it would cost 
+        to replace these items as new. If you have other personal belongings you 
+        want to cover, just tell us about them and we'll tell you if we can insure 
+        them. </p>
+      <p>These items are not covered unless you list them separately, and we agree 
+        to cover them</p>
+      <blockquote> 
+        <p>Any items worth more than &pound;1500<br>
+          Contact lenses<br>
+          Camping equipment<br>
+          China, glass, pottery, other fragile items</p>
+      </blockquote>
+      <p>If you have personal belongings insurance, you don't need to include 
+        them in the contents section. </p>
+      <FORM NAME="frmPersonal" ACTION="#" METHOD="POST" onSubmit="return lb_validate_form();">
+        <table width="430" cellspacing="0" cellpadding="0" border="0">
+          <tr> 
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="97"><img src="../assets/spacer.gif" width="97" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="163"><img src="../assets/spacer.gif" width="163" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="142"><img src="../assets/spacer.gif" width="142" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          </tr>
+          <tr bgcolor="#FF6633"> 
+            <td colspan="3" height="23" valign="top"><img src="../assets/generic/orange_header_arrow.gif" width="13" height="23"></td>
+            <td height="23" class="tableHeader" width="97"> Contents</td>
+            <td colspan="2" height="23" valign="top">&nbsp;</td>
+            <td height="23" valign="top"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td height="23" valign="top"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td height="23" valign="top">&nbsp;</td>
+            <td colspan="2" class="tableHeader" height="23" bgcolor="#FF6633">Replacement 
+              Cost (&pound;)</td>
+          </tr>
+          <tr> 
+            <td rowspan="9" width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td rowspan="8" bgcolor="#FF6633" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td rowspan="8" width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td class="tablewhite" height="35" width="97">&nbsp;</td>
+            <td rowspan="8" bgcolor="#FF6633" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td rowspan="8" width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td class="tablewhite" height="35" width="163">clothing</td>
+            <td rowspan="8" bgcolor="#Ff6633" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td rowspan="8" width="6" bgcolor="#FFCCCC"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td height="35" width="142" align="center" bgcolor="#FFCCCC"> 
+              <input class="formfield" name="jVal1" size="4" style="WIDTH: 50px" onChange="personalSum();" value="0" />
+            </td>
+            <td rowspan="8" bgcolor="#FF6633" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">jewellery</td>
+            <td height="35" width="142" align="center" bgcolor="#FFCCCC"> 
+              <input class="formfield" name="jVal2" size="4" style="WIDTH: 50px" onChange="personalSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">watches 
+              </span></td>
+            <td height="35" width="142" align="center" bgcolor="#FFCCCC"> 
+              <input class="formfield" name="jVal3" size="4" style="WIDTH: 50px" onChange="personalSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">briefcases 
+              </span></td>
+            <td height="35" width="142" align="center" bgcolor="#FFCCCC"> 
+              <input class="formfield" name="jVal4" size="4" style="WIDTH: 50px" onChange="personalSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">luggage 
+              </span></td>
+            <td height="35" width="142" align="center" bgcolor="#FFCCCC"> 
+              <input class="formfield" name="jVal5" size="4" style="WIDTH: 50px" onChange="personalSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163"><span class="toolwhtstd">sports 
+              equipment </span></td>
+            <td height="35" width="142" align="center" bgcolor="#FFCCCC"> 
+              <input class="formfield" name="jVal6" size="4" style="WIDTH: 50px" onChange="personalSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">camera 
+              equipment</td>
+            <td height="35" width="142" align="center" bgcolor="#FFCCCC"> 
+              <input class="formfield" name="jVal7" size="4" style="WIDTH: 50px" onChange="personalSum();" value="0" />
+            </td>
+          </tr>
+          <tr> 
+            <td class="tablewhite" height="35" valign="center" width="97">&nbsp;</td>
+            <td class="tablewhite" height="35" valign="center" width="163">other 
+              items</td>
+            <td height="35" width="142" align="center" bgcolor="#FFCCCC"> 
+              <input class="formfield" name="jVal8" size="4" style="WIDTH: 50px" onChange="personalSum();" value="0" />
+            </td>
+          </tr>
+          <!-- new code: total_outgoings --> 
+          <tr> 
+            <td bgcolor="#FF6633" colspan="9" height="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          </tr>
+        </table>
+        <br>
+        <table width="430" cellspacing="0" cellpadding="0" border="0">
+          <tr> 
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="267"><img src="../assets/spacer.gif" width="267" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td width="142"><img src="../assets/spacer.gif" width="142" height="1"></td>
+            <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          </tr>
+          <tr> 
+            <td colspan="3" height="23" valign="top" bgcolor="#333399"><img src="../assets/generic/blue_header_arrow.gif" width="13" height="23"></td>
+            <td height="23" class="tableHeader" bgcolor="#333399" width="267">&nbsp; 
+            </td>
+            <td height="23" valign="top" bgcolor="#333399"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td height="23" valign="top" bgcolor="#333399">&nbsp;</td>
+            <td colspan="2" class="tableHeader" height="23" bgcolor="#333399">&nbsp; 
+            </td>
+          </tr>
+          <tr> 
+            <td rowspan="2" width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td bgcolor="#333399" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td class="bodyBold" height="35" valign="center" width="267">total 
+              personal belongings sum insured</td>
+            <td bgcolor="#333399" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+            <td width="6" bgcolor="#CCCCFF"><img src="../assets/spacer.gif" width="6" height="1"></td>
+            <td height="35" width="142" align="center" bgcolor="#CCCCFF"> 
+              <input class="formfield" name="total_personal" size="4" style="WIDTH: 50px" onChange="personalSum();" value="0" />
+            </td>
+            <td bgcolor="#333399" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          </tr>
+          <!-- new code: total_outgoings --> 
+          <tr> 
+            <td bgcolor="#333399" colspan="9" height="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          </tr>
+        </table>
+      </form>
+      <!-- #EndEditable --> 
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+          <td width="15" valign="top"><img src="../assets/spacer.gif" width="15" height="1"></td>
+          
+    <td width="80" valign="top" align="right"><!-- #BeginEditable "RightTools" -->
+      <p><a href="../insurance/insurance_home_apply.html" onMouseOver="imgOver('an')" onMouseOut="imgOut('an')" target="_top"><img src="../assets/generic/apply_now_off.gif" width="78" height="24" alt="apply now" border="0" name="an"></a></p>
+      <p><img src="../assets/generic/tools.gif" width="77" height="18" alt="tools"><br>
+        <a href="../insurance/insurance_home_premium.html" onMouseOver="imgOver('tool79')" onMouseOut="imgOut('tool79')" target="_top"><img src="../assets/generic/premium_indicator_off.gif" width="77" height="68" alt="premium indicator" border="0" name="tool79"></a><br>
+        <a href="../insurance/insurance_home_contents.html"><img src="../assets/generic/contents_calc_on.gif" width="77" height="68" alt="contents calculator" border="0" name="tool80"></a><br>
+        <a href="../servlet/RebuildingInsurance" onMouseOver="imgOver('tool81')" onMouseOut="imgOut('tool81')" target="_top"><img src="../assets/generic/rebuilding_calc_off.gif" width="77" height="68" alt="rebuilding calculator" border="0" name="tool81"></a><br>
+        <a href="../insurance/insurance_home_quotation.html" onMouseOver="imgOver('tool82')" onMouseOut="imgOut('tool82')" target="_top"><img src="../assets/generic/request_a_quote_off.gif" width="77" height="68" alt="request a quote" border="0" name="tool82"></a></p>
+      <!-- #EndEditable --></td>
+          <td width="20" valign="top"><img src="../assets/spacer.gif" width="20" height="1"></td>
+        </tr>
+      </table>
+ </body>
+<!-- #EndTemplate --></html>
+

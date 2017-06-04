@@ -1,0 +1,695 @@
+ID=D0041
+URL=http://www.jdance.com/shop/jshoppe.htm
+SIZE=24959
+DATE=16/07/02
+TIME=14:35:44
+DATASET=Java
+HTML=<html>
+<head>
+<title>JShoppe: the shopping center for everything Java</title>
+<style type="text/css">
+<!--
+
+ul {
+  list-style-type: square;
+  font: bold 9pt/20pt verdana,arial,helvetica;
+}
+
+#arialf {
+  font-family: Verdana,Arial,Helvetica;
+}
+
+-->
+</style>
+</head>
+<body bgcolor="#ffffff">
+<table>
+<tr>
+<td width=200>
+<img src="jshoppe.gif" alt="JShoppe logo">
+</td>
+<td width=500 align=center>
+
+<a href="http://www.empirix.com/Empirix/Web+Test+Monitoring/Products/_BeanTest+Download.asp" target=_top><img src="empirixad1.gif" width=468 height=60 border=0 alt="Empirix Bean-test"></a>
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td width=200 bgcolor="#ffff99" valign="top">
+<b>
+<FONT size="3" style="font:bold 12pt Times,Garamond;">Channels</FONT>
+<ul>
+<li><a href="agents.shtm">Agents</a>
+<li><a href="applets.shtm">Applets</a>
+<li><a href="appservers.shtm">Application Servers</a>
+<li><a href="audio.shtm">Audio</a>
+<li><a href="backupsystems.shtm">Backup Systems</a>
+<li><a href="banking.shtm">Banking</a>
+<li><a href="books.shtm">Books</a>
+<li><a href="business.shtm">Business</a>
+<li><a href="businesscomponents.shtm">Business Components</a>
+<li><a href="calendars.shtm">Calendars</a>
+<!--
+<li><a href="">Catalog Authoring</a>
+-->
+
+<!--<li><a href="cgi.shtm">CGI</a>-->
+<!--
+<li><a href="">Charts</a>
+-->
+<li><a href="javacert.shtm">Certification</a>
+<li><a href="chats.shtm">Chat</a>
+<li><a href="codeanalyzers.shtm">Code Analyzers</a>
+<li><a href="codebeautifiers.shtm">Code Beautifiers</a>
+<li><a href="codeeditors.shtm">Code Editors</a>
+<li><a href="obfuscators.shtm">Code Obfuscators</a>
+<li><a href="optimizers.shtm">Code Optimizers</a>
+<!--<li><a href="codeboosters.shtm">Code Performance Boosters</a>-->
+<li><a href="codetesting.shtm">Code Testing</a>
+<!--<li><a href="codeviewers.shtm">Code Viewers</a>-->
+<!--<li><a href="codevisualizers.shtm">Code Visualizers</a>-->
+<li><a href="collaboration.shtm">Collaboration</a>
+<li><a href="collections.shtm">Collections</a>
+<li><a href="communications.shtm">Communications</a>
+<li><a href="compilers.shtm">Compilers</a>
+<!--<li><a href="compilergenerators.shtm">Compiler Generators</a>-->
+<li><a href="components.shtm">Components</a>
+<li><a href="/consulting.shtm">Consulting</a>
+
+<li><a href="corba.shtm">Corba</a>
+<li><a href="cryptography.shtm">Cryptography</a>
+<li><a href="databases.shtm">Databases</a>
+<li><a href="datamining.shtm">Data Mining</a>
+<li><a href="datavisualization.shtm">Data Visualization</a>
+<li><a href="debugging.shtm">Debugging</a>
+<li><a href="olap.shtm">Decision Support Tools</a>
+<li><a href="decompilers.shtm">Decompilers</a>
+<li><a href="defecttracking.shtm">Defect Tracking</a>
+<li><a href="desktoputilities.shtm">Desktop Utilities</a>
+<!--
+<li><a href="">Distributed Computing</a>
+-->
+<li><a href="documentation.shtm">Documentation</a>
+<li><a href="documentmgt.shtm">Document Management</a>
+<!--<li><a href="">E-Business</a>-->
+<li><a href="ecommerce.shtm">E-Commerce</a>
+<li><a href="ejb.shtm">EJB</a>
+<li><a href="ejbcomponents.shtm">EJB Components</a>
+<li><a href="ejbservers.shtm">EJB Servers</a>
+<li><a href="ejbtesting.shtm">EJB Testing</a>
+<li><a href="ejbtools.shtm">EJB Tools</a>
+<li><a href="emacs.shtm">Emacs</a>
+<li><a href="embeddabledbs.shtm">Embeddable Databases</a>
+<li><a href="embeddedjava.shtm">Embedded Java</a>
+<li><a href="engineering.shtm">Engineering/Scientific</a>
+<li><a href="enterprise.shtm">Enterprise</a>
+<li><a href="ejb.shtm">Enterprise Java Beans</a>
+<li><a href="erp.shtm">ERP</a>
+<!--<li><a href="examauthoring.shtm">Exam/Test Authoring Tools</a>-->
+<li><a href="expertsystems.shtm">Expert Systems</a>
+<!--<li><a href="">File I/O</a>-->
+<li><a href="finance.shtm">Finance/Business</a>
+<!--<li><a href="">Frameworks</a>-->
+<li><a href="/freebies.shtm">Freebies</a>
+<!--<li><a href="">Freeware</a>-->
+<li><a href="fuzzylogic.shtm">Fuzzy Logic</a>
+<li><a href="gis.shtm">GIS</a>
+<li><a href="graphics.shtm">Graphics</a>
+<li><a href="graphics2d.shtm">Graphics 2D</a>
+<li><a href="graphics3d.shtm">Graphics 3D</a>
+<li><a href="groupware.shtm">Groupware</a>
+<li><a href="guis.shtm">GUIs</a>
+<li><a href="charts.shtm">GUIs - Charts</a>
+<!--<li><a href="">GUIs - Companies</a>-->
+<li><a href="dbawarecomponents.shtm">GUIs - Database Aware</a>
+<!--<li><a href="">GUIs - Internationalization</a>-->
+<li><a href="layouts.shtm">GUIs - Layouts</a>
+<li><a href="mathcomponents.shtm">GUIs - Math/Financial</a>
+<li><a href="printingcomponents.shtm">GUIs - Printing</a>
+<li><a href="spreadsheets.shtm">GUIs - Spreadsheets</a>
+<li><a href="tabbedpanes.shtm">GUIs - Tabbed Panes</a>
+<li><a href="tables.shtm">GUIs - Tables</a>
+<li><a href="textcomponents.shtm">GUIs - Text</a>
+<li><a href="guitoolkits.shtm">GUIs - Toolkits</a>
+<li><a href="trees.shtm">GUIs - Trees</a>
+<li><a href="industrycomponents.shtm">GUIs - Process Control</a>
+<li><a href="help.shtm">Help Tools</a>
+<li><a href="htmlforms.shtm">HTML</a>
+<li><a href="ides.shtm">IDEs</a>
+<li><a href="ideaddons.shtm">IDE Add-ons</a>
+<li><a href="imaging.shtm">Imaging</a>
+<li><a href="infobus.shtm">Infobus</a>
+<li><a href="io.shtm">Input/Output</a>
+<li><a href="installationtools.shtm">Installation Tools</a>
+<li><a href="i18n.shtm">Internationalization</a>
+<li><a href="javabeans.shtm">JavaBeans</a>
+<li><a href="javacard.shtm">JavaCard</a>
+<li><a href="jsp.shtm">Java Server Pages</a>
+<li><a href="jdbc.shtm">JDBC</a>
+<!--<li><a href="caching.shtm">JDBC Caching</a>-->
+<li><a href="connectionpools.shtm">JDBC Connection Pools</a>
+<li><a href="jdbcdrivers.shtm">JDBC Drivers</a>
+<li><a href="jdbctools.shtm">JDBC Tools</a>
+<li><a href="jfc.shtm">JFC/Swing</a>
+<li><a href="jini.shtm">Jini</a>
+<li><a href="/jobs.shtm">Jobs/Career</a>
+<li><a href="jsp.shtm">JSP</a>
+<li><a href="jspeditors.shtm">JSP Editors</a>
+<li><a href="jspengines.shtm">JSP Engines</a>
+<li><a href="jsptools.shtm">JSP Tools</a>
+
+<li><a href="servletjspisps.shtm">JSP/Servlet ISPs</a>
+<li><a href="jvms.shtm">JVMs/Runtimes</a>
+<li><a href="knowledgesystems.shtm">Knowledge Systems</a>
+<li><a href="ldap.shtm">LDAP/Dir Services</a>
+<li><a href="legacy.shtm">Legacy</a>
+<li><a href="licensing.shtm">Licensing</a>
+<li><a href="linux.shtm">Linux</a>
+<li><a href="mail.shtm">Mail</a>
+<li><a href="mgrtools.shtm">Managerial Tools</a>
+<li><a href="maps.shtm">Maps</a>
+<li><a href="math.shtm">Math</a>
+<li><a href="messaging.shtm">Messaging</a>
+<li><a href="middleware.shtm">Middleware</a>
+<li><a href="mobileagents.shtm">Mobile Agents</a>
+<li><a href="mobileapps.shtm">Mobile Applications</a>
+<li><a href="modelingtools.shtm">Modeling Tools</a>
+<li><a href="multimedia.shtm">Multimedia</a>
+<li><a href="nativecodecompilers.shtm">Native Code Compilers</a>
+<li><a href="networking.shtm">Networking</a>
+<li><a href="numerical.shtm">Numerical Computing</a>
+<li><a href="obfuscators.shtm">Obfuscators</a>
+<li><a href="oodatabases.shtm">OO Databases</a>
+<!--<li><a href="">Object-Relational Databases</a>-->
+<li><a href="olap.shtm">OLAP</a>
+<li><a href="oltp.shtm">OLTP</a>
+<li><a href="optimizers.shtm">Optimizers</a>
+<li><a href="orbs.shtm">ORBs</a>
+<!--<li><a href="otherlangs.shtm">Other Languages</a>-->
+<!--<li><a href="otheros.shtm">Other Operating Systems</a>-->
+<li><a href="packaging.shtm">Packaging</a>
+<li><a href="palmpilot.shtm">Palm Pilot</a>
+<li><a href="">Payment Processing Systems</a>
+<li><a href="">Persistence</a>
+<li><a href="">Pre-processors</a>
+<li><a href="printing.shtm">Printing</a>
+<li><a href="problemtracking.shtm">Problem-Tracking Systems</a>
+<li><a href="profiling.shtm">Profiling Tools</a>
+<li><a href="projectmgmt.shtm">Project Management</a>
+<li><a href="push.shtm">Push Technologies</a>
+<li><a href="remoteaccess.shtm">Remote Access</a>
+<li><a href="reporting.shtm">Reporting Tools</a>
+<li><a href="rmi.shtm">RMI</a>
+<li><a href="salesautomation.shtm">Sales Automation</a>
+<li><a href="sap.shtm">SAP R/3</a>
+<li><a href="searchengines.shtm">Search Engines</a>
+<li><a href="security.shtm">Security</a>
+<li><a href="serverside.shtm">Server-side</a>
+<li><a href="servlets.shtm">Servlets</a>
+<li><a href="servletengines.shtm">Servlet Engines</a>
+<li><a href="servletjspisps.shtm">Servlet/JSP ISPs</a>
+<li><a href="servletutilities.shtm">Servlet Utilities</a>
+<li><a href="servletwebservers.shtm">Servlet Web Servers</a>
+<!--<li><a href="shareware.shtm">Shareware</a>-->
+<li><a href="speech.shtm">Speech</a>
+<li><a href="spellchecking.shtm">Spell-Checking Tools</a>
+<li><a href="streaming.shtm">Streaming Audio/Video</a>
+<li><a href="supplychainmgmt.shtm">Supply Chain Mgt</a>
+<li><a href="jfc.shtm">Swing/JFC</a>
+<li><a href="systemadmin.shtm">System Administration</a>
+<li><a href="teamdev.shtm">Team Development</a>
+<li><a href="testing.shtm">Testing</a>
+<!--<li><a href="">Testing - Compilers &amp; VMs</a>-->
+<li><a href="textprocessing.shtm">Text Processing</a>
+<li><a href="threads.shtm">Threading</a>
+<li><a href="training.shtm">Training/Tutorials</a>
+<li><a href="cdtraining.shtm">Training - CDs</a>
+<!--<li><a href="">Training - Interactive</a>-->
+<li><a href="transactions.shtm">Transactions</a>
+<li><a href="uml.shtm">UML</a>
+<li><a href="versioncontrol.shtm">Version Control</a>
+<li><a href="voicerecognition.shtm">Voice Recognition</a>
+<li><a href="vrml.shtm">VRML</a>
+<li><a href="webbrowsers.shtm">Web Browsers</a>
+<li><a href="weblog.shtm">Web Log Analysis</a>
+<li><a href="webservers.shtm">Web Servers</a>
+<li><a href="servletwebservers.shtm">Web Servers: Servlets</a>
+<li><a href="webtolegacy.shtm">Web-to-Legacy</a>
+<li><a href="windows.shtm">Windows-specific</a>
+<!--<li><a href="workflow.shtm">Workflow</a>-->
+<li><a href="xml.shtm">XML</a>
+<li><a href="ziptools.shtm">Zip/Unzip Tools</a>
+
+</ul>
+</b>
+</td>
+
+
+<td valign="top">
+
+<!--
+<FONT size="3"><b>News</b></FONT>
+<ul>
+<li><a href="http://java.sun.com/products/java-media/3D/download.html">Sun releases Java 3D 1.1.3</a> - <font size=2>java.sun.com</font>
+<li><a href="http://infoseek.go.com/Content?arn=BW1081-19991228&qt=Java&sv=IS&lk=&col=NX&kt=A&ak=news1486">Pervasive introduces Tango 2000 for Linux app server</a> - <font size=2>Go News</font>
+<li><a href="http://java.sun.com/products/java-media/jai/">Java Advanced Imaging 1.0.2 includes better tile-caching</a> - <font size=2>java.sun.com</font>
+
+<li><a href="http://www.sun.com/software/embeddedserver/">Sun releases Java Embedded Server 1.2</a> - <font size=2>java.sun.com</font>
+<li><a href="http://www.alphaworks.ibm.com/tech/commonbusiness">IBM announces EJB components for WebSphere</a> - <font size=2>AlphaWorks</font>
+<li><a href="http://nicewww.cern.ch/%7Ehoschek/colt/index.htm">Colt 1.0 - for scalable scientific computing</a> - <font size=2>nicewww.cern.ch</font>
+<li><a href="http://jakarta.apache.org/downloads/binindex.html">Tomcat 3.0 ready: the last build for 1999</a> - <font size=2>The Jakarta Project</font>
+
+</ul>
+-->
+
+<!--start of java portal table-->
+<table width=570 style="font-family:arial,helvetica;"><tr><td valign=top>
+<dt><b><a href="applets.shtm">Applets</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="applets.shtm#collections">Applet Collections</a>
+&nbsp;&nbsp;&nbsp;<a href="components.shtm">Components</a>
+&nbsp;&nbsp;&nbsp;<a href="javabeans.shtm">JavaBeans</a>
+&nbsp;&nbsp;&nbsp;<a href="security.shtm">Security</a>
+&nbsp;&nbsp;&nbsp;<a href="ides.shtm">IDEs</a>
+&nbsp;&nbsp;&nbsp;<a href="applet-books.shtm">Books on Applets</a>
+
+</font>
+</td></tr></table><br>
+
+
+<dt><b><a href="books.shtm">Books</a></b>
+
+<table><tr><td>
+<font size=2>
+
+&nbsp;&nbsp;&nbsp;<a href="topjavabooks.shtm">Top Java Books</a>
+&nbsp;&nbsp;&nbsp;<a href="ejb-books.shtm">EJB</a>
+&nbsp;&nbsp;&nbsp;<a href="jini-books.shtm">Jini</a>
+&nbsp;&nbsp;&nbsp;<a href="servlets-books.shtm">Servlets</a>
+&nbsp;&nbsp;&nbsp;<a href="jfc-books.shtm">Swing/JFC</a>
+&nbsp;&nbsp;&nbsp;<a href="javacert-books.shtm">Java Certification</a>
+
+</font>
+</td></tr></table><br>
+
+
+<dt><b><a href="compilers.shtm">Compilers</a></b>
+
+<table><tr><td>
+<font size=2 color="#000000">
+<!--
+&nbsp;&nbsp;&nbsp;<a href="compilers.shtm">Byte Code Compilers</a>
+-->
+&nbsp;&nbsp;&nbsp;<a href="obfuscators.shtm">Code Obfuscators</a>
+&nbsp;&nbsp;&nbsp;<a href="nativecodecompilers.shtm">Native Compilers</a>
+&nbsp;&nbsp;&nbsp;<a href="decompilers.shtm">Decompilers</a>
+&nbsp;&nbsp;&nbsp;<a href="optimizers.shtm">Optimizers</a>
+
+
+</font>
+</td></tr></table><br>
+
+
+<dt><b><a href="components.shtm">Components</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="guis.shtm">GUI</a>
+&nbsp;&nbsp;&nbsp;<a href="businesscomponents.shtm">Business</a>
+&nbsp;&nbsp;&nbsp;<a href="charts.shtm">Charts</a>
+&nbsp;&nbsp;&nbsp;<a href="calendars.shtm">Calendars</a>
+&nbsp;&nbsp;&nbsp;<a href="dbawarecomponents.shtm">Database-aware</a>
+&nbsp;&nbsp;&nbsp;<a href="industrycomponents.shtm">Factory Automation</a>
+
+</font>
+</td></tr></table><br>
+
+<dt><b><a href="microjava.shtm">Consumer &amp; Embedded Java</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="embeddedjava.shtm">Embedded Java</a>
+&nbsp;&nbsp;&nbsp;<a href="javacard.shtm">JavaCard</a>
+&nbsp;&nbsp;&nbsp;<a href="palmpilot.shtm">Palm Pilot</a>
+&nbsp;&nbsp;&nbsp;<a href="jvms.shtm">JVMs/Runtimes</a>
+&nbsp;&nbsp;&nbsp;<a href="jini-books.shtm">Books on Jini</a>
+</font>
+</td></tr></table><br>
+
+<dt><b><a href="ecommerce.shtm">E-commerce</a></b>
+<table><tr><td>
+<font size=2 color="#000000">
+&nbsp;&nbsp;&nbsp;<a href="banking.shtm">Banking</a>
+&nbsp;&nbsp;&nbsp;<a href="finance.shtm">Finance</a>
+&nbsp;&nbsp;&nbsp;<a href="businesscomponents.shtm">Business Components</a>
+&nbsp;&nbsp;&nbsp;<a href="xml.shtm">XML</a>
+&nbsp;&nbsp;&nbsp;<a href="security.shtm">Security</a>
+</font>
+</td></tr></table><br>
+
+
+<dt><b><a href="enterprise.shtm">Enterprise</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="ejb.shtm">EJB</a>
+&nbsp;&nbsp;&nbsp;<a href="jdbc.shtm">JDBC</a>
+&nbsp;&nbsp;&nbsp;<a href="transactions.shtm">Transactions</a>
+&nbsp;&nbsp;&nbsp;<a href="rmi.shtm">RMI</a>
+&nbsp;&nbsp;&nbsp;<a href="erp.shtm">ERP</a>
+&nbsp;&nbsp;&nbsp;<a href="ejb-books.shtm">Books on EJB</a>
+&nbsp;&nbsp;&nbsp;<a href="businesscomponents.shtm">Business Components</a>
+
+</font>
+</td></tr></table><br>
+
+
+<dt><b><a href="/freebies.shtm">Freebies</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="/freebies.shtm#appservers">App Servers</a>
+&nbsp;&nbsp;&nbsp;<a href="/freebies.shtm#components">Components</a>
+&nbsp;&nbsp;&nbsp;<a href="/freebies.shtm#posters">Posters</a>
+&nbsp;&nbsp;&nbsp;<a href="/freebies.shtm#seminars">Seminars</a>
+&nbsp;&nbsp;&nbsp;<a href="/freebies.shtm#tools">Tools</a>
+
+</font>
+</td></tr></table><br>
+
+<dt><b><a href="groupware.shtm">Groupware</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="chats.shtm">Chat</a>
+&nbsp;&nbsp;&nbsp;<a href="collaboration.shtm">Collaboration</a>
+&nbsp;&nbsp;&nbsp;<a href="networking.shtm">Networking</a>
+
+&nbsp;&nbsp;&nbsp;<a href="messaging.shtm">Messaging</a>
+&nbsp;&nbsp;&nbsp;<a href="mail.shtm">Mail</a>
+
+</font>
+</td></tr></table><br>
+</td>
+
+<td valign=top>
+
+<dt><b><a href="guis.shtm">GUIs</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="dbawarecomponents.shtm">Database-aware GUIs</a>
+&nbsp;&nbsp;&nbsp;<a href="spreadsheets.shtm">Spreadsheets</a>
+&nbsp;&nbsp;&nbsp;<a href="textcomponents.shtm">Text</a>
+&nbsp;&nbsp;&nbsp;<a href="tables.shtm">Tables</a>
+&nbsp;&nbsp;&nbsp;<a href="trees.shtm">Trees</a>
+&nbsp;&nbsp;&nbsp;<a href="tabbedpanes.shtm">Tabbed Panes</a>
+&nbsp;&nbsp;&nbsp;<a href="layouts.shtm">Layouts</a>
+
+</font>
+</td></tr></table><br>
+
+
+<dt><b><a href="devtools.shtm">IDEs/Development Tools</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="ides.shtm">IDEs</a>
+&nbsp;&nbsp;&nbsp;<a href="codeeditors.shtm">Code Editors</a>
+&nbsp;&nbsp;&nbsp;<a href="modelingtools.shtm">Modeling Tools</a>
+&nbsp;&nbsp;&nbsp;<a href="ideaddons.shtm">IDE Add-ons</a>
+&nbsp;&nbsp;&nbsp;<a href="emacs.shtm">Emacs</a>
+&nbsp;&nbsp;&nbsp;<a href="appservers.shtm">Application Servers</a>
+
+
+</font>
+</td></tr></table><br>
+
+
+
+<dt><b><a href="jdbc.shtm">JDBC/Databases</a></b>
+<table><tr><td>
+<font size=2 color="#000000">
+&nbsp;&nbsp;&nbsp;<a href="jdbcdrivers.shtm">JDBC Drivers</a>
+&nbsp;&nbsp;&nbsp;<a href="connectionpools.shtm">Connection Pools</a>
+&nbsp;&nbsp;&nbsp;<a href="caching.shtm">Caching</a>
+&nbsp;&nbsp;&nbsp;<a href="enterprise.shtm">Enterprise</a>
+&nbsp;&nbsp;&nbsp;<a href="jdbc-books.shtm">JDBC Books</a>
+
+</font>
+</td></tr></table><br>
+
+
+<dt><b><a href="jvms.shtm">JVMs/Runtimes</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="jvms.shtm">JVMs</a>
+&nbsp;&nbsp;&nbsp;<a href="embeddedjava.shtm">Embedded JVMs</a>
+&nbsp;&nbsp;&nbsp;<a href="testing.shtm">JVM Benchmarking</a>
+&nbsp;&nbsp;&nbsp;<a href="compilers.shtm">Compilers</a>
+<!--&nbsp;&nbsp;&nbsp;<a href="jitcompilers.shtm">JIT Compilers</a>-->
+
+</font>
+</td></tr></table><br>
+
+<dt><b><a href="multimedia.shtm">Multimedia</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="audio.shtm">Audio</a>
+&nbsp;&nbsp;&nbsp;<a href="graphics2d.shtm">Graphics 2D</a>
+&nbsp;&nbsp;&nbsp;<a href="graphics3d.shtm">Graphics 3D</a>
+&nbsp;&nbsp;&nbsp;<a href="imaging.shtm">Imaging</a>
+&nbsp;&nbsp;&nbsp;<a href="streaming.shtm">Streaming Audio/Video</a>
+&nbsp;&nbsp;&nbsp;<a href="voicerecognition.shtm">Voice Recognition</a>
+
+</font>
+</td></tr></table><br>
+
+
+<dt><b><a href="serverside.shtm">Server-side</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="servlets.shtm">Servlets</a>
+&nbsp;&nbsp;&nbsp;<a href="webservers.shtm">Web Servers</a>
+&nbsp;&nbsp;&nbsp;<a href="jsp.shtm">Java Server Pages</a>
+&nbsp;&nbsp;&nbsp;<a href="servletwebservers.shtm">Servlet-enabled Web Servers</a>
+&nbsp;&nbsp;&nbsp;<a href="jdbc.shtm">JDBC</a>
+
+</font>
+</td></tr></table><br>
+
+<a name=mags></a>
+<dt><b><a href="testing.shtm">Testing</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="codetesting.shtm">Program/Code Testing</a>
+&nbsp;&nbsp;&nbsp;<a href="defecttracking.shtm">Defect Tracking</a><br>
+<!--
+&nbsp;&nbsp;&nbsp;<a href="compilervmtesting.shtm">Compiler/VM Testing</a>
+&nbsp;&nbsp;&nbsp;<a href="loadtesting.shtm">Server Load Testing</a>
+-->
+&nbsp;&nbsp;&nbsp;<a href="problemtracking.shtm">Problem Tracking Systems</a>
+&nbsp;&nbsp;&nbsp;<a href="profiling.shtm">Profiling</a>
+
+</font>
+</td></tr></table><br>
+
+
+<dt><b><a href="training.shtm">Training/Tutorials</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="training.shtm#enterprise">Enterprise</a>
+&nbsp;&nbsp;&nbsp;<a href="cdtraining.shtm">CDs</a>
+&nbsp;&nbsp;&nbsp;<a href="training.shtm#ooad">OOA/D</a>
+&nbsp;&nbsp;&nbsp;<a href="training.shtm#ctojava">C/C++ to Java</a>
+&nbsp;&nbsp;&nbsp;<a href="javacert-books.shtm">Java Certification Books</a>
+&nbsp;&nbsp;&nbsp;<a href="training.shtm#vaj">Visual Age for Java</a>
+<!--&nbsp;&nbsp;&nbsp;<a href="training.shtm#websphere">WebSphere</a>-->
+<!--&nbsp;&nbsp;&nbsp;<a href="/javacert.shtm">Certification</a>-->
+</font>
+</td></tr></table><br>
+
+<dt><b><a href="xml.shtm">XML</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="xml.shtm#editors">Editors</a>
+&nbsp;&nbsp;&nbsp;<a href="xml.shtm#vparsers">Validating Parsers</a>
+&nbsp;&nbsp;&nbsp;<a href="xml.shtm#enterprise">XML-Enterprise</a>
+&nbsp;&nbsp;&nbsp;<a href="xml.shtm#nvparsers">Non-validating Parsers</a>
+&nbsp;&nbsp;&nbsp;<a href="xml.shtm#tools">Tools</a>
+&nbsp;&nbsp;&nbsp;<a href="xml.shtm#xsl">XSL</a>
+&nbsp;&nbsp;&nbsp;<a href="xml-books.shtm">XML Books</a>
+</font>
+</td></tr></table><br>
+
+</td></tr></table>
+
+</dl>
+
+<table><tr>
+<td>
+<i>Comments? Suggestions? Have a new product? Write to the <a href="mailto:jdteam@jdance.com">jdteam@jdance.com</a>
+
+<br><br><br>
+<font size="2">Copyright &copy; 1999-2001, JShoppe.com. All Rights Reserved.
+</font>
+</td>
+<td align=right width=200>
+<table>
+<tr><td>
+Advertise with
+</td></tr>
+<tr><td>
+<a href="mailto:jdteam@jdance.com"><img src="jshoppe.gif" width=160 height=80 border=0></a></td></tr>
+</table>
+</td>
+</tr></table>
+
+<table>
+<tr>
+<td>
+
+<!-- BEGIN LINKEXCHANGE CODE --> 
+<center><iframe src="http://leader.linkexchange.com/1/X1218330/showiframe?" width=468 height=60 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no>
+<a href="http://leader.linkexchange.com/1/X1218330/clickle" target="_top"><img width=468 height=60 border=0 ismap alt="" src="http://leader.linkexchange.com/1/X1218330/showle?"></a></iframe><br><a href="http://leader.linkexchange.com/1/X1218330/clicklogo" target="_top"><img src="http://leader.linkexchange.com/1/X1218330/showlogo?" width=468 height=16 border=0 ismap alt=""></a><br></center>
+<!-- END LINKEXCHANGE CODE -->
+
+</td>
+</tr>
+</table>
+
+
+<hr>
+<br><br>
+<table bgcolor="#ffcc99" cellspacing=0 cellpadding=0 border=0 align=center>
+<tr>
+<td>
+<h3><font size="3"><u>jdance.com Info Links</u></font></h3>
+<h4>The jdance Channels</h4>
+</td>
+
+<td>&nbsp;</td>
+
+</tr>
+<tr>
+<td width=200>
+<b>
+<ul>
+<li><a href="/applets.shtm">Applets</a>
+<li><a href="books.shtm">Books</a>
+<li><a href="/columns.shtm">Columns</a>
+<li><a href="/conferences.shtm">Conferences</a>
+<li><a href="/embeddedjava.shtm">Embedded Java</a>
+<li><a href="/ejb.shtm">Enterprise Java Beans</a>
+<li><a href="/faqs.shtm">FAQs</a>
+<li><a href="/freebies.shtm">Freebies</a>
+<li><a href="/infobus.shtm">Infobus</a>
+<li><a href="/i18n.shtm">Internationalization</a>
+<li><a href="/java2d.shtm">Java 2D Graphics</a>
+<li><a href="/java3d.shtm">Java 3D</a>
+<li><a href="/jaf.shtm">JAF</a>
+<li><a href="/imaging.shtm">Java Advanced Imaging</a>
+<li><a href="/javabeans.shtm">JavaBeans</a>
+<li><a href="/javacard.shtm">Java Card</a>
+<!--<li><a href="applets.shtm">Java Celebrities</a>-->
+<li><a href="/javacert.shtm">Java Certification</a>
+<li><a href="/collections.shtm">Java Collections</a>
+<li><a href="/javacommerce.shtm">Java Commerce</a>
+<li><a href="/comm.shtm">Java Communications</a>
+<li><a href="/consulting.shtm">Java Consulting</a>
+<li><a href="/javacrypt.shtm">Java Cryptography</a>
+<li><a href="/javadmk.shtm">Java DMK</a>
+<li><a href="/exceptions.shtm">Java Exceptions</a>
+<li><a href="/javaextensions.shtm">Java Extensions</a>
+<!--<li><a href="devices.shtm">Java for Devices</a>-->
+<li><a href="/jfc.shtm">Java Foundation Classes</a>
+<li><a href="/javahelp.shtm">Java Help</a>
+<li><a href="/corba.shtm">Java IDL</a>
+<li><a href="/javaio.shtm">Java I/O</a>
+<li><a href="/jobs.shtm">Java Jobs/Careers</a>
+
+<li><a href="/javamail.shtm">Java Mail</a>
+<li><a href="/jmapi.shtm">Java Management</a>
+
+<li><a href="/media.shtm">Java Media</a>
+
+<!--<li><a href="jmf.shtm">Java Media Framework</a>-->
+<li><a href="/jms.shtm">Java Message Service</a>
+
+
+<li><a href="/jni.shtm">Java Native Interface</a>
+<li><a href="/javaphone.shtm">Java Phone</a>
+<li><a href="/reflection.shtm">Java Reflection</a>
+<li><a href="/security.shtm">Java Security</a>
+
+<br><br><br>
+</ul>
+</b>
+</td>
+<td valign=top width=200>
+<b>
+<ul>
+<li><a href="/javasdt.shtm">Java SDT</a>
+<li><a href="/jsp.shtm">Java Server Pages</a>
+<li><a href="/sound.shtm">Java Sound</a>
+<li><a href="/javaspaces.shtm">Java Spaces</a>
+<li><a href="/javaspeech.shtm">Java Speech</a>
+<li><a href="/telephony.shtm">Java Telephony</a>
+<li><a href="/threads.shtm">Java Threads</a>
+<li><a href="/jts.shtm">JTS</a>
+<li><a href="/javatv.shtm">Java TV</a>
+<li><a href="/jugs.shtm">JUGs</a>
+<li><a href="/jdbc.shtm">JDBC</a>
+<li><a href="/jini.shtm">Jini</a>
+<li><a href="/jmapi.shtm">JMAPI</a>
+<li><a href="/jmf.shtm">JMF</a>
+<li><a href="/jndi.shtm">JNDI</a>
+<li><a href="/jni.shtm">JNI</a>
+<li><a href="/kvm.shtm">K Virtual Machine</a>
+<li><a href="/mags.shtm">Magazines</a>
+
+<li><a href="/personaljava.shtm">Personal Java</a>
+<li><a href="/rmi.shtm">RMI</a>
+<li><a href="/servlets.shtm">Servlets</a>
+<li><a href="/swing.shtm">Swing</a>
+<li><a href="training.shtm">Training</a>
+<!--<li><a href="/jsp.shtm">Tutorials</a>-->
+<li><a href="/xml.shtm">XML</a>
+<br><br><br>
+</ul>
+</b>
+</td>
+</tr>
+</table>
+
+
+
+
+</td>
+
+<td valign=top>
+
+<a href="http://www.capeclear.com/products/index.shtml" target=_top><img src="capeclearads1.gif" width=125 height=125 border=0></a>
+<br><br>
+<a href="http://www.breezefactor.com/" target=_top><img src="breeze2.gif" width=125 height=125 border=0></a>
+<br><br>
+<a href="http://www.lutris.com/products/index.html" target=_top><img src="enhydra2.gif" width=125 height=125 border=0></a>
+<br><br>
+<a href="http://www.weblinkwireless.com/index.html" target=_top><img src="adze2.gif" width=125 border=0></a>
+<br><br>
+
+
+
+</td>
+
+
+
+</tr>
+</table>
+
+</body>
+</html>
+

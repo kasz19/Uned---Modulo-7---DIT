@@ -1,0 +1,1055 @@
+ID=D0007
+URL=http://www.javacoding.net/automate/link.php?sequence=1&sessionId=99f07fda8f21c65328fe683b2376e379&linkId=15
+SIZE=105133
+DATE=16/07/02
+TIME=14:34:39
+DATASET=Java
+HTML=<html>
+<!-- #BeginTemplate "/Templates/homepage_20020417.dwt" --> 
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>Gamasutra - The Art &amp; Science of Making Games</title>
+<meta name="keywords" content="game development, game developer, game programming, game programmer, videogame, artificial intelligence, 3D animation, game design, 3D modeling, game business, game jobs, game directory, game development software, 
+game technology, 3D technology, game producer, game audio, game animation, virtual reality, digital entertainment, PC game, Xbox game, game news, new game, arcade development, Nintendo development, Playstation development, Playstation 2, PS2, Dreamcast 
+development, Game Developer magazine, Computer Game Developers Conference, Game Developers Conference, Independent Game Developers Conference, CMP Game Media Group, game industry research, online game development, digital assets, free textures, free 3D models, free shaders, Gamasutra Exchange, 3D Studio Max textures">
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFcc" onLoad="MM_preloadImages('/db_area/images/layout/images/store/01_nav_under_store_r2_c2_f2.gif','/db_area/images/layout/images/store/01_nav_under_store_r2_c4_f2.gif','/db_area/images/layout/images/store/01_nav_under_store_r2_c6_f2.gif','/db_area/images/layout/images/store/01_nav_under_store_r2_c8_f2.gif','/db_area/images/layout/images/store/01_nav_under_store_r2_c10_f2.gif','db_area/images/layout/images/edu/01_nav_under_education_r2_c2_f2.gif','db_area/images/layout/images/edu/01_nav_under_education_r2_c4_f2.gif','db_area/images/layout/images/edu/01_nav_under_education_r2_c6_f2.gif','db_area/images/layout/images/edu/01_nav_under_education_r2_c8_f2.gif')" text="#000000" link="880000" vlink="880000" alink="880000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="915" border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="781" valign="top" height="826"> 
+      <table width="781" border="0" cellspacing="0" cellpadding="0" height="23">
+        <tr align="left" bgcolor="#ccC999"> 
+          <td height="12"> 
+            <div align="left"><a href="http://www.cmpgame.com" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image21','','/db_area/images/layout/toolbarcmpgame-over.gif',1)"><img name="Image21" border="0" src="/db_area/images/layout/toolbarcmpgame.gif" width="123" height="23"></a><a href="http://www.gdconf.com" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image26','','/db_area/images/layout/gamenav/images/conf-over.gif',1)"><img name="Image26" border="0" src="/db_area/images/layout/gamenav/images/conf.gif" width="143" height="23"></a><a href="http://www.gdmag.com" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image23','','/db_area/images/layout/toolbarmag-over.gif',1)"><img name="Image23" border="0" src="/db_area/images/layout/toolbarmag.gif" width="129" height="23"></a><a href="/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image28','','/db_area/images/layout/gamenav/images/gama-over.gif',1)"><img name="Image28" border="0" src="/db_area/images/layout/gamenav/images/gama-over.gif" width="85" height="23"></a><a href="http://www.indiegames.com" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image25','','/db_area/images/layout/toolbarindie-over.gif',1)"><img name="Image25" border="0" src="/db_area/images/layout/toolbarindie.gif" width="137" height="23"></a></div>
+          </td>
+        </tr>
+      </table>
+      <!-- #BeginLibraryItem "/Library/01top_nav-2001-no-login.lbi" -->
+
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<table border=0 cellpadding=0 cellspacing=0>
+  <tr> 
+    <td width=154 NOWRAP></td>
+    <td width=159 NOWRAP></td>
+    <td width=125 NOWRAP></td>
+    <td width=60 NOWRAP></td>
+    <td width=196 NOWRAP></td>
+    <td width=68 NOWRAP></td>
+    <td width=17 NOWRAP></td>
+  </tr>
+  <tr> 
+    <td colspan=2 valign="bottom"> <img src="/redesign/images/tagline.gif" width=313 height=14></td>
+    <td valign="bottom" height=14 NOWRAP width="125"></td>
+    <td valign="bottom" width="60" align="right"> 
+      <div align="right"><img src="/redesign/images/topnav_left.gif" width=33 height=14 align="bottom"></div>
+    </td>
+    <td colspan=2 bgcolor="#000000" valign="bottom"><font color="#99CC00" face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/join.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('join','','/redesign/images/join-on.gif',1)"><img name="join" border="0" src="/redesign/images/join-off.gif" width="26" height="10" alt="It's free to join Gamasutra!"></a>|<a href="/contact_us/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contactus','','/redesign/images/contactus-on.gif',1)"><img name="contactus" border="0" src="/redesign/images/contactus-off.gif" width="56" height="10" alt="Have a question? Want to know who runs this site? Here you go."></a>|<a href="/mediakit/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('advertise','','/redesign/images/advertise-on.gif',1)"><img name="advertise" border="0" src="/redesign/images/advertise-off.gif" width="50" height="10" alt="Targeting the game development market with your product or service? Get info on advertising here."></a>|<a href="/writers_guidelines/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('writeButton','','/redesign/images/write-on.gif',1)"><img name="writeButton" border="0" src="/redesign/images/write-off.gif" width="29" height="10"></a>|<a href="/php-bin/profile.php3" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('my profile','','/redesign/images/myprofile-on.gif',1)"><img name="my profile" border="0" src="/redesign/images/myprofile-off.gif" width="55" height="10" alt="For altering your contact information or changing email subscription preferences."></a></font></td>
+    <td valign="middle" align="right" width="17" bgcolor="#000000"> <img src="/redesign/images/topnav_right.gif" width=10 height=14></td>
+  </tr>
+  <tr> 
+    <td rowspan=2 width="154"> <img src="/redesign/images/logo_login.gif" width=154 height=98 usemap="#Map" border="0"><map name="Map"><area shape="rect" coords="8,76,49,94" href="/php-bin/login.php3" alt="Registered members can log in here." title="Registered members can log in here."><area shape="rect" coords="5,4,126,63" href="/" alt="Back to the home page." title="Back to the home page."></map></td>
+    <td colspan=6 height="70" bgcolor="#000000">
+<!-- top ad call-->
+  <script src="http://www.gamasutra.com/focused_ads.js">
+  
+</SCRIPT>
+      <!--- end of top ad-->
+      &nbsp; &nbsp; 
+      <!-- Top Right Button ad call-->
+      <script>
+  var D = new Date();
+  seed = (D.getSeconds() * 0xFFFFFF) + (D.getMinutes() * 0xFFFF); 
+  timenum = D.getTime();    
+  </script>
+      <IFRAME WIDTH=120 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR=#000000 SRC="http://newads.cmpnet.com/html.ng/site=gamasutra&pagepos=button"> 
+      <SCRIPT LANGUAGE="JavaScript" SRC="http://newads.cmpnet.com/js.ng/Params.richmedia=yes&site=gamasutra&pagepos=button">
+  document.write("<A HREF=\"http://newads.cmpnet.com/click.ng/Params.richmedia=yes&transactionID=" + seed + timenum + "&site=gamasutra&pagepos=button\">");
+  document.write("<IMG SRC=\"http://newads.cmpnet.com/image.ng/Params.richmedia=yes&transactionID=" + seed + timenum + "&site=gamasutra&pagepos=button\">");
+  </SCRIPT>
+      </IFRAME> <!--- end of right ad--> </td>
+  </tr>
+  <tr> 
+    <td colspan=4 bgcolor="#99CC00" align="center"><a href="/newswire/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image12','','/redesign/images/2002news-on.gif',1)"><img name="Image12" border="0" src="/redesign/images/2002news-off.gif" width="33" height="11"></a><img src="/redesign/images/2002topnavgreenspacer.gif" width="5" height="11" hspace="2"><a href="/features/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image14','','/redesign/images/2002features-on.gif',1)"><img name="Image14" border="0" src="/redesign/images/2002features-off.gif" width="51" height="11"></a><img src="/redesign/images/2002topnavgreenspacer.gif" width="5" height="11" hspace="2"><a href="/companies/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image16','','/redesign/images/2002companies-on.gif',1)"><img name="Image16" border="0" src="/redesign/images/2002companies-off.gif" width="63" height="11"></a><img src="/redesign/images/2002topnavgreenspacer.gif" width="5" height="11" hspace="2"><a href="/jobsearch/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image18','','/redesign/images/2002jobs-on.gif',1)"><img name="Image18" border="0" src="/redesign/images/2002jobs-off.gif" width="28" height="11"></a><img src="/redesign/images/2002topnavgreenspacer.gif" width="5" height="11" hspace="2"><a href="/resumes/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image20','','/redesign/images/2002resumes-on.gif',1)"><img name="Image20" border="0" src="/redesign/images/2002resumes-off.gif" width="51" height="11"></a><img src="/redesign/images/2002topnavgreenspacer.gif" width="5" height="11" hspace="2"><a href="/education/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image22','','/redesign/images/2002education-on.gif',1)"><img name="Image22" border="0" src="/redesign/images/2002education-off.gif" width="58" height="11"></a><img src="/redesign/images/2002topnavgreenspacer.gif" width="5" height="11" hspace="2"><a href="/directories/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image24','','/redesign/images/2002productguide-on.gif',1)"><img name="Image24" border="0" src="/redesign/images/2002productguide-off.gif" width="83" height="11"></a><img src="/redesign/images/2002topnavgreenspacer.gif" width="5" height="11" hspace="2"><a href="/projects/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image66','','/redesign/images/2002projects-on.gif',1)"><img name="Image66" border="0" src="/redesign/images/2002projects-off.gif" width="51" height="11"></a><img src="/redesign/images/2002topnavgreenspacer.gif" width="5" height="11" hspace="2"><a href="/store/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image68','','/redesign/images/2002store-on.gif',1)"><img name="Image68" border="0" src="/redesign/images/2002store-off.gif" width="33" height="11"></a><br>
+     </td>
+    <td width="68" align="left" bgcolor="#99CC10"> <img src="/redesign/images/search.gif" width=68 height=28 usemap="#Map2" border="0"><map name="Map2"><area shape="rect" coords="3,3,59,28" href="/search/" alt="Search articles, jobs, buyers guide, and more." title="Search articles, jobs, buyers guide, and more."></map></td>
+    <td width="17" bgcolor="#99CC10" valign="bottom" align="right"> <img src="/redesign/images/bottom_right.gif" width=10 height=28 align="bottom"></td>
+  </tr>
+</table><!-- #EndLibraryItem -->
+      <table width="780" border="0" cellspacing="2" cellpadding="3">
+        <tr> 
+          <td valign="top" width="204" height="551"> 
+            <table width="215" border="0" cellspacing="0" cellpadding="0" height="90">
+              <tr valign="top"> 
+                <td><!-- #BeginEditable "index_image" --> 
+                  <p> 
+                  <table border=0 cellpadding=0 cellspacing=0 width="98%" align="center">
+                    <tr> 
+                      <td height="11" rowspan="2" width="10" valign="top" bgcolor="ccc999" align="left"> 
+                        <img src="/redesign/images/corner_top_left.gif" width=10 height=11 align="top"> 
+                      </td>
+                      <td rowspan="3" bgcolor="ccc999" valign="top" colspan="3" align="left"> 
+                        <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b> 
+                          <script language="JavaScript">
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+<!-- Begin
+document.write("<font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\"><b>");
+ var months=new Array(13);
+months[1]="January";
+months[2]="February";
+months[3]="March";
+months[4]="April";
+months[5]="May";
+months[6]="June";
+months[7]="July";
+months[8]="August";
+months[9]="Sept.";
+months[10]="October";
+months[11]="November";
+months[12]="December";
+var time=new Date();
+var lmonth=months[time.getMonth() + 1];
+var date=time.getDate();
+var year=time.getYear();
+// Y2K Fix by Isaac Powell
+// http://onyx.idbsu.edu/~ipowell
+if ((navigator.appName == "Microsoft Internet Explorer") && (year < 2000))		
+year="19" + year;
+if (navigator.appName == "Netscape")
+year=1900 + year;
+document.write(lmonth + " ");
+document.write(date + ", " + year );
+;
+
+	document.write ("</b></font><br>");
+//pull all Gama cookies
+var allcookies = document.cookie;
+//document.write("<div align=left>");
+
+//Find the position of the Gama Demographic string in the cookie
+var pos = allcookies.indexOf("GamaDemo2=");
+
+if (pos == -1){
+	document.write("<br><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">Welcome!  <a href=\"http://www.gamasutra.com/php-bin/login.php3\">[Login...]</a>");
+}
+else{
+	//start of the Gama Demo string	
+	var start = pos + 9;
+	
+	//end of the Gama Demo string
+	var end = allcookies.indexOf(";",start);
+	
+	//if the end of the Gama Demo string is the end of the string, set it 	
+	if (end == -1) end = allcookies.length;
+	
+	//isolate the Gama Demo String
+	var value = allcookies.substring(start,end);
+	//document.write(value)
+	
+	//split the Gama Demo String into an array
+	value = value.split("|");
+	
+	//push the different demographics into variables
+	
+	var name = value[5];
+	name =name.replace(/%20/, " ");
+	
+	var resumedate = value[6];
+	document.write ("<br><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">Welcome, <a href=\"http://www.gamasutra.com/php-bin/profile.php3\">" + name + "</a>.<br>");
+	if (resumedate == "noresume" || !resumedate) document.write(" No resume hosted. [<a href=\"http://www.gamasutra.com/php-bin/resume_user.php\">Upload Resume</a>]")
+	else document.write("<a href=\"http://www.gamasutra.com/php-bin/resume_user.php\">Resume Last Updated: " + resumedate+ "</a>");
+	document.write ("<br><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\"><a href=\"http://www.gamasutra.com/php-bin/delete_cookie.php\">[Logout] </a>");
+}
+
+//document.write("</div>");
+document.write("</font>");
+// End -->
+</script>
+                          </b><br>
+                          &nbsp;</font></p>
+                      </td>
+                      <td height="11" valign="top" bgcolor="ccc999" width="10" align="right"> 
+                        <img src="/redesign/images/corner_top_right.gif" width=10 height=11 align="top"></td>
+                    </tr>
+                    <tr> 
+                      <td bgcolor="ccc999" rowspan="2" width="10" valign="bottom" align="right"> 
+                        <img src="/redesign/images/corner_bottom_right.gif" width=10 height=11 align="bottom"></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="2" valign="bottom" bgcolor="ccc999" width="10" align="left"> 
+                        <img src="/redesign/images/corner_bottom_left.gif" width=10 height=11 align="bottom"></td>
+                    </tr>
+                  </table>
+                  <center>
+                    <a href="features/20020715/mollerhaines_01.htm"><img width="264" height="240" border="0" src="/db_area/images/Home_images/bezier_index.gif" vspace="6" alt="Cover Feature"><br>
+                    </a><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b> 
+                    Graphics accelerators are beginning to include support for 
+                    curved surfaces as basic primitives, including N-patches. 
+                    In this excerpt from the upcoming second edition of Real-Time 
+                    Rendering, see how N-patches can replace triangles to make 
+                    low-polygon models more convincing and realistic. <br>
+                    </b></font> 
+                  </center>
+                  <!-- #EndEditable --> <!-- #BeginEditable "sidebar%20content" --> 
+                  <!-- jumbo box ad call-->
+                  <div align="center"> 
+                    <!--240x240 ad 
+<script>
+  var D = new Date();
+  seed = (D.getSeconds() * 0xFFFFFF) + (D.getMinutes() * 0xFFFF); 
+  timenum = D.getTime();    
+  </script>
+                    <iframe width=243 height=243 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor=#000000 src="http://newads.cmpnet.com/html.ng/site=gamasutra&pagepos=jumbobox&gam_pos=home"> 
+                    <script language="JavaScript" src="http://newads.cmpnet.com/js.ng/Params.richmedia=yes&site=gamasutra&pagepos=jumbobox&gam_pos=home">
+  document.write("<A HREF=\"http://newads.cmpnet.com/click.ng/Params.richmedia=yes&transactionID=" + seed + timenum + "&site=gamasutra&pagepos=jumbobox&gam_pos=home\">");
+  document.write("<IMG SRC=\"http://newads.cmpnet.com/image.ng/Params.richmedia=yes&transactionID=" + seed + timenum + "&site=gamasutra&pagepos=jumbobox&gam_pos=home\">");
+  </script>
+                    </iframe> 
+                    <!--- end of jumbo box ad-->
+                    <br>
+                    <table border=0 cellpadding=0 cellspacing=0 width="100%" align="center">
+                      <tr> 
+                        <td height="11" rowspan="2" width="10" valign="top" bgcolor="ccc999"> 
+                          <div align="right"><img src="/redesign/images/corner_top_left.gif" width=10 height=11 align="top"> 
+                          </div>
+                        </td>
+                        <td rowspan="3" bgcolor="ccc999" valign="top" colspan="3" align="left"> 
+                          <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><img src="redesign/images/announcements.gif" width="121" height="26" vspace="3"></font></p>
+                          <p align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><b><font size="-2">[07.08.02] 
+                            New &quot;Event Calendar&quot; On Gama<br>
+                            </font></b><font size="-2">We launched a new event 
+                            calendar on the site which lists upcoming conferences, 
+                            contests, tradeshows, product launches, SIG meetings, 
+                            and so on. It's free to post non-enhanced events, 
+                            and $350 to post enhanced events. The closest upcoming 
+                            events get posted here on the homepage (scroll down 
+                            this column). <a href="/php-bin/calendar.php"> <br>
+                            [View Calendar...]</a>&nbsp;&nbsp;<a href="https://www.gamasutra.com/php-bin/calendar_submit.php?enhanced=0">[Post 
+                            Event...]</a><br>
+                            &nbsp;</font></font></p>
+                          </td>
+                        <td height="11" valign="top" bgcolor="ccc999" width="10" align="right"> 
+                          <img src="/redesign/images/corner_top_right.gif" width=10 height=11 align="top"></td>
+                      </tr>
+                      <tr> 
+                        <td bgcolor="ccc999" rowspan="2" width="10" valign="bottom" align="right"> 
+                          <img src="/redesign/images/corner_bottom_right.gif" width=10 height=11 align="bottom"></td>
+                      </tr>
+                      <tr valign="top"> 
+                        <td height="56" valign="bottom" bgcolor="ccc999" width="10" align="left"> 
+                          <img src="/redesign/images/corner_bottom_left.gif" width=10 height=11 align="bottom"></td>
+                      </tr>
+                    </table>
+                    <hr width="90%">
+                    <a href="http://www.gdc-europe.com" target="_blank"><img src="/db_area/images/ads/internal/gdce240x240.gif" width="240" height="240" border="0"><br>
+                    </a> 
+                    <hr width="90%">
+                    <a href="http://www.gdc-europe.com" target="_blank"> </a></div>
+                  <div align="center"> 
+                    <table border=0 cellpadding=0 cellspacing=0 align="center" height="190" width="220">
+                      <tr> 
+                        <td height="11" rowspan="2" width="10" valign="top" bgcolor="ccc999"> 
+                          <div align="right"><img src="/redesign/images/corner_top_left.gif" width=10 height=11 align="top"> 
+                          </div>
+                        </td>
+                        <td rowspan="3" bgcolor="ccc999" valign="top" colspan="3" align="left"> 
+                          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><i><br>
+                            <a href="galleries/index.htm"><img src="/galleries/game%20development%20gallery.gif" width="245" height="25" border="0"></a></i><br>
+                            </font><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><font size="-2"><b>Latest 
+                            Profile:</b></font><br>
+                            <font size="-2"><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"></font></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="galleries/audio/danny_pelfrey/index.htm">Danny 
+                            Pelfrey</a>, Composer<br>
+                            <br>
+                            </font><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><img src="/galleries/audio/danny_pelfrey/pelfrey_sm.gif" width="126" height="126" align="right" border="0"></font></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">For 
+                            Award winning composer and multi-instrumentalist Danny 
+                            Pelfrey, music has been an inspiring journey from 
+                            his roots in West Virginia to the magnetic world of 
+                            Hollywood film and television. Games are yet another 
+                            new adventure: "Composing music for games has provided 
+                            me with a whole new world for freedom of expression. 
+                            No restrictions are placed on your imagination,"</font></p>
+                          <center>
+                            <center>
+                              <p align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>Previous 
+                                Profile:<br>
+                                </b></font><a href="galleries/visual_art/dimitri_detchev/index.htm"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"></font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"></font><font size="-2" face="Verdana, Arial, Helvetica, sans-serif"><a href="galleries/visual_art/phelan_sykes/index.htm">Phelan 
+                                Sykes</a>, Art Director</font><font size="-2"></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+                                </font> </p>
+                            </center>
+                          </center>
+                          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>Browse 
+                            Galleries:</b><br>
+                            </font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/galleries/audio/index.htm">[Game 
+                            Audio Gallery]</a>&nbsp; <a href="/galleries/visual_art/"><br>
+                            [Visual Artists Gallery]</a><br>
+                            <a href="/galleries/student/">[Student Gallery]</a> 
+                            <br>
+                            </font> </p>
+                          <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>Let's 
+                            see what you've got!<a href="/galleries/apply.htm"><br>
+                            [Submit Work To Artist/Audio Gallery]</a></b></font></p>
+                          <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>New: 
+                            Student Gallery! </b><br>
+                            Tomorrow's game developers on parade. <b><br>
+                            <a href="/galleries/apply-student.htm">[Submit Work 
+                            To The Student Gallery]</a></b><br>
+                            &nbsp; </font></p>
+                        </td>
+                        <td height="11" valign="top" bgcolor="ccc999" width="10" align="right"> 
+                          <img src="/redesign/images/corner_top_right.gif" width=10 height=11 align="top"></td>
+                      </tr>
+                      <tr> 
+                        <td bgcolor="ccc999" rowspan="2" width="10" valign="bottom" align="right"> 
+                          <img src="/redesign/images/corner_bottom_right.gif" width=10 height=11 align="bottom"></td>
+                      </tr>
+                      <tr valign="top"> 
+                        <td height="366" valign="bottom" bgcolor="ccc999" width="10" align="left"> 
+                          <img src="/redesign/images/corner_bottom_left.gif" width=10 height=11 align="bottom"></td>
+                      </tr>
+                    </table>
+                    <p><a href="/wireless/how-to.htm"><img src="/db_area/images/layout/wirelesschannel.gif" width="274" height="60" border="0"></a></p>
+                    <table border=0 cellpadding=0 cellspacing=0 align="center" height="190" width="274">
+                      <tr> 
+                        <td height="11" rowspan="2" width="10" valign="top" bgcolor="ccc999"> 
+                          <div align="right"><img src="/redesign/images/corner_top_left.gif" width=10 height=11 align="top"> 
+                          </div>
+                        </td>
+                        <td rowspan="3" bgcolor="ccc999" valign="top" colspan="3" align="left"> 
+                          <center>
+                            <a href="/php-bin/calendar.php"><img src="/redesign/images/calendar.gif" width="121" height="26" vspace="3" border="0"></a> 
+                          </center>
+                          <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>Upcoming Events:</b><br><img src="../db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="http://www.gamasutra.com/php-bin/calendar.php?event_id=5">SIGGRAPH</a><br> San Antonio, United States <br> 07.21.02 - 07.26.02<br><img src="../db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="http://www.gamasutra.com/php-bin/calendar.php?event_id=14">Kaydara MOTIONBUILDER Training</a><br> San Antonio, United States <br> 07.22.02 - 07.22.02<br><img src="../db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="http://www.gamasutra.com/php-bin/calendar.php?event_id=17">IEMA Executive Summit</a><br> Dana Point, United States <br> 07.23.02 - 07.25.02<br><img src="../db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="http://www.gamasutra.com/php-bin/calendar.php?event_id=9">3rd International Conference on Computers and Games</a><br> Edmonton, Canada <br> 07.25.02 - 07.27.02<br><img src="../db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="http://www.gamasutra.com/php-bin/calendar.php?event_id=12">AAAI 2002</a><br> Edmonton, Canada <br> 07.28.02 - 08.01.02<br></font>
+                          <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="https://www.gamasutra.com/php-bin/calendar_submit.php?enhanced=0"><b>[Submit 
+                            Event]</b></a>&nbsp; <a href="/php-bin/calendar.php"><b>[View 
+                            All]</b></a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+                            &nbsp; </font></p>
+                          </td>
+                        <td height="11" valign="top" bgcolor="ccc999" width="10" align="right"> 
+                          <img src="/redesign/images/corner_top_right.gif" width=10 height=11 align="top"></td>
+                      </tr>
+                      <tr> 
+                        <td bgcolor="ccc999" rowspan="2" width="10" valign="bottom" align="right"> 
+                          <img src="/redesign/images/corner_bottom_right.gif" width=10 height=11 align="bottom"></td>
+                      </tr>
+                      <tr valign="top"> 
+                        <td height="158" valign="bottom" bgcolor="ccc999" width="10" align="left"> 
+                          <img src="/redesign/images/corner_bottom_left.gif" width=10 height=11 align="bottom"></td>
+                      </tr>
+                    </table>
+                    <br>
+                    <table border=0 cellpadding=0 cellspacing=0 align="center" height="190" width="274">
+                      <tr> 
+                        <td height="11" rowspan="2" width="10" valign="top" bgcolor="ccc999"> 
+                          <div align="right"><img src="/redesign/images/corner_top_left.gif" width=10 height=11 align="top"> 
+                          </div>
+                        </td>
+                        <td rowspan="3" bgcolor="ccc999" valign="top" colspan="3" align="left"> 
+                          <center>
+                            <a href="/php-bin/letter_display.php"><img src="/redesign/images/letters.gif" width="121" height="26" vspace="3" border="0"></a> 
+                          </center>
+                          <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br><b>Latest Letters to the Editor:</b><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/letter_display.php?letter_id=331">Which Games Were Used In The Japanese Study?</a> by Lalena [07.12.2002]<br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/letter_display.php?letter_id=330">A Comment on "Social Activities" by Evans</a> by Josh Giesbrecht [07.05.2002]<br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/letter_display.php?letter_id=289">Comment on: Social Activities: Implementing Wittgenstein</a> by Tobias Karlsson [06.25.2002]<br></font>
+                          <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/letter_submit.php"><b>[Submit 
+                            Letter]</b></a>&nbsp; <a href="/php-bin/letter_display.php"><b>[View 
+                            All]</b></a><br>
+                            &nbsp; </font></p>
+                          <p align="center"><a href="http://www.igda.org/Forums/"><img src="/redesign/images/discussions.gif" width="121" height="26" border="0"></a></p>
+                          <p align="center"><a href="http://www.igda.org/Forums/"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>[Enter 
+                            Discussion Forums]</b></font></a></p>
+                          <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Note: 
+                            Discussion forums for Gamasutra <br>
+                            are hosted by the IGDA, which is free to join.<br>
+                            &nbsp; </font></p>
+                        </td>
+                        <td height="11" valign="top" bgcolor="ccc999" width="10" align="right"> 
+                          <img src="/redesign/images/corner_top_right.gif" width=10 height=11 align="top"></td>
+                      </tr>
+                      <tr> 
+                        <td bgcolor="ccc999" rowspan="2" width="10" valign="bottom" align="right"> 
+                          <img src="/redesign/images/corner_bottom_right.gif" width=10 height=11 align="bottom"></td>
+                      </tr>
+                      <tr valign="top"> 
+                        <td height="89" valign="bottom" bgcolor="ccc999" width="10" align="left"> 
+                          <img src="/redesign/images/corner_bottom_left.gif" width=10 height=11 align="bottom"></td>
+                      </tr>
+                    </table>
+                    <p><a href="http://www.gamasutraexchange.com"><img src="/gamaexchange2.gif" width="274" height="60" border="0"></a></p>
+                  </div>
+                  <!-- #EndEditable --></td>
+              </tr>
+            </table>
+          </td>
+          <td colspan="2"valign="top" height="551" width="558"> 
+            <table width="496" border="0" cellspacing="1" cellpadding="0">
+              <tr valign="top"> 
+                <td colspan="2"><a href="/newswire/index.htm"><img src="/db_area/images/layout/news_lite.gif" width="115" height="25" vspace="3" border="0"></a> 
+                  <!-- #BeginEditable "news" --> 
+                  <br><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>Latest News:</b></font><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/industry_news_display.php?story=1274">3DO Relocates Headquarters, Announces Reverse Stock Split</a> [07.12.02]</font><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/industry_news_display.php?story=1273">New Company Targets In-Game Product Placements</a> [07.11.02]</font><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/industry_news_display.php?story=1272">Romero, Hall Teaching College Courses</a> [07.11.02]</font><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/industry_news_display.php?story=1271">Brian O'Hara, Veteran 3D Artist, Dies Of Cancer</a> [07.10.02]</font><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/industry_news_display.php?story=1270">Top-Selling PC Games For Week Ending June 29</a> [07.10.02]</font><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/industry_news_display.php?story=1269">Electronic Arts Moving Into S&P 500 Stock Index</a> [07.10.02]</font><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/industry_news_display.php?story=1268">Sega States Intention To Acquire Publishing Competitors</a> [07.09.02]</font><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/product_news_display.php?story=1267">New Tool Generates Facial Animation From Audio Files</a> [07.09.02]</font><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/product_news_display.php?story=1266">Terraplay Releases PS2 Networking SDK</a> [07.09.02]</font><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/industry_news_display.php?story=1265">Japanese Study Finds Negative Correlation Between Playing Games, Brain Activity</a> [07.09.02]</font><br>&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/news_index.php"><b>[More News...]</b></a></font><br></font>
+                  <br>
+                  &nbsp; <!-- #EndEditable --> </td>
+              </tr>
+              <tr valign="top"> 
+                <td colspan="2"> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="500">
+                    <!-- fwtable fwsrc="nav.png" fwbase="01_nav_under_features.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+                    <tr> 
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="8" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="68" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="7" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="66" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="7" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="49" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="8" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="55" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="7" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="45" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="7" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="50" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="7" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="29" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="7" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="62" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="18" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="1" height="1" border="0"></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="17"><img name="n01_nav_under_features_r1_c1" src="/db_area/images/layout/images/01_nav_under_features_r1_c1.gif" width="500" height="25" border="0" usemap="#m_01_nav_under_features_r1_c1"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="1" height="25" border="0"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="3"><img name="n01_nav_under_features_r2_c1" src="/db_area/images/layout/images/01_nav_under_features_r2_c1.gif" width="8" height="20" border="0"></td>
+                      <td rowspan="2"><a href="http://www.gamasutra.com/php-bin/article_display.php?category=7" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_features_r2_c2','','/db_area/images/layout/images/01_nav_under_features_r2_c2_f2.gif',1)" ><img name="n01_nav_under_features_r2_c2" src="/db_area/images/layout/images/01_nav_under_features_r2_c2.gif" width="68" height="9" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_features_r2_c3" src="/db_area/images/layout/images/01_nav_under_features_r2_c3.gif" width="7" height="20" border="0"></td>
+                      <td rowspan="2"><a href="http://www.gamasutra.com/php-bin/article_display.php?category=4" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_features_r2_c4','','/db_area/images/layout/images/01_nav_under_features_r2_c4_f2.gif',1)" ><img name="n01_nav_under_features_r2_c4" src="/db_area/images/layout/images/01_nav_under_features_r2_c4.gif" width="66" height="9" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_features_r2_c5" src="/db_area/images/layout/images/01_nav_under_features_r2_c5.gif" width="7" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/php-bin/article_display.php?category=8" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_features_r2_c6','','/db_area/images/layout/images/01_nav_under_features_r2_c6_f2.gif',1)" ><img name="n01_nav_under_features_r2_c6" src="/db_area/images/layout/images/01_nav_under_features_r2_c6.gif" width="49" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_features_r2_c7" src="/db_area/images/layout/images/01_nav_under_features_r2_c7.gif" width="8" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/php-bin/article_display.php?category=6" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_features_r2_c8','','/db_area/images/layout/images/01_nav_under_features_r2_c8_f2.gif',1)" ><img name="n01_nav_under_features_r2_c8" src="/db_area/images/layout/images/01_nav_under_features_r2_c8.gif" width="55" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_features_r2_c9" src="/db_area/images/layout/images/01_nav_under_features_r2_c9.gif" width="7" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/php-bin/article_display.php?category=2" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_features_r2_c10','','/db_area/images/layout/images/01_nav_under_features_r2_c10_f2.gif',1)" ><img name="n01_nav_under_features_r2_c10" src="/db_area/images/layout/images/01_nav_under_features_r2_c10.gif" width="45" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_features_r2_c11" src="/db_area/images/layout/images/01_nav_under_features_r2_c11.gif" width="7" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/education" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_features_r2_c12','','/db_area/images/layout/images/01_nav_under_features_r2_c12_f2.gif',1)" ><img name="n01_nav_under_features_r2_c12" src="/db_area/images/layout/images/01_nav_under_features_r2_c12.gif" width="50" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_features_r2_c13" src="/db_area/images/layout/images/01_nav_under_features_r2_c13.gif" width="7" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/php-bin/article_display.php?category=1" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_features_r2_c14','','/db_area/images/layout/images/01_nav_under_features_r2_c14_f2.gif',1)" ><img name="n01_nav_under_features_r2_c14" src="/db_area/images/layout/images/01_nav_under_features_r2_c14.gif" width="29" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_features_r2_c15" src="/db_area/images/layout/images/01_nav_under_features_r2_c15.gif" width="7" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/php-bin/article_display.php?category=5" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_features_r2_c16','','/db_area/images/layout/images/01_nav_under_features_r2_c16_f2.gif',1)" ><img name="n01_nav_under_features_r2_c16" src="/db_area/images/layout/images/01_nav_under_features_r2_c16.gif" width="62" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_features_r2_c17" src="/db_area/images/layout/images/01_nav_under_features_r2_c17.gif" width="18" height="20" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="1" height="7" border="0"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="2"><img name="n01_nav_under_features_r3_c6" src="/db_area/images/layout/images/01_nav_under_features_r3_c6.gif" width="49" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_features_r3_c8" src="/db_area/images/layout/images/01_nav_under_features_r3_c8.gif" width="55" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_features_r3_c10" src="/db_area/images/layout/images/01_nav_under_features_r3_c10.gif" width="45" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_features_r3_c12" src="/db_area/images/layout/images/01_nav_under_features_r3_c12.gif" width="50" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_features_r3_c14" src="/db_area/images/layout/images/01_nav_under_features_r3_c14.gif" width="29" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_features_r3_c16" src="/db_area/images/layout/images/01_nav_under_features_r3_c16.gif" width="62" height="13" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="1" height="2" border="0"></td>
+                    </tr>
+                    <tr> 
+                      <td><img name="n01_nav_under_features_r4_c2" src="/db_area/images/layout/images/01_nav_under_features_r4_c2.gif" width="68" height="11" border="0"></td>
+                      <td><img name="n01_nav_under_features_r4_c4" src="/db_area/images/layout/images/01_nav_under_features_r4_c4.gif" width="66" height="11" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/spacer.gif" width="1" height="11" border="0"></td>
+                    </tr>
+                    <map name="m_01_nav_under_features_r1_c1"> 
+                      <area shape="rect" coords="0,0,117,24" href="http://www.gamasutra.com/features" >
+                    </map>
+                  </table>
+                  <!-- #BeginEditable "features" --> 
+                  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr> 
+                      <td valign="top" height="115"> 
+                        <p align="left"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">&nbsp; 
+                          Latest Articles:<br>
+                          </font></b><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+                          <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="features/20020715/mollerhaines_01.htm">Bézier 
+                          Triangles and N-Patches</a> by Tomas Akenine-Möller 
+                          and Eric Haines [07.15.02] <a href="features/20020712/oneil_01.htm"><br>
+                          </a><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="features/20020712/oneil_01.htm">A 
+                          Real-Time Procedural Universe, Part Three</a> by Sean 
+                          O'Neil [07.12.02] <a href="features/20020710/white_01.htm"><br>
+                          </a><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="features/20020710/white_01.htm">Postmortem: 
+                          Naughtly Dog's Jak and Daxter</a> by Stephen White [07.10.02]<a href="features/20020702/stripinis_01.htm"><br>
+                          </a><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="features/20020702/stripinis_01.htm">Product 
+                          Review: A Tale of Two Workstations</a> by David Stripinis 
+                          [07.02.02] <a href="features/20020626/hargreaves_01.htm"><br>
+                          </a><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="features/20020626/hargreaves_01.htm">Tool 
+                          Postmortem: Climax Brighton's Supertools</a> by Shawn 
+                          Hargreaves [06.26.02] <a href="http://www.gamasutra.com/features/slides/fermier/index.htm"><br>
+                          </a><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="http://www.gamasutra.com/features/slides/fermier/index.htm">Web 
+                          Lecture: Building a Data-Driven Game Engine for <i>Age 
+                          of Mythology</i></a><i> by </i>Rob Fermier [06.19.02]<a href="features/slides/smith/index.htm"><br>
+                          </a><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="features/slides/smith/index.htm">Web 
+                          Lecture: Systemic Level Design for Emergent Gameplay</a> 
+                          by Harvey Smith [06.12.02]<a href="features/20020605/ip_01.htm"><br>
+                          </a><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="features/20020605/ip_01.htm">From 
+                          Casual to Core: A Statistical Mechanism for Studying 
+                          Gamer Dedication</a> by Barry Ip with Ernest Adams [06.05.02] 
+                          <a href="features/20020531/adams_01.htm"><br>
+                          </a><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="features/20020531/adams_01.htm">Designers 
+                          Notebook: Indie Game Jam Inverts Dogma 2001</a> by Ernest 
+                          Adams [05.31.02]<a href="http://www.gamasutra.com/features/visual_arts/061997/game_artist.htm"><br>
+                          </a><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="http://www.gamasutra.com/features/visual_arts/061997/game_artist.htm">Gamasutra 
+                          1997: Fifth Anniversary Flashback</a> [05.29.02]</font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="features/20020510/johnson_01.htm"><br>
+                          <img src="db_area/images/layout/99_body_divider.gif" width="445" height="5" border="0" vspace="3"> 
+                          </a><br>
+                          <img src="resource_guide/20020520/wall_sm.gif" width="87" height="88" align="right"><a href="resource_guide/20020520/index.shtml">Game 
+                          Audio Resource Guide 2002</a> [05.20.02] Gamasutra presents 
+                          its second Game Audio Resource Guide. Highlights include: 
+                          Todd Fay on the wonders of Performance Modeling, Marty 
+                          O'Donnell discussing audio produciton for <i>Halo</i>, 
+                          The pros and cons of using a live orchestra from Jack 
+                          Wall, Gene Porfido reviews Digidesign's portable Mbox, 
+                          the Fat Man offers unasked for advice, Gavin Andersen 
+                          explains using audio to make games accessible to the 
+                          blind, and Andrew Barnabas makes an appearance in the 
+                          Game Audio Gallery. <br>
+                          <a href="features/20020510/johnson_01.htm"><img src="db_area/images/layout/99_body_divider.gif" width="445" height="5" border="0" vspace="5"></a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+                          </font><b></b><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">[<a href="/features">More 
+                          Features...</a>] <br>
+                          &nbsp; </font> 
+                      </td>
+                    </tr>
+                    <tr>
+                      <td valign="top" height="2">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <!-- #EndEditable --></td>
+              </tr>
+              <tr> 
+                <td valign="top" colspan="2"> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="500">
+                    <!-- fwtable fwsrc="gig_nav.png" fwbase="01_nav_under_cont.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+                    <tr> 
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="6" height="1" border="0" name="undefined_3"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="100" height="1" border="0" name="undefined_3"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="6" height="1" border="0" name="undefined_3"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="97" height="1" border="0" name="undefined_3"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="7" height="1" border="0" name="undefined_3"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="51" height="1" border="0" name="undefined_3"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="6" height="1" border="0" name="undefined_3"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="56" height="1" border="0" name="undefined_3"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="171" height="1" border="0" name="undefined_3"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="1" height="1" border="0" name="undefined_3"></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="9"><img name="n01_nav_under_cont_r1_c1" src="/db_area/images/layout/images/cont/01_nav_under_cont_r1_c1.gif" width="500" height="25" border="0" usemap="#m_01_nav_under_cont_r1_c1"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="1" height="25" border="0" name="undefined_3"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="3"><img name="n01_nav_under_cont_r2_c1" src="/db_area/images/layout/images/cont/01_nav_under_cont_r2_c1.gif" width="6" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/php-bin/contractor_display.php" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_cont_r2_c2','','/db_area/images/layout/images/cont/01_nav_under_cont_r2_c2_f2.gif',1)" ><img name="n01_nav_under_cont_r2_c2" src="/db_area/images/layout/images/cont/01_nav_under_cont_r2_c2.gif" width="100" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_cont_r2_c3" src="/db_area/images/layout/images/cont/01_nav_under_cont_r2_c3.gif" width="6" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/directories/search_contractor.php" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_cont_r2_c4','','/db_area/images/layout/images/cont/01_nav_under_cont_r2_c4_f2.gif',1)" ><img name="n01_nav_under_cont_r2_c4" src="/db_area/images/layout/images/cont/01_nav_under_cont_r2_c4.gif" width="97" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_cont_r2_c5" src="/db_area/images/layout/images/cont/01_nav_under_cont_r2_c5.gif" width="7" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/directories/add_contractor.php" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_cont_r2_c6','','/db_area/images/layout/images/cont/01_nav_under_cont_r2_c6_f2.gif',1)" ><img name="n01_nav_under_cont_r2_c6" src="/db_area/images/layout/images/cont/01_nav_under_cont_r2_c6.gif" width="51" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_cont_r2_c7" src="/db_area/images/layout/images/cont/01_nav_under_cont_r2_c7.gif" width="6" height="20" border="0"></td>
+                      <td rowspan="2"><a href="http://www.gamasutra.com/php-bin/contractor_update.php" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_cont_r2_c8','','/db_area/images/layout/images/cont/01_nav_under_cont_r2_c8_f2.gif',1)" ><img name="n01_nav_under_cont_r2_c8" src="/db_area/images/layout/images/cont/01_nav_under_cont_r2_c8.gif" width="56" height="9" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_cont_r2_c9" src="/db_area/images/layout/images/cont/01_nav_under_cont_r2_c9.gif" width="171" height="20" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="1" height="7" border="0" name="undefined_3"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="2"><img name="n01_nav_under_cont_r3_c2" src="/db_area/images/layout/images/cont/01_nav_under_cont_r3_c2.gif" width="100" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_cont_r3_c4" src="/db_area/images/layout/images/cont/01_nav_under_cont_r3_c4.gif" width="97" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_cont_r3_c6" src="/db_area/images/layout/images/cont/01_nav_under_cont_r3_c6.gif" width="51" height="13" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="1" height="2" border="0" name="undefined_3"></td>
+                    </tr>
+                    <tr> 
+                      <td><img name="n01_nav_under_cont_r4_c8" src="/db_area/images/layout/images/cont/01_nav_under_cont_r4_c8.gif" width="56" height="11" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/cont/spacer.gif" width="1" height="11" border="0" name="undefined_3"></td>
+                    </tr>
+                    <map name="m_01_nav_under_cont_r1_c1"> 
+                      <area shape="rect" coords="0,-1,117,23" href="http://www.gamasutra.com/php-bin/contractor_display.php" >
+                    </map>
+                  </table>
+                  <!-- #BeginEditable "contractors" --> 
+                  <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>Latest Contractors:</b><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/contractor_display.php?contractor_id=2387">Rapid Eye Entertainment, Inc.</a> [07.11.02]<br></font><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/contractor_display.php?contractor_id=2385">Maxim Software</a> [07.11.02]<br></font><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/contractor_display.php?contractor_id=2386">AdventurerLand Entertainment</a> [07.11.02]<br></font><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/contractor_display.php?contractor_id=2388">Osmium Publishing</a> [07.11.02]<br></font><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/contractor_display.php?contractor_id=2389">Charles Goodan</a> [07.11.02]<br></font></font>
+                  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>&nbsp;<br>
+                    Featured Contractors:</b><br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/contractor_display.php?contractor_id=1178">New 
+                    Pencil</a>: Offering the best in battle tested, top-quality 
+                    video game art production.<br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/contractor_display.php?contractor_id=2258">Omni 
+                    Interactive Audio</a>: Ex-EA sound department, with multi-platinum 
+                    credits.</font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/contractor_display.php?contractor_id=1519">Evolution 
+                    Audio Post</a>: Providing innovative and afforadable audio 
+                    content for games.<br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/contractor_display.php?contractor_id=2087">GameBeat</a>: 
+                    Custom music &amp; SFX - recent clients include EA, Sega, 
+                    Microsoft. <br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/contractor_display.php?contractor_id=661">musicandsfx.com</a>: 
+                    Music, sound effects, voice acting and audio-post production 
+                    services.<br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/contractor_display.php?contractor_id=1936">WetFire 
+                    Audio</a>: Full-service audio production for the gaming industry. 
+                    <br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/contractor_display.php?contractor_id=506">Dhruva 
+                    Interactive</a>: India's leading provider of outsourced services 
+                    to studios worldwide. <br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/contractor_display.php?contractor_id=1860">Her 
+                    Majesty's Righteous Beat Squad</a>: Music composition, sound 
+                    &amp; voice creation, more.<br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/contractor_display.php?contractor_id=1167">Ballistic 
+                    Pixel Lab</a>: A production facility that will take your game 
+                    to the next level.</font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/contractor_display.php?contractor_id=1312">Liguid 
+                    Development </a>: The only art resource you need for video 
+                    game development.</font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+                    <br>
+                    <br>
+                    &nbsp; <br>
+                    &nbsp; </font></p>
+                  <!-- #EndEditable --> </td>
+              </tr>
+              <tr> 
+                <td valign="top" colspan="2"> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="500">
+                    <!-- fwtable fwsrc="job_nav.png" fwbase="01_nav_under_jobs.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+                    <tr> 
+                      <td><img src="/db_area/images/layout/images/jobs/spacer.gif" width="8" height="1" border="0" name="undefined_2"></td>
+                      <td><img src="/db_area/images/layout/images/jobs/spacer.gif" width="67" height="1" border="0" name="undefined_2"></td>
+                      <td><img src="/db_area/images/layout/images/jobs/spacer.gif" width="8" height="1" border="0" name="undefined_2"></td>
+                      <td><img src="/db_area/images/layout/images/jobs/spacer.gif" width="101" height="1" border="0" name="undefined_2"></td>
+                      <td><img src="/db_area/images/layout/images/jobs/spacer.gif" width="7" height="1" border="0" name="undefined_2"></td>
+                      <td><img src="/db_area/images/layout/images/jobs/spacer.gif" width="121" height="1" border="0" name="undefined_2"></td>
+                      <td><img src="/db_area/images/layout/images/jobs/spacer.gif" width="188" height="1" border="0" name="undefined_2"></td>
+                      <td><img src="/db_area/images/layout/images/jobs/spacer.gif" width="1" height="1" border="0" name="undefined_2"></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="7"><img name="n01_nav_under_jobs_r1_c1" src="/db_area/images/layout/images/jobs/01_nav_under_jobs_r1_c1.gif" width="500" height="25" border="0" usemap="#m_01_nav_under_jobs_r1_c1"></td>
+                      <td><img src="/db_area/images/layout/images/jobs/spacer.gif" width="1" height="25" border="0" name="undefined_2"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="3"><img name="n01_nav_under_jobs_r2_c1" src="/db_area/images/layout/images/jobs/01_nav_under_jobs_r2_c1.gif" width="8" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/jobsearch" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_jobs_r2_c2','','/db_area/images/layout/images/jobs/01_nav_under_jobs_r2_c2_f2.gif',1)" ><img name="n01_nav_under_jobs_r2_c2" src="/db_area/images/layout/images/jobs/01_nav_under_jobs_r2_c2.gif" width="67" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_jobs_r2_c3" src="/db_area/images/layout/images/jobs/01_nav_under_jobs_r2_c3.gif" width="8" height="20" border="0"></td>
+                      <td rowspan="2"><a href="https://www.gamasutra.com/php-bin/jobs_post.php" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_jobs_r2_c4','','/db_area/images/layout/images/jobs/01_nav_under_jobs_r2_c4_f2.gif',1)" ><img name="n01_nav_under_jobs_r2_c4" src="/db_area/images/layout/images/jobs/01_nav_under_jobs_r2_c4.gif" width="101" height="9" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_jobs_r2_c5" src="/db_area/images/layout/images/jobs/01_nav_under_jobs_r2_c5.gif" width="7" height="20" border="0"></td>
+                      <td rowspan="2"><a href="http://www.gamasutra.com/mediakit/jobpostings.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_jobs_r2_c6','','/db_area/images/layout/images/jobs/01_nav_under_jobs_r2_c6_f2.gif',1)" ><img name="n01_nav_under_jobs_r2_c6" src="/db_area/images/layout/images/jobs/01_nav_under_jobs_r2_c6.gif" width="121" height="9" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_jobs_r2_c7" src="/db_area/images/layout/images/jobs/01_nav_under_jobs_r2_c7.gif" width="188" height="20" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/jobs/spacer.gif" width="1" height="7" border="0" name="undefined_2"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="2"><img name="n01_nav_under_jobs_r3_c2" src="/db_area/images/layout/images/jobs/01_nav_under_jobs_r3_c2.gif" width="67" height="13" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/jobs/spacer.gif" width="1" height="2" border="0" name="undefined_2"></td>
+                    </tr>
+                    <tr> 
+                      <td><img name="n01_nav_under_jobs_r4_c4" src="/db_area/images/layout/images/jobs/01_nav_under_jobs_r4_c4.gif" width="101" height="11" border="0"></td>
+                      <td><img name="n01_nav_under_jobs_r4_c6" src="/db_area/images/layout/images/jobs/01_nav_under_jobs_r4_c6.gif" width="121" height="11" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/jobs/spacer.gif" width="1" height="11" border="0" name="undefined_2"></td>
+                    </tr>
+                    <map name="m_01_nav_under_jobs_r1_c1"> 
+                      <area shape="rect" coords="0,0,117,24" href="http://www.gamasutra.com/jobsearch" >
+                    </map>
+                  </table>
+                  <!-- #BeginEditable "jobs" --><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"> 
+                  <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br><b>Latest Jobs (Requires Login):</b><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0">Pandemic Studios: <a href="/php-bin/jobs_display.php3?job_id=498">Programmers/Senior Programmers</a><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0">Midway Amusement Games, LLC: <a href="/php-bin/jobs_display.php3?job_id=1157">Software Engineer Opportunities</a><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0">Intrinsic Graphics, Inc.: <a href="/php-bin/jobs_display.php3?job_id=1210">Member Technical Staff &#8211; Graphics Production Tools</a><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0">Sigil Games Online: <a href="/php-bin/jobs_display.php3?job_id=1209">Senior Programmer</a><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0">Terminal Reality Inc.: <a href="/php-bin/jobs_display.php3?job_id=1207">Producer</a><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0">Maxis / Electronic Arts: <a href="/php-bin/jobs_display.php3?job_id=1208">Senior 3D Graphics Engineer</a><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0">Midway Home Entertainment Inc.: <a href="/php-bin/jobs_display.php3?job_id=1099">Product Testing Manager</a><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0">ArtSource, Inc.: <a href="/php-bin/jobs_display.php3?job_id=1205">Level Designer</a><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0">Superscape.com: <a href="/php-bin/jobs_display.php3?job_id=1201">3D Mobile Games Programmer</a><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0">Swingin&#39; Ape Studios: <a href="/php-bin/jobs_display.php3?job_id=1202">Senior Programmer</a><br><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0">Hoopla Entertainment: <a href="/php-bin/jobs_display.php3?job_id=1197">Netimmerse Programming Specialist</a><br></font>
+                  &nbsp;<br>
+                  &nbsp; <br>
+                  &nbsp; &nbsp; </font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>&nbsp; 
+                  </b></font><!-- #EndEditable --></td>
+              </tr>
+              <tr> 
+                <td valign="top" colspan="2"> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="500">
+                    <!-- fwtable fwsrc="store_nav.png" fwbase="01_nav_under_store.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+                    <tr> 
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="13" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="64" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="7" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="47" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="8" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="86" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="8" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="58" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="7" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="31" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="171" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="1" height="1" border="0"></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="11"><img name="n01_nav_under_store_r1_c1" src="/db_area/images/layout/images/store/01_nav_under_store_r1_c1.gif" width="500" height="25" border="0" usemap="#m_01_nav_under_store_r1_c1"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="1" height="25" border="0"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="3"><img name="n01_nav_under_store_r2_c1" src="/db_area/images/layout/images/store/01_nav_under_store_r2_c1.gif" width="13" height="20" border="0"></td>
+                      <td><a href="https://www.gamasutra.com/php-bin/store.php?category=1" onMouseOut="MM_swapImgRestore();"  onMouseOver="MM_swapImage('n01_nav_under_store_r2_c2','','/db_area/images/layout/images/store/01_nav_under_store_r2_c2_f2.gif',1)" ><img name="n01_nav_under_store_r2_c2" src="/db_area/images/layout/images/store/01_nav_under_store_r2_c2.gif" width="64" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_store_r2_c3" src="/db_area/images/layout/images/store/01_nav_under_store_r2_c3.gif" width="7" height="20" border="0"></td>
+                      <td><a href="https://www.gamasutra.com/php-bin/store.php?category=2" onMouseOut="MM_swapImgRestore();"  onMouseOver="MM_swapImage('n01_nav_under_store_r2_c4','','/db_area/images/layout/images/store/01_nav_under_store_r2_c4_f2.gif',1)" ><img name="n01_nav_under_store_r2_c4" src="/db_area/images/layout/images/store/01_nav_under_store_r2_c4.gif" width="47" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_store_r2_c5" src="/db_area/images/layout/images/store/01_nav_under_store_r2_c5.gif" width="8" height="20" border="0"></td>
+                      <td rowspan="2"><a href="https://www.gamasutra.com/php-bin/store.php?category=3" onMouseOut="MM_swapImgRestore();"  onMouseOver="MM_swapImage('n01_nav_under_store_r2_c6','','/db_area/images/layout/images/store/01_nav_under_store_r2_c6_f2.gif',1)" ><img name="n01_nav_under_store_r2_c6" src="/db_area/images/layout/images/store/01_nav_under_store_r2_c6.gif" width="86" height="9" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_store_r2_c7" src="/db_area/images/layout/images/store/01_nav_under_store_r2_c7.gif" width="8" height="20" border="0"></td>
+                      <td><a href="https://www.gamasutra.com/php-bin/store.php?category=4" onMouseOut="MM_swapImgRestore();"  onMouseOver="MM_swapImage('n01_nav_under_store_r2_c8','','/db_area/images/layout/images/store/01_nav_under_store_r2_c8_f2.gif',1)" ><img name="n01_nav_under_store_r2_c8" src="/db_area/images/layout/images/store/01_nav_under_store_r2_c8.gif" width="58" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_store_r2_c9" src="/db_area/images/layout/images/store/01_nav_under_store_r2_c9.gif" width="7" height="20" border="0"></td>
+                      <td><a href="https://www.gamasutra.com/php-bin/store.php?category=7" onMouseOut="MM_swapImgRestore();"  onMouseOver="MM_swapImage('n01_nav_under_store_r2_c10','','/db_area/images/layout/images/store/01_nav_under_store_r2_c10_f2.gif',1)" ><img name="n01_nav_under_store_r2_c10" src="/db_area/images/layout/images/store/01_nav_under_store_r2_c10.gif" width="31" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_store_r2_c11" src="/db_area/images/layout/images/store/01_nav_under_store_r2_c11.gif" width="171" height="20" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="1" height="7" border="0"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="2"><img name="n01_nav_under_store_r3_c2" src="/db_area/images/layout/images/store/01_nav_under_store_r3_c2.gif" width="64" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_store_r3_c4" src="/db_area/images/layout/images/store/01_nav_under_store_r3_c4.gif" width="47" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_store_r3_c8" src="/db_area/images/layout/images/store/01_nav_under_store_r3_c8.gif" width="58" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_store_r3_c10" src="/db_area/images/layout/images/store/01_nav_under_store_r3_c10.gif" width="31" height="13" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="1" height="2" border="0"></td>
+                    </tr>
+                    <tr> 
+                      <td><img name="n01_nav_under_store_r4_c6" src="/db_area/images/layout/images/store/01_nav_under_store_r4_c6.gif" width="86" height="11" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/store/spacer.gif" width="1" height="11" border="0"></td>
+                    </tr>
+                    <map name="m_01_nav_under_store_r1_c1"> 
+                      <area shape="rect" coords="0,0,117,24" href="http://www.gamasutra.com/store" >
+                    </map>
+                  </table>
+                  <!-- #BeginEditable "Store" --> 
+                  <table width="100%" border="0" cellspacing="0" cellpadding="6">
+                    <tr> 
+                      <td width="35%" valign="top" height="83"> 
+                        <div align="center"><a href="https://www.gamasutra.com/php-bin/store.php?item_id=99&category=2&book="><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><img src="/store/gdmag2002cdcover.jpg" width="100" height="89" border="0"></font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+                          <img src="/db_area/images/layout/new.gif" width="28" height="11"> 
+                          <a href="https://www.gamasutra.com/php-bin/store.php?item_id=99&category=2&book="><b>Game 
+                          Developer <br>
+                          CD-ROM, Vol. 4</b></a> <br>
+                          All issues from May '01-April '02. Articles look as 
+                          they appeared in print, fully searchable. <b>Price: 
+                          $49.00</b></font></div>
+                      </td>
+                      <td width="65%" height="83" valign="top"> 
+                        <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b><a href="https://www.gamasutra.com/php-bin/store.php?item_id=100&category=7&book="><img src="/store/gifs/bookgamedesignperspectives.gif" width="100" height="126" border="0"></a> 
+                          <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b><a href="https://www.gamasutra.com/php-bin/store.php?item_id=100&category=7&book="><br>
+                          </a></b><img src="/db_area/images/layout/new.gif" width="28" height="11"> 
+                          <b><a href="https://www.gamasutra.com/php-bin/store.php?item_id=100&category=7&book=">Game 
+                          Design Perspectives</a></b><br>
+                          </font></b><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">A 
+                          compilation of papers from professional game designers 
+                          about the theory and practice of game design. <b>Price: 
+                          $31.96</b></font> </font></div>
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- #EndEditable --></td>
+              </tr>
+              <tr> 
+                <td valign="top" colspan="2">&nbsp;</td>
+              </tr>
+              <tr> 
+                <td valign="top" colspan="2" height="53"> <!-- #BeginEditable "resume" --> 
+                  <font size="-2"><a href="/php-bin/resume_user.php"><b><font face="Verdana, Arial, Helvetica, sans-serif"><br>
+                  </font></b></a></font> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="500">
+                    <!-- fwtable fwsrc="edu_nav.png" fwbase="01_nav_under_education.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+                    <tr> 
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="8" height="1" border="0" name="undefined_5"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="67" height="1" border="0" name="undefined_5"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="8" height="1" border="0" name="undefined_5"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="65" height="1" border="0" name="undefined_5"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="8" height="1" border="0" name="undefined_5"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="104" height="1" border="0" name="undefined_5"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="9" height="1" border="0" name="undefined_5"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="79" height="1" border="0" name="undefined_5"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="152" height="1" border="0" name="undefined_5"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="1" height="1" border="0" name="undefined_5"></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="9"><img name="n01_nav_under_education_r1_c1" src="db_area/images/layout/images/edu/01_nav_under_education_r1_c1.gif" width="500" height="25" border="0" usemap="#m_01_nav_under_education_r1_c1"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="1" height="25" border="0" name="undefined_5"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="3"><img name="n01_nav_under_education_r2_c1" src="db_area/images/layout/images/edu/01_nav_under_education_r2_c1.gif" width="8" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/php-bin/companies.php3?cat=153138" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_education_r2_c2','','db_area/images/layout/images/edu/01_nav_under_education_r2_c2_f2.gif',1);" ><img name="n01_nav_under_education_r2_c2" src="db_area/images/layout/images/edu/01_nav_under_education_r2_c2.gif" width="67" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_education_r2_c3" src="db_area/images/layout/images/edu/01_nav_under_education_r2_c3.gif" width="8" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/directories/add_school.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_education_r2_c4','','db_area/images/layout/images/edu/01_nav_under_education_r2_c4_f2.gif',1);" ><img name="n01_nav_under_education_r2_c4" src="db_area/images/layout/images/edu/01_nav_under_education_r2_c4.gif" width="65" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_education_r2_c5" src="db_area/images/layout/images/edu/01_nav_under_education_r2_c5.gif" width="8" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/education" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_education_r2_c6','','db_area/images/layout/images/edu/01_nav_under_education_r2_c6_f2.gif',1);" ><img name="n01_nav_under_education_r2_c6" src="db_area/images/layout/images/edu/01_nav_under_education_r2_c6.gif" width="104" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_education_r2_c7" src="db_area/images/layout/images/edu/01_nav_under_education_r2_c7.gif" width="9" height="20" border="0"></td>
+                      <td rowspan="2"><a href="http://www.gamasutra.com/galleries/index.htm#s" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_education_r2_c8','','db_area/images/layout/images/edu/01_nav_under_education_r2_c8_f2.gif',1);" ><img name="n01_nav_under_education_r2_c8" src="db_area/images/layout/images/edu/01_nav_under_education_r2_c8.gif" width="79" height="9" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_education_r2_c9" src="db_area/images/layout/images/edu/01_nav_under_education_r2_c9.gif" width="152" height="20" border="0"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="1" height="7" border="0" name="undefined_5"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="2"><img name="n01_nav_under_education_r3_c2" src="db_area/images/layout/images/edu/01_nav_under_education_r3_c2.gif" width="67" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_education_r3_c4" src="db_area/images/layout/images/edu/01_nav_under_education_r3_c4.gif" width="65" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_education_r3_c6" src="db_area/images/layout/images/edu/01_nav_under_education_r3_c6.gif" width="104" height="13" border="0"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="1" height="2" border="0" name="undefined_5"></td>
+                    </tr>
+                    <tr> 
+                      <td><img name="n01_nav_under_education_r4_c8" src="db_area/images/layout/images/edu/01_nav_under_education_r4_c8.gif" width="79" height="11" border="0"></td>
+                      <td><img src="db_area/images/layout/images/edu/spacer.gif" width="1" height="11" border="0" name="undefined_5"></td>
+                    </tr>
+                    <map name="m_01_nav_under_education_r1_c1"> 
+                      <area shape="rect" coords="0,0,117,24" href="http://www.gamasutra.com/education" >
+                    </map>
+                  </table>
+                  <b><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Latest 
+                  Features:<br>
+                  </font></b><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="education/theses/20020708/davies_01.htm">Graduate 
+                  Disseration: Understanding Gender Feedback Loops</a> by James 
+                  Davies, Middlesex University [07.08.02]<a href="education/theses/20020529/borthwick_01.htm"><br>
+                  </a><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="education/theses/20020529/borthwick_01.htm">Master's 
+                  Thesis: Statistical Person Tracker</a> by Daniel Borthwick, 
+                  University College London [05.29.02]</font><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><a href="education/theses/20020501/bittanti_01.htm"><font size="-2"><br>
+                  </font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"></font><font size="-2">Master's 
+                  Thesis: The Technoludic Film: Images of Videogames in Movies 
+                  (1973-2001)</font></a><font size="-2"> by Matteo Bittanti, San 
+                  Jose State University [05.01.02]</font></font><br>
+                  <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="education/theses/20020417/saunders_01.htm">Doctoral 
+                  Thesis: Curious Design Agents and Artificial Creativity: A Synthetic 
+                  Approach to the Study of Creative Behavior</a> by Rob Saunders 
+                  University of Sydney [04.17.02] </font><b><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+                  </font></b><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="education/theses/20020410/smith_01.htm">Master's 
+                  Thesis: The Architechtures of Trust: Supporting Cooperation 
+                  in the Computer-Supported Community</a> by Jonas Heide Smith, 
+                  University of Copenhagen [04.10.02] <a href="education/theses/20020403/mount_01.htm"><br>
+                  </a><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="education/theses/20020403/mount_01.htm">Master's 
+                  Thesis: Gameplay: The Elements of Interaction</a> by Patrick 
+                  Mount, John Moores University [04.03.02]</font><b><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+                  <br>
+                  </font></b><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">[<a href="/education">More 
+                  Features and Theses...</a>]</font><b><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+                  <br>
+                  Latest Schools:</font></b><br>
+                  <img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/companies.php3?show=206732&cat=153138">Virginia Commonwealth University</a>: Richmond, Virginia <br></font><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/companies.php3?show=206729&cat=153138">Musikhochschule Detmold Abteilung Münster</a>: Münster, Germany <br></font><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/companies.php3?show=206722&cat=153138">University of Texas at Austin</a>: Austin, TX <br></font><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/companies.php3?show=206721&cat=153138">QANTM</a>: Brisbane, Australia <br></font><img src="/db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/companies.php3?show=206720&cat=153138">The Art Institute of Atlanta</a>: Atlanta, GA <br></font></font>
+                  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>Featured 
+                    Schools:</b><br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="http://www.gamasutra.com/php-bin/companies.php3?show=37469">Academy 
+                    Of Art College</a>: San Francisco, CA, United States<br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/companies.php3?show=37609">Center 
+                    for Digital Imaging and Sound</a>: Vancouver, British Columbia, 
+                    Canada<br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/companies.php3?show=38364">University 
+                    of Advancing Computer Technology</a>: Tempe, AZ, United States 
+                    <br>
+                    <br>
+                    </font>&nbsp;</p>
+                  <!-- #EndEditable --></td>
+              </tr>
+              <tr> 
+                <td valign="top" colspan="2" height="23"> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="500">
+                    <!-- fwtable fwsrc="product_nav.png" fwbase="01_nav_under_products.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+                    <tr> 
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="13" height="1" border="0" name="undefined_4"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="111" height="1" border="0" name="undefined_4"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="7" height="1" border="0" name="undefined_4"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="77" height="1" border="0" name="undefined_4"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="7" height="1" border="0" name="undefined_4"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="79" height="1" border="0" name="undefined_4"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="6" height="1" border="0" name="undefined_4"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="71" height="1" border="0" name="undefined_4"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="129" height="1" border="0" name="undefined_4"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="1" height="1" border="0" name="undefined_4"></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="9"><img name="n01_nav_under_products_r1_c1" src="/db_area/images/layout/images/products/01_nav_under_products_r1_c1.gif" width="500" height="25" border="0" usemap="#m_01_nav_under_products_r1_c1"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="1" height="25" border="0" name="undefined_4"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="3"><img name="n01_nav_under_products_r2_c1" src="/db_area/images/layout/images/products/01_nav_under_products_r2_c1.gif" width="13" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/directories/index.shtml" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_products_r2_c2','','/db_area/images/layout/images/products/01_nav_under_products_r2_c2_f2.gif',1)" ><img name="n01_nav_under_products_r2_c2" src="/db_area/images/layout/images/products/01_nav_under_products_r2_c2.gif" width="111" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_products_r2_c3" src="/db_area/images/layout/images/products/01_nav_under_products_r2_c3.gif" width="7" height="20" border="0"></td>
+                      <td rowspan="2"><a href="http://www.gamasutra.com/directories/search.shtml" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_products_r2_c4','','/db_area/images/layout/images/products/01_nav_under_products_r2_c4_f2.gif',1)" ><img name="n01_nav_under_products_r2_c4" src="/db_area/images/layout/images/products/01_nav_under_products_r2_c4.gif" width="77" height="9" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_products_r2_c5" src="/db_area/images/layout/images/products/01_nav_under_products_r2_c5.gif" width="7" height="20" border="0"></td>
+                      <td rowspan="2"><a href="http://www.gamasutra.com/directories/add_company.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_products_r2_c6','','/db_area/images/layout/images/products/01_nav_under_products_r2_c6_f2.gif',1)" ><img name="n01_nav_under_products_r2_c6" src="/db_area/images/layout/images/products/01_nav_under_products_r2_c6.gif" width="79" height="9" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_products_r2_c7" src="/db_area/images/layout/images/products/01_nav_under_products_r2_c7.gif" width="6" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/directories/add_product.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_products_r2_c8','','/db_area/images/layout/images/products/01_nav_under_products_r2_c8_f2.gif',1)" ><img name="n01_nav_under_products_r2_c8" src="/db_area/images/layout/images/products/01_nav_under_products_r2_c8.gif" width="71" height="7" border="0"></a></td>
+                      <td rowspan="3"><img name="n01_nav_under_products_r2_c9" src="/db_area/images/layout/images/products/01_nav_under_products_r2_c9.gif" width="129" height="20" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="1" height="7" border="0" name="undefined_4"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="2"><img name="n01_nav_under_products_r3_c2" src="/db_area/images/layout/images/products/01_nav_under_products_r3_c2.gif" width="111" height="13" border="0"></td>
+                      <td rowspan="2"><img name="n01_nav_under_products_r3_c8" src="/db_area/images/layout/images/products/01_nav_under_products_r3_c8.gif" width="71" height="13" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="1" height="2" border="0" name="undefined_4"></td>
+                    </tr>
+                    <tr> 
+                      <td><img name="n01_nav_under_products_r4_c4" src="/db_area/images/layout/images/products/01_nav_under_products_r4_c4.gif" width="77" height="11" border="0"></td>
+                      <td><img name="n01_nav_under_products_r4_c6" src="/db_area/images/layout/images/products/01_nav_under_products_r4_c6.gif" width="79" height="11" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/products/spacer.gif" width="1" height="11" border="0" name="undefined_4"></td>
+                    </tr>
+                    <map name="m_01_nav_under_products_r1_c1"> 
+                      <area shape="rect" coords="0,0,117,24" href="http://www.gamasutra.com/directories/index.shtml" >
+                    </map>
+                  </table>
+                  <!-- #BeginEditable "guide" --> 
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr> 
+                      <td valign="top" height="67"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"> 
+                        <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br><b>Latest Companies (Requires Login):</b><br><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/companies.php3?show=206725">Paranoid AB</a> [06.13.02]<br><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/companies.php3?show=206719">Pocket Soft Inc.</a> [06.07.02]<br><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/companies.php3?show=206715">Figment3D Enterprises Inc.</a> [05.30.02]<br><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/companies.php3?show=206713">INTRAG Int'l</a> [05.25.02]<br><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/companies.php3?show=206712">Magenta MultiMedia Tools B.V.</a> [05.24.02]<br><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/companies.php3?show=206709">Froghop</a> [05.22.02]<br><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/companies.php3?show=206694">Tyrell Innovations</a> [05.01.02]<br><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/companies.php3?show=206692">Castle Access</a> [04.29.02]<br><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/companies.php3?show=206671">Microsim Design</a> [03.20.02]<br><img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/companies.php3?show=206663">Simusoft3D Productions</a> [02.20.02]<br>
+                        </font></td>
+                    </tr>
+                  </table>
+                  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>Featured 
+                    Products:</b><br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"></font><font size="-2" face="Verdana,Arial"><a href="/php-bin/products.php3?show=195675">RTPatch</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">: 
+                    Reduce update size 90-99%. Update with only the changes.<br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"></font><font size="-2" face="Verdana,Arial"><a href="/php-bin/products.php3?show=195654">ActiveMARK</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">: 
+                    Powerful security and broad distribution for Internet-distributed 
+                    games.<br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/products.php3?show=195642">BREW</a>: 
+                    An application platform from Qualcomm for developing wireless 
+                    games. <br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/products.php3?show=39161">3D 
+                    Game Studio</a>: Conitec's suite of game tools using a JavaScript-like 
+                    language.<br>
+                    <img src="db_area/images/layout/99_icon_arrow.gif" width="6" height="9" border="0"><a href="/php-bin/products.php3?show=195628">GlobalWave</a>: 
+                    A secure way to distribute rich media, using flexible payment 
+                    technology.</font></p>
+                  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+                    </font></p>
+                  <!-- #EndEditable --></td>
+              </tr>
+              <tr> 
+                <td valign="top" colspan="2"> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="500">
+                    <!-- fwtable fwsrc="gig_nav.png" fwbase="01_nav_under_gig.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+                    <tr> 
+                      <td><img src="/db_area/images/layout/images/gig/spacer.gif" width="6" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/gig/spacer.gif" width="86" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/gig/spacer.gif" width="7" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/gig/spacer.gif" width="71" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/gig/spacer.gif" width="8" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/gig/spacer.gif" width="163" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/gig/spacer.gif" width="159" height="1" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/gig/spacer.gif" width="1" height="1" border="0"></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="7"><img name="n01_nav_under_gig_r1_c1" src="/db_area/images/layout/images/gig/01_nav_under_gig_r1_c1.gif" width="500" height="25" border="0" usemap="#m_01_nav_under_gig_r1_c1"></td>
+                      <td><img src="/db_area/images/layout/images/gig/spacer.gif" width="1" height="25" border="0"></td>
+                    </tr>
+                    <tr> 
+                      <td rowspan="2"><img name="n01_nav_under_gig_r2_c1" src="/db_area/images/layout/images/gig/01_nav_under_gig_r2_c1.gif" width="6" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/php-bin/gig_display.php" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_gig_r2_c2','','/db_area/images/layout/images/gig/01_nav_under_gig_r2_c2_f2.gif',1)" ><img name="n01_nav_under_gig_r2_c2" src="/db_area/images/layout/images/gig/01_nav_under_gig_r2_c2.gif" width="86" height="9" border="0"></a></td>
+                      <td rowspan="2"><img name="n01_nav_under_gig_r2_c3" src="/db_area/images/layout/images/gig/01_nav_under_gig_r2_c3.gif" width="7" height="20" border="0"></td>
+                      <td><a href="/contractwork/pricing.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_gig_r2_c4','','/db_area/images/layout/images/gig/01_nav_under_gig_r2_c4_f2.gif',1)" ><img name="n01_nav_under_gig_r2_c4" src="/db_area/images/layout/images/gig/01_nav_under_gig_r2_c4.gif" width="71" height="9" border="0"></a></td>
+                      <td rowspan="2"><img name="n01_nav_under_gig_r2_c5" src="/db_area/images/layout/images/gig/01_nav_under_gig_r2_c5.gif" width="8" height="20" border="0"></td>
+                      <td><a href="http://www.gamasutra.com/contractwork/" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('n01_nav_under_gig_r2_c6','','/db_area/images/layout/images/gig/01_nav_under_gig_r2_c6_f2.gif',1)" ><img name="n01_nav_under_gig_r2_c6" src="/db_area/images/layout/images/gig/01_nav_under_gig_r2_c6.gif" width="163" height="9" border="0"></a></td>
+                      <td rowspan="2"><img name="n01_nav_under_gig_r2_c7" src="/db_area/images/layout/images/gig/01_nav_under_gig_r2_c7.gif" width="159" height="20" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/gig/spacer.gif" width="1" height="9" border="0"></td>
+                    </tr>
+                    <tr> 
+                      <td><img name="n01_nav_under_gig_r3_c2" src="/db_area/images/layout/images/gig/01_nav_under_gig_r3_c2.gif" width="86" height="11" border="0"></td>
+                      <td><img name="n01_nav_under_gig_r3_c4" src="/db_area/images/layout/images/gig/01_nav_under_gig_r3_c4.gif" width="71" height="11" border="0"></td>
+                      <td><img name="n01_nav_under_gig_r3_c6" src="/db_area/images/layout/images/gig/01_nav_under_gig_r3_c6.gif" width="163" height="11" border="0"></td>
+                      <td><img src="/db_area/images/layout/images/gig/spacer.gif" width="1" height="11" border="0"></td>
+                    </tr>
+                    <map name="m_01_nav_under_gig_r1_c1"> 
+                      <area shape="rect" coords="1,0,118,24" href="http://www.gamasutra.com/php-bin/gig_display.php" >
+                    </map>
+                  </table>
+                  <!-- #BeginEditable "contractwork" --> 
+                  <font face="Verdana, Arial, Helvetica, sans-serif" size="-2">No <b>enhanced</b> projects currently listed. <br><br><a href="/php-bin/gig_display.php">[See <b>ALL</b> project listings here.]</a> <br><br></font>
+                  &nbsp;<br>
+                  &nbsp; <!-- #EndEditable --></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr> </tr>
+        <tr> 
+          <td colspan="3"><!-- #BeginLibraryItem "/Library/01_footer.lbi" --> 
+<p ALIGN="center"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#800000"><a href="/join.htm"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">join</font></a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"> 
+  | </font></font><font color="#800000" face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/contact_us/">contact 
+  us</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"> | 
+  </font></font><font color="#800000" face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/mediakit/">advertise</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"> 
+  | <font color="#000000"><a href="/writers_guidelines/"><font color="#800000">write</font></a></font> 
+  | </font><font color="#800000" face="Verdana, Arial, Helvetica, sans-serif" size="-2"><a href="/php-bin/profile.php3">my 
+  profile</a></font> </font><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+  <font color="#800000"><a href="/newswire/">news</a></font> | <font color="#800000"><a href="/features/">features</a></font> 
+  | <a href="/companies/">companies</a> | <font color="#800000"><a href="/jobsearch/">jobs</a></font> 
+  | <a href="/resumes/">resumes</a> | <a href="/education/">education</a> | <font color="#800000"><a href="/directories/">product 
+  guide</a></font> | <a href="/projects/">projects</a> | <font color="#800000"><a href="/store/">store<br>
+  </a></font></font> <br>
+  <img src="/db_area/images/layout/cmp.gif" width="71" height="60"><br>
+  <br>
+  <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><i>Copyright &copy; 
+  2002 CMP Media LLC. All rights reserved.</i></font> <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><br>
+  <a href="/privacy_policy.htm">privacy policy</a> | <a href="/terms_of_service.htm">terms 
+  of service</a></font>
+<!-- #EndLibraryItem --></td>
+        </tr>
+      </table>
+    </td>
+    <td width="12" height="826">&nbsp;</td>
+    <td width="125" valign="top" height="826"><!-- #BeginEditable "skyscraper%20ad" --> 
+      <table width="136" border="0" cellspacing="0" cellpadding="2">
+        <tr> 
+          <td> 
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+      </table>
+      <br>
+      <!--
+<script>
+  var D = new Date();
+  seed = (D.getSeconds() * 0xFFFFFF) + (D.getMinutes() * 0xFFFF); 
+  timenum = D.getTime();    
+  </script>
+      <iframe width=120 height=600 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor=#000000 src="http://newads.cmpnet.com/html.ng/site=gamasutra&pagepos=sky&gam_pos=home"> 
+      <script language="JavaScript" src="http://newads.cmpnet.com/js.ng/Params.richmedia=yes&site=gamasutra&pagepos=sky&gam_pos=home">
+  document.write("<A HREF=\"http://newads.cmpnet.com/click.ng/Params.richmedia=yes&transactionID=" + seed + timenum + "&site=gamasutra&pagepos=sky&gam_pos=home\">");
+  document.write("<IMG SRC=\"http://newads.cmpnet.com/image.ng/Params.richmedia=yes&transactionID=" + seed + timenum + "&site=gamasutra&pagepos=sky&gam_pos=home\">");
+  </script>
+      </iframe> --> <!-- #EndEditable --></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+<!-- #EndTemplate -->
+</html>
+

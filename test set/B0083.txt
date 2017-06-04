@@ -1,0 +1,584 @@
+ID=B0083
+URL=http://www.theshepshed.co.uk/mortgages/variable.htm
+SIZE=27872
+DATE=28/06/2002
+TIME=12:47:18
+DATASET=Building Societies
+HTML=<HTML>
+<HEAD>
+<TITLE>Shepshed Building Society</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</SCRIPT>
+<LINK REL="stylesheet" HREF="../sbs.css">
+<STYLE TYPE="text/css">
+<!--
+-->
+</STYLE>
+</HEAD>
+
+<BODY BGCOLOR="#000000" onLoad="MM_preloadImages('../images/buttons/contacto.gif','../images/buttons/mortbuttonover.gif')">
+<P>&nbsp; </P>
+<TABLE WIDTH="640" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+  <TR> 
+    <TD><a href="../index.htm"><IMG SRC="../images/template/header.gif" WIDTH="640" HEIGHT="66" NAME="header" border="0"></a></TD>
+  </TR>
+</TABLE>
+<TABLE WIDTH="640" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+  <TR> 
+    <TD><IMG SRC="../images/template/1.gif" WIDTH="219" HEIGHT="21"></TD>
+    <TD><A HREF="../mortgage.htm" TARGET="_self"><IMG SRC="../images/buttons/mortgage.gif" WIDTH="83" HEIGHT="21" BORDER="0"></A></TD>
+    <TD><A HREF="../savings.htm" TARGET="_self"><IMG SRC="../images/buttons/savings.gif" WIDTH="62" HEIGHT="21" BORDER="0"></A></TD>
+    <TD><A HREF="../ifa.htm" TARGET="_self"><IMG SRC="../images/buttons/ifa.gif" WIDTH="34" HEIGHT="21" BORDER="0"></A></TD>
+    <TD><A HREF="../sbs.htm" TARGET="_self"><IMG SRC="../images/buttons/sbs.gif" WIDTH="139" HEIGHT="21" BORDER="0"></A></TD>
+    <TD><A HREF="../location.htm" TARGET="_self"><IMG SRC="../images/buttons/location.gif" WIDTH="69" HEIGHT="21" BORDER="0"></A></TD>
+    <TD><IMG SRC="../images/template/2.gif" WIDTH="34" HEIGHT="21"></TD>
+  </TR>
+</TABLE>
+<TABLE WIDTH="640" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+  <TR> 
+    <TD><IMG SRC="../images/buttons/bands/mortband.gif" WIDTH="640" HEIGHT="8"></TD>
+  </TR>
+</TABLE>
+<TABLE WIDTH="640" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+  <TR BGCOLOR="#FFCC00" VALIGN="top"> 
+    <TD> 
+      <P>&nbsp;</P><TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+        <TR> 
+          <TD CLASS="bodyblack" WIDTH="49"><IMG SRC="../images/circleicons/3y.gif" WIDTH="40" HEIGHT="40"></TD>
+          <TD CLASS="newheader" WIDTH="501">VARIABLE RATE</TD>
+          <TD> 
+            <FORM METHOD="post" ACTION="">
+
+              <DIV ALIGN="right"> 
+                <SELECT NAME="menu1" onChange="MM_jumpMenu('parent',this,0)">
+                  <OPTION selected>Methods of Repayment</OPTION>
+                  <OPTION VALUE="endowment.htm">Endowment</OPTION>
+                  <OPTION VALUE="repayment.htm">Repayment</OPTION>
+                </SELECT>            </DIV></FORM>
+              <DIV ALIGN="right"> 
+                <form method="post" action="">
+        <p align="right">
+        <select name="calc" onChange="MM_openBrWindow(value,'','scrollbars=1,width=680,height=490,left=0,top=0')">
+          <option selected>Mortgage Calculators</option>
+          <option>__________________</option>
+          <option value="../repaymentcalc.htm">Monthly Repayment Calculator</option>
+          <option value="../mortamountcalc.htm">Mortgage Term Calculator</option>
+        </select> </p>
+      </form></DIV>
+
+          </TD>
+        </TR>
+      </TABLE>
+      <BR>
+      <TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+        <TR> 
+          <TD CLASS="bodyblack" VALIGN="top">As the name suggests, during the 
+            course of the loan, the interest rate can vary by going up or down. 
+            There may be months when the interest rate remains constant, or the 
+            rate can change many times over a short period of time.</TD>
+          <TD CLASS="bodyblack"><A HREF="../mortgagetypes.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image15','','../images/buttons/mortbuttonover.gif',1)" TARGET="_self"><IMG NAME="Image15" BORDER="0" SRC="../images/buttons/mortbuttonup.gif" WIDTH="60" HEIGHT="60" ALIGN="right"></A></TD>
+        </TR>
+      </TABLE>
+      <TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+        <TR>
+          <TD CLASS="newheader">Long Term Discount Deal</TD>
+        </TR>
+      </TABLE>
+      <BR>
+      <TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+        <TR> 
+          <TD> 
+            <P><SPAN CLASS="bodyblack">If you apply to the Society for a mortgage 
+              secured on a home which you intend to occupy or are already living 
+              in and your application satisfies the terms and conditions of our 
+              current lending criteria, the following offers a<SPAN CLASS="bodyblack">re 
+              currently available.</SPAN></SPAN></P>
+          </TD>
+        </TR>
+      </TABLE>
+      <BR>
+      <TABLE WIDTH="550" BORDER="0" CELLSPACING="2" CELLPADDING="5" ALIGN="center" BGCOLOR="#000000">
+        <TR> 
+          <TD BGCOLOR="#990000" WIDTH="123" HEIGHT="25" CLASS="headerblack"> 
+            <DIV ALIGN="center" CLASS="headerwhite">DISCOUNT<BR>
+              (off basic variable rate)</DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="67" HEIGHT="25" CLASS="headerwhite"> 
+            <DIV ALIGN="center">PRODUCT TERM</DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="108" HEIGHT="25" CLASS="headerblack"> 
+            <DIV ALIGN="center" CLASS="headerwhite">MAXIMUM LOAN TO VALUE </DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="202" HEIGHT="25" CLASS="headerblack"> 
+            <DIV ALIGN="center" CLASS="headerwhite">COMMENTS</DIV>
+          </TD>
+        </TR>
+        <TR> 
+          <TD BGCOLOR="#FFFF33" WIDTH="123" BORDERCOLOR="#000000"> 
+            <P CLASS="tablefigsnew" ALIGN="center">0.5%</P>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="67" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <DIV ALIGN="center">Term of Mortgage</DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="108" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <DIV ALIGN="center">95%</DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="202" BORDERCOLOR="#000000" CLASS="bodyblack"> 
+            <DIV ALIGN="center" class="tablefigsnew">For those looking for a long 
+              term competitive rate with no early redemption charge.</DIV>
+          </TD>
+        </TR>
+      </TABLE>
+<TABLE WIDTH="550" BORDER="0" CELLSPACING="2" CELLPADDING="5" ALIGN="center" BGCOLOR="#000000">
+        <TR BGCOLOR="#FFFF33"> 
+          <TD HEIGHT="25" CLASS="headerblack" nowrap> 
+            <DIV ALIGN="left" CLASS="bodyblack"> <SPAN CLASS="tablefigsnew">Key 
+              Features</SPAN><BR>
+              &#149; No early repayment charge<BR>
+              &#149; No additional products or services need to be bought<BR>
+              &#149; Free unemployment protection for the first year (subject 
+              to eligibility)</DIV>
+          </TD>
+        </TR>
+      </TABLE>
+      <br>
+      <table width="550" border="0" cellspacing="0" cellpadding="5" align="center">
+        <tr> 
+          <td>
+            <div align="center"><span class="headerblack">Click here for a typical 
+              long term discount APR example.<a href="typxamples.htm#ltd"><img src="../images/circleicons/advancesy.gif" width= "15" height="15" border="0" alt="Typical APR example"></a></span></div>
+          </td>
+        </tr>
+      </table>
+      <br>
+      <TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="5" ALIGN="center">
+        <TR> 
+          <TD HEIGHT="25" CLASS="headerblack"> 
+            			
+            <DIV CLASS="bodyblack"> <SPAN CLASS="tablefigsnew">Fees</SPAN><BR>
+              <SPAN CLASS="bodyblack">&pound;150 Administration Fee (non-refundable) 
+              Standard Valuation Fee in line with Scale.</SPAN><BR>
+              <BR>
+              <SPAN CLASS="tablefigsnew">Insurance</SPAN><BR>
+              <SPAN CLASS="bodyblack">The Society offers competitive insurance 
+              under its Block Policy. One twelfth of the annual premium will be 
+              included in your mortgage repayment if you choose to insure your 
+              property by this method. </SPAN><BR>
+              <SPAN CLASS="bodyblack"> <SPAN CLASS="tablefigsnew"> <br>
+              Interest Rate</SPAN><BR>
+              Minimum rate of 0.1% will apply. The Society's basic variable residential 
+              mortgage interest rate is currently 5.74%. <br>
+              </SPAN> <BR>
+              <SPAN CLASS="tablefigsnew">Unemployment/Redundancy Protection </SPAN><BR>
+              <SPAN CLASS="bodyblack">The Society will provide </SPAN><span class="headerblack">FREE</span><SPAN CLASS="bodyblack"> 
+              insurance for one year (subject to eligibility).</SPAN> 
+              <p class="headerblack">All mortgage products are available to applicants 
+                who are either 18 years or older.<br>
+                Your home will be taken as security for any loan advanced to you 
+                by the Society. Your home is at risk if you do not keep up repayments 
+                on the mortgage or any other loan secured on it. 
+            </DIV>
+          </TD>
+        </TR>
+      </TABLE>
+      <P>&nbsp;</P><TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+        <TR> 
+          <TD CLASS="bodyblack" VALIGN="top" nowrap> 
+            <P CLASS="newheader">Discounts and Cashback Deal</P>
+          </TD>
+        </TR>
+      </TABLE>
+      <BR>
+      <TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+        <TR> 
+          			<TD> 
+						<P><SPAN CLASS="bodyblack">If you apply to the society 
+							for a mortgage secured on a home which you occupy 
+							or are already living in and your application satisfies 
+							the terms and conditions of our current lending criteria, 
+							the following offers are currently available. (Maximum 
+							Loan &pound;150,000*)<BR>
+							*Loan can exceed this amount but discounted rate will 
+							apply to maximum &pound;150,000 - remaining funds 
+							will be at basic variable residential rate. </SPAN></P>
+          </TD>
+        </TR>
+      </TABLE>
+      <BR>
+      <TABLE WIDTH="557" BORDER="0" CELLSPACING="2" CELLPADDING="5" ALIGN="center" BGCOLOR="#000000">
+        <TR> 
+          <TD BGCOLOR="#990000" WIDTH="54" HEIGHT="25" CLASS="headerblack"> 
+            <DIV ALIGN="center" CLASS="headerwhite">DISCOUNT<BR>
+              (off basic variable rate) </DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="54" HEIGHT="25" CLASS="headerblack"> 
+            <DIV ALIGN="center" CLASS="headerwhite">PRODUCT TERM</DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="58" HEIGHT="25" CLASS="headerwhite"> 
+            <DIV ALIGN="center">MAXIMUM LOAN TO VALUE</DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="41" HEIGHT="25" CLASS="headerwhite"> 
+            <DIV ALIGN="center">PAY RATE</DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="62" HEIGHT="25" CLASS="headerwhite" align="center"> 
+            <DIV ALIGN="center">CASHBACK</DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="51" HEIGHT="25" CLASS="headerwhite" align="center"> 
+            <div align="center">EARLY REPAYMENT PERIOD</div>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="151" HEIGHT="25" CLASS="headerwhite"> 
+            <div align="center">EARLY REPAYMENT CHARGE</div>
+          </TD>
+        </TR>
+        <TR> 
+          <TD BGCOLOR="#FFFF33" WIDTH="54" BORDERCOLOR="#000000"> 
+            <P CLASS="tablefigsnew" ALIGN="center">5.00%<BR>
+              2.50%<BR>
+              1.75%<BR>
+              1.25%<BR>
+              1.00% </P>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="54" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <DIV ALIGN="center" CLASS="tablefigsnew">1 Year <BR>
+              2 Years <BR>
+              3 Years <BR>
+              4 Years <BR>
+              5 Years </DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="58" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <DIV ALIGN="center">95%<BR>
+              95%<BR>
+              95%<BR>
+              95%<BR>
+              95% </DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="41" BORDERCOLOR="#000000" CLASS="bodyblack"> 
+            <P CLASS="tablefigsnew"  ALIGN="center">0.74%<BR>
+              3.24%<BR>
+              3.99%<BR>
+              4.49%<BR>
+              4.74%</P>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="62" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <DIV ALIGN="center"> n/a<BR>
+              n/a<BR>
+              n/a<BR>
+              n/a<BR>
+              n/a</DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="51" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <div align="center">5 Years<br>
+              5 Years<br>
+              5 Years<br>
+              5 Years<br>
+              5 Years </div>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="151" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <p align="center">5% of amount repaid<br>
+              5% of amount repaid<br>
+              5% of amount repaid<br>
+              5% of amount repaid<br>
+              n/a</p>
+          </TD>
+        </TR>
+        <TR> 
+          <TD BGCOLOR="#FFFF33" WIDTH="54" BORDERCOLOR="#000000"> 
+            <DIV ALIGN="center" CLASS="tablefigsnew">2.50%</DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="54" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <DIV ALIGN="center">1 Year</DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="58" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <DIV ALIGN="center"><SPAN CLASS="tablefigs"><SPAN CLASS="tablefigsnew">95%</SPAN></SPAN></DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="41" BORDERCOLOR="#000000" CLASS="bodyblack"> 
+            <DIV ALIGN="center" CLASS="tablefigsnew">3.24% </DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="62" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <DIV ALIGN="center">2.50 % of Loan </DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="51" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <div align="center">5 Years </div>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="151" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <div align="center">5% of amount repaid including capital repayments</div>
+          </TD>
+        </TR>
+      </TABLE>
+	<BR>
+      <TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="5" ALIGN="center">
+        <TR> 
+          <TD><DIV ALIGN="center"><SPAN CLASS="headerblack">Click here for typical APR examples of cashback
+					     and discount deal products.  <A HREF="typxamples.htm#dacd"><img src="../images/circleicons/advancesy.gif" width= "15" height="15" border="0" alt="Typical APR examples"></A></SPAN></DIV>
+	  </TD>
+        </TR>
+      </TABLE>
+      <BR>
+      <TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="5" ALIGN="center">
+        <TR> 
+          			
+          <TD> 
+            <P><SPAN CLASS="bodyblack"><SPAN CLASS="tablefigsnew">Fees</SPAN><BR>
+              £150 Application Fee (non-refundable) Standard Valuation Fee in 
+              line with Scale.<br>
+              </SPAN></P>
+            <P><SPAN CLASS="bodyblack"><SPAN CLASS="tablefigsnew">Early Repayment 
+              Terms - Discount & Cashback - All</SPAN><BR>
+              See individual incentives above. Early repayment charges will apply 
+              to capital repayments if indicated above. A capital repayment is 
+              a lump sum payment of an amount equal to, or in excess of, six monthly 
+              payments. <br>
+              </SPAN></P>
+            <P><SPAN CLASS="bodyblack"><SPAN CLASS="tablefigsnew">Higher Lending 
+              Charge </SPAN><BR>
+              This charge is applicable for mortgages in excess of 80% of the 
+              purchase price or value (whichever the lower). The charge can be 
+              added to the mortgage provided that the total loan to value ratio 
+              does not exceed 97.5%.</SPAN></P>
+            <P><SPAN CLASS="bodyblack"><SPAN CLASS="tablefigsnew"> Interest Rate</SPAN><BR>
+              Minimum rate of 0.1% will apply. The Society's basic variable residential 
+              mortgage interest rate is currently 5.74%. </SPAN></P>
+            <P><SPAN CLASS="bodyblack"><SPAN CLASS="tablefigsnew">Unemployment/Redundancy 
+              Protection </SPAN><BR>
+              The Society will provide </SPAN><span class="headerblack">FREE</span><SPAN CLASS="bodyblack"> 
+              insurance for one year (subject to eligibility). </SPAN></P>
+						<P><SPAN CLASS="headerblack">All mortgage products are available to applicants who are either 18 
+          years or older.<br>
+          Your home will be taken as security for any loan advanced to you 
+          by the Society. Your home is at risk if you do not keep up repayments 
+          on the mortgage or any other loan secured on it. </SPAN></P>
+						</TD>
+        </TR>
+      </TABLE>
+      <P>&nbsp;</P><TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+        <TR> 
+          <TD CLASS="bodyblack" VALIGN="top" nowrap> 
+            <P><SPAN CLASS="newheader">First Time Buyer 'Special Offer'</SPAN><SPAN CLASS="newheader"><SPAN CLASS="headerblack"><BR>
+              (Maximum Purchase Price &pound;150,000)</SPAN></SPAN></P>
+          </TD>
+        </TR>
+      </TABLE>
+      <BR>
+      <TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+        <TR> 
+          <TD> 
+            <P><SPAN CLASS="bodyblack">If you apply to the Society for a mortgage 
+              secured on a home which you intend to occupy and your application 
+              satisfies the terms and conditions of our current lending criteria, 
+              the following offer is<SPAN CLASS="bodyblack"> currently available</SPAN>.</SPAN></P>
+          </TD>
+        </TR>
+      </TABLE>
+      <BR>
+      <TABLE WIDTH="550" BORDER="0" CELLSPACING="2" CELLPADDING="5" ALIGN="center" BGCOLOR="#000000">
+        <TR> 
+          <TD BGCOLOR="#990000" WIDTH="200" HEIGHT="25" CLASS="headerblack"> 
+            <DIV ALIGN="center" CLASS="headerwhite">YEAR</DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="200" HEIGHT="25" CLASS="headerblack"> 
+            <DIV ALIGN="center" CLASS="headerwhite">DISCOUNT<BR>
+              (off basic variable rate)</DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="200" HEIGHT="25" CLASS="headerblack"> 
+            <DIV ALIGN="center" CLASS="headerwhite">MAXIMUM LOAN TO VALUE </DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="200" HEIGHT="25" CLASS="headerblack"> 
+            <DIV ALIGN="center" CLASS="headerwhite">PAY RATE</DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="200" HEIGHT="25" CLASS="headerwhite"> 
+            <DIV ALIGN="center">CASHBACK</DIV>
+          </TD>
+          <TD BGCOLOR="#990000" WIDTH="200" HEIGHT="25" CLASS="headerwhite" align="center">EARLY 
+            REPAYMENT CHARGE PERIOD</TD>
+          <TD BGCOLOR="#990000" WIDTH="200" HEIGHT="25" CLASS="headerwhite" align="center">EARLY 
+            REPAYMENT CHARGES</TD>
+        </TR>
+        <TR> 
+          <TD BGCOLOR="#FFFF33" WIDTH="200" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <DIV ALIGN="center">1<BR>
+              2<BR>
+              3<BR>
+              4<BR>
+              5</DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="200" BORDERCOLOR="#000000"> 
+            <P CLASS="tablefigsnew" ALIGN="center"> 2.00%<BR>
+              1.00%<BR>
+              0.50%<BR>
+              0.50%<BR>
+              0.50%</P>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="200" BORDERCOLOR="#000000" CLASS="tablefigsnew" VALIGN="middle"> 
+            <DIV ALIGN="center">95%</DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="200" BORDERCOLOR="#000000" CLASS="tablefigsnew"> 
+            <DIV ALIGN="center">3.74%<BR>
+              4.74%<BR>
+              5.24%<BR>
+              5.24%<BR>
+              5.24%</DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="200" BORDERCOLOR="#000000" CLASS="tablefigsnew" VALIGN="middle"> 
+            <DIV ALIGN="center">£500 </DIV>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="200" BORDERCOLOR="#000000" CLASS="tablefigsnew" VALIGN="middle"> 
+            <div align="center">5 Years </div>
+          </TD>
+          <TD BGCOLOR="#FFFF33" WIDTH="200" BORDERCOLOR="#000000" CLASS="tablefigsnew" VALIGN="middle"> 
+            <div align="center">5% of the amount repaid</div>
+          </TD>
+        </TR>
+      </TABLE>
+<TABLE WIDTH="550" BORDER="0" CELLSPACING="2" CELLPADDING="5" ALIGN="center">
+        <TR>
+          <TD bgcolor="#FFFF33" bordercolor="#000000"> 
+            <DIV ALIGN="center" class="tablefigsnew">FREE Standard Valuation & 
+              Unemployment/Redundancy Insurance for first year of mortgage (subject 
+              to eligibility).</DIV>
+	  </TD>
+        </TR>
+      </TABLE><TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="5" ALIGN="center">
+        <TR>
+          <TD><DIV ALIGN="center"><SPAN CLASS="headerblack">APR 5.7%</SPAN></DIV>
+	  </TD>
+        </TR>
+      </TABLE><TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="5" ALIGN="center">
+        <TR>
+          <TD><DIV ALIGN="center"><SPAN CLASS="headerblack">Click here for a typical first time buyer APR example.<A HREF="typxamples.htm#ftbso"><img src="../images/circleicons/advancesy.gif" width= "15" height="15" border="0" alt="Typical APR example"></A></SPAN></DIV>
+	  </TD>
+        </TR>
+      </TABLE>
+      <BR>
+      <TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+        <TR> 
+          			
+          <TD valign="top"> 
+            <P><SPAN CLASS="bodywhite"><SPAN CLASS="bodyblack"><SPAN CLASS="bodyblack"><SPAN CLASS="bodyblack"><SPAN CLASS="bodyblack"><SPAN CLASS="tablefigsnew">Fees</SPAN><BR>
+              £100 Application Fee (non-refundable)</SPAN></SPAN></SPAN></SPAN></SPAN></P>
+            <P><SPAN CLASS="bodyblack"><SPAN CLASS="bodyblack"><SPAN CLASS="bodyblack"><SPAN CLASS="bodyblack"><SPAN CLASS="bodywhite"><SPAN CLASS="bodyblack"><SPAN CLASS="bodyblack"><SPAN CLASS="tablefigsnew">
+            Early Repayment Terms</SPAN></SPAN></SPAN></SPAN></SPAN><SPAN CLASS="bodywhite"><BR>
+              <SPAN CLASS="bodyblack">See above table.</SPAN></SPAN></SPAN></SPAN></SPAN></P>
+						
+            <P><SPAN CLASS="bodyblack"><SPAN CLASS="bodyblack"><SPAN CLASS="bodyblack"><SPAN CLASS="bodyblack"><SPAN CLASS="bodyblack"><SPAN CLASS="tablefigsnew">Interest 
+              Rate</SPAN><BR>
+              Minimum rate of 0.1% will apply. </SPAN></SPAN></SPAN></SPAN> The 
+              Society's basic variable residential mortgage interest rate is currently 
+              5.74%.</SPAN></P>
+						
+            <P><SPAN CLASS="headerblack">All mortgage products are available to 
+              applicants who are either 18 years or older.<br>
+              Your home will be taken as security for any loan advanced to you 
+              by the Society. Your home is at risk if you do not keep up repayments 
+              on the mortgage or any other loan secured on it. </SPAN></P>
+            </TD>
+        </TR>
+      </TABLE>
+      <P>&nbsp; </P>
+    </TD>
+  </TR>
+</TABLE>
+<TABLE WIDTH="640" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+  <TR> 
+    <TD><IMG SRC="../images/template/footer.gif" WIDTH="640" HEIGHT="7"></TD>
+  </TR>
+</TABLE>
+<TABLE WIDTH="640" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+  <TR> 
+    <TD BGCOLOR="#990000" WIDTH="35"> 
+      <DIV ALIGN="left"><IMG SRC="../images/template/3.gif" WIDTH="35" HEIGHT="45"></DIV>
+    </TD>
+    <TD BGCOLOR="#990000" WIDTH="2" VALIGN="middle"> 
+      <FORM METHOD="post" ACTION="">
+        <SELECT NAME="nav" onChange="MM_jumpMenu('parent',this,0)">
+          <option>SITE MENU</option>
+          <option>__________________</option>
+          <option value="../mortgage.htm">MORTGAGES</option>
+          <option value="repayment.htm">&#149; Repayment</option>
+          <option value="endowment.htm">&#149; Endowment</option>
+          <option value="variable.htm">&#149; Variable Rate</option>
+          <option value="fixedrate.htm">&#149; Fixed Rate</option>
+          <option value="selfbuild.htm">&#149; Self Build</option>
+          <option value="righttobuy.htm">&#149; Right to Buy</option>
+          <option value="shared.htm">&#149; Shared Ownership</option>
+          <option value="buytolet.htm">&#149; Buy to Let</option>
+          <option value="tracker.htm">&#149; Tracker</option>
+          <option value="remortgage.htm">&#149; Remortgage</option>
+          <option>__________________</option>
+          <option value="../savings.htm">SAVINGS</option>
+          <option value="../savings/ninetyday.htm">&#149; 90 Day Share</option>
+          <option value="../savings/sapphire.htm">&#149; Sapphire Share</option>
+          <option value="../savings/instantaccess.htm">&#149; Instant Access</option>
+          <option value="../savings/twentyeightday.htm">&#149; 28 Day Share</option>
+          <option value="../savings/staraccount.htm">&#149; Kids Star Account</option>
+          <option value="../savings/ordinaryshare.htm">&#149; Ordinary Share</option>
+          <option value="../savings/twoterm.htm">&#149; 2 Year Term Share</option>
+          <option value="../savings/isa.htm">&#149; ISA's</option>
+          <option value="../savings/fixedrate.htm">&#149; Fixed Rate Bonds</option>
+          <option>__________________</option>
+          <option value="../ifa.htm">IFA</option>
+          <option value="../ifa/criticalill.htm">&#149; Critical Illness Protection</option>
+          <option value="../ifa/income.htm">&#149; Income Protection</option>
+          <option value="../ifa/lifeassur.htm">&#149; Life Assurance</option>
+          <option value="../ifa/mortgages.htm">&#149; Mortgages</option>
+          <option value="../ifa/retirement.htm">&#149; Pensions &amp; Retirement</option>
+          <option value="../ifa/savings.htm">&#149; Savings &amp; Investments</option>
+          <option>__________________</option>
+          <option value="../sbs.htm">SBS &amp; THE COMMUNITY</option>
+          <option>__________________</option>
+          <option value="../location.htm">LOCATION</option>
+          <option>__________________</option>
+          <option value="../infopage.htm">INFORMATION</option>
+          <option value="../tariffs.htm">• TARIFF OF CHARGES</option>
+          <option value="../bankingcode.htm">• THE BANKING CODE</option>
+          <option value="../mortgagecode.htm">• THE MORTGAGE CODE</option>
+          <option value="../internalcomplaints.htm">• COMPLAINTS PROCEDURE</option>
+        </SELECT>
+      </FORM>
+    </TD>
+    <TD BGCOLOR="#990000" WIDTH="494"> 
+      <DIV ALIGN="right"><A HREF="../contact.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image13','','../images/buttons/contacto.gif',1)"><IMG NAME="Image13" BORDER="0" SRC="../images/buttons/contact.gif" WIDTH="113" HEIGHT="44"></A></DIV>
+    </TD>
+    <TD BGCOLOR="#990000" WIDTH="22"> 
+      <DIV ALIGN="right"><IMG SRC="../images/template/4.gif" WIDTH="34" HEIGHT="45"></DIV>
+    </TD>
+  </TR>
+</TABLE>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</BODY>
+</HTML>

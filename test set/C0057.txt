@@ -1,0 +1,308 @@
+ID=C0057
+URL=http://www.insuranceclub.co.uk/insuranceclub/protect4.htm
+SIZE=10293
+DATE=10/07/2002
+TIME=13:17:18
+DATASET=Insurance Agencies
+HTML=<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+
+<HEAD>
+
+<TITLE>Contents</TITLE>
+
+<META NAME="GENERATOR" CONTENT="Internet Assistant for Word 0.95">
+<META NAME="AUTHOR" CONTENT="Peter Loughlin">
+</HEAD>
+
+<BODY>
+<body bgcolor="#FFFFFF">
+<img src="home-small.gif" width=221 height=130 align=right><center><H1>How to Protect Your Home Part 4</H1></center>
+
+<H3>Contents</H3>
+
+<img width=14 height=14 align=top src="blue.gif"> <A HREF="#yourproperty">Your Property</A> 
+<br>
+<img width=14 height=14 align=top src="blue.gif"> <A HREF="#cycles">Cycles</A> 
+<br>
+<img width=14 height=14 align=top src="blue.gif"> <A HREF="#fire">Fire Protection</A> 
+<br>
+<img width=14 height=14 align=top src="blue.gif"> <A HREF="#cold">Cold Weather Protection</A> 
+<br>
+<img width=14 height=14 align=top src="blue.gif"> <A HREF="#otherweather">Other Weather Protection</A> <HR>
+
+<H3><A NAME="yourproperty">Your Property</A></H3>
+
+<P>
+<B>Property Coding</B>
+<br><IMG SRC="camera.gif" width=149 height=103 ALIGN="right">
+<P>
+Each year hundreds of thousands of pounds worth of lost or stolen
+property is recovered by the police and not returned simply because
+it cannot be properly identified.
+<P>
+Property marking deters thieves. Identifiable property is dangerous
+to handle and difficult to dispose of.
+<P>
+<IMG SRC="tvscreen.gif" width=148 height=99 ALIGN="left">You need to put on your house/flat
+number, plus your postcode. This provides a simple and unique
+way of identifying where the property should be returned.
+<P>
+Items can be permanently marked with your postcode by either :
+<UL>
+<LI>Engraving or Etching
+<LI>Punching
+<LI>Ultra Violet Marking.
+</UL>
+
+<P>
+<B>Record of Property</B> 
+<P>
+If your property is stolen, can you fully describe it and give
+your insurers the serial number?
+<P>
+By keeping detailed records of valuable items, including the serial
+numbers, detailed description, make, model and any special features
+you can help us and the police in recovery of the item. Colour
+photographs can greatly help.
+<P>
+There are also other methods of &quot;marking&quot; your property.
+This can be by &quot;tagging&quot; and your broker can give you
+more information on it.
+<H3><A NAME="cycles">Cycles</A></H3>
+
+<P>
+Every year around 100,000 cycles are reported stolen. You should
+take care where you leave your bike and always lock up.
+<P>
+You should....
+<UL>
+<LI>Mark the frame with your postcode. This will help the police
+return it if it is found.
+</UL>
+
+<P>
+<CENTER><IMG width=221 height=193 SRC="bracket.gif" ALIGN="BOTTOM"></CENTER>
+<UL>
+<LI>Always lock your bike to something that is at least as strong
+as the lock.
+<LI>Even when the bike is in the garage or shed lock the bike.
+Using anchor points is even better.
+</UL>
+
+<P>
+&quot;D&quot; or &quot;U&quot; solid locks are very strong and
+visually effective. There are many makes available. If you use
+a cable lock make sure they are of good quality.<HR>
+
+<H3><A NAME="fire">Fire Protection</A></H3>
+
+<P>
+In a year some 7,000 people will be injured in domestic fires.
+Over 700 people will die.
+<P>
+<IMG SRC="warn.gif" width=148 height=131 ALIGN="left">According to Government research
+fire protection and awareness can drastically reduce this figure.
+Gas leaks can cause explosions with horrendous consequences.
+<P>
+What can you do...
+<UL>
+<LI>Check wiring, leads, earthing and plugs on domestic appliances
+to make sure they are safe.
+<LI>Never overload electrical points.
+<LI>If you have an old house, the wiring should be checked by
+a competent electrical contractor.
+<LI>Have chimneys swept at least once a year.
+<LI>Make sure that portable heaters cannot be knocked over.
+<LI>Be careful when smoking.
+<LI>Keep matches and lighters away from children.
+<LI>Use a secured fireguard on heaters and fires.
+</UL>
+
+<P>
+<B>Smoke Detectors</B> <IMG width=185 height=47 SRC="smoke.gif" ALIGN="right">
+<P>
+These do save lives and are invaluable at night when you're sleeping.
+<P>
+They simply fit into the ceiling at home and you should have at
+least one on every floor. They should meet British Standard BS
+5446 and carry the kitemark.
+<P>
+<I><B>Test them regularly.</B></I> 
+<P>
+Once a month..
+<UL>
+<LI>Check the battery by pressing the test button.
+<LI>Test the sensor by holding a recently extinguished candle
+under the alarm.
+</UL>
+
+<P>
+Once a year..
+<UL>
+<LI>Change the battery in the alarm.
+<LI>Make a note of the date of the change.
+<LI>Vacuum the inside of the alarm to ensure dust does not block
+the sensor chamber.
+</UL>
+
+<P>
+<B>Fire Extinguishers</B> 
+<P>
+Should meet BS 5423 or BS 6165 and carry the BS kitemark.<IMG SRC="!bslogo.gif" width=55 height=66 ALIGN="left">
+
+<P>
+Disposable extinguishers need to be changed every four years.
+<P>
+This table (click here) shows briefly the types of extinguishers
+available and their recommended use.
+<P>
+NOTE: Always read the instruction before use.
+<P>
+<B>Fire Blankets<br><br><IMG width=88 height=254 SRC="fireblan.gif" ALIGN="left"> </B>
+They are ideal for tackling small fires such as chip pans. Always
+read the instructions before use. They need to meet BS 6575.
+<P>
+<B>Gas Leaks</B> 
+<P>
+Gas leaks are hazardous and can cause an explosion with devastating
+results. Your life could also be in danger.
+<P>
+In the event of a gas leak :
+<UL>
+<LI>Do not... Smoke Use naked flames. Turn any electric switches
+on or off.
+<LI>Do.. Turn off the gas supply. Open all your doors and windows
+to get rid of the gas. Call the gas emergency service (this can
+be found under GAS in your local telephone directory).
+</UL>
+<br clear=both><HR>
+
+<H3><A NAME="cold">Cold weather Protection</A></H3>
+
+<P>
+Leaking pipes and tanks often cause damage costing thousands of
+pounds especially if the house is unoccupied and leaks aren't
+noticed.
+<P>
+Under 1989 Water Authority bye-laws you can be fined if you allow
+pipes to freeze and cause water wastage.
+<P>
+Here are some measures you can take to avoid this type of damage.
+<UL>
+<LI>Replace washers and dripping taps.
+<LI>Make sure your water stop valve works easily.
+<LI>Make sure pipes and tanks are adequately lagged.
+<LI>Keep central heating on in cold weather especially at night
+to prevent the pipes freezing.
+<LI>If your home is going to be empty for up to 30 days between
+September and March, keep the heating on at 15&ucirc;C (60&ucirc;F)
+or more to prevent the water pipes freezing.
+<LI>If your home is going to be empty for more than 30 days between
+September and March and you don't want to leave the heating on,
+you should turn off the water supply at the mains and drain the
+tank and central heating system.
+</UL>
+
+<P>
+<B>Tanks</B> 
+<P>
+Tanks need at least 25mm (1 inch) thickness of lagging as shown
+above. Tanks sitting on low plinths on the loft floor should be
+lagged on the top and down the sides to the floor.
+<P>
+For large open tanks, 50mm or 2 inch thick material may be needed.
+<P>
+The floor space immediately below your tank should not be insulated
+so that heat will rise from the room below. Alternatively, the
+loft door can be left slightly open so that warm air can circulate
+around the loft. An elevated central heating tank, often held
+on a bracket 1 metre (3 feet) above the floor, will need cocooning
+top, sides and bottom. <A HREF="tanklag.htm">Click here for an illustration.</A>
+
+<P>
+Suitable lagging for tanks are:
+<UL>
+<LI>Bags of glass-fibre matting or wool.
+<LI>Polystyrene foam rigid sheeting.
+<LI>Lagging is available from most DIY stores to fit many tank
+shapes.
+</UL>
+
+<P>
+<B>Pipes</B> 
+<P>
+You can buy pipe lagging from most DIY stores and it is simple
+to fit.<IMG SRC="pipe.gif" width=148 height=209 ALIGN="right"> 
+<P>
+Pipe lagging should be at least 32mm (1 1/4&quot;) thick and there
+should be no gaps. Wind blowing under roof eaves can still freeze
+the pipe.
+<P>
+Types of pipe lagging are:
+<UL>
+<LI>Polyethylene foam semi-rigid sections.
+<LI>Foamed rubber and polyurethane flexible sections.
+<LI>Glass fibre and mineral wool rigid sections with aluminium
+to prevent condensation.
+</UL>
+
+<P>
+<B>What to do if your pipes freeze</B> 
+<UL>
+<LI>Turn off the main STOP valve
+<LI>Protect items that are under the frozen pipe, in case it bursts
+<LI>Apply heat gradually by using hot water bottles, hair dryers
+and fan heaters (be careful with electrical appliances in a damp
+environment)
+<LI>Do not use blow torches, hot air paint strippers or naked
+flames.
+</UL>
+<HR>
+
+<H3><A NAME="otherweather">Other Weather Protection</A></H3>
+
+<P>
+<IMG SRC="!storm.gif" width=150 height=133 ALIGN="left"><B>Storms</B> 
+<P>
+Keeping your property in good condition with regular maintenance
+will mean that your home is less susceptible to damage in a storm.
+<P>
+Such actions that can lessen the chance of damage are :Clear gutters
+and drains - make sure they are not blocked. Secure any outdoor
+items or place them in a garage or shed. Ensure roof tiles are
+secure. Flat roofs should be regularly checked. Remember flat
+roofs should be replaced every 10 years.
+<P>
+<IMG SRC="floodsgn.gif" width=150 height=133 ALIGN="left"><B>Flooding</B> 
+<P>
+<I>If you receive a flood warning:</I> 
+<P>
+Move everything upstairs. Particular items you should have are;
+food, warm clothing, drinking water, a battery radio and a torch.
+<P>
+Do not use electricity or gas or drink tap water until the &quot;all
+clear&quot; sign is given.
+<P>
+<I>After a flood:</I> 
+<P>
+Once advised, we will be able to help you with advice on minimising
+your loss and returning your home back to normal. The main thing
+is to remember is that you must dry out your home properly and
+this could take months. 
+
+<hr>
+<br><center>
+<A HREF="welcome2.htm"><IMG align=right border=0 width=90 height=89 SRC="welbut.gif" ALIGN="BOTTOM"></A>
+<A HREF="#top"><IMG align=right SRC="top.gif" border=0 width=90 height=89 ALIGN="BOTTOM"></A>
+<A HREF="qq1.htm"><IMG align=right border=0 width=90 height=89 SRC="qqbut.gif" ALIGN="BOTTOM"></A>
+<HR width=95% size=10>
+<ADDRESS>
+The Insurance Club Ltd, Registered in London No. 3016797
+</ADDRESS>
+<HR width=95% size=10>
+</center>
+</BODY>
+
+</HTML>
+

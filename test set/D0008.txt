@@ -1,0 +1,1270 @@
+ID=D0008
+URL=http://www.jdance.com/jdance.htm
+SIZE=42850
+DATE=16/07/02
+TIME=14:34:39
+DATASET=Java
+HTML=<html>
+<head>
+<title>JDance: the online Java information center</title>
+<META NAME="keywords" CONTENT="java,portal,news,information,enterprise,books,consulting,jobs,applets,javabeans,magazines,training">
+<META NAME="description" CONTENT="JDance.com - the online Java information center">
+<!--
+JDance.com is the online Java information center
+-->
+
+
+<style type="text/css">
+<!--
+
+#portal {
+  font-family: Arial,Helvetica;
+}
+
+
+.left {
+  position: absolute;
+  left: 0;
+  top: 100;
+  font: bold 10pt/15pt arial,helvetica;
+  background-color:#ffff99;
+  
+}
+
+ul {
+  list-style-type: square;
+  font: bold 9pt/20pt verdana,arial,helvetica;
+}
+
+ul.daily {
+  list-style-type: square;
+  font: bold 10pt/16pt Times,Palatino,arial,helvetica;
+}
+
+
+ul.aaa {
+  list-style-type: square;
+  font: bold 10pt/15pt arial,helvetica;
+
+}
+
+li.green{
+  color: green;
+}
+
+ul.ngroups{
+  font-size: 9pt;
+}
+
+ul.topsites {
+  font-size: 9pt;
+}
+-->
+</style>
+<script language=JavaScript>
+<!--
+var mon = new Array("Jan","Feb","Mar","Apr","May","June","July","Aug","Sept","Oct","Nov","Dec")
+
+var now = new Date
+-->
+</script>
+
+</head>
+
+<body bgcolor="#ffffff">
+<table valign="top">
+<tr>
+<td width=160>
+<img src="jdance.gif" width=160 height=80 alt="jDance logo">
+</td>
+<td width=540 align=center valign="middle">
+<!--
+<a href="http://www.geekcruises.com" target=_top><img src="geek2.gif" width=468 height=60 border=0></a>
+-->
+<!--
+<a href="http://www.wroxconferences.com/wirelessusa" target=_top><img src="wrox-sept-long.gif" width=468 height=60 border=0></a>
+-->
+<!--
+<a href="http://www.tek-tools.com/downloads.htm" target=_top><img src="kawa3.gif" width=468 height=60 border=0></a>
+-->
+<a href="http://www.worldwildlife.org/" target=_top><img src="wwfad1.gif" width=468 height=60 border=0 alt="WWF"></a>
+
+
+<!--
+<A HREF="http://www.jdance.com/cgi-bin/webads/ads.pl?banner=NonSSI;page=01;zone=A" target=_top>
+<IMG SRC="http://www.jdance.com/cgi-bin/webads/ads.pl?page=01;zone=A" BORDER=0 width=468 height=60>
+</a>
+-->
+
+</td>
+
+<td valign="top">
+<table width=250 height=60 border=0 valign="top" align=left>
+<tr><td valign="middle" align=left bgcolor="#d8bfd8">
+
+<form METHOD="POST" ACTION="/cgi-local/bnbform.cgi">
+<table><tr><td>
+
+<font size=2>Register to get <u>Jane</u>:</font><br>
+<font size=2><i>(the <u>Ja</u>va <u>ne</u>wsletter)</i><br><br><u>The Daily Jane</u></font>
+
+</td>
+<td>
+<font size="2">
+Your email:<br>
+<input type="text" name="submit_by" size=18><br>
+
+
+<br>
+<input type="submit" value="Register">
+
+<INPUT TYPE="HIDDEN" NAME="required" VALUE="submit_by">
+<INPUT TYPE="HIDDEN" NAME="data_order" VALUE="submit_by">
+<INPUT TYPE="HIDDEN" NAME="submit_to" VALUE="jdteam@yahoo.com">
+<INPUT TYPE="HIDDEN" NAME="automessage" VALUE="mymessage">
+<INPUT TYPE="HIDDEN" NAME="outputfile" VALUE="form1">
+<INPUT TYPE="HIDDEN" NAME="countfile" VALUE="form1">
+<INPUT TYPE="HIDDEN" NAME="emailfile" VALUE="form1">
+<INPUT TYPE="HIDDEN" NAME="ok_url" VALUE="http://www.jdance.com/thanks.html">
+<INPUT TYPE="HIDDEN" NAME="not_ok_url" VALUE="http://www.jdance.com/oops.html">
+
+</font>
+</td>
+</tr></table>
+</form>
+
+</td></tr></table>
+</td>
+
+
+
+
+</tr>
+</table>
+
+<table>
+<tr>
+<td width=180 valign="top" bgcolor="#ffff99">
+<b>
+
+<font size="2"><a href="clientside.shtm">Client</a> | <a href="serverside.shtm">Server-side</a></font>
+<br><br>
+
+<FONT size="3" style="font:bold 12pt Times,Garamond;">Channels</FONT>
+
+
+<ul>
+<!--<li><a href="imaging.shtm">Advanced Imaging</a>-->
+<!--<li><a href="agents.shtm">Agents</a>-->
+<!--<li><a href="apache.shtm">Apache</a>-->
+<li><a href="apis.shtm">APIs</a>
+<li><a href="applets.shtm">Applets</a>
+<!--<li><a href="arrays.shtm">Arrays</a>-->
+<!--<li><a href="articles.shtm">Articles</a>-->
+<!--<li><a href="audio.shtm">Audio</a>-->
+<!--<li><a href="bluetooth.shtm">Bluetooth</a>-->
+<li><a href="http://www.jdance.com/shop/books.shtm">Books</a>
+<!--<li><a href="business.shtm">Business</a>-->
+<!--<li><a href="cars.shtm">Cars</a>-->
+<!--<li><a href="celebs.shtm">Celebrities</a>-->
+<li><a href="javacert.shtm">Certification</a>
+<!--<li><a href="chat.shtm">Chats &amp; Forums</a>-->
+<!--<li><a href="classloading.shtm">Class Loading</a>-->
+<!--<li><a href="clientside.shtm">Client-side</a>-->
+<!--<li><a href="cloning.shtm">Cloning</a>-->
+<li><a href="collections.shtm">Collections</a>
+<!--<li><a href="columns.shtm">Columns</a>-->
+<!--<li><a href="compilers.shtm">Compilers</a>-->
+<li><a href="conferences.shtm">Conferences</a>
+<!--<li><a href="consulting.shtm">Consulting</a>-->
+<!--<li><a href="corba.shtm">Corba</a>-->
+<li><a href="javacrypt.shtm">Cryptography</a>
+<li><a href="designpatterns.shtm">Design Patterns</a>
+<li><a href="dragndrop.shtm">Drag &amp; Drop</a>
+<li><a href="ejb.shtm">EJB</a>
+<li><a href="embeddedjava.shtm">Embedded Java</a>
+<li><a href="emulation.shtm">Emulation</a>
+<li><a href="enterprise.shtm">Enterprise</a>
+<li><a href="exceptions.shtm">Exceptions</a>
+<li><a href="javaextensions.shtm">Ext Framework</a>
+<li><a href="faqs.shtm">FAQs</a>
+<li><a href="freebies.shtm">Freebies</a>
+<li><a href="gameprogramming.shtm">Game Programming</a>
+<li><a href="gc.shtm">Garbage Collection</a>
+<li><a href="emulation.shtm">Hardware</a>
+<li><a href="javahelp.shtm">Help</a>
+<li><a href="homeautomation.shtm">Home Automation</a>
+<li><a href="imaging.shtm">Imaging</a>
+<li><a href="infobus.shtm">Infobus</a>
+<li><a href="i18n.shtm">I18N</a>
+<li><a href="innerclasses.shtm">Inner Classes</a>
+<li><a href="java2d.shtm">Java 2D</a>
+<li><a href="java3d.shtm">Java 3D</a>
+<li><a href="jaf.shtm">JAF</a>
+<li><a href="jain.shtm">JAIN</a>
+<li><a href="javabeans.shtm">JavaBeans</a>
+<li><a href="javacard.shtm">Java Card</a>
+<li><a href="javacommerce.shtm">Java Commerce</a>
+<li><a href="javadmk.shtm">Java DMK</a>
+<li><a href="javadoc.shtm">Javadoc</a>
+<li><a href="corba.shtm">Java IDL</a>
+<li><a href="javaio.shtm">Java I/O</a>
+<li><a href="javamail.shtm">JavaMail</a>
+<li><a href="jmapi.shtm">Java Management</a>
+<li><a href="media.shtm">Java Media</a>
+<li><a href="javaphone.shtm">JavaPhone</a>
+<li><a href="jsp.shtm">Java Server Pages</a>
+<li><a href="javaspaces.shtm">JavaSpaces</a>
+<li><a href="javaspeech.shtm">Java Speech</a>
+<li><a href="javatv.shtm">JavaTV</a>
+<li><a href="comm.shtm">javax.comm</a>
+<li><a href="jbuilder.shtm">JBuilder</a>
+<li><a href="jcp.shtm">JCP</a>
+<li><a href="jdbc.shtm">JDBC</a>
+<li><a href="java13.shtm">JDK 1.3</a>
+<li><a href="jfc.shtm">JFC</a>
+<li><a href="jini.shtm">Jini</a>
+<li><a href="jiro.shtm">Jiro</a>
+<li><a href="jitcompiling.shtm">JIT Compiling</a>
+<li><a href="jmf.shtm">JMF</a>
+<li><a href="jms.shtm">JMS</a>
+<li><a href="jndi.shtm">JNDI</a>
+<li><a href="jni.shtm">JNI</a>
+<li><a href="jobs.shtm">Jobs/Careers</a>
+<li><a href="jrun.shtm">JRun</a>
+<li><a href="jsp.shtm">JSP</a>
+<li><a href="jsrs.shtm">JSRs</a>
+<li><a href="tables.shtm">JTable</a>
+<li><a href="trees.shtm">JTree</a>
+<li><a href="text.shtm">JText-related</a>
+<li><a href="jugs.shtm">JUGs</a>
+<li><a href="http://www.jdance.com/shop/jvms.shtm">JVMs/Ports</a>
+<li><a href="kvm.shtm">K Virtual Machine</a>
+<li><a href="language.shtm">Language</a>
+<li><a href="linux.shtm">Linux</a>
+<li><a href="lookandfeel.shtm">Look and Feel</a>
+<li><a href="mac.shtm">Mac</a>
+<li><a href="mags.shtm">Magazines</a>
+<li><a href="jmapi.shtm">Management</a>
+<li><a href="media.shtm">Media</a>
+<li><a href="memory.shtm">Memory</a>
+<li><a href="business.shtm">Mergers/Acquisitions</a>
+<li><a href="jms.shtm">Messaging</a>
+<li><a href="microjava.shtm">Micro Java</a>
+<li><a href="networking.shtm">Networking</a>
+<li><a href="newbooks.shtm">New Books</a>
+<li><a href="news.shtm">News</a>
+<li><a href="oodesign.shtm">OO Design</a>
+<li><a href="opensource.shtm">Open Source</a>
+<li><a href="optimization.shtm">Optimization</a>
+<li><a href="oracle.shtm">Oracle</a>
+<li><a href="os.shtm">OS</a>
+<li><a href="optimization.shtm">Performance</a>
+<li><a href="personaljava.shtm">Personal Java</a>
+<li><a href="plugin.shtm">Plugin</a>
+<li><a href="reflection.shtm">Reflection</a>
+<li><a href="rmi.shtm">RMI</a>
+<li><a href="scientific.shtm">Scientific</a>
+<li><a href="security.shtm">Security</a>
+<li><a href="ser.shtm">Serialization</a>
+<li><a href="servlets.shtm">Servlets</a>
+<li><a href="settopboxes.shtm">Set-top Boxes</a>
+<li><a href="javasdt.shtm">Shared Data Toolkit</a>
+<li><a href="http://www.jdance.com/shop/jshoppe.htm">Shopping</a>
+<li><a href="silverstream.shtm">SilverStream</a>
+<li><a href="sound.shtm">Sound</a>
+<li><a href="stdextensions.shtm">Standard Extensions</a>
+<li><a href="strings.shtm">Strings</a>
+<li><a href="swing.shtm">Swing</a>
+<li><a href="telephony.shtm">Telephony</a>
+<li><a href="threads.shtm">Threads</a>
+<li><a href="topjavabooks.shtm">Top Java Books</a>
+<li><a href="training.shtm">Training</a>
+<li><a href="jts.shtm">Transactions</a>
+<li><a href="jugs.shtm">User Groups</a>
+<li><a href="vaj.shtm">Visual Age for Java</a>
+<li><a href="weblogic.shtm">WebLogic</a>
+<li><a href="websphere.shtm">WebSphere</a>
+<li><a href="wireless.shtm">Wireless</a>
+<li><a href="xml.shtm">XML</a>
+</ul>
+
+</b>
+</td>
+
+
+<td valign=top width=500>
+<table><tr><td bgcolor="#ffffff" valign="top" width="340">
+<FONT size="3"><b>Daily Java News</b></FONT>
+<!--
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+-->
+<script language=JavaScript>
+<!--
+
+document.write("<font size=2>  -  " + mon[now.getMonth()] + "  " + now.getDate() + ", " + 2002 + "</font>")
+
+-->
+</script>
+<font size="2">
+<br><br>
+
+<!--
+&nbsp;&nbsp;&nbsp;&nbsp;See below for new Java book updates<br><br>
+
+&nbsp;&nbsp;What are people saying about JDance? - <a href="sampling.htm">Here's a sampling</a> from all over.<br><br>
+   &nbsp;&nbsp;&nbsp;We're donating  50 Java books to a local public library in the Chicago suburbs. Here's a <a href="booksforpubliclibrary.htm">partial list of the books</a>
+<br><br><i> - Densie &quot;Very Cool&quot; Carlsie - for The Dance Team</i>
+-->
+<ul class="daily">
+
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/1930110596/jshoppe">Java Web Component Developer Certification</a> <a href="javacert.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0201752808/jshoppe">Java Developers Almanac 1.4</a> <a href="java14.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0596002785/jshoppe">Java and XML Data Binding</a> <a href="xml.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0782140912/jshoppe">Java 2 Web Developer Certification</a> <a href="javacert.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0735712344/jshoppe">JXTA: Brendon Wilson</a> <a href="jxta.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0201770040/jshoppe">XML and Java (2nd Ed): Maruyama</a> <a href="xml.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/1930110456/jshoppe">The JDK 1.4 Tutorial</a> <a href="java14.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/1590590309/jshoppe">Java Developer Exam with JDK 1.4</a> <a href="javacert.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0596001843/jshoppe">Ant: The Definitive Guide</a> <a href="apache.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0471213020/jshoppe">Mastering Jakarta Struts</a> <a href="struts.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/073571195X/jshoppe">A Developer's Guide to J2EE Solutions</a> <a href="j2ee.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/193011043X/jshoppe">Bitter Java</a> 
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0201702444/jshoppe">Developing Jini Apps using J2ME</a> <a href="jini.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0201709163/jshoppe">Java Rules</a> 
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0130669113/jshoppe">Core J2ME Technology</a> <a href="j2me.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0596002475/jshoppe">Jython Essentials</a> <a href="jython.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0201743973/jshoppe">Design Patterns Java Workbook</a> <a href="designpatterns.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/1861006217/jshoppe">Professional JSP Tag Libraries</a> <a href="jsptags.shtm" style="text-decoration:none;">&nbsp;&nbsp;&#187;</a>
+
+<br><a href="news.shtm">more...</a>
+
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#jjtw"><font color="brown">Java Jobs(June 18-24)</font></a>-->
+
+</ul>
+</font>
+</td>
+
+
+<td width="160" valign="top" bgcolor="#ccffff">
+
+<font size="1"><b>Top Sites</b></font>
+<font size="2">
+<ul class="topsites">
+<li><a href="http://java.sun.com/">java.sun.com</a>
+<li><a href="http://metalab.unc.edu/java/">Cafe Au Lait</a>
+<li><a href="http://www.javaworld.com">Java World</a>
+<li><a href="http://developer.java.sun.com/developer/">JDC</a>
+<li><a href="http://java.about.com">Focus on Java</a>
+<li><a href="http://www.javalobby.org">Java Lobby</a>
+<li><a href="http://www.ibm.com/developer/java/">DeveloperWorks</a>
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="topsites.shtm">more...</a>
+</ul>
+</font>
+</td>
+
+
+
+
+</tr></table>  
+
+&nbsp;&nbsp;<a href="http://www.jboss.org/jbossgroup/training.jsp" target=_top><img src="jbossad2.gif" width=468 height=60 border=0 alt="JBoss"></a>
+
+<!--
+&nbsp;&nbsp;<a href="http://www-3.ibm.com/e-business/doc/content/lp/securityh.html" target=_top><img src="ibmad15.gif" width=468 height=60 border=0 alt="IBM"></a>
+-->
+
+<br>
+<!--
+<table cellspacing=0 cellpadding=0 align="center" valign="top">
+<tr>
+<td width="200">
+
+<a href="http://www.ibm.com/developer/java/" target=_top>
+<img src="adzze-ibm.gif" height="200" width="200" border="0">
+</a>
+
+</td>
+
+<td bgcolor="#cccccc" valign="top" width="200">
+
+<font size="3"><b>Products/Tools</b></font>
+<ul style="list-style-type:square;font:bold 9pt/24pt Verdana,Arial,Helvetica">
+
+<li><a href="http://www.jdance.com/shop/ejbservers.shtm">EJB Servers</a>
+
+<li><a href="http://www.jdance.com/shop/guis.shtm">GUIs</a>
+
+<li><a href="http://www.jdance.com/shop/ides.shtm">IDEs</a>
+<li><a href="http://www.jdance.com/shop/jdbcdrivers.shtm">JDBC Drivers</a>
+
+</ul>
+
+</td>
+</tr>
+</table>
+-->
+
+<table>
+<tr>
+<td>
+
+<table>
+<tr>
+
+
+<td valign="top" width="365" bgcolor="#cccc99">
+<a name="jjtw"></a>
+<FONT size="3"><b>Java Jobs This Week</b></FONT>
+
+
+<ul class="daily">
+
+<li><a href="http://motorolacareers.com/ufsd/search.cfm?action=detail&uid=40362EA3-858A-11D5-83B7-009027E33E51">Motorola: Mgr (Java) - Libertyville, IL</a>
+<li><a href="http://www.edscareers.com/joblist.html">EDS: Technical Architect - Ottawa, Canada</a>
+<li><a href="http://careers.accenture.com/career_finder_v3.0/search_jobs/sj_display_frame3.cfm?JL=USA&JN=X25&FY=01">Accenture: SW Developer - Minneapolis, MN</a> 
+<li><a href="http://www.sun.com/corp_emp/search.cgi?req=520723">Sun: JFC/Swing Engr (THE SWING TEAM!) - Cupertino, CA</a>
+<li><a href="http://motorolacareers.com/ufsd/search.cfm?action=detail&uid=40362E32-858A-11D5-83B7-009027E33E51">Motorola: Pricipal SW Engr - Schaumburg, IL</a> 
+<li><a href="http://www.edscareers.com/viewjob.html?optlink-view=view-11261&ERFormID=newjoblist&ERFormCode=8.097361342720221">EDS: Sr Project Mgr - Ontario, Canada</a> 
+
+
+<!--&nbsp;&nbsp;&nbsp;-->
+<!--<br><a href="news.shtm">more...</a>-->
+</ul>
+<br>
+
+<i>Contact <a href="mailto:jdteam@yahoo.com">jdteam@yahoo.com</a> to add a listing.</i>
+
+</font>
+
+</td>
+</tr>
+
+<tr>
+<td>
+&nbsp;
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#c0c0c0">
+
+<font face="Georgia" size="3"><b>Popular Channels</b></font>
+<table>
+
+<tr>
+<td>
+
+<ul style="list-style-type:square;font:bold 9pt/18pt Verdana,Arial,Helvetica">
+
+<li><a href="ejb.shtm">EJB</a>
+<li><a href="jdbc.shtm">JDBC</a>
+
+</ul>
+
+</td>
+
+<td>
+<ul style="list-style-type:square;font:bold 9pt/18pt Verdana,Arial,Helvetica">
+
+<li><a href="jfc.shtm">JFC/Swing</a>
+<li><a href="jsp.shtm">JSP</a>
+
+
+</ul>
+
+</td>
+
+<td>
+<ul style="list-style-type:square;font:bold 9pt/18pt Verdana,Arial,Helvetica">
+
+<li><a href="servlets.shtm">Servlets</a>
+<li><a href="xml.shtm">XML</a>
+
+
+</ul>
+
+
+</td>
+</tr>
+</table>
+
+
+</td>
+</tr>
+</table>
+
+
+
+</td>
+
+<td valign="top">
+
+
+<script src="http://rcm.amazon.com/e/cm?t=jshoppe&l=rc1&p=2&o=1" type="text/JavaScript"></script>
+<noscript>
+
+<table border="0" cellpadding="0" cellspacing="0" width="125">
+<tr><td>
+<MAP NAME="boxmap"><AREA SHAPE="RECT" COORDS="18, 263, 105, 274" HREF="http://rcm.amazon.com/e/cm/privacy-policy.html?o=1">
+<AREA COORDS="0,0,10000,10000" HREF="http://www.amazon.com/exec/obidos/redirect-home/jshoppe"></MAP>
+<img src="http://rcm-images.amazon.com/images/G/01/associates/amzn_recommends/gnbox125x275.gif" width="125" height="275" border="0" usemap="#boxmap">
+</td></tr></table>
+
+</noscript>
+<br>
+
+
+&nbsp;&nbsp;<a href="http://jakarta.apache.org/tomcat/index.html"><img src="tomcat.gif"  border="0" align="center"></a>
+<br>
+
+<!--
+<a href=""><img src="smallads-secant2.gif" width="120" border=0></a>
+<br>
+<a href=""><img src="smallads-talarian.gif" border=0 width="120"></a>
+<br>
+<a href=""><img src="smallads-webstart.jpg" border=0 width="120"></a>
+<br>
+<a href=""><img src="smallads-axis.jpg" border=0 width="120"></a>
+<br>
+-->
+
+</td>
+
+
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+<!--
+<font size="2"><i>Contact <a href="mailto:jdteam@yahoo.com">jdteam@yahoo.com</a> to add a listing.</i></font>
+-->
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+<!--
+<a href="http://www.parasoft.com/products/jtest/index.htm">
+<IMG SRC="jtest.gif" BORDER=0 width=468 height=60>
+</a>
+-->
+
+</td>
+</tr>
+</table>
+
+
+<a href="http://www.parasoft.com/products/jtest/index.htm">
+<IMG SRC="jtest.gif" BORDER=0 width=468 height=60>
+</a>
+
+<!--
+<A HREF="/cgi-bin/webads/ads.pl?banner=NonSSI;page=02;zone=B" target=_top>
+<IMG SRC="/cgi-bin/webads/ads.pl?page=02;zone=B" BORDER=0 width=468 height=60>
+</a>
+<br>
+-->
+
+
+<br>
+<!--start of java portal table-->
+<table width=500 id="portal"><tr>
+
+<td width="250" valign="top">
+
+<b><a href="articles.shtm">Articles</a></b>
+
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="servlets-articles.shtm">Servlets</a>
+&nbsp;&nbsp;&nbsp;<a href="jdbc-articles.shtm">JDBC</a>
+&nbsp;&nbsp;&nbsp;<a href="exceptions-articles.shtm">Exceptions</a>
+&nbsp;&nbsp;&nbsp;<a href="jini-articles.shtm">Jini</a>
+&nbsp;&nbsp;&nbsp;<a href="kvm-articles.shtm">KVM</a>
+&nbsp;&nbsp;&nbsp;<a href="table-articles.shtm">Swing Tables</a>
+&nbsp;&nbsp;&nbsp;<a href="dragndrop-articles.shtm">Drag &amp; Drop</a>
+</font>
+</td></tr></table><br>
+
+
+<b><a href="http://www.jdance.com/shop/books.shtm">Books</a></b>
+
+<table><tr><td>
+<font size="2">
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/topjava-books.shtm">Top Java Books</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/jfc-books.shtm">JFC/Swing</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/jini-books.shtm">Jini</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/servlets-books.shtm">Servlets</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/ejb-books.shtm">EJB</a>
+<!--&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/newbooks.shtm">New Books</a>-->
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/javacert-books.shtm">Certification</a>
+</font>
+</td></tr></table><br>
+
+<b><a href="communities.shtm">Communities</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="chat.shtm">Chats &amp; Forums</a>
+&nbsp;&nbsp;&nbsp;<a href="lists.shtm">Mailing Lists</a>
+&nbsp;&nbsp;&nbsp;<a href="newsgroups.shtm">Newsgroups</a>
+&nbsp;&nbsp;&nbsp;<a href="jugs.shtm">User Groups (JUGs)</a>
+<!--&nbsp;&nbsp;&nbsp;<a href="communities.shtm#forums">Forums</a>-->
+
+</font>
+</td></tr></table><br>
+
+
+
+
+
+
+<b><a href="distributedjava.shtm">Distributed Java</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="jini.shtm">Jini</a>
+&nbsp;&nbsp;&nbsp;<a href="javaspaces.shtm">JavaSpaces</a>
+&nbsp;&nbsp;&nbsp;<a href="rmi.shtm">RMI</a>
+&nbsp;&nbsp;&nbsp;<a href="ejb.shtm">EJB</a>
+&nbsp;&nbsp;&nbsp;<a href="corba.shtm">Corba</a>
+&nbsp;&nbsp;&nbsp;<a href="networking.shtm">Networking</a>
+&nbsp;&nbsp;&nbsp;<a href="comm.shtm">Comm</a>
+&nbsp;&nbsp;&nbsp;<a href="jmapi.shtm">Mgt</a>
+
+
+</font>
+</td></tr></table><br>
+
+
+<b><a href="ecommerce.shtm">E-commerce</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="javacommerce.shtm">Java Commerce</a>
+&nbsp;&nbsp;&nbsp;<a href="xml.shtm">XML</a>
+&nbsp;&nbsp;&nbsp;<a href="security.shtm">Security</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/xml.shtm">XML-related Products</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/xml-books.shtm">XML Books</a>
+</font>
+</td></tr></table><br>
+
+<b><a href="enterprise.shtm">Enterprise</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="ejb.shtm">EJB</a>
+&nbsp;&nbsp;&nbsp;<a href="jdbc.shtm">JDBC</a>
+&nbsp;&nbsp;&nbsp;<a href="jts.shtm">Java Transactions</a>
+&nbsp;&nbsp;&nbsp;<a href="jndi.shtm">JNDI</a>
+&nbsp;&nbsp;&nbsp;<a href="corba.shtm">Corba</a>
+&nbsp;&nbsp;&nbsp;<a href="rmi.shtm">RMI</a>
+</font>
+</td></tr></table><br>
+</td>
+
+<td width="250" valign=top>
+<b><a href="mags.shtm">Magazines</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="printmags.shtm">Print/Online</a>
+&nbsp;&nbsp;&nbsp;<a href="onlinemags.shtm">Online</a>
+&nbsp;&nbsp;&nbsp;<a href="oomags.shtm">OO-Related</a>
+&nbsp;&nbsp;&nbsp;<a href="servletsmags.shtm">Servlets</a>
+&nbsp;&nbsp;&nbsp;<a href="ejbmags.shtm">EJB</a>
+&nbsp;&nbsp;&nbsp;<a href="swingmags.shtm">Swing</a>
+&nbsp;&nbsp;&nbsp;<a href="xmlmags.shtm">XML</a>
+</font>
+</td></tr></table><br>
+
+
+<b><a href="media.shtm">Media</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="jmf.shtm">JMF</a>
+&nbsp;&nbsp;&nbsp;<a href="java3d.shtm">Java 3D</a>
+&nbsp;&nbsp;&nbsp;<a href="imaging.shtm">Advanced Imaging</a>
+&nbsp;&nbsp;&nbsp;<a href="sound.shtm">Sound</a>
+&nbsp;&nbsp;&nbsp;<a href="javaspeech.shtm">Speech</a>
+&nbsp;&nbsp;&nbsp;<a href="telephony.shtm">Telephony</a>
+</font>
+</td></tr></table><br>
+
+<b><a href="microjava.shtm">Micro Java</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="embeddedjava.shtm">Embedded Java</a>
+&nbsp;&nbsp;&nbsp;<a href="kvm.shtm">K Virtual Machine</a>
+&nbsp;&nbsp;&nbsp;<a href="javatv.shtm">Java TV</a>
+&nbsp;&nbsp;&nbsp;<a href="javacard.shtm">Java Card</a>
+&nbsp;&nbsp;&nbsp;<a href="javaphone.shtm">Java Phone</a>
+<!--&nbsp;&nbsp;&nbsp;<a href="personaljava.shtm">Personal Java</a>-->
+</font>
+</td></tr></table><br>
+
+
+<b><a href="networking.shtm">Networking</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="networking.shtm">Java Networking</a>
+&nbsp;&nbsp;&nbsp;<a href="jini.shtm">Jini</a>
+&nbsp;&nbsp;&nbsp;<a href="rmi.shtm">RMI</a>
+&nbsp;&nbsp;&nbsp;<a href="corba.shtm">Corba</a>
+&nbsp;&nbsp;&nbsp;<a href="javamail.shtm">Java Mail</a>
+&nbsp;&nbsp;&nbsp;<a href="jms.shtm">JMS</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/networking-books.shtm">Networking Books</a>
+
+</font>
+</td></tr></table><br>
+
+<b><a href="security.shtm">Security</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="security.shtm">Java Security</a>
+&nbsp;&nbsp;&nbsp;<a href="javacrypt.shtm">Cryptography</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/security.shtm">Tools</a>
+&nbsp;&nbsp;&nbsp;<a href="applets.shtm">Applets</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/security-books.shtm">Books on Security</a>
+
+</font>
+</td></tr></table><br>
+
+
+
+<b><a href="serverside.shtm">Server-side</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="servlets.shtm">Servlets</a>
+&nbsp;&nbsp;&nbsp;<a href="jsp.shtm">Java Server Pages</a>
+&nbsp;&nbsp;&nbsp;<a href="jdbc.shtm">JDBC</a>
+&nbsp;&nbsp;&nbsp;<a href="ejb.shtm">EJB</a>
+&nbsp;&nbsp;&nbsp;<a href="rmi.shtm">RMI</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/servlets-books.shtm">Servlets Books</a>
+<!--&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/jdbc-books.shtm">JDBC Books</a>-->
+<!--&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/ejb-books.shtm">EJB Books</a>-->
+
+</font>
+</td></tr></table><br>
+
+</td>
+</tr></table>
+
+<table><tr><td width=570 align="center">
+
+<a href="http://www.parasoft.com/products/jtest/index.htm">
+<IMG SRC="jtest.gif" BORDER=0 width=468 height=60>
+</a>
+
+
+
+<!--
+<IFRAME 
+SRC="http://ad.doubleclick.net/adi/N815.jdance/B20375.3;sz=468x60;ord
+=[timestamp]?" WIDTH=470 HEIGHT=62 MARGINWIDTH=0 MARGINHEIGHT=0 
+HSPACE=0
+VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'>
+<SCRIPT language='JavaScript1.1' SRC
+="http://ad.doubleclick.net/adj/N815.jdance/B20375.3;abr=!ie;sz=468x60;ord
+=[timestamp]?"></SCRIPT>
+<NOSCRIPT>
+<A HREF="http://ad.doubleclick.net/jump/N815.jdance/B20375.3;abr=!ie4;abr
+=!ie5;sz=468x60;ord=[timestamp]?">
+<IMG SRC="http://ad.doubleclick.net/ad/N815.jdance/B20375.3;abr=!ie4;abr
+=!ie5;sz=468x60;ord=[timestamp]?" BORDER=0 WIDTH=468 HEIGHT=60 
+ALT="Click
+Here!">Click Here!</A>
+</NOSCRIPT>
+</IFRAME>
+-->
+
+<!--
+<a href="http://www.optimizeit.com/index.html?AdName=FullJDance&AdSource=http://www.jdance.com" target=_top><img src="optimizeit3.gif" width=468 height=60 border=0 align="center"></a>
+-->
+
+</td></tr></table>
+
+
+<!--start of second java portal table-->
+<table width=500 valign="top"><tr>
+
+<td width="250" valign="top">
+
+<b><a href="faqs.shtm">FAQs</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="servlets.shtm#faqs">Servlets</a>
+&nbsp;&nbsp;&nbsp;<a href="jdbc.shtm#faqs">JDBC</a>
+&nbsp;&nbsp;&nbsp;<a href="ejb.shtm#faqs">EJB</a>
+&nbsp;&nbsp;&nbsp;<a href="jfc.shtm#faqs">JFC/Swing</a><br>
+&nbsp;&nbsp;&nbsp;<a href="jini.shtm#faqs">Jini</a>
+&nbsp;&nbsp;&nbsp;<a href="kvm.shtm#faqs">KVM</a>
+
+</font>
+</td></tr></table><br>
+
+
+<b><a href="freebies.shtm">Freebies</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="freebies.shtm#appservers">App Servers</a>
+&nbsp;&nbsp;&nbsp;<a href="freebies.shtm#components">Applets/Components</a>
+&nbsp;&nbsp;&nbsp;<a href="freebies.shtm#posters">Posters</a>
+&nbsp;&nbsp;&nbsp;<a href="freebies.shtm#seminars">Seminars</a>
+&nbsp;&nbsp;&nbsp;<a href="freebies.shtm#tools">Tools</a>
+
+</font>
+</td></tr></table><br>
+
+
+
+
+<b><a href="gui.shtm">GUIs</a></b>
+<table><tr><td>
+<font size=2 color="#000000">
+&nbsp;&nbsp;&nbsp;<a href="jfc.shtm">JFC/Swing</a>
+&nbsp;&nbsp;&nbsp;<a href="java2d.shtm">Java 2D</a>
+&nbsp;&nbsp;&nbsp;<a href="dragndrop.shtm">Drag &amp; Drop</a><br>
+&nbsp;&nbsp;&nbsp;<a href="java3d.shtm">Java 3D</a>
+&nbsp;&nbsp;&nbsp;<a href="jmf.shtm">Java Media Framework</a>
+&nbsp;&nbsp;&nbsp;<a href="javahelp.shtm">Java Help</a>
+
+</font>
+</td></tr></table><br>
+
+<b><a href="international.shtm">International</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="german.shtm">German</a>
+&nbsp;&nbsp;&nbsp;<a href="japanese.shtm">Japanese</a>
+&nbsp;&nbsp;&nbsp;<a href="italian.shtm">Italian</a>
+&nbsp;&nbsp;&nbsp;<a href="russian.shtm">Russian</a>
+&nbsp;&nbsp;&nbsp;<a href="i18n.shtm">Internationalization</a>
+</font>
+</td></tr></table><br>
+
+
+<b><a href="jobs.shtm">Jobs/Careers</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="jobs.shtm">Java Jobs</a>
+&nbsp;&nbsp;&nbsp;<a href="jobs.shtm#javacompanies">Java-focused Companies</a>
+&nbsp;&nbsp;&nbsp;<a href="jobs.shtm#fortune500">Fortune 500</a>
+&nbsp;&nbsp;&nbsp;<a href="consulting.shtm#javaconsulting">Java Consultancies</a>
+&nbsp;&nbsp;&nbsp;<a href="consulting.shtm#consulting">Consulting Companies</a>
+
+</font>
+</td></tr></table><br>
+
+<b><a href="language.shtm">Language</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="collections.shtm">Collections</a>
+&nbsp;&nbsp;&nbsp;<a href="exceptions.shtm">Exceptions</a>
+&nbsp;&nbsp;&nbsp;<a href="javaio.shtm">I/O</a>
+&nbsp;&nbsp;&nbsp;<a href="i18n.shtm">i18n</a>
+<!--&nbsp;&nbsp;&nbsp;<a href="javanetworking.shtm">Networking</a>-->
+
+&nbsp;&nbsp;&nbsp;<a href="jni.shtm">JNI</a>
+&nbsp;&nbsp;&nbsp;<a href="security.shtm">Security</a>
+&nbsp;&nbsp;&nbsp;<a href="threads.shtm">Threads</a>
+
+&nbsp;&nbsp;&nbsp;<a href="stdextensions.shtm">Standard Extensions</a>
+
+</font>
+</td></tr></table><br>
+</td>
+
+
+<td width="250" valign="top">
+<b><a href="http://www.jdance.com/shop/jshoppe.htm">Shopping</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/guis.shtm">GUI Components</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/ides.shtm">IDEs</a>
+&nbsp;&nbsp;&nbsp;<a href="http://jshoppe.com/jvms.shtm">Runtimes/VMs</a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/compilers.shtm">Compilers</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/books.shtm">Books</a>
+&nbsp;&nbsp;&nbsp;<a href="freebies.shtm">Freebies</a>
+
+
+
+
+</font>
+</td></tr></table><br>
+
+
+<b><a href="http://www.jdance.com/shop/training.shtm">Study/Certification</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="javacert.shtm">Certification</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/training.shtm#ooad">OOA/D</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/training.shtm#ctojava">C/C++ to Java</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/training.shtm#cds">CDs</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/training.shtm#enterprise">Enterprise</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/training.shtm#vaj">Visual Age for Java</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/training.shtm#websphere">WebSphere</a>
+
+</font>
+</td></tr></table><br>
+
+
+<b><a href="topsites.shtm">Top Sites</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="http://metalab.unc.edu/java">Cafe Au Lait</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.javaworld.com">Java World</a>
+&nbsp;&nbsp;&nbsp;<a href="http://java.sun.com">java.sun.com</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.gamelan.com">Gamelan</a>
+&nbsp;&nbsp;&nbsp;<a href="http://java.about.com">Focus on Java</a>
+</font>
+</td></tr></table><br>
+
+
+<b><a href="universaljava.shtm">Universal Java</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="jini.shtm">Jini</a>
+&nbsp;&nbsp;&nbsp;<a href="javaspaces.shtm">JavaSpaces</a>
+&nbsp;&nbsp;&nbsp;<a href="javadmk.shtm">Java DMK</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/jini-books.shtm">Books on Jini</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/jini.shtm">Jini-related Products</a>
+
+
+</font>
+</td></tr></table><br>
+
+<b><a href="upncoming.shtm">Up and Coming</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="javatv.shtm">Java TV</a>
+&nbsp;&nbsp;&nbsp;<a href="javaphone.shtm">Java Phone</a>
+&nbsp;&nbsp;&nbsp;<a href="jmapi.shtm">JMX</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.jdance.com/shop/newbooks.shtm">New Books</a>
+&nbsp;&nbsp;&nbsp;<a href="conferences.shtm#nov">Conferences</a>
+&nbsp;&nbsp;&nbsp;<a href="jobs.shtm">Job/Career Fairs</a>
+
+</font>
+</td></tr></table><br>
+
+<b><a href="web.shtm">Web-enabling</a></b>
+<table><tr><td>
+<font size=2>
+&nbsp;&nbsp;&nbsp;<a href="servlets.shtm">Servlets</a>
+&nbsp;&nbsp;&nbsp;<a href="jsp.shtm">Java Server Pages</a>
+&nbsp;&nbsp;&nbsp;<a href="xml.shtm">XML</a>
+&nbsp;&nbsp;&nbsp;<a href="applets.shtm">Applets</a>
+&nbsp;&nbsp;&nbsp;<a href="jdbc.shtm">JDBC</a>
+&nbsp;&nbsp;&nbsp;<a href="ejb.shtm">EJB</a>
+
+</font>
+</td></tr></table><br>
+
+</td>
+</tr></table>
+
+
+<table><tr>
+<td>
+<i>Comments? Suggestions? Write to the <a href="mailto:jdteam@yahoo.com">jdteam@yahoo.com</a>
+
+<br><br><br>
+<font size="2">Copyright &copy; 1999-2001, JDance.com. All Rights Reserved.
+&nbsp&nbsp;<a href="legal.shtm">Legal</a> | <a href="policy.shtm">Privacy</a>
+</font>
+</td>
+<td align=center width=300>
+<table>
+<tr><td>
+Advertise with
+</td></tr>
+<tr><td>
+<a href="mailto:jdteam@yahoo.com"><img src="jdance.gif" width=160 height=80 border=0></a></td></tr>
+</table>
+</td>
+</tr></table>
+
+<!--<hr>-->
+<table><tr><td width=570 align="center">
+
+<a href="http://www.parasoft.com/products/jtest/index.htm">
+<IMG SRC="jtest.gif" BORDER=0 width=468 height=60>
+</a>
+
+
+<!--
+<IFRAME 
+SRC="http://ad.doubleclick.net/adi/N815.jdance/B20375.4;sz=468x60;ord
+=[timestamp]?" WIDTH=470 HEIGHT=62 MARGINWIDTH=0 MARGINHEIGHT=0 
+HSPACE=0
+VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'>
+<SCRIPT language='JavaScript1.1' SRC
+="http://ad.doubleclick.net/adj/N815.jdance/B20375.4;abr=!ie;sz=468x60;ord
+=[timestamp]?"></SCRIPT>
+<NOSCRIPT>
+<A HREF="http://ad.doubleclick.net/jump/N815.jdance/B20375.4;abr=!ie4;abr
+=!ie5;sz=468x60;ord=[timestamp]?">
+<IMG SRC="http://ad.doubleclick.net/ad/N815.jdance/B20375.4;abr=!ie4;abr
+=!ie5;sz=468x60;ord=[timestamp]?" BORDER=0 WIDTH=468 HEIGHT=60 
+ALT="Click
+Here!">Click Here!</A>
+</NOSCRIPT>
+</IFRAME>
+-->
+
+
+<!--
+<a href="http://www.cruelworld.com/java/default.asp?FromAd=JW04030001" target=_top><img src="cruelworld1.gif" width=468 height=60 border=0 alt="Click Here for Cruel World"></a>
+-->
+<!--
+<a href="http://www.klgroup.com/jdance"><img src="jclass-march1.gif" width=468 height=60 border=0 align="center"></a>
+-->
+</td></tr></table>
+
+<!--
+<table><tr><td width=570 align="center">
+<a href="http://www.klgroup.com/jdance"><img src="jprobe1.gif" width=468 height=60 border=0 align="center"></a>
+</td></tr></table>
+-->
+<br><br>
+<table bgcolor="#ffcc99" cellspacing=0 cellpadding=0 border=0 align=center>
+<tr>
+<td>
+<h3><font size="3"><u>Java Shopping Links - JShoppe.com</u></font></h3>
+<!--<h3>Java Shopping Links - JShoppe.com</h3>-->
+<h4>Shopping Channels</h4>
+</td>
+
+<td>&nbsp;</td>
+
+</tr>
+<tr>
+<td width=200>
+<b>
+<ul>
+<li><a href="http://www.jdance.com/shop/agents.shtm">Agents</a>
+<li><a href="http://www.jdance.com/shop/applets.shtm">Applets</a>
+<li><a href="http://www.jdance.com/shop/appservers.shtm">Application Servers</a>
+<li><a href="http://www.jdance.com/shop/books.shtm">Books</a>
+<li><a href="http://www.jdance.com/shop/business.shtm">Business</a>
+<li><a href="http://www.jdance.com/shop/calendars.shtm">Calendars</a>
+<li><a href="http://www.jdance.com/shop/chats.shtm">Chat</a>
+<li><a href="http://www.jdance.com/shop/obfuscators.shtm">Code Obfuscators</a>
+<li><a href="http://www.jdance.com/shop/optimizers.shtm">Code Optimizers</a>
+<li><a href="http://www.jdance.com/shop/compilers.shtm">Compilers</a>
+<li><a href="http://www.jdance.com/shop/components.shtm">Components</a>
+<li><a href="http://www.jdance.com/shop/corba.shtm">Corba</a>
+<li><a href="http://www.jdance.com/shop/datavisualization.shtm">Data Visualization</a>
+<li><a href="http://www.jdance.com/shop/debugging.shtm">Debugging</a>
+<li><a href="http://www.jdance.com/shop/decompilers.shtm">Decompilers</a>
+<li><a href="http://www.jdance.com/shop/defecttracking.shtm">Defect Tracking</a>
+<li><a href="http://www.jdance.com/shop/documentation.shtm">Documentation</a>
+<li><a href="http://www.jdance.com/shop/documentmgt.shtm">Document Management</a>
+<li><a href="http://www.jdance.com/shop/ecommerce.shtm">E-commerce</a>
+<li><a href="http://www.jdance.com/shop/ejb.shtm">EJB</a>
+<li><a href="http://www.jdance.com/shop/ejb.shtm">EJB Development Tools</a>
+<li><a href="http://www.jdance.com/shop/ejbservers.shtm">EJB Servers</a>
+<li><a href="http://www.jdance.com/shop/embeddabledbs.shtm">Embeddable Databases</a>
+<li><a href="http://www.jdance.com/shop/embeddedjava.shtm">Embedded Java</a>
+<li><a href="http://www.jdance.com/shop/engineering.shtm">Engineering/Scientific</a>
+<li><a href="freebies.shtm">Freebies</a>
+<li><a href="http://www.jdance.com/shop/graphics2d.shtm">Graphics 2D</a>
+<li><a href="http://www.jdance.com/shop/graphics3d.shtm">Graphics 3D</a>
+<li><a href="http://www.jdance.com/shop/charts.shtm">GUIs - Charts</a>
+<li><a href="http://www.jdance.com/shop/dbawarecomponents.shtm">GUIs - Database-aware</a>
+<li><a href="http://www.jdance.com/shop/layouts.shtm">GUIs - Layouts</a>
+<li><a href="http://www.jdance.com/shop/math.shtm">GUIs - Math/Financial</a>
+<li><a href="http://www.jdance.com/shop/printing.shtm">GUIs - Printing</a>
+<li><a href="http://www.jdance.com/shop/spreadsheets.shtm">GUIs - Spreadsheets</a>
+<li><a href="http://www.jdance.com/shop/tabbedpanes.shtm">GUIs - Tabbed Panes</a>
+<li><a href="http://www.jdance.com/shop/tables.shtm">GUIs - Tables</a>
+<li><a href="http://www.jdance.com/shop/textcomponents.shtm">GUIs - Text</a>
+<li><a href="http://www.jdance.com/shop/trees.shtm">GUIs - Trees</a>
+<li><a href="http://www.jdance.com/shop/industrycomponents.shtm">GUIs - Process Control</a>
+<li><a href="http://www.jdance.com/shop/help.shtm">Help Tools</a>
+
+<li><a href="http://www.jdance.com/shop/ides.shtm">IDEs</a>
+<li><a href="http://www.jdance.com/shop/ideaddons.shtm">IDE Add-ons</a>
+<li><a href="http://www.jdance.com/shop/imaging.shtm">Imaging</a>
+<li><a href="http://www.jdance.com/shop/infobus.shtm">Infobus</a>
+<li><a href="http://www.jdance.com/shop/installationtools.shtm">Installation Tools</a>
+<li><a href="http://www.jdance.com/shop/i18n.shtm">Internationalization</a>
+<li><a href="http://www.jdance.com/shop/javabeans.shtm">JavaBeans</a>
+
+<br><br><br>
+</ul>
+</b>
+</td>
+<td valign=top width=200>
+<b>
+<ul>
+<li><a href="http://www.jdance.com/shop/javacard.shtm">Java Card</a>
+<li><a href="http://www.jdance.com/shop/jfc.shtm">Java Foundation Classes</a>
+<li><a href="http://www.jdance.com/shop/jsp.shtm">Java Server Pages</a>
+<li><a href="http://www.jdance.com/shop/jdbc.shtm">JDBC</a>
+<li><a href="http://www.jdance.com/shop/caching.shtm">JDBC Caching</a>
+<li><a href="http://www.jdance.com/shop/connectionpools.shtm">JDBC Connection Pools</a>
+<li><a href="http://www.jdance.com/shop/jdbcdrivers.shtm">JDBC Drivers</a>
+<li><a href="http://www.jdance.com/shop/jini.shtm">Jini</a>
+<li><a href="http://www.jdance.com/shop/jvms.shtm">JVMs/Runtimes</a>
+<li><a href="http://www.jdance.com/shop/legacy.shtm">Legacy</a>
+<li><a href="http://www.jdance.com/shop/linux.shtm">Linux</a>
+<li><a href="http://www.jdance.com/shop/maps.shtm">Maps/GIS</a>
+<li><a href="http://www.jdance.com/shop/mgrtools.shtm">Managerial Tools</a>
+<li><a href="http://www.jdance.com/shop/math.shtm">Math</a>
+<li><a href="http://www.jdance.com/shop/messaging.shtm">Messaging</a>
+<li><a href="http://www.jdance.com/shop/mobileagents.shtm">Mobile Agents</a>
+<li><a href="http://www.jdance.com/shop/modelingtools.shtm">Modeling Tools</a>
+<li><a href="http://www.jdance.com/shop/multimedia.shtm">Multimedia</a>
+<li><a href="http://www.jdance.com/shop/nativecodecompilers.shtm">Native Code Compilers</a>
+<li><a href="http://www.jdance.com/shop/oodatabases.shtm">OO Databases</a>
+<li><a href="http://www.jdance.com/shop/orbs.shtm">ORBs</a>
+<li><a href="http://www.jdance.com/shop/palmpilot.shtm">Palm Pilot</a>
+<li><a href="http://www.jdance.com/shop/printing.shtm">Printing</a>
+<li><a href="http://www.jdance.com/shop/profiling.shtm">Profiling Tools</a>
+<li><a href="http://www.jdance.com/shop/projectmgmt.shtm">Project Management</a>
+<li><a href="http://www.jdance.com/shop/push.shtm">Push Technologies</a>
+
+
+<li><a href="http://www.jdance.com/shop/reporting.shtm">Reporting Tools</a>
+<li><a href="http://www.jdance.com/shop/rmi.shtm">RMI</a>
+<li><a href="http://www.jdance.com/shop/salesautomation.shtm">Sales Automation</a>
+<li><a href="http://www.jdance.com/shop/security.shtm">Security</a>
+<li><a href="http://www.jdance.com/shop/servlets.shtm">Servlets</a>
+<li><a href="http://www.jdance.com/shop/servletengines.shtm">Servlets - Servlet Engines</a>
+<li><a href="http://www.jdance.com/shop/servlets.shtm">Servlets - Utility Classes</a>
+<li><a href="http://www.jdance.com/shop/streaming.shtm">Streaming Audio/Video</a>
+<li><a href="http://www.jdance.com/shop/jfc.shtm">Swing</a>
+<li><a href="http://www.jdance.com/shop/testing.shtm">Testing Tools</a>
+<li><a href="http://www.jdance.com/shop/transactions.shtm">Transactions</a>
+<li><a href="http://www.jdance.com/shop/uml.shtm">UML</a>
+
+<li><a href="http://www.jdance.com/shop/versioncontrol.shtm">Version Control</a>
+<li><a href="http://www.jdance.com/shop/voicerecognition.shtm">Voice Recognition</a>
+<li><a href="http://www.jdance.com/shop/webservers.shtm">Web Servers</a>
+<li><a href="http://www.jdance.com/shop/servletwebservers.shtm">Web Servers - Servlets</a>
+<li><a href="http://www.jdance.com/shop/webtolegacy.shtm">Web-to-Legacy</a>
+<li><a href="http://www.jdance.com/shop/xml.shtm">XML</a>
+<li><a href="http://www.jdance.com/shop/ziptools.shtm">Zip/Unzip Tools</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>
+</ul>
+</b>
+</td>
+</tr>
+</table>
+<br>
+<!-- BEGIN LINKEXCHANGE CODE --> 
+<center><iframe src="http://leader.linkexchange.com/1/X1223927/showiframe?" width=468 height=60 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no>
+<a href="http://leader.linkexchange.com/1/X1223927/clickle" target="_top"><img width=468 height=60 border=0 ismap alt="" src="http://leader.linkexchange.com/1/X1223927/showle?"></a></iframe><br><a href="http://leader.linkexchange.com/1/X1223927/clicklogo" target="_top"><img src="http://leader.linkexchange.com/1/X1223927/showlogo?" width=468 height=16 border=0 ismap alt=""></a><br></center>
+<!-- END LINKEXCHANGE CODE -->
+
+</td>
+
+<td valign=top align=left width=150>
+
+<!--
+<A HREF="/cgi-bin/webads/ads.pl?banner=NonSSI;page=03;zone=X" target=_top>
+<IMG SRC="/cgi-bin/webads/ads.pl?page=03;zone=X" BORDER=0 width=120 height=600>
+</a>
+-->
+
+<a href="http://www.palm.com/products/palmi705/" target=_top>
+<img src="/cgi-local/axs/ax.pl?http://www.jdance.com/palmadz1.gif" width=120 height=600 border=0>
+</a>
+
+<!--
+<a href="http://www.palm.com/products/palmi705/" target=_top><img src="palmadz1.gif" width=120 height=600 border=0></a>
+-->
+
+<!--
+<a href="http://www.capeclear.com/products/index.shtml" target=_top><img src="capeclearads1.gif" width=125 height=125 border=0></a>
+<br><br>
+<a href="http://www.breezefactor.com/" target=_top><img src="breeze2.gif" width=125 height=125 border=0></a>
+<br><br>
+<a href="http://www.lutris.com/products/index.html" target=_top><img src="enhydra2.gif" width=125 height=125 border=0></a>
+<br><br>
+-->
+<!--
+<a href="http://www.sybase.com/products/mobilewireless" target=_top><img src="ianywhereads1.gif" width=125 height=125 border=0></a>
+<br><br>
+-->
+<!--
+<a href="http://www.sun.com/forte/ffj/buy.html" target=_top><img src="sunadze2.gif" width=125 border=0></a>
+<br><br>
+-->
+
+<!--
+<A HREF="/cgi-bin/webads/ads.pl?banner=NonSSI;page=26;zone=Z" target=_top>
+<IMG SRC="/cgi-bin/webads/ads.pl?page=26;zone=Z" BORDER=0 width=125 height=125>
+</a>
+<br><br>
+-->
+<!--
+<table width=125 height=125 border=0 valign="top">
+<tr><td valign="middle" bgcolor="#d8bfd8">
+<font face="Arial,Helvetica" size="1">
+<b>
+<dl>
+<dt><a href="jbuilder.shtm">JBuilder</a>
+<dt>&nbsp;
+<dt><a href="oracle.shtm">Oracle</a>
+<dt>&nbsp;
+<dt><a href="weblogic.shtm">WebLogic</a>
+<dt>&nbsp;
+<dt><a href="websphere.shtm">WebSphere</a>
+</dl>
+</b>
+</font>
+</td></tr></table>
+
+<br><br>
+-->
+
+<!--
+<a href="http://www.enterprisedeveloper.com/jcertify"><img src="jcertify2.gif" width=125 height=125 border=0></a>
+<br><br>
+<a href="http://www.elixirtech.com"><img src="elixir2.gif" width=125 height=125 border=0></a>
+<br>
+<table width=125 height=125 border=0 valign="top">
+<tr><td valign="middle" bgcolor="#d8bfd8">
+<font face="Arial,Helvetica" size="1">
+<b>
+<dl>
+<dt><a href="jrun.shtm">JRun</a>
+<dt>&nbsp;
+<dt><a href="silverstream.shtm">SilverStream</a>
+<dt>&nbsp;
+<dt><a href="vaj.shtm">Visual Age for Java</a>
+
+</dl>
+</b>
+</font>
+</td></tr></table>
+<br>
+<a href=http://www.javalobby.org><img border=0 src="javalobby1.gif" width=125 height=125></a>
+
+
+-->
+</td>
+
+</tr>
+</table>
+
+</body>
+</html>

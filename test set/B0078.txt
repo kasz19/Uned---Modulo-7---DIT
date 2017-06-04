@@ -1,0 +1,1550 @@
+ID=B0078
+URL=http://www.portman.co.uk/servlet/File/site/mortgages/05purchase/20faq.html:he
+SIZE=91866
+DATE=28/06/2002
+TIME=12:47:17
+DATASET=Building Societies
+HTML=<html>
+
+<head><META NAME="keywords" CONTENT=" UK Mortgage, uk mortgage, Mortgage Lender, mortgage lender, Mortgage Broker, mortgage broker, Mortgage Provider, mortgage provider, Fixed Rate, fixed rate, Discount Rate, discount rate, Capped Rate, capped rate, Tracker, tracker, Base Rate Tracker, base rate tracker, Remortgage, remortgage, Flexible Mortgages, flexible mortgages, Home Loan, home loan, Mortgage Loan, mortgage loan, Borrowing Money, borrowing money, Online Mortgage Application, online mortgage application, Moving Home, moving home, Mortgage Products, mortgage products, Home Improvement Loan, home improvement loan,  Financial Advice, financial advice, Interest Rate, interest rate, House for sale, house for sale, Loan calculator, Loan payment calculator, loan payment calculator, Unsecured personal loan, unsecured personal loan, Portman, portman, Portman Building Society, portman building society, Mutuality, mutuality,UK Building Society, uk building society, Mortgages, mortgages, Savings, savings, Savings Account, savings account, Mortgage Calculator, mortgage calculator, Best Mortgage Rate, best mortgage rate, Internet Banking, internet banking, Banking Online, banking online, Online Bank, online bank, UK Banks, uk banks”">
+<META NAME="GENERATOR" CONTENT="Microsoft FrontPage 4.0">
+<META NAME="ProgId" CONTENT="FrontPage.Editor.Document">
+<META NAME="description" CONTENT="A helpful list of frequently asked questions.">
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Questions & Answers</title>
+
+<LINK REL="stylesheet" TYPE="text/css" HREF="/portman.css">
+
+<script language="javascript">
+<!--
+mac_style = "/portmanmac.css";
+def_style = "/portman.css";
+if((navigator.appVersion.indexOf("Mac")!= -1) && (navigator.userAgent.substring(25,29) != "MSIE")){
+   document.write("<link rel='stylesheet' href='" + mac_style + "' type='text/css'>");
+}
+else{
+   document.write("<link rel='stylesheet' href='" + def_style + "' type='text/css'>");
+}
+//-->
+</script>
+
+</head>
+
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bgcolor="#FFFFFF">
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+MM_preloadImages('/images/top_nav/about_us_over.gif','/images/top_nav/newsroom_over.gif','/images/top_nav/careers_over.gif','/images/top_nav/rates_over.gif','/images/top_nav/share_over.gif','/images/top_nav/news_over.gif','/images/top_nav/legal_over.gif','/images/top_nav/privacy_over.gif','/images/top_nav/contact_over.gif','/images/top_nav/top_nav_mort_over.gif','/images/top_nav/top_nav_sav_over.gif','/images/top_nav/top_nav_ins_over.gif','/images/top_nav/top_nav_plan_over.gif','/images/top_nav/top_nav_share_over.gif','/images/top_nav/top_nav_help_over.gif');
+//-->
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr align="left"> 
+    <td><img src="/images/spacer.gif" width="10" height="8"></td>
+    <td><a href="/servlet/File/site/about" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about','','/images/top_nav/about_us_over.gif',1)"><img name="about" border="0" src="/images/top_nav/about_us.gif" width="54" height="15" alt="About Us"></a></td>
+    <td><img src="/images/spacer.gif" width="20" height="1"></td>
+    <td><a href="/servlet/File/site/newsroom" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('newsroom','','/images/top_nav/newsroom_over.gif',1)"><img name="newsroom" border="0" src="/images/top_nav/newsroom.gif" alt="Newsroom" width="61" height="15"></a></td>
+    <td><img src="/images/spacer.gif" width="20" height="1"></td>
+	<td><a href="/servlet/File/site/careers" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('careers','','/images/top_nav/careers_over.gif',1)"><img name="careers" border="0" src="/images/top_nav/careers.gif" width="45" height="15" alt="Careers"></a></td>
+	<td><img src="/images/spacer.gif" width="20" height="1"></td>
+    <td><a href="/servlet/File/site/savings/15rates" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('rates','','/images/top_nav/rates_over.gif',1)"><img name="rates" border="0" src="/images/top_nav/rates.gif" width="33" height="15" alt="Rates"></a></td>
+	<td><img src="/images/spacer.gif" width="20" height="1"></td>
+    <td><a href="/servlet/File/site/legal" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('legal','','/images/top_nav/legal_over.gif',1)"><img name="legal" border="0" src="/images/top_nav/legal.gif" alt="Site Terms" width="59" height="15"></a></td>
+	<td><img src="/images/spacer.gif" width="20" height="1"></td>
+    <td><a href="/servlet/File/site/privacy" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('privacy','','/images/top_nav/privacy_over.gif',1)"><img name="privacy" border="0" src="/images/top_nav/privacy.gif" width="43" height="15" alt="Privacy"></a></td>
+	<td><img src="/images/spacer.gif" width="20" height="1"></td>
+    <td><a href="/servlet/File/site/contact" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','/images/top_nav/contact_over.gif',1)"><img name="contact" border="0" src="/images/top_nav/contact.gif" width="61" height="15" alt="Contact Us"></a></td>
+    <td><img src="/images/spacer.gif" width="10" height="8"></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td bgcolor="#006633"><img src="/images/top_nav/portman_co_uk.gif" width="310" height="50" alt="www.portman.co.uk"></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr><td><img src="/images/top_nav/green_bottom.gif" width="14" height="24"></td><td><a 
+  href="/servlet/File/site/mortgages" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('mortgages','','/images/top_nav/top_nav_mort_over.gif',1)"><img name="mortgages" border="0" src="/images/top_nav/top_nav_mort.gif" width="74" height="24" alt="Mortgages"></a></td>
+    <td><a href="/servlet/File/site/savings" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('savings','','/images/top_nav/top_nav_sav_over.gif',1)"><img name="savings" border="0" src="/images/top_nav/top_nav_sav.gif" width="58" height="24" alt="Savings"></a></td>
+    <td><a href="/servlet/File/site/insurance" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('insurance','','/images/top_nav/top_nav_ins_over.gif',1)"><img name="insurance" border="0" src="/images/top_nav/top_nav_ins.gif" width="69" height="24" alt="Insurance"></a></td>
+    <td><a href="/servlet/File/site/planning" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('planning','','/images/top_nav/top_nav_plan_over.gif',1)"><img name="planning" border="0" src="/images/top_nav/top_nav_plan.gif" width="62" height="24" alt="Planning"></a></td>
+    <td><a href="/servlet/File/site/sharedealing" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sharedealing','','/images/top_nav/top_nav_share_over.gif',1)"><img name="sharedealing" border="0" src="/images/top_nav/top_nav_share.gif" width="89" height="24" alt="Sharedealing"></a></td>
+    <td><img name="help" border="0" src="/images/top_nav/top_nav_help_over.gif" width="85" height="24" alt="Help Yourself"></td>
+    <td width="100%" background="/images/top_nav/green_bottom.gif"><img src="/images/spacer.gif" width="30" height="8"></td>
+    <td><img src="/images/top_nav/search.gif" width="54" height="24" alt="Search"></td>
+    <td bgcolor="#66CC00" nowrap>
+<table border="0" cellspacing="0" cellpadding="0"><form method="get" action="/servlet/Search">
+  <tr>
+    <td bgcolor="#66CC00" nowrap><input type="text" name="search" size="20" maxlength="40">
+      <img src="/images/spacer.gif" width="1" height="8"></td>
+    <td><input border="0" src="/images/top_nav/go.gif" name="searchbutton" type="image" width="34" height="24" alt="GO!"></td>
+  </tr></form>
+</table>
+</td>
+  </tr>
+</table>
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0"><TR><TD><IMG SRC="/images/spacer.gif" WIDTH="14" HEIGHT="25"></TD><TD WIDTH="100%">&gt; <A class="bread" HREF="http://www.portman.co.uk/servlet/Homepage">Home</A> &gt; <A class="bread" HREF="http://www.portman.co.uk/servlet/File/site/help">Help Yourself</A> &gt; <A class="bread" HREF="http://www.portman.co.uk/servlet/File/site/help/20qanda">Questions & Answers</A> &gt; <A class="bread" HREF="http://www.portman.co.uk/servlet/File/site/mortgages/05purchase/20faq.html:he">Mortgages</A> </TD><TD><IMG SRC="/images/spacer.gif" WIDTH="14" HEIGHT="25"></TD></TR></TABLE><TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0"><TR VALIGN="top"><TD><IMG SRC="/images/spacer.gif" WIDTH="14" HEIGHT="25"></TD><TD>
+<table border="0" cellspacing="0" cellpadding="0" width="152">
+  <tr>
+    <td><img src="/images/spacer.gif" width="1" height="1"></td>
+    <td><img src="/images/spacer.gif" width="11" height="1"></td>
+    <td><img src="/images/spacer.gif" width="8" height="1"></td>
+    <td><img src="/images/spacer.gif" width="131" height="1"></td>
+    <td><img src="/images/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr>
+    <td colspan="5"><a href="/servlet/File/site/help"><img border="0" src="/images/side_nav/title_he.gif" alt="Help Yourself" width="152" height="32"></a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+    <td valign="top">
+      <img src="/images/spacer.gif" width="1" height="3"><br>
+      <img src="/images/side_nav/side_nav_03.gif" width="11" height="11"></td>
+    <td colspan="2">
+      <img src="/images/spacer.gif" width="1" height="3"><a class="lhnhe2" href="/servlet/File/site/help/05calculators"><br>
+      Calculators</a><br>
+      <img src="/images/spacer.gif" width="1" height="3"></td>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+  </tr><tr>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+    <td valign="top">
+      <img src="/images/spacer.gif" width="1" height="3"><br>
+      <img src="/images/side_nav/side_nav_03.gif" width="11" height="11"></td>
+    <td colspan="2">
+      <img src="/images/spacer.gif" width="1" height="3"><a class="lhnhe2" href="/servlet/File/site/help/10apply"><br>
+      Apply Now</a><br>
+      <img src="/images/spacer.gif" width="1" height="3"></td>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+  </tr><tr>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+    <td valign="top">
+      <img src="/images/spacer.gif" width="1" height="3"><br>
+      <img src="/images/side_nav/side_nav_03.gif" width="11" height="11"></td>
+    <td colspan="2">
+      <img src="/images/spacer.gif" width="1" height="3"><a class="lhnhe2" href="/servlet/File/site/help/15jargon"><br>
+      Jargon Buster</a><br>
+      <img src="/images/spacer.gif" width="1" height="3"></td>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+  </tr><tr bgcolor="#993333">
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+    <td valign="top" bgcolor="#006633">
+      <img src="/images/spacer.gif" width="1" height="3"><br>
+      <img src="/images/side_nav/2_he.gif" width="11" height="11"></td>
+    <td colspan="2" bgcolor="#006633">
+      <img src="/images/spacer.gif" width="1" height="3"><a class="lhnhe2o" href="/servlet/File/site/help/20qanda"><br>
+      Questions & Answers</a><br>
+      <img src="/images/spacer.gif" width="1" height="3"></td>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+  </tr><tr>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+    <td valign="top" bgcolor="#33CC00"><img src="/images/side_nav/side_nav_20.gif" width="11" height="14"></td>
+    <td bgcolor="#33CC00" colspan="2"><a class="lhnhe3o" href="/servlet/File/site/mortgages/05purchase/20faq.html:he">Mortgages</a></td>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+  </tr><tr>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+    <td valign="top"><img src="/images/side_nav/side_nav_17.gif" width="11" height="14"></td>
+    <td colspan="2"><a class="lhnhe3" href="/servlet/File/site/savings/25qanda.html:he">Savings</a></td>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+  </tr><tr>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+    <td valign="top"><img src="/images/side_nav/side_nav_17.gif" width="11" height="14"></td>
+    <td colspan="2"><a class="lhnhe3" href="/servlet/File/site/help/20qanda/15insurance.html">Insurance</a></td>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+  </tr><tr>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+    <td valign="top"><img src="/images/side_nav/side_nav_17.gif" width="11" height="14"></td>
+    <td colspan="2"><a class="lhnhe3" href="/servlet/File/site/careers/15qanda.html:he">A Career with the Portman</a></td>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+  </tr><tr>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+    <td valign="top"><img src="/images/side_nav/side_nav_17.gif" width="11" height="14"></td>
+    <td colspan="2"><a class="lhnhe3" href="/servlet/File/site/help/20qanda/90mutuality.html">Mutuality</a></td>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+  </tr><tr>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+    <td valign="top">
+      <img src="/images/spacer.gif" width="1" height="3"><br>
+      <img src="/images/side_nav/side_nav_03.gif" width="11" height="11"></td>
+    <td colspan="2">
+      <img src="/images/spacer.gif" width="1" height="3"><a class="lhnhe2" href="/servlet/File/site/help/25finder:he"><br>
+      Branch Finder</a><br>
+      <img src="/images/spacer.gif" width="1" height="3"></td>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+  </tr><tr>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+    <td valign="top">
+      <img src="/images/spacer.gif" width="1" height="3"><br>
+      <img src="/images/side_nav/side_nav_03.gif" width="11" height="11"></td>
+    <td colspan="2">
+      <img src="/images/spacer.gif" width="1" height="3"><a class="lhnhe2" href="/servlet/SiteMap"><br>
+      Site Index</a><br>
+      <img src="/images/spacer.gif" width="1" height="3"></td>
+    <td bgcolor="#006633"><img src="/images/spacer.gif" width="1" height="3"></td>
+  </tr><tr>
+    <td colspan="5"><img src="/images/side_nav/btm_he.gif" width="152" height="14"></td>
+  </tr>
+  <tr>
+    <td colspan="5"><img border="0" src="/images/spacer.gif" width="15" height="15"></td>
+  </tr>
+</table>
+</TD><TD><IMG SRC="/images/spacer.gif" WIDTH="25" HEIGHT="20"></TD><TD WIDTH="100%">
+<table border=" cellspacing="0" cellpadding="0" 0">
+</head>
+
+meta name="copyright" content="Portman Building Society">
+<table>
+  <tr>
+    <td width="100%">
+<p>
+<img border="0" src="/images/titles/mort_qna.gif" alt="Questions and Answers" width="380" height="40"><br>
+<img class="titlespacer" border="0" src="/images/spacer.gif" width="1" height="5"><br>
+We hope this section is useful to you, however if you have a question
+that is not included here, simply click on to our <b>contact us </b>page and tell us
+what you need to know. To make it easier, we have separated our Q&amp;A into
+four sections, simply click on the link relating to your question to find out
+more.
+</p>
+
+<p><a href="#aplic">Applications/ Lending Policy</a>
+</p>
+
+<p><a href="#ins">Insurance</a>
+</p>
+
+<p><a href="#admin">Administration</a>
+</p>
+
+<p><a href="#red">Redemption</a>
+</p>
+
+<a name="aplic"></a><p class="iph">Applications/ Lending Policy</p>
+<ul>
+  <li><a href="#a">What is the maximum term over which you will lend money?</a></li>
+  <li><a href="#b">What is the maximum age for a new borrower?</a></li>
+  <li><a href="#c">Will you advise me which mortgage will best suit my requirements?</a></li>
+  <li><a href="#d">Does the Portman lend on 'buy to let' property?</a></li>
+  <li><a href="#e">Does the Portman consider mortgages on commercial property?</a></li>
+  <li><a href="#f">Which properties are suitable for a mortgage?</a></li>
+  <li><a href="#g">How much can I borrow?</a></li>
+  <li><a href="#h">Can you help me to calculate my monthly budget?</a></li>
+  <li><a href="#i">What happens if interest rates rise?</a></li>
+  <li><a href="#j">What is the maximum percentage you will lend relative to the purchase price?</a></li>
+  <li><a href="#k">What is a Fixed Rate Mortgage?</a></li>
+  <li><a href="#l">What is a Discounted Rate Mortgage?</a></li>
+  <li><a href="#m">What is a Capped Rate Mortgage?</a></li>
+  <li><a href="#n">What is a Cashback Mortgage?</a></li>
+  <li><a href="#o">What is a Tracker Mortgage?</a></li>
+  <li><a href="#p">What references and credit checks do you carry out?</a></li>
+  <li><a href="#q">What is a Mortgage Risk Fee?</a></li>
+  <li><a href="#r">What are the costs of getting a mortgage?</a></li>
+  <li><a href="#s">What is the difference between a Valuation and a Survey?</a></li>
+  <li><a href="#t">What does the Portman charge for Home Buyer's Report and Valuation?</a></li>
+  <li><a href="#u">What is stamp duty?</a></li>
+  <li><a href="#v">What is the Mortgage Code?</a></li>
+  <li><a href="#w">Can I apply for a mortgage on the internet?</a></li>
+  <li><a href="#x">What is an &quot;Offer of Advance&quot;?</a></li>
+  <li><a href="#wddi">What documents do I need to take to the mortgage
+    interview?</a></li>
+  <li><a href="#y">What fees do I have to pay when taking out my mortgage?</a></li>
+</ul>
+
+<a name="ins"></a><p class="iph">Insurance
+</p>
+
+<ul>
+  <li><a href="#z">Can you arrange my buildings and contents insurance?</a></li>
+  <li><a href="#a1">Can you arrange my accident, sickness and unemployment insurance?</a></li>
+  <li><a href="#b1">Can you arrange my life assurance?</a>
+  </li>
+</ul>
+
+<a name="admin"></a><p class="iph">Administration</p>
+
+<ul>
+  <li><a href="#c1">What is the difference between annual rest loans and monthly rest loans?</a></li>
+  <li><a href="#d1">Can I make a lump sum repayment (capital repayment) on my mortgage?</a></li>
+  <li><a href="#e1">Can I borrow more money in the future?</a></li>
+  <li><a href="#f1">Can I change the method of repaying my mortgage?</a></li>
+  <li><a href="#g1">My mortgage has just completed. Why is my first payment so low?</a></li>
+  <li><a href="#h1">I make my payments by direct debit - can I change the payment date?</a></li>
+  <li><a href="#i1">What are the different methods of repaying the mortgage?</a></li>
+  <li><a href="#j1">Do I receive any tax relief on my mortgage?</a></li>
+  <li><a href="#k1">What happens if I lose my job?</a></li>
+  <li><a href="#l1">What ongoing charges might apply to my mortgage?</a></li>
+  <li><a href="#m1">What charges do you make when a borrower goes into arrears?</a></li>
+  <li><a href="#n1">How do I make a complaint?</a></li>
+  <li><a href="#o1">How do you notify people of changes to your standard 
+  variable rate?</a></li>
+  <li><a href="#p1">Do I receive a 'Mortgage Statement'?</a></li>
+  <li><a href="#r1">How long will it take for my mortgage to complete?</a></li>
+  <li><a href="#s1">I pay my mortgage by direct debit, if I make overpayments can these be collected on the same direct debit?</a></li>
+  <li><a href="#t1">How is the interest on my mortgage calculated?</a></li>
+  <li><a href="#u1">Can I change my mortgage from Interest Only to a Repayment mortgage (or vice
+versa)?</a></li>
+  <li><a href="#v1">Can I change the term of my mortgage?</a></li>
+  <li><a href="#w1">I have completed my mortgage and I now wish to let, what do I do?</a></li>
+  <li><a href="#x1">I am due to complete tomorrow, when is my first payment due?</a></li>
+  <li><a href="#y1">What is accrued interest and when do I have to pay it?</a>
+  </li>
+  <li><a href="#solicitor">Can Portman recommend a solicitor?</a>
+  </li>
+</ul>
+
+<a name="red"></a><p class="iph">Redemption</p>
+
+<ul>
+  <li><a href="#z1">What happens to my deeds when I have paid off my mortgage?</a></li>
+  <li><a href="#a2">I have made a payment after redeeming my mortgage. Will this be refunded?</a></li>
+  <li><a href="#b2">Is my mortgage subject to a Repayment Fee?</a></li>
+  <li><a href="#c2">What if I move house? Is my mortgage portable?</a></li>
+  <li><a href="#d2">When my policy matures, how is the mortgage paid off?</a>
+  </li>
+</ul>
+
+<p>Please read Important Information</p>
+
+<p>YOUR HOME IS AT RISK IF YOU DO NOT KEEP UP REPAYMENTS ON A MORTGAGE OR OTHER
+LOAN SECURED ON IT.</p>
+
+<p>Portman Building Society introduces only to the Norwich Union Marketing Group
+via Portman Financial Services, who represent only the Norwich Union Marketing
+Group, members of which are regulated by the Financial Services Authority, for life assurance, pensions and investments.</p>
+
+<p class="iph"><a name="Applications"></a>Applications/Lending Policy Q&amp;A</p>
+<br>
+<a name="a"></a>
+<p class="iph">What is the maximum term over which you will lend money?</p>
+<p>We do not generally advise you to borrow money over a term of more than 30
+years, however, please discuss your requirement with the mortgage adviser at
+either your local branch (see <a href="/servlet/File/site/help/25finder/list.html"> Branch Finder</a> for details) or you can call 0800
+548548 and speak to one of our fully qualified advisors.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="b"></a>What is the maximum age for a new borrower?</p>
+<p>We do not normally grant a mortgage for a term that extends beyond your normal
+retirement age unless you have sufficient income to maintain the payments after
+you have finished working.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="c"></a>Will you advise me which mortgage will best suit my requirements?</p>
+<p>At the Portman, we do not believe it is possible to offer a full mortgage advice
+service on the internet. We will, however, be very happy to provide you with
+mortgage advice via the Mortgage Consultant at any one of our branch offices,
+(see the <a href="/servlet/File/site/help/25finder/list.html"> Branch Finder</a> section of the website), or you can call 0800 548548 and
+speak to one of our fully qualified mortgage advisors.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="d"></a>Does the Portman lend on 'buy to let' property?</p>
+<p>Yes. The Society offers a range of
+buy to let mortgages via Sun Bank. Sun Bank is a member of the Portman Group and
+has become renowned for its expertise within the buy to let market. For more
+information see the Buy to Let section of the website, or alternatively call our
+Direct Mortgage Centre of 0800 548548 for additional information.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="e"></a>Does the Portman consider mortgages on commercial property?</p>
+<p>No, the Society will not lend against the security of commercial premises.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="f"></a>Which properties are suitable for a mortgage?</p>
+<p>The majority of habital residential properties can be considered as suitable for
+a mortgage advance.<br>
+We do not lend on mobile homes or house boats, on freehold flats or flats above
+commercial premises or on defective reinforced concrete houses. There are also
+limits on the amount we will lend on some other types of unusual properties.<br>
+For further information, please contact our Direct Mortgage Centre on
+0800 548548.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="g"></a>How much can I borrow?</p>
+<p>This depends entirely on your ability to repay the mortgage, taking into account
+any other financial commitments you might have. As a general rule, you may
+borrow up to 3.25 times your annual income, or 2.75 times your joint annual
+incomes if there are two applicants. Advances in excess of these amounts may be
+considered; please visit your local branch (see <a href="/servlet/File/site/help/25finder/list.html"> Branch
+Finder</a>) or telephone our
+Direct Mortgage Centre on 0800 548548 for further details. It is advisable for you
+to visit the <a href="/cgi-bin/afford_calc.cgi">Affordability Calculator</a>
+on this website before proceeding with
+your application.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="h"></a>Can you help me to calculate my monthly budget?</p>
+<p>Visit our <a href="/cgi-bin/afford_calc.cgi">Affordability Calculator</a> to calculate your total outgoings, and
+compare this with your income.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="i"></a>What happens if interest rates rise?</p>
+<p>If interest rates rise we will tell you what your new interest rate will be 
+and when it will commence. We will also tell you what your new monthly payments 
+will be and when these will be collected. Visit our
+<a href="/cgi-bin/afford_calc.cgi">Affordability Calculator</a> to work out the effect of a rise in interest
+rates on your monthly budget.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="j"></a>What is the maximum percentage you will lend relative to the purchase price?</p>
+<p>Generally the Society will consider advances of up to 95% of the value of the
+property. From time to time, more than this may be available for first time
+buyers. The maximum advance will be less than 95% where the value of the
+property exceeds £250,000. Please ask the mortgage adviser at your local branch
+(see <a href="/servlet/File/site/help/25finder/list.html"> Branch Finder</a>) for further details, or telephone our 
+Direct Mortgage Centre on 0800 548548 for specific details.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="k"></a>What is a fixed rate mortgage?</p>
+<p>A fixed rate means that no matter what happens to interest rates, your mortgage
+interest stays the same for an agreed period. However you should note that your
+monthly mortgage payment could change as a result of other factors; for example
+changes in insurance premiums.</p>
+
+<p>When the fixed rate period is over, your mortgage will change to a different
+interest rate. This will usually be either our Standard Variable Rate, or a rate
+which is linked to the Bank of England Base Rate. Full details of any follow on
+interest rates can be found in our <a href="/cgi-bin/mortgage_select.cgi">Mortgage
+Selector</a>. The follow on interest
+rate may be higher or lower than the interest rate you've been paying. If the
+interest rate is higher, your payments will increase.</p>
+
+<p><b>POINTS TO CONSIDER</b> - If you believe that interest rates are more likely to
+rise than fall, and you want the security of knowing that your mortgage will not
+be affected by fluctuations in interest rates for an agreed period, then a fixed
+rate mortgage is certainly worth considering.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="l"></a>What is a Discounted Rate Mortgage?</p>
+<p>A discounted rate mortgage guarantees that you'll pay a set amount below our
+Standard Variable Rate for the period of the discount. Our standard rate can go
+up and down, but the discount remains fixed during the period. You will need to
+budget for an increase in your payments when the discount period ends and the
+interest rate changes to our Standard Variable Rate.</p>
+
+<p>Discounts, and the period over which they run, vary from time to time.
+Generally speaking, the shorter the discount period, the higher the discounted
+rate will be. So, for example, if you opt for a two-year discount, your payments
+will be reduced for two years, but not by as much as they would be with a
+one-year discount.</p>
+
+<p><b>POINTS TO CONSIDER</b> - Your rate of interest will rise and fall as the general
+level of interest rates move, but if you are looking for a period during which
+your monthly payments will be lower than normal, perhaps to help you settle into
+you new home, a discounted rate mortgage may be what you need.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="m"></a>What is a Capped Rate Mortgage?</p>
+<p>Capped rate mortgages are generally linked to our Standard Variable Rate and
+are sometimes combined with a discounted rate mortgage. Unlike a discounted rate
+mortgage where interest rates can rise or fall freely, a capped rate mortgage
+has a ceiling above which the rate you pay will not rise for an agreed period. This ceiling is known
+as &quot;the cap&quot;.</p>
+
+<p>If interest rates go above this ceiling, you won't be affected; however if
+rates fall below the cap, your rate, being variable, will come down. When the capped rate
+period ends, you will pay our Standard Variable Rate which may be higher than
+the rate you have been paying. If it is higher, your payments will increase.</p>
+
+<p><b>POINTS TO CONSIDER</b> - If you are uncertain about which way interest rates are
+likely to move, a capped rate mortgage gives you the security provided by a
+fixed rate (when interest rates are rising) and the benefits of a variable rate
+mortgage (when interest rates are falling, if rates fall below the capped
+level).</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="n"></a>What is a Cashback Mortgage?</p>
+<p>These are generally variable rate mortgages where the benefit of lower payments
+that are given in discounted rate mortgages are converted into a single lump sum
+which you receive when you take out the mortgage.</p>
+
+<p><b>POINTS TO CONSIDER</b> - The lump sum is yours to spend however you want. It can
+help towards the cost of moving or for paying for those little extras you've
+always wanted.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="o"></a>What is a Tracker Mortgage?</p>
+<p>A tracker mortgage is a variable rate mortgage where the interest rate is linked
+directly to the Bank of England Base Rate. So whenever the Bank of England Base
+Rate changes, the rate on the tracker mortgage will change within an agreed
+period. Please refer to the product information section for more details.</p>
+
+<p><b>POINTS TO CONSIDER</b> - Any change to the Bank of England Base Rate will
+be passed on to you in full - both when rates fall and when rates rise.</p>
+
+<div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="p"></a>What references and credit checks do you carry out?</p>
+<p>The Portman carries out a credit search on each mortgage application. This
+credit check will supply the Society with details of any credit arrangements you
+currently have in place, and previous commitments you have undertaken over the
+last few years. This information helps the Society to make a lending decision.
+</p>
+
+<p>References may also be taken from employers, landlords, existing lenders,
+bankers, accountants, as deemed necessary. The Society will only take those
+references that it considers absolutely necessary in order to reach a lending
+decision. It is always helpful if your mortgage application can be accompanied
+by supporting documentation in the form of your last two months' bank
+statements, payslips, your latest P60 and your most recent mortgage statement.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="q"></a>What is a Mortgage Risk Fee?</p>
+<p>A Mortgage Risk Fee is something which you may have to pay if you are borrowing
+more than 75% of the purchase price or property valuation, whichever is the
+lower. On some of our mortgage products you will only have to pay a fee if you
+are borrowing more than 90%. The fee varies according to the amount you are
+borrowing: the higher the loan to value ratio, the higher the fee charged, as
+illustrated by the table below.</p>
+
+<table border="0" width="100%" bgcolor="#808080" cellspacing="1" cellpadding="2">
+  <tr>
+    <td width="50%" bgcolor="#993333" align="center"><b><font color="#FFFFFF">%
+      Advance</font></b></td>
+    <td width="50%" bgcolor="#993333" align="center"><b><font color="#FFFFFF">Risk Fee per £100 advanced above the risk threshold (£)</font></b></td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#FFFFFF" align="center">Above 75% and up to 80%</td>
+    <td width="50%" bgcolor="#FFFFFF" align="center">	5.50</td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#FFFFFF" align="center">Above 80% and up to 85%</td>
+    <td width="50%" bgcolor="#FFFFFF" align="center">	6.50</td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#FFFFFF" align="center">Above 85% and up to 90%</td>
+    <td width="50%" bgcolor="#FFFFFF" align="center">	7.50</td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#FFFFFF" align="center">Above 90% and up to 95%</td>
+    <td width="50%" bgcolor="#FFFFFF" align="center">	8.50</td>
+  </tr>
+</table>
+&nbsp;
+</td>
+  </tr>
+  <tr>
+<td width="100%">
+<p>If you have to pay a Mortgage Risk Fee, you can decide whether to have it
+added to the amount you are borrowing, or to have it deducted. Whichever you
+choose, the fee is not refundable, even if you repay your mortgage early.
+</p>
+
+<p>If you have the fee added, you will pay interest on it for the life of your
+loan. So, for example, if you need to borrow £75,000 to buy your home and the
+Mortgage Risk Fee is £500, we will arrange your mortgage for £75,500. From
+this, we will deduct the £500 and send the balance to your conveyancer. We will
+charge you interest on £75,500.
+</p>
+
+<p>If you ask us to deduct the fee from the amount
+you are borrowing then, using the same example, your mortgage will be for
+£75,000 and you will pay interest on this amount. We will still deduct the
+£500 and send the balance of £74,500 to your conveyancer. In order to complete
+your purchase, you would then need to make up the shortfall of £500 by paying
+this to your solicitor.
+</p>
+
+<p>From the Mortgage Risk Fee we may buy an indemnity from an insurance company.
+If you fall significantly into arrears we may have to take possession of your
+property and sell it. If it sells for less than the amount you owe us, we can
+then claim on the indemnity to recover some of the losses. The fact that you
+paid a fee, or that we bought an indemnity, will not affect your liability to
+repay to us, or any insurer, the full amount of the loss and all legal and other
+fees.
+</p>
+
+<p>Payment of the Fee will not affect your obligation to repay the mortgage. You may also be required to pay a Mortgage Risk Fee if you apply for a
+Homeowners' Loan. You will be advised whether a fee is required when you make
+your application.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="r"></a>What are the costs of getting a mortgage?</p>
+<p>The costs incurred by buying a house and getting a mortgage can be broadly split
+into three parts:-
+</p>
+
+<ol type="a">
+  <li><b>Mortgage lender.</b> The mortgage lender may charge an acceptance fee. This is
+an administration charge, usually added to the loan upon completion, which the
+lender charges for setting up the new mortgage. You may have to pay a Mortgage
+Risk Fee if you borrow a high proportion of the value of your property. The
+Mortgage Risk Fee can also be added to the loan. A funds release fee will be
+deducted from the advance.<br></li>
+  <li><b>Valuation and Survey.</b> The lender may charge a valuation fee. This is to
+cover the costs of sending a valuer to inspect the property and to advise the
+lender whether or not it is suitable for a mortgage advance. It is in your
+interest to have a more detailed inspection of the property carried out and you
+can do this by commissioning either a Home Buyer's Report or a full structural
+survey. Please refer to the question relating to Valuation and Survey on this
+site.<br></li>
+  <li><b>Legal fees.</b> Legal fees can be broadly categorised into the amount you need
+to pay your solicitor or licensed conveyancer acting on behalf of both you and
+the lender in setting up the mortgage, and the standard disbursements such as
+stamp duty that you must pay when buying a property. Your solicitor or licensed
+conveyancer will provide you with an accurate breakdown of these charges.</li>
+</ol><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="s"></a>What is the difference between a Valuation and a Survey?</p>
+<p>Before we can make an <a href="/servlet/File/site/mortgages/05purchase/35jargon.html#ooa"> offer of advance</a> we are required to obtain a written
+valuation of your property.
+</p>
+
+<p>The Mortgage Valuation is a limited report prepared solely for us to assess
+the value of the property for mortgage purposes and to enable us to decide how
+much to lend, and on what terms.
+</p>
+
+<p>The report is not a survey and we do not ask the valuer to carry out a
+detailed examination of the structural condition of the property. For example,
+the valuer may not inspect inaccessible parts of the property (such as the roof
+space, floors, drains etc.) and there could be defects in the property which are
+not reported, but would be revealed by a more detailed inspection. Also, some
+points which might be important to you as a purchaser, and which could affect
+your decision to buy and the price to pay may not be mentioned because they are
+unlikely to affect the adequacy of the property as security for the mortgage.
+</p>
+
+<p>Given the limitations of the Mortgage Valuation, we strongly recommend that
+you consider obtaining your own, more comprehensive inspection or a structural
+survey. You will find two alternative schemes described below:-
+</p>
+
+<p><b>Home Buyer's
+Report and Valuation</b> - Although not a structural survey, the Home Buyer's Report
+and Valuation provides you with a concise report on the state of repair and
+general condition of the property. It also provides an opinion of its open
+market valuation, which should help you to decide whether or not the price you
+have agreed to pay is realistic.
+</p>
+
+<p>For Home Buyer's Reports we have agreed through a panel of chartered
+surveyors a standard scale of charges they will make for providing you with this
+report. These are set out in the table in the section <a href="#t">What does the Portman charge for Home Buyer's Report and Valuation?
+</a>
+</p>
+
+<p><b>Full Structural Survey</b> - A full structural survey is based on a very detailed
+and technical examination of the property and provides a comprehensive report on
+its condition. The surveyor will comment on the whole property and will usually
+provide a list of any repairs and renovations considered necessary.
+</p>
+
+<p>The cost of a full structural survey will be set by the surveyor concerned
+and will depend on the purchase price, age, type and size of property.
+</p>
+
+<p>Please advise us at the time of application if you require a Home Buyer's
+Report or a full structural survey.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="t"></a>What does the Portman charge for a Home Buyer's Report and Valuation?</p>
+<p>When you submit your application we will ask you to pay a fee which covers the
+cost of the Mortgage Valuation unless the product you have selected provides a
+free valuation. If you have also requested a Home Buyer's Report, the fee for
+this will normally be collected by us at the same time for passing on to your
+surveyor.
+</p>
+
+<p>The table below sets out the current scale of fees for private dwellings for
+owner occupation.
+</p>
+
+<table cellspacing="1" cellpadding="2" bgcolor="#808080" width="100%">
+  <col width="64" span="4" style="width:48pt">
+  <tr height="17" style="height:12.75pt">
+    <td colspan="4" style="height: 12.75pt; mso-ignore: colspan" bgcolor="#993333" align="center"><b><font color="#FFFFFF">TABLE
+      OF FEES FOR MORTGAGE VALUATION AND HOME BUYER'S REPORTS</font></b></td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#993333" align="center"><b><font color="#FFFFFF">
+    Purchase Price</font></b></td>
+    <td bgcolor="#993333" align="center"><b><font color="#FFFFFF">Mortgage
+      Valuation Fee (£)</font></b></td>
+    <td bgcolor="#993333" align="center"><b><font color="#FFFFFF">Home Buyer's
+      Report Fee (£)</font></b></td>
+    <td style="mso-ignore:colspan" bgcolor="#993333" align="center"><b><font color="#FFFFFF">Total
+      of Mortgage Valuation and Home Buyer's Report Fees (£)</font></b></td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF"><b>Valuation (£)</b></td>
+    <td bgcolor="#FFFFFF"><b>Note 1</b></td>
+    <td bgcolor="#FFFFFF"><b>Note 2</b></td>
+    <td bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">Up to 40,000</td>
+    <td x:num bgcolor="#FFFFFF">150</td>
+    <td x:num bgcolor="#FFFFFF">125</td>
+    <td x:num bgcolor="#FFFFFF">275</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">40,001-75,000</td>
+    <td x:num bgcolor="#FFFFFF">170</td>
+    <td x:num bgcolor="#FFFFFF">145</td>
+    <td x:num bgcolor="#FFFFFF">315</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">75,001-100,000</td>
+    <td x:num bgcolor="#FFFFFF">190</td>
+    <td x:num bgcolor="#FFFFFF">145</td>
+    <td x:num bgcolor="#FFFFFF">335</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">100,001-150,000</td>
+    <td x:num bgcolor="#FFFFFF">210</td>
+    <td x:num bgcolor="#FFFFFF">175</td>
+    <td x:num bgcolor="#FFFFFF">385</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">150,001-200,000</td>
+    <td x:num bgcolor="#FFFFFF">250</td>
+    <td x:num bgcolor="#FFFFFF">195</td>
+    <td x:num bgcolor="#FFFFFF">445</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">200,001-300,000</td>
+    <td x:num bgcolor="#FFFFFF">320</td>
+    <td x:num bgcolor="#FFFFFF" valign="top" align="left">185</td>
+    <td x:num bgcolor="#FFFFFF">505</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">300,001-400,000</td>
+    <td x:num bgcolor="#FFFFFF">370</td>
+    <td x:num bgcolor="#FFFFFF">205</td>
+    <td x:num bgcolor="#FFFFFF">575</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">400,001-500,000</td>
+    <td x:num bgcolor="#FFFFFF">420</td>
+    <td x:num bgcolor="#FFFFFF">255</td>
+    <td x:num bgcolor="#FFFFFF">675</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">500,001-600,000</td>
+    <td x:num bgcolor="#FFFFFF">500</td>
+    <td x:num bgcolor="#FFFFFF">250</td>
+    <td x:num bgcolor="#FFFFFF">750</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">600,001-700,000</td>
+    <td x:num bgcolor="#FFFFFF">580</td>
+    <td x:num bgcolor="#FFFFFF">250</td>
+    <td x:num bgcolor="#FFFFFF">830</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">700,001-800,000</td>
+    <td x:num bgcolor="#FFFFFF">650</td>
+    <td x:num bgcolor="#FFFFFF">260</td>
+    <td x:num bgcolor="#FFFFFF">910</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">800,001-900,000</td>
+    <td x:num bgcolor="#FFFFFF">730</td>
+    <td x:num bgcolor="#FFFFFF">255</td>
+    <td x:num bgcolor="#FFFFFF">985</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">900,001-1,000,000</td>
+    <td x:num bgcolor="#FFFFFF">800</td>
+    <td x:num bgcolor="#FFFFFF">280</td>
+    <td class="xl22" x:num="1080" bgcolor="#FFFFFF">1,080.00</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">1,000,000-1,250,000</td>
+    <td x:num bgcolor="#FFFFFF">950</td>
+    <td bgcolor="#FFFFFF">By arrangement</td>
+    <td bgcolor="#FFFFFF">By arrangement</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">1,250,001-1,500,000</td>
+    <td class="xl22" x:num="1100" bgcolor="#FFFFFF">1,100.00</td>
+    <td bgcolor="#FFFFFF">By arrangement</td>
+    <td bgcolor="#FFFFFF">By arrangement</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">1,500,001-1,750,000</td>
+    <td class="xl22" x:num="1300" bgcolor="#FFFFFF">1,300.00</td>
+    <td bgcolor="#FFFFFF">By arrangement</td>
+    <td bgcolor="#FFFFFF">By arrangement</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">1,750,001-2,000,000</td>
+    <td class="xl22" x:num="1500" bgcolor="#FFFFFF">1,500.00</td>
+    <td bgcolor="#FFFFFF">By arrangement</td>
+    <td bgcolor="#FFFFFF">By arrangement</td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td style="height:12.75pt" bgcolor="#FFFFFF">Over 2,000,000</td>
+    <td bgcolor="#FFFFFF">By arrangement</td>
+    <td bgcolor="#FFFFFF">By arrangement</td>
+    <td bgcolor="#FFFFFF">By arrangement</td>
+  </tr>
+</table>
+&nbsp;
+</td>
+  </tr>
+  <tr>
+<td width="100%">
+<ol>
+  <li>Where a valuation for mortgage purposes is subcontracted to a panel of
+chartered surveyors, the Society makes the same charge for Mortgage Valuation in
+accordance with this table as it does when using a staff valuer. The difference
+between the table charge and what the Society pays a panel surveyor is £60 and
+    covers the
+Society's administration costs.<br>
+  </li>
+  <li>The scale of rates for Home Buyer's Reports have been agreed with a panel
+of chartered surveyors. The fees collected are passed on to the panel surveyors
+without deduction or charge for administration.<br>
+  </li>
+  <li>Where a further inspection of the property is necessary before the loan
+can be made, an additional fee of £40 is made for each visit.</li>
+</ol><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="u"></a>What is stamp duty?</p>
+<p>You are obliged to pay stamp duty if you buy a house that costs more than
+£60,000. This is a tax payable to the government when you buy a house. It is
+calculated on the whole purchase price and not just the amount over £60,000,
+and is on a rising scale.
+</p>
+
+<table border="0" width="100%" bgcolor="#808080" cellspacing="1" cellpadding="2">
+  <tr>
+    <td bgcolor="#993333" align="center"><b><font color="#FFFFFF">Purchase Price
+      (£)</font></b></td>
+    <td bgcolor="#993333" align="center"><b><font color="#FFFFFF">Stamp Duty</font></b></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF"><span lang="EN-GB">Up to 60,000</span></td>
+    <td bgcolor="#FFFFFF"><span lang="EN-GB">Nil</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF"><span lang="EN-GB">60,001-250,000</span></td>
+    <td bgcolor="#FFFFFF"><span lang="EN-GB">1%</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF"><span lang="EN-GB">£250,001
+      to £500,000</span></td>
+    <td bgcolor="#FFFFFF"><span lang="EN-GB">3%</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF"><span lang="EN-GB">Above £500,000</span></td>
+    <td bgcolor="#FFFFFF"><span lang="EN-GB">4%</span></td>
+  </tr>
+</table>
+&nbsp;
+</td>
+  </tr>
+  <tr>
+<td width="100%">
+<p>Stamp duty is payable to your Solicitor or Licensed Conveyancer, who will
+confirm all fees payable before you commence the transaction.</p><div align="right"><a href="#top">Back to Top</a></div>
+
+<p class="iph"><a name="v"></a>What is the Mortgage Code?</p>
+<p>We subscribe to the Mortgage Code. This is a voluntary code
+that sets minimum standards of good mortgage lending practice, which mortgage
+lenders and intermediaries have to meet. The Code is monitored by the Mortgage
+Code Compliance Board, which comprises representatives from banks, building
+societies and independent consumers. Complaints concerning the general operation
+of the Code can be made to the Mortgage Code Compliance Board.
+</p>
+
+<p>The Code provides valuable safeguards for you and helps you to understand:
+</p>
+
+<ul>
+  <li>What information you should be given before you take out your mortgage and</li>
+  <li>How your mortgage should be dealt with after it has been taken out</li></ul>
+    <p>Choosing a mortgage is likely to be the most important financial commitment
+    you make. It is important, therefore, that you fully understand the
+    implications.  </p>
+
+
+<p>Under the Mortgage Code you can choose which of the three levels of service
+you want us to provide to help you choose a suitable mortgage. The levels are:
+</p>
+
+<ol type="a">
+  <li>You can ask us to recommend which of our products we feel is best for you based
+on information you've given us about your personal circumstances. This is known
+as &quot;<b>advice and a recommendation</b>&quot;. You are under no obligation to
+accept our recommendation - the final decision is yours; or<br>
+  </li>
+  <li>You can ask us to
+provide you with information about all of our products so that you can choose
+the product that you feel is best for you. This is known as &quot;<b>informed
+choice</b>&quot;; or<br>
+  </li>
+  <li>You can ask us for information about the product you've
+already chosen. This is where you've already made up your mind, or someone else
+has recommended the product to you or, perhaps, because it is the only product
+we offer. This is called &quot;<b>execution only</b>&quot;.</li>
+</ol>
+
+<p>We offer service levels (b)
+and (c) for Internet and postal applications. If you want advice, and you want
+us to make a recommendation, you need to speak to one of our Mortgage
+Consultants at one of our branches (see <a href="/servlet/File/site/help/25finder/list.html"> Branch
+Finder</a>), or at our Direct Mortgage Centre on 0800 548548.
+</p>
+
+<p>Before your mortgage is completed we will confirm
+to you in writing which level of service was provided to you and the reasons for
+a recommendation where we have given one.&nbsp;
+</p>
+
+<p> If a mortgage intermediary has
+recommended one of our mortgage products to you, you should ensure that they are
+registered to give advice under the Mortgage Code.
+</p>
+
+<p>We only accept business from
+registered intermediaries. You can check whether your intermediary is
+registered, by asking to see their Registration Certificate or by contacting:
+</p>
+
+<p>The
+Mortgage Code Compliance Board<br>
+University Court<br>
+Stafford<br>
+Staffordshire<br>
+ST18 0GN<br>
+Telephone: 01785 218200<br>
+Fax: 01785 218249&nbsp;
+</p>
+
+<p>The intermediary will be responsible
+for complying with the Mortgage Code and for telling you if they are receiving a
+fee from us for introducing your mortgage to us.
+</p>
+
+<p>We do not accept any
+responsibility for the advice the intermediary gives you, either about the
+product they feel is best for you or the way in which you should repay your
+mortgage, even if we have paid them a fee.
+</p>
+
+<p>The Code also sets out certain
+prescribed information that we are required to provide to help you to select a
+mortgage appropriate to your needs.
+</p>
+
+<p>As well as subscribing to the Code of
+Mortgage Lending Practice, we are also signatories to the Banking Code and the
+Association of British Insurers' Code of Practice. You can obtain a free copy of
+these codes from any of our branch offices or by writing to us at:
+</p>
+
+<p>Group Manager
+Regulatory Services<br>
+Portman Building Society<br>
+Head Office<br>
+Portman House<br>
+Richmond Hill<br>
+Bournemouth<br>
+BH2 6EP
+</p>
+
+<p>For a full copy of the Mortgage Code, you can visit the website of the
+Council of Mortgage Lenders (CML) at <a href="http://www.cml.org.uk" target="_blank">www.cml.org.uk</a>.</p>
+<p>You may find these Codes helpful in understanding how we are expected to
+behave and the standards that we must meet in our business with you.<div align="right"><a href="#top">Back to Top</a></div>
+<p><b><a name="w"></a>Can I apply for a mortgage on the internet?</b><br>
+Yes. Please refer to the '<a href="/servlet/File/site/mortgages/25apply" class="book">How to Apply'</a> section on this website.<div align="right"><a href="#top">Back to Top</a></div>
+<p><b><a name="x"></a>What is an &quot;Offer of Advance&quot;?</b><br>
+The Offer of Advance is the formal documentation that we send to you when we
+have carried out all of our references and valuation, and this formally advises
+you that we are prepared to proceed with the mortgage application. At the same
+time as issuing the offer, we send a pack of papers to your Solicitor or
+Licensed Conveyancer with a copy of the mortgage Offer of Advance. These papers
+include the instructions for them to carry out the legal work on behalf of the
+Society.</p>
+<p align="right"><a href="#top">Back to Top</a></p>
+<a name="wddi"></a>
+<p class="iph"><b>What documents do I need to take to the mortgage interview?</b></p>
+<ul>
+  <li>Your last two months’ pay slips / 2 years accounts if self employed<br>
+  </li>
+  <li>Your latest Inland Revenue form P60 / or self assessment return<br>
+  </li>
+  <li>Your last two months’ bank statements<br>
+  </li>
+  <li>If you have a mortgage with another lender, your most recent mortgage
+    statement<br>
+  </li>
+  <li>If you’ve been renting, your rent book</li>
+</ul>
+<div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="y"></a>What fees do I have to pay when taking out my mortgage?</p>
+<ul>
+  <li>Some of our mortgage products contain an Acceptance Fee. This fee is
+    normally added to the amount you want to borrow unless you tell us otherwise
+    when you submit your mortgage application.<br>
+  </li>
+  <li>A booking fee may also be required – not all of our products carry a
+    booking fee. We only charge this fee on products where we expect to sell out
+    quickly and where it is necessary for you to reserve (or ‘book’) the
+    funds in advance to avoid disappointment. This cannot be added to the loan
+    and must be paid when you submit your application.<br>
+  </li>
+  <li>We also deduct £25 from your mortgage to cover our administrative costs
+    for sending the funds to your conveyancers.<br>
+  </li>
+  <li>Legal fees will also have to be paid. These are broken down into standard
+    disbursements, including search fees, Land Registry fees and, if you are
+    moving home, any Stamp Duty payable.</li>
+</ul>
+<div align="right"><a href="#top">Back to Top</a></div>
+<p class="qna"><a name="Insurance"></a>Insurance Q&amp;A</p>
+<p class="iph"><a name="z"></a>Can you arrange my buildings and contents insurance?</p>
+<p>Yes, the Society offers a comprehensive insurance package called Home Care.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="a1"></a>Can you arrange my accident, sickness and unemployment insurance?</p>
+<p>Yes, the Society has a competitive package covering protection for your
+payments if you are unable to work owing to accidents, sickness or unemployment,
+even in a redundancy scenario. We call this policy Mortgage Care.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="b1"></a>Can you arrange my life assurance?</p>
+<p>Yes, Portman Financial Services offers a range of life assurance options.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="biph"><a name="Administration"></a>Administration Q&amp;A</p>
+<p class="iph"><a name="c1"></a>What is the difference between annual interest and monthly
+interest loans?</p>
+<p>Annual interest refers to mortgages with annual interest calculations.
+Monthly interest refers to mortgages with monthly interest calculations.&nbsp;</p>
+<p><b>Interest calculation - Annual Interest Mortgages</b></p>
+<p>In the first year we work out the interest on the amount you borrow from the
+date your loan is issued to the following 31 December. After that we will work
+out the interest on the amount you still owe us at the close of business on 31
+December each year.</p>
+<p>You should note that monthly payments on a repayment mortgage (made up of
+capital and interest) do not reduce the amount of interest payable for the year
+because the capital balance on which we work out the interest due is only
+adjusted on 31 December each year.</p>
+<p><b>Interest calculation - Monthly Interest Mortgages</b></p>
+<p>We work out the interest on the amount you borrow from the date your loan is
+issued to the end of that month. After that, we work out the interest each month
+on the amount you owe us at the end of the previous month.</p>
+<p>Each time you make a payment to us, we will first of all deduct the value of
+any administration charge incurred in the previous month, for example insurance
+premiums. We will then reduce the interest which we have charged during that
+month by the value of the interest on the net payment from the day we receive it
+to the end of the month. Therefore, the earlier in the month you make your
+payments, the less interest you will be charged.</p>
+<div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="d1"></a>Can I make a lump sum repayment (capital repayment) on my mortgage?</p>
+<p>Yes, subject to the terms and conditions that apply to your mortgage. Some of
+our products contain a Repayment Fee, which means you may incur an extra charge
+for making a capital repayment in the early years of the loan. Please check your
+mortgage terms and conditions.</p>
+<p class="iph"><b>Annual Interest Mortgages</b></p>
+<p>If, in addition to making your normal payments each month, you repay an
+additional £500 or more (we call this a 'capital repayment'), we will reduce
+the interest that you are due to pay during the year by deducting the interest
+on the capital repayment from the first day of the month after you make the
+capital repayment to the following 31st December.</p>
+<p><b>Monthly Interest Mortgages</b></p>
+<p>Any additional payments that you make will reduce the amount you owe us and
+generate an interest credit from the day of receipt until the end of the month
+and could save you money by paying off your mortgage early.</p>
+<div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="e1"></a>Can I borrow more money in the future?</p>
+<p>If after taking out your mortgage, you wish to borrow more, come and
+talk to us about a Homeowners' Loan. Check on the <a href="/servlet/File/site/help/25finder/list.html"> Branch
+Finder</a>, and if you live
+close to a Portman Branch, make an appointment with the Branch Mortgage
+Consultant, who can discuss your application and our lending criteria. If
+however, you do not live within the vicinity of a Portman Branch, please contact
+our Direct Mortgage Centre on 0800 548548 or&nbsp; please refer to the Borrowing
+More section of the site.</p>
+<p>Homeowners' Loans can be used for home improvements or almost any other purpose
+(there are some restrictions). If you require the loan for home improvement
+purposes you can borrow any amount from £1,000 as long as the amount when added
+to your outstanding borrowing does not exceed 95% of the total value of your
+property. If you are looking for a loan for other purposes then your total
+borrowing must not exceed 90% of the value of your property or 85% if capital
+raising to buy an investment property.&nbsp;</p>
+<p>Note: Homeowners' Loans for non home improvement purposes are not available
+if less than £25,500 on monthly interest accounts.</p>
+<div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="f1"></a>Can I change the method of repaying my mortgage?</p>
+<p>A repayment mortgage may be changed to an interest only mortgage once a
+request signed by all the borrowers on the account has been received. A £40.00
+administration fee must be paid before the change can proceed. The change will
+take effect from the first day of the next month. Remember that it will be your
+responsibility to ensure that you have a repayment vehicle in place to repay your
+mortgage at the end of the term.</p>
+<p>An interest only mortgage may be converted to a repayment basis once an
+instruction signed by all borrowers on the account has been received. A £40.00
+administration fee must be paid before the change can proceed. The change will
+take effect from the first day of the next month.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="g1"></a>My mortgage has just completed. Why is my first payment so low?</p>
+<p>The first payment is the interest charged from the date the funds were
+released to the end of that month and any additional days' interest that would
+not be collected by normal monthly payments before the end of the year. This
+ensures that all interest due for the year is paid.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="h1"></a>I make my payments by direct debit - can I change the payment date?</p>
+<p>Please contact our Customer Services Contact Centre on 01202 560560. They
+will be happy to consider making adjustments to the payment collection date for you.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="i1"></a>What are the different methods of repaying my mortgage?</p>
+<p>Having chosen the type of mortgage product you want, it's important also to
+consider how to repay it. You decide the method that suits you and the length of
+time over which you want to repay what you've borrowed. As long as the
+arrangements fit our lending criteria, the choice is yours.</p>
+<p>We will want to ensure that you can repay what you've borrowed before you
+retire or, if the mortgage term extends beyond that date, that you have
+sufficient income to continue to meet your monthly payments.</p>
+<p>There are two basic mortgage types, a repayment mortgage and an interest only
+mortgage.</p>
+<p class="iph"><b>A repayment mortgage</b></p>
+<p>This is where you repay interest and a portion of the capital each month. Year
+by year you will see your mortgage balance reduce and, provided you make the
+monthly payments we ask, the loan will be repaid by the end of the repayment
+period.</p>
+<p>In the early years, most of your payments go towards paying the interest and
+it usually takes some time before you start to see a significant reduction in
+the amount you owe.</p>
+<p>If you choose a repayment mortgage we strongly recommend that you arrange
+life assurance to repay the loan, should you die during the period of the mortgage.</p>
+<p class="iph"><b>An interest only mortgage</b></p>
+<p>With an interest only mortgage, your monthly payment to us represents only the
+interest on the amount you have borrowed, and the amount you owe remains
+approximately the same throughout the term of the mortgage.</p>
+<p>Although your monthly payments to us will be less than on a repayment
+mortgage, you will need to make provision for repaying the amount you've
+borrowed at the end of the repayment term. There are several different ways of
+doing this and the notes below explain how each method works. <b> Before you choose,
+we recommend that you take advice from a financial adviser who specialises in
+these matters.</b></p>
+<p>Portman Financial Services Limited (&quot;PFS&quot;) can provide a free
+advice service to help you anticipate both your short and long term financial
+needs. An appointment can be made with a financial planning consultant through
+your local branch or by calling &quot;PFS&quot; on 01202 560590. &quot;PFS&quot;
+is a wholly owned subsidiary of CGNU plc.</p>
+<p class="iph">Our monthly interest mortgages are available on either one of
+these mortgage types (but not a combination of the two).</p>
+<p class="iph">By contributing to an Individual Savings Account (ISA)</p>
+<p>You pay an agreed sum, either monthly or annually, into an ISA. At the end of
+the term, your loan is repaid from the value of your ISA. ISAs are a
+tax-efficient way of saving but the final value of your savings is not
+guaranteed and might not be sufficient to repay the full amount you borrowed.</p>
+<p>An ISA doesn't include life cover and we strongly recommend that you take out
+a separate policy to repay what you owe, should you die within the mortgage
+term.</p>
+<p class="iph">By using an endowment policy</p>
+<p>You pay an amount, usually monthly, to a life assurance company, which buys a
+policy designed to repay your loan at the end of the mortgage term. Whether it
+does repay the loan, depends on how well the policy has performed. If it 
+under-performs, it may not provide enough and you will have to make up the
+difference yourself.</p>
+<p>It is important, therefore, that you check regularly how well the policy is
+performing and satisfy yourself that it will generate enough money to repay your
+mortgage.</p>
+<p>An endowment policy includes life cover to repay your loan if you die within
+the mortgage term.</p>
+<p class="iph">By using Personal Equity Plans (PEPs)</p>
+<p>If you have savings in PEPs you can also use the cash sums which build up within
+the plans towards repaying your mortgage.</p>
+<p>PEPs have now been replaced by ISAs, and since April 1999 no further savings
+can be made into existing plans and no new plans can be taken out.</p>
+<p>Like an ISA, the final value of a PEP is not guaranteed. If the fund into
+which you have been saving doesn't grow fast enough or there is a fall in the
+value of the stock market which affects your fund, there may not be enough to
+repay what you've borrowed and you may have to find the balance from elsewhere.</p>
+<p class="iph">By using a personal pension plan</p>
+<p>You make regular contributions into a Pension Plan. The amount you borrow is
+repaid from the lump sum you are able to draw from your Plan when you retire.</p>
+<p>However, by using part of the lump sum to repay the mortgage, there will be
+less money left over to provide an income for your retirement. You should
+ensure, therefore, that there will be enough in your Pension Plan to repay what
+you owe and also to provide you with an income to maintain the standard of
+living that you require in retirement.</p>
+<p>This is currently a very tax-efficient arrangement because your pension
+contributions and the lump sum which you use to repay your mortgage, are both
+tax-free. However, this might be affected by any future changes to the tax
+treatment of pensions.</p>
+<p>We recommend you to take out separate life cover to repay your mortgage
+should you die within the mortgage term.</p>
+<p class="iph">A few words of warning about interest only loans</p>
+<ul>
+  <li>All of these plans are generally long-term arrangements and the returns
+could be small - possibly less than the contributions you've made - if you were
+to cancel early.<br>
+  </li>
+  <li>Remember that if you cannot repay the mortgage when the term ends, you
+will have to carry on making interest payments to us each month.<br>
+  </li>
+  <li>And finally, it is your responsibility to maintain payments into the
+investment plan or life policy you have arranged to repay your mortgage and to
+ensure that it continues to provide you with the level of cover you require. We
+will remind you annually of the need to check the arrangements you have in
+place, but if you are in any doubt you should seek the advice of a Financial
+Adviser.</li>
+</ul><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="j1"></a>Do I receive any tax relief on my mortgage?</p>
+<p>No. MIRAS or tax relief for mortgages was withdrawn in April 2000.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="k1"></a>What happens if I lose my job?</p>
+<p>We understand that your personal circumstances can sometimes change through
+no fault of your own. Losing your job, falling ill or losing a partner can leave
+you short of money.</p>
+<p>Not only do we want to help you buy your home, but we also want to help keep
+that roof over your head. If at any time you find it difficult to keep up your
+monthly payments, you should contact your local branch office or call our
+confidential Customer Helpline free on 0800 212508, Monday to Friday between 9am
+and 5pm.</p>
+<p>There are many ways we can help you, but the important thing is for you to
+contact us as soon as you think there may be a problem.</p>
+<p>If you fail to pay two monthly payments we can ask a court to order you to
+leave your home so that we can sell it. If the interest rate you are paying is
+less than our standard variable rate we can increase it to our standard variable
+rate.</p>
+<p>If we have to sell your home, we have a duty to take reasonable steps to sell
+it for the best price we can reasonably get and we can recover any loss we
+suffer from you. You will also be responsible for payment of all costs which we
+incur in enforcing our rights and we will add these to your account.</p>
+<p>You should strongly consider taking Mortgage Care Insurance to cover you for
+accident, sickness or unemployment.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="l1"></a>What ongoing charges might apply to my mortgage?</p>
+<p>After you have taken out your mortgage you may ask us to provide additional
+services that we regard as &quot;non-standard&quot;, for example, providing a
+duplicate statement or amending the terms of your mortgage. We may, at our
+discretion, charge you for providing these. We will always tell you what the
+charge will be before providing you with the service.</p>
+<p>You can pay the fee or ask us to add it to your mortgage
+account. For annual interest mortgages, if the fee is added to your account we
+will not charge you interest on it provided it is paid before 31 December. If it isn't paid by 31 December it will become part of the balance on
+which we will charge interest for each year the fee remains unpaid.</p>
+<p>For monthly interest mortgages, if the fee is added to your account we will
+not charge you interest on it provided it is paid before the end of the
+following month. If it isn't, it will become part of the balance on which we
+will charge interest for each month the fee remains unpaid.</p>
+<p>We may also charge a fee if you wish to switch products after an offer has
+been made, but prior to completion.</p>
+<p>A tariff of the main charges that currently apply to these services is shown
+below. All fees are inclusive of VAT. We will send you an up-to-date list of the
+charges with your mortgage statement, which will show any new or amended
+charges.</p>
+<table border="0" width="100%" bgcolor="#808080" cellspacing="1" cellpadding="2">
+  <tr>
+    <td colspan="3" align="center" bgcolor="#993333"><b><font color="#FFFFFF"><a name="chargestable"></a>MORTGAGE
+      ADMINISTRATION CHARGES</font></b></td>
+  </tr>
+  <tr>
+    <td align="left" bgcolor="#993333"><span lang="EN-GB"><b><font color="#FFFFFF">Description</font></b></span></td>
+    <td align="left" bgcolor="#993333"><span lang="EN-GB"><b><font color="#FFFFFF">Amount</font></b></span></td>
+    <td align="left" bgcolor="#993333"><span lang="EN-GB"><b><font color="#FFFFFF">Notes</font></b></span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Revaluing your property</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£65.00 per visit</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">If you apply to borrow more money,
+      for example, for home improvements or if we have to ask the valuer to
+      revisit after the work has been carried out.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Approving your own insurance</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£25.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable if you want to arrange your
+      own insurance and each time you change insurer or policy.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Duplicate annual mortgage statement</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£10.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">A statement is provided each year.
+      Charged only if you ask us to provide an additional statement.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Request for full account
+      information</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£10.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable if you make a &quot;subject
+      access request&quot; under the Data Protection Act, i.e. to give you
+      copies of data that we hold about you on computer.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Letting your property</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">An additional 1% pa will be added
+      to the interest rate</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">You must obtain our prior written
+      consent before you agree to let your property.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Letting your property</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£50.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable when you initially let your
+      property and each time you change the tenancy agreement or re-let the
+      property.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">References for another lender</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£30.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable if you apply for a mortgage
+      from another lender who, with your consent, asks us to provide a
+      reference.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Second mortgage questionnaire</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£80.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable if you consent to us
+      providing detailed information to another lender from whom you intend to
+      borrow money.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Switching the method of repayment</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£40.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable when you ask us to switch
+      your loan from repayment to interest only, or vice versa.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Charges affecting legal title</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£80.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable when, for example, there is
+      change to the ownership of the property and you ask us to amend the
+      parties to the mortgage.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Deeds Production, Information,
+      Photocopying</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£40.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable if you, or your solicitors
+      require the deeds or copies of any information from the deeds.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Redemption/discharge fee*</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£55.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable when you repay your loan in
+      full.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Personal Loan redemption/discharge
+      fee</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£30.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable when you repay your loan in
+      full.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Recalled direct debit</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£30.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable to cover our costs if your
+      bank recalls a Direct Debit payment.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Returned cheque</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£30.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable to cover our costs if your
+      bank refuse payment on one of your cheques.</span></td>
+  </tr>
+</table>
+&nbsp;
+</td>
+  </tr>
+  <tr>
+<td width="100%">
+<p>*Remember that on some of our products a Repayment Fee may also be payable if
+you repay the loan in the early years.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="m1"></a>What charges do you make when a borrower goes into arrears?</p>
+<p>If your account goes into arrears the following charges might apply:</p>
+<table border="0" width="100%" bgcolor="#808080" cellspacing="1" cellpadding="2">
+  <tr>
+    <td colspan="3" bgcolor="#993333" align="center"><span lang="EN-GB"><font color="#FFFFFF"><b>ARREARS
+      CHARGES</b></font></span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#993333" align="left"><span lang="EN-GB"><font color="#FFFFFF"><b>Description</b></font></span></td>
+    <td bgcolor="#993333" align="left"><span lang="EN-GB"><font color="#FFFFFF"><b>Amount</b></font></span></td>
+    <td bgcolor="#993333" align="left"><span lang="EN-GB"><font color="#FFFFFF"><b>Notes</b></font></span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Revaluing your property</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£65.00 per visit</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable if you are in arrears and
+      we require an external appraisal of the value of your home.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Arrears statements</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£10.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">On request we will issue an arrears
+      statement for the current year without charge. For each earlier year we
+      charge £10.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Missed or short payments</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£30.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable if you miss a payment or
+      pay less than your minimum monthly payment.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Broken arrears arrangement</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£30.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable when a plan to clear
+      arrears has been agreed between us and a payment is late, underpaid or
+      missed.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Arrears counselling</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£99.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable if we have to ask an
+      arrears counsellor to visit you. We do not charge if you request us to
+      provide arrears counselling.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Pre litigation letter</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£50.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable if we issue proceedings to
+      recover possession of your property.</span></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Possession administration fee</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">£300.00</span></td>
+    <td bgcolor="#FFFFFF" valign="top"><span lang="EN-GB">Payable to cover our costs for
+      taking possession of and selling your property.</span></td>
+  </tr>
+</table>
+&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+<p>Arrears charges are payable each time arrears arise.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="n1"></a>How do I make a complaint?</p>
+<p><a href="/servlet/File/site/contact/15complaints">Click here</a>.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="o1"></a>How do you notify people of changes to your standard
+variable rate?</p>
+<p>Individual notices are issued to all borrowers on variable 
+rates.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="p1"></a>Do I receive a ‘Mortgage Statement’?</p>
+<p class="iph">Annual interest mortgage holders receive an annual statement in
+January each year. Monthly interest mortgage holders receive a statement within six
+months of the date the loan was issued and then at six monthly intervals
+thereafter.</p>
+<p class="iph">These statements show the opening and closing&nbsp; balances,
+details of interest, the insurance premiums and any other fees that we have
+charged and the payments you have made. A summary of the interest rates that
+have applied during the period will also be included.</p>
+<div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="r1"></a>How long will it take for my mortgage to complete?</p>
+<p>You can expect your application to be completed in around two months from the
+day you apply. Please note that two months is a guideline – it may take less
+time, and in some cases, it may take a little longer.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="s1"></a>I pay my mortgage by direct debit, if I make overpayments can these be
+collected on the same direct debit?</p>
+<p>Yes, any overpayments you make each month can also be collected on the same
+Direct Debit.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="t1"></a>How is the interest on my mortgage calculated?</p>
+<p>This is discussed in the <a href="/servlet/File/site/mortgages/05purchase/30terms.html">Terms
+&amp; Conditions</a> for each mortgage.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="u1"></a>Can I change the method of repaying my mortgage?</p>
+<p>Yes. A repayment mortgage may be changed to an interest only mortgage (or 
+vice versa) once a request signed by all the borrowers on the account has been 
+received. An administration fee of £40 will be charged. We will be happy to 
+provide a quote on your new terms. </p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="v1"></a>Can I change the term of my mortgage?</p>
+<p>Yes, you simply have to write in and tell us. We will be happy to provide a
+revised quote on your new terms.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="w1"></a>I have completed my mortgage and I now wish to let
+for a <b> temporary period</b>, what do I do?</p>
+<p>You must seek permission from the Society before letting your property. You
+must have had your mortgage with the Society for a minimum of six months, and be
+able to satisfy us that the rental income you receive for the property will be
+enough to cover your mortgage. Once we have given our permission for you to let
+your property, we will add a 1.00% loading to your current interest rate for the
+duration your property is let.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="x1"></a>I am due to complete tomorrow, when is my first payment due?</p>
+<p>Your first full payment will be collected by Direct Debit. This generally 
+represents the accrued interest from the date of release of funds to the end of 
+the month. The first full monthly payment will be collected on the anniversary 
+date of completion. We will then collect
+each monthly payment on the same day each month. Where we have arranged your
+property insurance, the monthly payments will include the monthly insurance
+premiums.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="y1"></a>What is accrued interest and when do I have to pay it?</p>
+<p>Accrued interest is the interest which is accrued in the month which the loan
+is completed. This is paid as a separate payment before your first monthly
+payment is due. We will write and tell you the amount of accrued interest soon
+after your loan has been completed. We will normally collect this by Direct
+Debit not earlier than 10 working days and not later than 15 working days after
+completion.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="solicitor"></a>Can Portman recommend a Solicitor?</p>
+<p>You are free to use a solicitor of your choice but we can give you information about the location of solicitors in your area.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="qna"><a name="Redemption"></a>Redemption Q&amp;A</p>
+<p class="iph"><a name="z1"></a>What happens to my deeds when I have paid off my mortgage?</p>
+<p>We offer our borrowers a scheme for the safekeeping of their deeds, known as
+the Deedsafe scheme. This scheme is available to customers who currently have
+their buildings or buildings and contents insured through the Society, or who
+wish to arrange insurance through the Society. This insurance must be paid
+monthly by direct debit. The way in which the scheme works is that instead of
+fully redeeming the account now, a nominal balance of £1.00 is left on the
+account which is non-interest bearing. The Society will continue to hold the
+deeds of the property free of charge. If you are interested in this scheme,
+please contact us for further information before redeeming your account.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="a2"></a>I have made a payment after redeeming my mortgage. Will this be refunded?</p>
+<p>If this overpayment was in the form of a standing order or a cheque or cash
+and a solicitor dealt with the redemption of your account, the refund will be
+sent to your solicitors for them to pass on to you. This is because in most
+cases where solicitors deal with redemption of a mortgage the borrowers have
+moved house and the Society will not have any record of the new address. If the
+overpayment was in the form of a further direct debit payment, this will be
+refunded back to your bank account approximately 14 days after the payment was
+taken. Unfortunately, this delay is necessary to allow time for the payment to
+clear. Your bank may be able to arrange to recall the payment for you
+immediately under the terms of the &quot;Direct Debit Indemnity Scheme&quot;.
+Your bank will be able to supply you with further details.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="b2"></a>Is my mortgage subject to an Early Repayment 
+Charge?</p>
+<p>If your mortgage is subject to a Repayment Fee, this will be detailed in the
+terms and conditions of your mortgage and in any subsequent deeds of variation.
+If you are still unsure, please contact our Customer Contact Centre on
+01202 560560. Our customer service teams will also be happy to confirm in
+writing when any such Repayment Charges expire.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="c2"></a>What if I move house? Is my mortgage portable?</p>
+<p>Most of our mortgages are portable. If you move house you can transfer the
+amount of your mortgage to your new purchase. If you need a larger mortgage, you
+can usually borrow the extra on any of our mortgage products available at the
+time subject to meeting the terms of the product you have chosen. Please refer to the Mortgage Adviser at your local branch (see <a href="/servlet/File/site/help/25finder/list.html"> Branch
+Finder</a>), or telephone our Direct Mortgage Centre on 0800 548548 for full details.</p><div align="right"><a href="#top">Back to Top</a></div>
+<p class="iph"><a name="d2"></a>When my policy matures, how is the mortgage paid off?</p>
+<p>When your policy has matured, your insurance company will send a cheque for
+the maturity amount to us. We will redeem your mortgage and send a cheque to you
+with any money that is left over.</p><div align="right"><a href="#top">Back to Top</a></div>&nbsp;Please 
+read Important Information<p>YOUR HOME IS AT RISK IF YOU DO NOT KEEP UP 
+REPAYMENTS ON A MORTGAGE OR OTHER LOAN SECURED ON IT</p>
+<p>Portman Building Society introduces only to the Norwich Union Marketing 
+Group, members of which are regulated by the Financial Services Authority, for 
+life assurance, pensions and investments.&nbsp;</td></tr>
+</table>
+</TD><TD><IMG SRC="/images/spacer.gif" WIDTH="25" HEIGHT="20"></TD><TD><img src="/images/helpful/mort_links.gif" width="160" height="14" alt="Helpful Links"><br>
+<a class="helpful" href="/servlet/File/site/contact">Contact Us</a>
+<br><img src="/images/spacer.gif" height="15"><br>
+<p><img border="0" src="/images/spacer.gif" width="20" height="6"><br>
+<a href="/servlet/CallMe" onclick="javascript:window.open('/servlet/CallMe/callmenonav', 'CallMe', 'width=700,height=400,scrollbars=yes');return(false)"><img border="0" src="/images/helpful/callme_drkgrn.gif" alt="Call Me" width="80" height="25"></a></p>
+<p><a href="/servlet/Feedback/generalenquiry"><img border="0" src="/images/helpful/emailme_drkgrn.gif" alt="Email Me" width="80" height="25"></a></p>
+<br><img src="/images/spacer.gif" height="15"><br><br><br><img src="/images/spacer.gif" height="15"><br></TD><TD><IMG SRC="/images/spacer.gif" WIDTH="14" HEIGHT="25"></TD></TR></TABLE></td>
+  </tr>
+  <tr>
+    <td valign="bottom" align="center"><p class="copy" align="center">&copy; 2001 Portman Building Society<br>
+      &nbsp;&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td valign="bottom">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td bgcolor="#006633" align="left"><a href="/servlet/Homepage"><img src="/images/btm_logo.gif" border="0" alt="Portman Building Society" width="143" height="28"></a></td>
+          <td bgcolor="#006633" align="left"><img src="/images/spacer.gif" width="47" height="5"><img border="0" src="/images/mut_bottom.gif" alt="Mutuality - it's in your interest" width="213" height="28" align="absmiddle"></td>
+          <td bgcolor="#006633" align="right"><table border="0">
+              <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;<a href="/servlet/MailAFriend?page=%2Fservlet%2FFile%2Fsite%2Fmortgages%2F05purchase%2F20faq.html%3Ahe" target="_blank"><img src="/images/mailfriend.gif" alt="Email Page to a Friend" border="0" width="147" height="28"></a></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

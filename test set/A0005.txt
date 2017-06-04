@@ -1,0 +1,1968 @@
+ID=A0005
+URL=http://www.personal.barclays.co.uk/site_map/site_map.html
+SIZE=117031
+DATE=27/06/02
+TIME=16:49:49
+DATASET=Commercial Banks
+HTML=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>Barclays Brochureware</title>
+<link rel="stylesheet" type="text/css" href="../css/global_11.css">
+<style type="text/css">
+<!-- 
+body {background:url(../imgs/site_map/bkg_map.gif); background-repeat:repeat-x; font-family:verdana, Arial, Helvetica; background-color:#ffffff; font-size:11px; color:#000000;}
+//-->
+</style>
+</head>
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="284" height="20"><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+    <td height="20"><img src="../imgs/shared/top_nav_final.gif" width="495" height="20" border="0" alt="" usemap="#topNav"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" height="10"><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+  <tr> 
+    <td height="24" colspan="2"> 
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="11"><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+          <td><a href="http://www.barclays.com" target="_self"><img src="../imgs/shared/b_logo.gif" width="150" height="24" border="0" alt="barclays.com"></a></td>
+          <td width="24"><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+          <td  width="179"><img src="../imgs/shared/log_reg.gif" width="179" height="24" border="0" alt="" usemap="#logReg"></td>
+          <td width="32"><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+          <td width="170" align="center"><a href="../quick_access/products.html" target="_self" class="linkblue"><img src="../imgs/shared/quick_access.gif" width="170" height="24" border="0" alt="quick access product index"></a></td>
+          <td width="33"><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+          <td><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+          <td width="139"><img src="../imgs/shared/logo_2.gif" width="139" height="24" border="0" alt="Personal Banking"></td>
+          <td width="11"><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2" height="10"><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+</table>
+<table height="420" border="0" cellspacing="0" cellpadding="10">
+  <tr bgcolor="#ffffff"> 
+    <td  colspan="16" height="19" align="left" valign="middle" class="fontblue"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""><a href="../index.html" target="_self" class="fontblue">Home&gt;</a>&nbsp;<b><span class="fontred">Site 
+      Map&gt;</span></b></td>
+  </tr>
+  <tr bgcolor="#CCCCFF"> 
+    <td colspan="16" height="1"></td>
+  </tr>
+  <tr bgcolor="#ffffff"> 
+    <td colspan="16" height="20"><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+  <tr bgcolor="#ffffff"> 
+    <td valign="top" width="428"> 
+      <!-- Current Accounts -->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315"  border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="current"></a><img src="../imgs/site_map/current.gif" width="159" height="13" border="0" alt="" usemap="#current_map"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../current_accounts/cr_1_2.html" target="_self" class="linkblue">Why 
+                  choose us?</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../current_accounts/cr_1_3.html" target="_self" class="linkblue">Which 
+                  account?</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../current_accounts/cr_1_3_1.html" target="_self" class="linkblue">Barclays 
+                  Bank Account</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../current_accounts/cr_1_3_2.html" target="_self" class="linkblue">Additions 
+                  Account</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="8" border="0" alt=""><a href="../current_accounts/cr_1_3_6.html" target="_self" class="linkblue">Junior 
+                  BarclayPlus</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../current_accounts/cr_1_3_3.html" target="_self" class="linkblue">BarclayPlus</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../current_accounts/cr_1_3_4.html" target="_self" class="linkblue">Young 
+                  Person's Account</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../current_accounts/cr_1_3_5.html" target="_self" class="linkblue">Euro 
+                  Account</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../current_accounts/cr_1_4.html" target="_self" class="linkblue">Debit 
+                  cards</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../current_accounts/cr_1_4_1.html" target="_self" class="linkblue">Barclays 
+                  Connect</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../current_accounts/cr_1_4_2.html" target="_self" class="linkblue">VISA 
+                  Electron</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../current_accounts/cr_1_5.html" target="_self" class="linkblue">Using 
+                  your account</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../current_accounts/cr_1_6.html" target="_self" class="linkblue">Opening 
+                  an account</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../current_accounts/cr_1_7.html" target="_self" class="linkblue">Moving 
+                  your account</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../open_plan/op_1.html" target="_self" class="linkblue">Openplan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../current_accounts/cr_1_1.html" target="_self" class="linkblue">Product 
+                  index</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top"><img src="../imgs/site_map/more_right.gif" width="101" height="34" border="0" alt="" usemap="#Mapcurrent"></td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1"><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="444"> 
+      <!-- Savings and investments -->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="savingstop"></a><img src="../imgs/site_map/savings.gif" width="233" height="13" border="0" alt="" usemap="#saving_map"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../savings/si_1_2.html" target="_self" class="linkblue">Easy 
+                  access savings</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_2_1.html" target="_self" class="linkblue">Instant 
+                  Savings</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_2_2.html" target="_self" class="linkblue">e-Savings</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_2_7.html" target="_self" class="linkblue">Tracker 
+                  Savings </a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_2_6.html" target="_self" class="linkblue">Regular 
+                  Savings</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_2_3.html" target="_self" class="linkblue">30 
+                  Day Savings</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_2_4.html" target="_self" class="linkblue">60 
+                  Day Savings</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_2_5.html" target="_self" class="linkblue">Euro 
+                  savings</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../savings/si_1_3.html" target="_self" class="linkblue">Long 
+                  term investments</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_3_1.html" target="_self" class="linkblue">Long 
+                  term savings</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="153" height="1" border="0" alt=""><a href="../savings/si_1_3_1_2.html" target="_self" class="linkblue">Treasury 
+                  Deposits</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="153" height="1" border="0" alt=""><a href="../savings/si_1_3_1_1.html" target="_self" class="linkblue">Savings 
+                  Bonds</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_3_2.html" target="_self" class="linkblue">Equity 
+                  products</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="153" height="1" border="0" alt=""><a href="../savings/si_1_3_2_1.html" target="_self" class="linkblue">Stocks 
+                  and shares</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../savings/si_1_4.html" target="_self" class="linkblue">ISA 
+                  overview</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_4_3.html" target="_self" class="linkblue">Legal 
+                  &amp; General ISAs</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_4_4.html" target="_self" class="linkblue">Stockbroker 
+                  ISA</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_4_5.html" target="_self" class="linkblue">Mini 
+                  cash ISA</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_4_6.html" target="_self" class="linkblue">ISA 
+                  financial advice</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../savings/si_1_6.html" target="_self" class="linkblue">Financial 
+                  Advice service</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../open_plan/op_1.html" target="_self" class="linkblue">Openplan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../savings/si_1_5.html" target="_self" class="linkblue">ISA 
+                  guide</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_5_1.html" target="_self" class="linkblue">What 
+                  they are and how they work</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_5_2.html" target="_self" class="linkblue">The 
+                  two types of ISA: maxi &amp; mini</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_5_3.html" target="_self" class="linkblue">The 
+                  government standard - CAT</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_5_4.html" target="_self" class="linkblue">Choosing 
+                  your ISA</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../savings/si_1_5_5.html" target="_self" class="linkblue">TESSAs</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../savings/si_1_1.html" target="_self" class="linkblue">Savings 
+                  newsletter </a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#Mapsavings"></td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1" valign="top"><a name="savings"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="429"> 
+      <!-- Loans and Borrowing -->
+      <table border="0" cellspacing="0" cellpadding="0" width="447" height="420">
+        <tr> 
+          <td height="100%" rowspan="2" width="11"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="loanstop"></a><img src="../imgs/site_map/loans.gif" width="180" height="13" border="0" alt="" usemap="#loans_map"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../loans/lb_1_2.html" target="_self" class="linkblue">Barclayloan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../loans/lb_1_3.html" target="_self" class="linkblue">Personal 
+                  overdrafts</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../loans/lb_1_4.html" target="_self" class="linkblue">Professional 
+                  Study Loan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../loans/lb_1_5.html" target="_self" class="linkblue">Career 
+                  Development Loan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../loans/lb_1_6.html" target="_self" class="linkblue">Barclaycard</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../loans/lb_1_7.html" target="_self" class="linkblue">Which 
+                  is right for me?</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../loans/lb_1_8.html" target="_self" class="linkblue">Borrowing 
+                  - how much?</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../loans/lb_1_1.html" target="_self" class="linkblue">Product 
+                  index</a></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top" width="101"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#MapmortagaesMap"> 
+            <map name="MapmortagaesMap"> 
+              <area shape="circle" coords="14,16,10" onFocus="this.blur()" href="#savingstop" alt="Loans and borrowing" title="Loans and borrowing">
+              <area shape="circle" coords="87,15,9" onFocus="this.blur()" href="#mortgages" alt="Life and pensions" title="Life and pensions">
+            </map>
+          </td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1" valign="top"><a name="loans"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="529"> 
+      <!-- Mortgages -->
+      <table height="420" border="0" cellspacing="0" cellpadding="0" width="447">
+        <tr> 
+          <td height="100%" rowspan="2" width="11"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top" width="316"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="mortgagestop"></a><img src="../imgs/site_map/mortgages.gif" width="118" height="13" border="0" alt="" usemap="#mortgages_map"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="8" border="0" alt=""><a href="../mortgages/mr_1_3.html" target="_self" class="linkblue">Mortgage 
+                  types</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../mortgages/mr_1_3_1.html" target="_self" class="linkblue">Fixed 
+                  rate mortgage</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../mortgages/mr_1_3_2.html" target="_self" class="linkblue">Capped 
+                  rate mortgage</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../mortgages/mr_1_3_3.html" target="_self" class="linkblue">Discounted 
+                  rate mortgage</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../mortgages/mr_1_3_5.html" target="_self" class="linkblue">Tracker 
+                  mortgage</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../mortgages/mr_1_3_6.html" target="_self" class="linkblue">Remortgaging</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../mortgages/mr_1_3_7.html" target="_self" class="linkblue">Mortgage 
+                  reserve account</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../mortgages/mr_1_3_8.html" target="_self" class="linkblue">Valuation 
+                  service</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="http://www.woolwich.co.uk/bm/default.asp" target="_blank" class="linkblue">Product 
+                  Details </a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../open_plan/op_1.html" target="_self" class="linkblue">Openplan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../mortgages/mr_1_2.html" target="_self" class="linkblue">Product 
+                  index</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top" width="103"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#Mapmortagaes"></td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1" valign="top"><a name="mortgages"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""> 
+            <map name="Maploans"> 
+              <area shape="circle" onFocus="this.blur()" coords="86,17,10" href="#mortgages" alt="Mortgages" title="Mortgages">
+            </map>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="444"> 
+      <!-- Life & Pensions -->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="lifetop"></a><img src="../imgs/site_map/life.gif" width="188" height="13" border="0" alt="" usemap="#life_map"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life/lp_1_3.html" target="_self" class="linkblue">Stakeholder 
+                  pensions</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life/lp_1_4.html" target="_self" class="linkblue">Life 
+                  assurance</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life/lp_1_5.html" target="_self" class="linkblue">Protection 
+                  plans</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../life/lp_1_5_1.html" target="_self" class="linkblue">Income 
+                  protection</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../life/lp_1_5_2.html" target="_self" class="linkblue">Critical 
+                  Illness Cover</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../life/lp_1_5_3.html" target="_self" class="linkblue">Hospital 
+                  Cash Plan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../life/lp_1_5_4.html" target="_self" class="linkblue">Personal 
+                  Accident Plan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life/lp_1_6.html" target="_self" class="linkblue">Will 
+                  writing</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life/lp_1_7.html" target="_self" class="linkblue">Financial 
+                  advice</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life/lp_1_8.html" target="_self" class="linkblue">A 
+                  guide to personal finance</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../life/lp_1_8_1.html" target="_self" class="linkblue">Pensions</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../life/lp_1_8_2.html" target="_self" class="linkblue">Is 
+                  there a right time to invest</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../life/lp_1_8_3.html" target="_self" class="linkblue">How 
+                  much should you invest?</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life/lp_1_1.html" target="_self" class="linkblue">Product 
+                  index</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#Maplife"></td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1" valign="top"><a name="life"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="444"> 
+      <!-- Open Plan -->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="openplantop"></a><img src="../imgs/site_map/open_plan.gif" width="170" height="13" border="0" alt="" usemap="#life_mapMap"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="8" border="0" alt=""><a href="../open_plan/op_1.html" target="_self" class="linkblue">Guide 
+                  to Openplan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../open_plan/op_1_2.html" target="_self" class="linkblue">Openplan Money Manager</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../open_plan/op_1_3.html" target="_self" class="linkblue">Openplan Mortgage</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../open_plan/op_1_4.html" target="_self" class="linkblue">How 
+                  can I access Barclays Open </a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../open_plan/op_1_4.html" target="_self" class="linkblue">Plan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../open_plan/op_1_5.html" target="_self" class="linkblue">Case 
+                  Studies </a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../open_plan/op_2.html" target="_self" class="linkblue">How 
+                  to apply</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../open_plan/op_3.html" target="_self" class="linkblue">Interest 
+                  Rates </a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../open_plan/op_4.html" target="_self" class="linkblue">Questions</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#MaplifeMap"></td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1" valign="top"><a name="openplan"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+      <map name="life_mapMap"> 
+        <area shape="rect" onFocus="this.blur()" coords="2,2,36,12" href="../index.html" alt="Home" title="Home">
+        <area shape="rect" onFocus="this.blur()" coords="52,2,167,11" href="../open_plan/op_1.html" alt="Open Plan" title="Open plan">
+      </map>
+      <map name="MaplifeMap"> 
+        <area shape="circle" onFocus="this.blur()" coords="16,16,10" href="#lifetop" alt="Mortgages" title="Mortgages">
+        <area shape="circle" onFocus="this.blur()" coords="87,16,10" href="#insurance" alt="Insurance" title="Insurance">
+      </map>
+    </td>
+    <td valign="top" width="444"> 
+      <!-- Insurance -->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="insurancetop"></a><img src="../imgs/site_map/insurance.gif" width="115" height="13" border="0" alt="" usemap="#insurance_map"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../insurance/i_1_2.html" target="_self" class="linkblue">Health 
+                  insurance</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../insurance/i_1_2_1.html" target="_self" class="linkblue">Personal 
+                  Accident Plan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../insurance/i_1_2_2.html" target="_self" class="linkblue">Hospital 
+                  Cash Plan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../insurance/i_1_3.html" target="_self" class="linkblue">Car 
+                  insurance</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../insurance/i_1_4.html" target="_self" class="linkblue">Travel 
+                  insurance</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../insurance/i_1_4_1.html" target="_self" class="linkblue">Single-Trip</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../insurance/i_1_4_2.html" target="_self" class="linkblue">Multi-Trip</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../insurance/i_1_5.html" target="_self" class="linkblue">Home 
+                  insurance</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../insurance/i_1_5_1.html" target="_self" class="linkblue">Contents 
+                  insurance</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../insurance/i_1_5_2.html" target="_self" class="linkblue">Buildings 
+                  insurance</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../insurance/i_1_1.html" target="_self" class="linkblue">Product 
+                  index</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#Mapinsurance"></td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1" valign="top"><a name="insurance"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="444"> 
+      <!-- Travel -->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="traveltop"></a><img src="../imgs/site_map/travelling.gif" width="115" height="13" border="0" alt="" usemap="#travel_map"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../travel/ts_1_2.html" target="_self" class="linkblue">Travel 
+                  line</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../travel/ts_1_3.html" target="_self" class="linkblue">Travel 
+                  insurance</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../travel/ts_1_3_1.html" target="_self" class="linkblue">Single-Trip</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../travel/ts_1_3_2.html" target="_self" class="linkblue">Multi-Trip</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../travel/ts_1_4.html" target="_self" class="linkblue">Currency</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../travel/ts_1_4_1.html" target="_self" class="linkblue">Cash</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../travel/ts_1_4_2.html" target="_self" class="linkblue">Cards</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../travel/ts_1_4_3.html" target="_self" class="linkblue">Cheque</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../travel/ts_1_5.html" target="_self" class="linkblue">Travel 
+                  insurance guide</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../travel/ts_1_5_1.html" target="_self" class="linkblue">What's 
+                  right for you?</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../travel/ts_1_5_2.html" target="_self" class="linkblue">Costs 
+                  - &amp; where to get it</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../travel/ts_1_5_3.html" target="_self" class="linkblue">Last 
+                  minute cover</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../travel/ts_1_6.html" target="_self" class="linkblue">Currency 
+                  guide</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../travel/ts_1_6_1.html" target="_self" class="linkblue">Using 
+                  money abroad</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../travel/ts_1_6_2.html" target="_self" class="linkblue">Cash 
+                  and cheques</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../travel/ts_1_6_3.html" target="_self" class="linkblue">Debit 
+                  and credit cards</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../travel/ts_1_7.html" target="_self" class="linkblue">Travel 
+                  checklist</a></td>
+              </tr>
+			  <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../travel/ts_1_9.html" target="_self" class="linkblue">The 
+                  Euro </a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../travel/ts_1_1.html" target="_self" class="linkblue">Product 
+                  index</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#Maptravelling"></td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1" valign="top"><a name="travel"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="444"> 
+      <!-- Buying a home -->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="hometop"></a><img src="../imgs/site_map/home.gif" width="147" height="13" border="0" alt="" usemap="#home_map"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_1.html" target="_self" class="linkblue">How 
+                  to apply</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_3.html" target="_self" class="linkblue">Important 
+                  information</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_4.html" target="_self" class="linkblue">Borrowing 
+                  money</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_5.html" target="_self" class="linkblue">Which 
+                  mortgage?</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_7.html" target="_self" class="linkblue">Moving 
+                  your mortgage</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_8.html" target="_self" class="linkblue">Equity 
+                  release</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../open_plan/op_1.html" target="_self" class="linkblue">Openplan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_12.html" target="_self" class="linkblue">Jargon 
+                  buster!</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_6.html" target="_self" class="linkblue">Buying 
+                  for the first time?</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_6_1.html" target="_self" class="linkblue">Looking 
+                  around</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_6_2.html" target="_self" class="linkblue">What's 
+                  your budget?</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_6_3.html" target="_self" class="linkblue">Making 
+                  an offer</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_6_4.html" target="_self" class="linkblue">Sealing 
+                  the deal</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_6_5.html" target="_self" class="linkblue">What's 
+                  next?</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_9.html" target="_self" class="linkblue">Building 
+                  your own home</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_9_1.html" target="_self" class="linkblue">Funding 
+                  your project</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_9_2.html" target="_self" class="linkblue">Getting 
+                  the money</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_10.html" target="_self" class="linkblue">Home 
+                  improvements</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_10_1.html" target="_self" class="linkblue">Spaced 
+                  out</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_10_2.html" target="_self" class="linkblue">Utility 
+                  improvements</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_10_3.html" target="_self" class="linkblue">Repairs 
+                  and rewiring</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_10_4.html" target="_self" class="linkblue">House-dressing</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_10_5.html" target="_self" class="linkblue">Paying 
+                  for it all</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_11.html" target="_self" class="linkblue">Home 
+                  insurance</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_11_1.html" target="_self" class="linkblue">MortgageCare</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_11_2.html" target="_self" class="linkblue">Homewise 
+                  Select</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../buying_a_home/bh_1_11_3.html" target="_self" class="linkblue">Important 
+                  information</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#Maphome"></td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1" valign="top"><a name="home"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="444"> 
+      <!-- Premier -->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="premiertop"></a><img src="../imgs/site_map/premier.gif" width="152" height="13" border="0" alt="" usemap="#premier_map"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../premier/pr_1_2.html" target="_self" class="linkblue">Premier 
+                  Account Managers</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../premier/pr_1_3.html" target="_self" class="linkblue">Premier 
+                  Financial Planning</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../premier/pr_1_5.html" target="_self" class="linkblue">International 
+                  Premier Banking</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../premier/pr_1_4.html" target="_self" class="linkblue">It's 
+                  your money</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../premier/pr_1_4_1.html" target="_self" class="linkblue">Day 
+                  to day banking</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../premier/pr_1_4_2.html" target="_self" class="linkblue">Savings 
+                  and investment</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../premier/pr_1_4_4.html" target="_self" class="linkblue">Loans 
+                  &amp; overdrafts</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../premier/pr_1_4_5.html" target="_self" class="linkblue">Mortgages</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../premier/pr_1_7.html" target="_self" class="linkblue">Premier 
+                  Online Stockbroking Service</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../premier/pr_1_6.html" target="_self" class="linkblue">Premier 
+                  Banking applies...</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="8" border="0" alt=""><a href="../prem_open_plan/po_1.html" target="_self" class="linkblue">Openplan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td class="linkblue"><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../prem_open_plan/po_1_2.html" class="linkblue">Guide 
+                  to Openplan</a> </td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td class="linkblue"><img src="../imgs/shared/spacer.gif" width="153" height="1" border="0" alt=""><a href="../prem_open_plan/po_1_2.html" class="linkblue">Openplan Mortgage</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td class="linkblue"><img src="../imgs/shared/spacer.gif" width="153" height="1" border="0" alt=""><a href="../prem_open_plan/po_1_3.html" class="linkblue">Openplan Savings</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td class="linkblue"><img src="../imgs/shared/spacer.gif" width="153" height="1" border="0" alt=""><a href="../prem_open_plan/po_1_4.html" class="linkblue">Openplan Investments</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td class="linkblue"><img src="../imgs/shared/spacer.gif" width="153" height="1" border="0" alt=""><a href="../prem_open_plan/po_1_5.html" class="linkblue">How 
+                  can I access Openplan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td class="linkblue"><img src="../imgs/shared/spacer.gif" width="153" height="1" border="0" alt=""><a href="../prem_open_plan/po_1_6.html" class="linkblue">Case 
+                  Studies</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td class="linkblue"><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../prem_open_plan/po_2.html" class="linkblue">How 
+                  to apply </a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td class="linkblue"><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../prem_open_plan/po_3.html" class="linkblue">Interest 
+                  Rates</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td class="linkblue"><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../prem_open_plan/po_4.html" class="linkblue">Questions</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td class="linkblue"><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../premier/pr_1_8.html" class="linkblue">A 
+                  beginners guide to dealing</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top"> 
+            <div align="center"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#Mappremier"></div>
+          </td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1" valign="top"><a name="premier"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="444"> 
+      <!-- Student -->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="studenttop"></a><img src="../imgs/site_map/student.gif" width="155" height="13" border="0" alt="" usemap="#student"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../student/sg_1_2.html" target="_self" class="linkblue">Student 
+                  package</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../student/sg_1_2_1.html" target="_self" class="linkblue">Borrowing 
+                  money</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../student/sg_1_2_2.html" target="_self" class="linkblue">Freebies</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../student/sg_1_2_3.html" target="_self" class="linkblue">Student 
+                  Barclaycard</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../student/sg_1_2_4.html" target="_self" class="linkblue">Instant 
+                  Access Savings</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../student/sg_1_2_5.html" target="_self" class="linkblue">How 
+                  to apply</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../student/sg_1_3.html" target="_self" class="linkblue">Graduate 
+                  package</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../student/sg_1_3_1.html" target="_self" class="linkblue">Overdrafts 
+                  &amp; loans</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../student/sg_1_3_8.html" target="_self" class="linkblue">Latest 
+                  great deal</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../student/sg_1_3_3.html" target="_self" class="linkblue">Graduate 
+                  Barclaycard</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../student/sg_1_3_4.html" target="_self" class="linkblue">Professional 
+                  Studies Loan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../student/sg_1_3_5.html" target="_self" class="linkblue">Career 
+                  Development Loan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../student/sg_1_3_6.html" target="_self" class="linkblue">Business 
+                  start-up</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../student/sg_1_3_7.html" target="_self" class="linkblue">How 
+                  to apply</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="http://www.international.banking.barclays.com/student/main.html" target="_self" class="linkblue">International 
+                  student package</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../student/sg_1_4.html" target="_self" class="linkblue">Online 
+                  Banking</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../student/sg_1_5.html" target="_self" class="linkblue">Travel</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../open_plan/op_1.html" target="_self" class="linkblue">Openplan</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../student/sg_1_7.html" target="_self" class="linkblue">Essential 
+                  information</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../student/sg_1_6.html" target="_self" class="linkblue">Find 
+                  out more</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../student/sg_1_1.html" target="_self" class="linkblue">Product 
+                  index</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#Mapstudent"></td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1" valign="top"><a name="student"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="444"> 
+      <!--Telephone-->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="lifechangestop"></a><img src="../imgs/site_map/life_changes.gif" width="145" height="13" border="0" alt="" usemap="#lifechangesMap"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life_changes/lc_1_1.html" target="_self" class="linkblue">A 
+                  new baby</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life_changes/lc_1_2.html" target="_self" class="linkblue">Retirement</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life_changes/lc_1_3.html" target="_self" class="linkblue">Disability</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life_changes/lc_1_4.html" target="_self" class="linkblue">Divorce 
+                  and separation</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life_changes/lc_1_5.html" target="_self" class="linkblue">Redundancy, 
+                  unemployment and career</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life_changes/lc_1_5.html" target="_self" class="linkblue">breaks</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../life_changes/lc_1_6.html" target="_self" class="linkblue">How 
+                  to register</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#MaplifechangesMap"></td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1" valign="top"><a name="lifechanges"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+      <map name="lifechangesMap"> 
+        <area shape="rect" onFocus="this.blur()" coords="2,2,36,12" href="../index.html" alt="Home" title="Home">
+        <area shape="rect" onFocus="this.blur()" coords="52,2,145,11" href="../life_changes/lc_1.html" alt="Life changes" title="Life changes">
+      </map>
+      <map name="MaplifechangesMap"> 
+        <area shape="circle" onFocus="this.blur()" coords="16,16,11" href="#studenttop" alt="Student services" title="Student services">
+        <area shape="circle" onFocus="this.blur()" coords="86,15,11" href="#telephone" alt="Telephone" title="Telephone">
+      </map>
+      <map name="telephone_mapMap"> 
+        <area shape="rect" onFocus="this.blur()" coords="2,2,38,11" href="../index.html" alt="Home" title="Home">
+        <area shape="rect" onFocus="this.blur()" coords="54,1,163,11" href="../telephone/tb_1.html" alt="Telephone Banking" title="Telephone Banking">
+      </map>
+      <map name="MaptelephoneMap"> 
+        <area shape="circle" onFocus="this.blur()" coords="15,16,10" href="#studenttop" alt="Student services" title="Student services">
+        <area shape="circle" onFocus="this.blur()" coords="86,15,11" href="#lifechanges" alt="Online Banking" title="Online Banking">
+      </map>
+    </td>
+    <td valign="top" width="444"> 
+      <map name="lifechanges"> 
+        <area shape="rect" onFocus="this.blur()" coords="2,2,36,12" href="../index.html" alt="Home" title="Home">
+        <area shape="rect" onFocus="this.blur()" coords="52,2,145,11" href="../life_changes/lc_1.html" alt="Life changes" title="Life changes">
+      </map>
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="3%"><a name="telephonetop"></a><img src="../imgs/site_map/telephone.gif" width="166" height="13" border="0" alt="" usemap="#telephone_mapMapMap"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../telephone/tb_1_2.html" target="_self" class="linkblue">Guide 
+                  to Telephone Banking?</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../telephone/tb_1_2_1.html" target="_self" class="linkblue">It's 
+                  simple</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../telephone/tb_1_2_2.html" target="_self" class="linkblue">It's 
+                  safe</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../telephone/tb_1_2_3.html" target="_self" class="linkblue">It's 
+                  convenient</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../telephone/tb_1_2_4.html" target="_self" class="linkblue">It's 
+                  comprehensive</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../telephone/tb_1_1.html" target="_self" class="linkblue">How 
+                  to apply</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#MaptelephoneMapMap"></td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="1" valign="top"> 
+            <a name="telephone"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+      <map name="telephone_mapMapMap"> 
+        <area shape="rect" onFocus="this.blur()" coords="2,2,38,11" href="../index.html" alt="Home" title="Home">
+        <area shape="rect" onFocus="this.blur()" coords="54,1,163,11" href="../telephone/tb_1.html" alt="Telephone Banking" title="Telephone Banking">
+      </map>
+      <map name="MaptelephoneMapMap"> 
+        <area shape="circle" onFocus="this.blur()" coords="15,16,10" href="#lifechangestop" alt="Life changes" title="Life changes">
+        <area shape="circle" onFocus="this.blur()" coords="86,14,11" href="#banking" alt="Online Banking" title="Online Banking">
+      </map>
+      <map name="Maplifechanges"> 
+        <area shape="circle" onFocus="this.blur()" coords="16,16,11" href="#studenttop" alt="Student services" title="Student services">
+        <area shape="circle" onFocus="this.blur()" coords="86,16,11" href="#telephone" alt="Telephone" title="Telephone">
+      </map>
+    </td>
+    <td valign="top" width="444"> 
+      <!-- Online Banking-->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="bankingtop"></a><img src="../imgs/site_map/online.gif" width="148" height="13" border="0" alt="" usemap="#online_banking"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../online_banking/ob_1_2.html" target="_self" class="linkblue">Why 
+                  bank online?</a></td>
+              </tr>
+             
+            
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+			  <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><A href="../online_banking/ob_1_3.html" target="_self" class="linkblue">Security</A></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><A href="../online_banking/ob_1_2_1.html" target="_self" class="linkblue">How 
+                  to get online</A></td>
+              </tr>
+			  <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../online_banking/ob_1_3_1.html" target="_self" class="linkblue">Frequently asked questions</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../online_banking/ob_1_1.html" target="_self" class="linkblue">How 
+                  to apply</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#Mapbanking"></td>
+      
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="444"> 
+      <!--Wap
+-->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2" width="11"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top" width="315"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><a name="waptop"></a><img src="../imgs/site_map/wap_banking.gif" width="136" height="13" border="0" alt="" usemap="#Map"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../wap/index.html" target="_self" class="linkblue">Introduction</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top" width="101"><img src="../imgs/site_map/more.gif" width="101" height="34" border="0" alt="" usemap="#wapforward"> 
+            <map name="wapforward"> 
+              <area shape="circle" onFocus="this.blur()" coords="15,16,10" href="#bankingtop" alt="Online Banking" title="Online Banking">
+              <area shape="circle" coords="86,14,11" href="#last" alt="Disabled Banking" title="Disabled Banking">
+            </map>
+          </td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="20" valign="top"><a name="wap"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+      <map name="MapdisabledMap"> 
+        <area shape="circle" onFocus="this.blur()" coords="16,16,10" href="#waptop" alt="WAP Banking" title="WAP Banking">
+      </map>
+    </td>
+    <td valign="top" width="444"> 
+      <!-- Disabled -->
+      <table height="420" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="100%" rowspan="2" width="11"><img src="../imgs/shared/spacer.gif" width="11" height="1" border="0" alt=""></td>
+          <td valign="top" width="315"> 
+            <table width="315" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="13"><img src="../imgs/site_map/disabled.gif" width="159" height="13" border="0" alt="" usemap="#disabledMap"></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../disabled_services/ds_1_1.html" target="_self" class="linkblue">How 
+                  to access</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../disabled_services/ds_1_2.html" target="_self" class="linkblue">In-branch</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../disabled_services/ds_1_2_1.html" target="_self" class="linkblue">Access</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="ds_1_8.html" target="_self" class="linkblue">Help 
+                  for people with a learning disability</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../disabled_services/ds_1_7.html" target="_self" class="linkblue">Can 
+                  we help?</a></td>
+              </tr>
+			  <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../disabled_services/ds_1_6.html" target="_self" class="linkblue">Our 
+                  Disability unit</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../disabled_services/ds_1_3.html" target="_self" class="linkblue">Banking 
+                  at home</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../disabled_services/ds_1_3_1.html" target="_self" class="linkblue">Online 
+                  Banking</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../disabled_services/ds_1_3_2.html" target="_self" class="linkblue">Telephone 
+                  Banking</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../disabled_services/ds_1_4.html" target="_self" class="linkblue">Alternative 
+                  formats</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../disabled_services/ds_1_4_1.html" target="_self" class="linkblue">Your 
+                  personal information</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../disabled_services/ds_1_4_2.html" target="_self" class="linkblue">Information 
+                  booklets</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../disabled_services/ds_1_4_3.html" target="_self" class="linkblue">Shopping 
+                  problems</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="55" height="1" border="0" alt=""><a href="../disabled_services/ds_1_5.html" target="_self" class="linkblue">Hearing 
+                  &amp; being heard</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../disabled_services/ds_1_5_1.html" target="_self" class="linkblue">Communicate 
+                  in our branches</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../disabled_services/ds_1_5_1.html" target="_self" class="linkblue">&amp; 
+                  at home</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../disabled_services/ds_1_5_2.html" target="_self" class="linkblue">Sign 
+                  language</a></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="1" height="2" border="0" alt=""></td>
+              </tr>
+              <tr> 
+                <td><img src="../imgs/shared/spacer.gif" width="114" height="1" border="0" alt=""><a href="../disabled_services/ds_1_5_3.html" target="_self" class="linkblue">How 
+                  it works in practice</a></td>
+              </tr>
+            </table>
+          </td>
+          <td height="100%" rowspan="2" valign="top" width="101"><img src="../imgs/site_map/more_left.gif" width="101" height="34" border="0" alt="" usemap="#MapdisabledMap"></td>
+          <td height="100%" rowspan="2" bgcolor="#CCCCFF" width="20" valign="top"><a name="last"></a><img src="../imgs/shared/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- Image Maps -->
+<map name="topNav"> 
+  <area shape="rect" onFocus="this.blur()" coords="34,5,61,16" href="../help/info_5.html" target="_legal" alt="legal" title="legal">
+  <area shape="rect" onFocus="this.blur()" coords="120,4,168,16" href="../feedback/feedback.htm" target="_ibank" alt="Contact us" title="feedback">
+  <area shape="rect" onFocus="this.blur()" coords="203,5,279,17" href="http://www.newsroom.barclays.co.uk" target="_newsb" alt="about barclays" title="about barclays">
+  <area shape="rect" onFocus="this.blur()" coords="312,4,360,16" href="../site_map/site_map.html" alt="site map" title="site map">
+  <area shape="rect" onFocus="this.blur()" coords="405,4,460,17" href="../help/info_1.html" target="_info" alt="useful info" title="useful info">
+</map>
+<map name="logReg"> 
+  <area shape="rect" onFocus="this.blur()" coords="-2,6,77,17" href="../redirects/login.html" alt="log-in to ibank" title="log-in to ibank" target="_self">
+  <area shape="rect" onFocus="this.blur()" coords="85,7,178,18" href="../redirects/register.html" alt="register for ibank" title="register for ibank"> 
+</map> <map name="current_map"> 
+  <area shape="rect" onFocus="this.blur()" coords="2,2,36,11" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="53,1,154,12" href="../current_accounts/cr_1.html" alt="Current accounts" title="Current accounts">
+</map>
+<map name="saving_map"> 
+  <area shape="rect" onFocus="this.blur()" coords="3,1,35,13" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="57,3,223,10" href="../savings/si_1.html" alt="Savings &amp; investment" title="Savings &amp; investment">
+</map>
+<map name="loans_map"> 
+  <area shape="rect" onFocus="this.blur()" coords="0,2,35,11" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="54,2,175,11" href="../loans/lb_1.html" alt="Loans and borrowing" title="Loans and borrowing">
+</map>
+<map name="mortgages_map"> 
+  <area shape="rect" onFocus="this.blur()" coords="1,2,37,12" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="53,2,113,11" href="../mortgages/mr_1.html" alt="Mortgages" title="Mortgages">
+</map>
+<map name="life_map"> 
+  <area shape="rect" onFocus="this.blur()" coords="2,2,36,12" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="52,2,185,11" href="../life/lp_1.html" alt="Life &amp; pensions" title="Life &amp; pensions">
+</map>
+<map name="insurance_map"> 
+  <area shape="rect" onFocus="this.blur()" coords="1,2,38,13" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="52,2,113,11" href="../insurance/i_1.html" alt="Insurance" title="Insurance">
+</map>
+<map name="travel_map"> 
+  <area shape="rect" onFocus="this.blur()" coords="3,2,35,11" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="53,2,113,11" href="../travel/ts_1.html" alt="Travelling" title="Travelling">
+</map>
+<map name="home_map"> 
+  <area shape="rect" onFocus="this.blur()" coords="2,1,38,11" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="55,2,146,13" href="../buying_a_home/bh_1.html" alt="Buying a home" title="Buying a home">
+</map>
+<map name="student"> 
+  <area shape="rect" onFocus="this.blur()" coords="1,2,34,12" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="53,2,151,11" href="../student/sg_1.html" alt="Student services" title="Student services">
+</map>
+<map name="disabled"> 
+  <area shape="rect" onFocus="this.blur()" coords="2,1,38,11" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="54,2,164,10" href="../disabled_services/ds_1.html" alt="Disabled banking" title="Disabled banking">
+</map>
+<map name="premier_map"> 
+  <area shape="rect" onFocus="this.blur()" coords="3,1,49,12" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="54,2,150,12" href="../premier/pr_1.html" alt="Premier banking" title="Premier banking">
+</map>
+<map name="telephone_map"> 
+  <area shape="rect" onFocus="this.blur()" coords="2,2,38,11" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="54,1,163,11" href="../telephone/tb_1.html" alt="Telephone Banking" title="Telephone Banking">
+</map>
+<map name="online_banking"> 
+  <area shape="rect" onFocus="this.blur()" coords="2,2,38,10" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" onFocus="this.blur()" coords="52,2,146,12" href="../online_banking/ob_1.html" alt="Online Banking" title="Online Banking">
+</map>
+<!-- more image maps -->
+<map name="Mapcurrent"> 
+  <area shape="circle" onFocus="this.blur()" coords="86,15,9" href="#savings" alt="Savings and investments" title="Savings and investments">
+</map>
+<map name="Mapsavings"> 
+  <area shape="circle" onFocus="this.blur()" coords="15,15,9" href="#current" alt="Current accounts" title="Current accounts">
+  <area shape="circle" onFocus="this.blur()" coords="86,15,9" href="#loans" alt="Loans and borrwing" title="Loans and borrwing">
+</map>
+<map name="Mapmortagaes"> 
+  <area shape="circle" coords="15,16,10" onFocus="this.blur()" href="#loanstop" alt="Loans and borrowing" title="Loans and borrowing">
+  <area shape="circle" coords="87,15,9" onFocus="this.blur()" href="#life" alt="Life and pensions" title="Life and pensions">
+</map>
+<map name="Maplife"> 
+  <area shape="circle" onFocus="this.blur()" coords="16,16,10" href="#mortgagestop" alt="Mortgages" title="Mortgages">
+  <area shape="circle" onFocus="this.blur()" coords="87,17,10" href="#openplan" alt="Insurance" title="Insurance">
+</map>
+<map name="Mapinsurance"> 
+  <area shape="circle" onFocus="this.blur()" coords="15,16,10" href="#openplantop" alt="Life and pensions" title="Life and pensions">
+  <area shape="circle" onFocus="this.blur()" coords="86,15,9" href="#travel" alt="Travelling" title="Travelling">
+</map>
+<map name="Maptravelling"> 
+  <area shape="circle" onFocus="this.blur()" coords="16,16,10" href="#insurancetop" alt="Insurance" title="Insurance">
+  <area shape="circle" onFocus="this.blur()" coords="86,14,10" href="#home" alt="Buying a home" title="Buying a home">
+</map>
+<map name="Maphome"> 
+  <area shape="circle" onFocus="this.blur()" coords="14,16,11" href="#traveltop" alt="Travelling" title="Travelling">
+  <area shape="circle" onFocus="this.blur()" coords="86,16,10" href="#premier" alt="Premier banking" title="Premier banking">
+</map>
+<map name="Mappremier"> 
+  <area shape="circle" onFocus="this.blur()" coords="16,16,11" href="#hometop" alt="Buying a home" title="Buying a home">
+  <area shape="circle" onFocus="this.blur()" coords="86,16,11" href="#student" alt="Student services" title="Student services">
+</map>
+<map name="Mapstudent"> 
+  <area shape="circle" onFocus="this.blur()" coords="16,16,11" href="#premiertop" alt="Premier banking" title="Premier banking">
+  <area shape="circle" onFocus="this.blur()" coords="86,16,11" href="#lifechanges" alt="Life changes" title="Life changes">
+</map>
+<map name="Maptelephone"> 
+  <area shape="circle" onFocus="this.blur()" coords="15,16,10" href="#studenttop" alt="Student services" title="Student services">
+  <area shape="circle" onFocus="this.blur()" coords="86,16,11" href="#banking" alt="Online Banking" title="Online Banking">
+</map>
+<map name="Mapbanking"> 
+  <area shape="circle" onFocus="this.blur()" coords="16,16,10" href="#telephonetop" alt="Telephone" title="Telephone">
+  <area shape="circle" onFocus="this.blur()" coords="86,15,10" href="#wap" alt="WAP Banking" title="WAP Banking">
+</map>
+<map name="Mapdisabled"> 
+  <area shape="circle" onFocus="this.blur()" coords="15,16,10" href="#bankingtop" alt="Online Banking" title="Online Banking">
+</map>
+<map name="Map"> 
+  <area shape="rect" coords="0,1,37,13" href="../index.html" alt="Home" title="Home">
+  <area shape="rect" coords="55,1,132,12" href="../wap/index.html" alt="WAP Banking" title="WAP Banking">
+</map>
+<map name="disabledMap"> 
+  <area shape="rect" coords="1,1,39,12" href="../index.html" alt="Home" title="Home">
+</map>
+</body>
+</html>
+				
+									
+									

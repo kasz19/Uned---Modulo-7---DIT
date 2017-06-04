@@ -1,0 +1,696 @@
+ID=C0038
+URL=http://www.1st-on-line.com/auto_domestic/dom_veh_qq_form.asp
+SIZE=15685
+DATE=10/07/2002
+TIME=13:17:06
+DATASET=Insurance Agencies
+HTML=
+<html>
+<head>
+<title>FIRSTONLINE INSURANCE BROKERS</title>
+<script language="javascript">
+<!-- 
+
+
+function trimString (str) 
+{//trims away leading & trailing spaces
+  while (str.charAt(0) == ' ')
+    str = str.substring(1);
+  while (str.charAt(str.length - 1) == ' ')
+    str = str.substring(0, str.length - 1);
+  return str;
+}
+
+function checkData(checkfield,fieldname,type)
+{
+//function checks 'checkfield' for 'type' of data
+//displays error with relation to 'fieldname'
+//types are: alpha,digit,ralpha,rdigit
+//if r is placed in front of type field is required
+var checkOK='';
+var typeString='';
+var checkStr = trimString(new String(checkfield));//trim the string
+var allValid = true;
+var requiredValid = true;
+var decPoints = 0;
+var allNum = "";
+
+	//if r is first letter of type check the strip it off
+	var typeCheck = (type.substring(0,1)=='r') ? type.substring(1,type.length) : type;
+	
+	//what type of check are we doing
+	if (typeCheck == "alpha")
+	{
+		var checkOK="abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ'.,*/+-_;:@'\"0123456789";
+		var typeString="alphanumeric";
+	}
+	else if (typeCheck =="digit")
+	{
+		var checkOK = "0123456789-.,";
+		var typeString="numeric";		
+	}
+	else if (typeCheck =="email" && RegExp) //object detect RegeExp
+	{
+		//var emailReg = "^[\\w-_\.]*[\\w-_\.]\@[\\w]\.+[\\w]+[\\w]$";
+    	//var regex = new RegExp(emailReg);     	
+		var regex = /^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/;
+		if (!regex.test(checkStr) && checkStr.length != 0)
+		{
+			alert(fieldname+" is not a vaild email address.");
+			requiredValid = false;
+		}
+	}
+	//end of what type of check are we doing
+		
+	if (type.substring(0,1)=="r"  && checkStr.length==0)
+	{
+		alert(fieldname + " is a required field");
+		requiredValid = false
+	}
+    
+  	if (checkStr == ".")
+ 	{
+  	allValid = false
+	}
+
+	if (checkOK != '')
+	{	
+  		for (i = 0;  i < checkStr.length;  i++)
+  		{
+    		ch = checkStr.charAt(i);
+    		for (j = 0;  j < checkOK.length;  j++)
+      			if (ch == checkOK.charAt(j))
+        			break;
+    		if (j == checkOK.length)
+    		{
+      			allValid = false;
+      			break;
+    		}
+    		if (ch == ".")
+    		{
+      			allNum += ".";
+      			decPoints++;
+    		}
+    		else if (ch != ",")
+      			allNum += ch;
+  		}
+	}	  
+
+  	if (!allValid)
+  	{
+    	alert("Please enter only "+typeString+" characters in the "+fieldname);
+    	return (false);
+  	}
+
+  	if (decPoints > 1)
+  	{
+    	alert("Please enter a valid number in "+fieldname);
+    	return (false);
+  	}
+	
+  	return true && requiredValid;
+ }
+ 
+ function radioValidator(theRadio,radioName,limit)
+ {
+ 	//chech the radio or check box group
+ 	//the radio group is represented by an array
+ 	//of radio button
+	if (!limit)
+		var limit = 1;
+ 	var valid = true;
+	var checkedNumber = 0;
+ 	var radioChecked=false; //used to check if any of the radio buttons checked
+ 	//loop through radio buttons
+ 	for (var index=0;index<theRadio.length;index++)
+ 	{	
+ 		if (theRadio[index].checked)
+		{
+			radioChecked=true;
+			checkedNumber++;
+		}
+ 	}
+ 	if (!radioChecked) // have they filled it out
+ 	{
+		alert("Please answer " + radioName);
+		valid = false;
+ 	}
+	if (checkedNumber > limit) // have they checked too many
+	{
+		alert("Please select only " + limit + " value(s) for " + radioName);
+		valid = false;
+	}
+
+	return valid;
+ }
+ 
+ function formValidator(theForm,elementsArray,nameArray,typeArray)
+ {
+ 	var ok = true;
+ 	for (var index=0;index<elementsArray.length;index++)
+	{
+		if (typeArray[index].substring(0,5) == "radio")
+		{
+			var limit = typeArray[index].substring(5,7);
+			if (!limit)
+				limit=1;
+			evalString = "radioValidator(theForm."+elementsArray[index]+",'"+nameArray[index]+"',"+limit+")";
+		}
+		else
+			evalString = "checkData(theForm."+elementsArray[index]+".value,"+"'"+nameArray[index]+"','"+typeArray[index]+"')";
+			
+		if ( eval(evalString) )
+			ok=ok && true		
+		else
+			ok=ok && false		
+	}
+	return ok;		
+ }
+
+function checkForm(theForm)
+{
+	var fieldArray = new Array("password","title","fname","lname","email","address","postcode","telephone","coverDate","annualMileage","garagedOvernight","carMake","carModel","carType","carRegLetter","carYear","carEngine","carDoors","carFuel","carValue","driverRestrictions","driver1Dob","driver1Occupation","businessUse1","driver1TestDate","noClaimsBonusYears");
+	var nameArray = new Array("Password","Title","First Name(s)","Last Name","E-mail","Address","Postcode","Telephone","Date of Cover","Annual Mileage","Garaged Overnight","Make of Vehicle","Model","Type","Reg Number","Year of Manufacture","Engine Size","Doors","Fuel Type","Value","Driver Restrictions","Driver 1, Date of Birth","Driver 1, Occupation","Driver1, Business use required","Driver 1, Date UK test passed","No Claims Bonus");
+	var typeArray = new Array("ralpha","r","ralpha","r","remail","r","r","r","r","r","radio1","r","r","r","r","r","r","r","r","r","r","r","r","radio1","r","r");
+	return formValidator(theForm,fieldArray,nameArray,typeArray);
+}
+//-->
+</script>
+</head>
+<BODY   BGCOLOR="#99ff66"  TEXT="#000000" LINK="#000000" VLINK="#000000" ALINK="#000000" marginwidth=0 marginheight=0>
+<!---outer table-----><table cellpadding=0 cellspacing=0 border=0 width=100% height=100%>
+<tr valign=top><td height=1><img src=../pics/line.gif width=610 height=1 border=0></td></tr>
+
+
+<tr valign=top><td align=left>
+
+<!---home table----->
+<table cellpadding=0 cellspacing=0 border=0>
+
+<tr valign=top>
+<td align=right>&nbsp;<br>
+</tr>
+
+<tr><td>
+
+
+
+<table border=0 cellpadding=5 width=500><!---FORM FIELDS TABLE--->
+
+<tr valign=top>
+
+<td colspan=2>
+<font size=4 face=arial,helvetica color="6699cc"><b>
+1st-on-line MOTOR INSURANCE APPLICATION</b>
+</font></td>
+</tr>
+
+
+<tr valign=top>
+<td align=left colspan=2>
+<form name="carForm" action="dom_veh_process_form.asp" method="POST">
+<input type=hidden name="recipient" value="symonweedon@waveney-insurance.co.uk,macrae@cqm.co.uk">
+
+<font face=arial,helvetica size=2>
+
+<b>STOP!</b><p>
+
+As part of our policy of continuously improving our service, you now have a choice of motor insurance options:<p>
+
+<ul>
+
+<li><b><a href="dom_veh_qq_form.asp">QuickQuote</a></b><br>
+Our QuickQuote service is available 24 hours a day and means you will get an immediate response to your enquiry, which involves a short, easy-to-complete online application.</li>
+<p>
+
+<li><b>SmartQuote</b><br>
+Our SmartQuote service is available during normal office hours (9am - 5pm Mon - Fri). Your enquiry will be responded to within 60 minutes, and you will benefit from the personal attention of one of our experienced brokers. For this reason, SmartQuote may result in a cheaper quotation. Please complete the form below to request a <b>SmartQuote</b> motor insurance quotation</li>
+
+</ul>
+
+<p>
+<hr>
+<b>SmartQuote</b> Motor Insurance Application</b><p>
+</font></td>
+</tr>
+
+
+<font face=arial,helvetica size=2>
+<b>Please complete the form below to request a motor insurance quotation</b><p>
+
+
+</font></td>
+</tr>
+
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Password</b></font><br>
+<font size=1 face=arial,helvetica>You will use this to access your on-line quotation after we notify you that it is ready.<br>(One word, use letters; a-z and numbers; 0-9 only.)</font></td><td><input type="text" name="password" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Title</b></font></td><td><input type="text" name="title" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+First Name(s)</b></font></td><td><input type="text" name="fname" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Surname</b></font></td><td><input type="text" name="lname" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Address</b></font></td><td><TEXTAREA NAME="address" ROWS=8 COLS=46></TEXTAREA></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Postcode</b></font></td><td><input type="text" name="postcode" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+E-mail</b></font></td><td><input type="text" name="email" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Telephone No.</b></font></td><td><input type="text" name="telephone" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Date of Cover</b></font></td><td><input type="text" name="coverDate" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Annual Mileage</b></font></td><td><input type="text" name="annualMileage" size=50><br>
+<font face=arial,helvetica size=1>We can offer discounts for low mileage.</font>
+</td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Garaged Overnight</b></font></td><td>
+<font face=arial,helvetica size=2>
+<input type="checkbox" name="garagedOvernight" size=50 value="Yes"> Yes
+<input type="checkbox" name="garagedOvernight" size=50 value="No"> No<p>
+</font>
+</td>
+</tr>
+
+
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Make of Vehicle</b></font></td><td><input type="text" name="carMake" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Model</b></font></td><td><input type="text" name="carModel" size=50><br>
+<font face=arial,helvetica size=1>eg. Escort</font></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Type</b></font></td><td><input type="text" name="carType" size=50><br>
+<font face=arial,helvetica size=1>eg. L/LX etc.</font></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Reg. Letter</b></font></td><td><input type="text" name="carRegLetter" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Year of Manufacture</b></font></td><td><input type="text" name="carYear" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Engine Size</b></font></td><td><input type="text" name="carEngine" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Doors</b></font></td><td>
+
+<select NAME="carDoors">
+	<option value="">Please select
+<option value="1">1
+<option value="2">2		
+<option value="3">3		
+<option value="4">4		
+<option value="5">5
+</select>
+</td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Fuel Type</b></font></td><td>
+
+<select NAME="carFuel">
+	<option value="">Please select
+<option value="Petrol">Petrol
+<option value="Diesel">Diesel		
+<option value="LPG">LPG		
+</select>
+
+</td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Value</b></font></td><td><input type="text" name="carValue" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Driver Restrictions</b></font></td>
+<td>
+<select NAME="driverRestrictions">
+	<option value="">Please select
+<option value="InsuredOnly">Insured Only
+<option value="InsuredSpouse">Insured & Spouse			
+<option value="InsuredNamed">Insured & Named	
+</select>
+</td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<b>Driver 1</b></font></td>
+<td></td>
+</tr>
+
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Date of Birth</B></font></td>
+<td><input type="text" name="driver1Dob" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Occupation</B></font></td><td><input type="text" name="driver1Occupation" size=50><br>
+<font face=arial,helvetica size=1>Please give accurate details,<br>eg: Accountant  - Engineering Company</font></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Business use required?</B></font></td><td>
+<font face=arial,helvetica size=2>
+<input type="checkbox" name="businessUse1" size=50 value="Yes"> Yes
+<input type="checkbox" name="businessUse1" size=50 value="No"> No
+</font>
+</td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Date UK test passed</B></font></td>
+<td><input type="text" name="driver1TestDate" size=10></td>
+</tr>
+
+<!--------convictions-----
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Conviction Details</b><br>(if applicable)</font></td>
+<td>Date<input type="text" name="driver1ConvictionDate" size=10>
+Fine<input type="text" name="driver1ConvictionFine" size=10></td>
+</tr> ------>
+
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<b>Driver 2</b></font></td>
+<td></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Driver 2 Full Name</b></font></td>
+<td><input type="text" name="driver2Name" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Date of Birth</B></font></td>
+<td><input type="text" name="driver2Dob" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Occupation</B></font></td>
+<td><input type="text" name="driver2Occupation" size=50><br>
+<font face=arial,helvetica size=1>Please give accurate details,<br>eg: Accountant  - Engineering Company</font></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Business use required?</B></font></td><td>
+<font face=arial,helvetica size=2>
+<input type="checkbox" name="businessUse2" size=50 value="Yes"> Yes
+<input type="checkbox" name="businessUse2" size=50 value="No"> No
+</font>
+</td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Date UK test passed</B></font></td>
+<td><input type="text" name="driver2TestDate" size=10></td>
+</tr> 
+
+
+<!-----out till advised---
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Conviction Details</b><br>(if applicable)</font></td>
+<td>Date<input type="text" name="driver2ConvictionDate" size=10>
+Fine <input type="text" name="driver2ConvictionFine" size=10></td>
+</tr>----->
+
+
+<!------driver 3--->
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<b>Driver 3</b></font></td>
+<td></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Driver 3 Full Name</b></font></td>
+<td><input type="text" name="driver3Name" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Date of Birth</B></font></td>
+<td><input type="text" name="driver3Dob" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Occupation</B></font></td>
+<td><input type="text" name="driver3Occupation" size=50><br>
+<font face=arial,helvetica size=1>Please give accurate details,<br>eg: Accountant  - Engineering Company</font></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Business use required?</B></font></td><td>
+<font face=arial,helvetica size=2>
+<input type="checkbox" name="businessUse3" size=50 value="Yes"> Yes
+<input type="checkbox" name="businessUse3" size=50 value="No"> No
+</font>
+</td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Date UK test passed</B></font></td>
+<td><input type="text" name="driver3TestDate" size=10></td>
+</tr> 
+
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<b>Convictions</b></font></td>
+<td><font face=arial,helvetica size=2>If you have any motoring convictions in the last 5 years
+please list codes, dates & driver No. below.</font><br>
+<TEXTAREA NAME="convictions" ROWS=8 COLS=46></TEXTAREA></td>
+</tr>
+
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<b>Accident/Claim</b></font></td>
+<td></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<b>Involved Driver No:</b></font></td>
+<td><input type="text" name="claimInvolvedDriverNumber" size=10></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Date of Incident</b></font></td><td><input type="text" name="incidentDate" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Cost of Claim</b></font></td><td><input type="text" name="claimCost" size=50></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Claim Type</b></font></td><td>
+<select NAME="claimType">
+	<option value="0">Please select
+<option value="Fault">Fault
+<option value="NonFault">Non Fault
+<option value="Theft">Theft
+<option value="Fire">Fire	
+</select>
+</td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<b>Cover</b></font></td>
+<td></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Type of Cover</b></font></td><td>
+<select NAME="coverType">
+	<option value="0">Please select
+<option value="Comp">Comprehensive
+<option value="TPFaT">Third Party, Fire & Theft
+<option value="TP">Fire & Theft only
+</select><br>
+<font face=arial,helvetica size=1>Please note that all policies carry a minimum £100 excess for own damage and/or fire and theft claims, which may be increased by compulsory policy excesses for young or inexperienced drivers.<br>&nbsp;</font>
+</td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<b>Use</b></font></td>
+<td></td>
+</tr>
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2><b>
+Use required</b></font></td><td><font face=arial,helvetica size=2>
+Social, Domestic and Pleasure PLUS . . .</font><br>
+<select NAME="useRequired">
+	<option value="0">Please select
+<option value="SD+P+Com">Commuting
+<option value="SD+P+PBI">personal business by Insured
+<option value="SD+P+PBI+S">personal business by Insured & Spouse
+<option value="SD+P+IB-CT">use for Insureds business but excluding Commercial Travelling
+<option value="SD+P+IB+CT">use for Insureds business including Commercial Travelling
+
+</select>
+</td>
+</tr>
+
+
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<b>No Claims Bonus<br>No.of years:</b></font></td>
+<td>
+
+<select NAME="noClaimsBonusYears">
+<option value="">Please select</option>
+<option value="0">none</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="4+">More than 4</option>
+</select>
+</td>
+</tr>
+
+
+<tr valign=top>
+<td align=right><font face=arial,helvetica size=2>
+<B>Is Protected Bonus required?</B></font></td><td>
+<font face=arial,helvetica size=2>
+<input type="checkbox" name="protectedBonus" size=50 value="Yes"> Yes
+<input type="checkbox" name="protectedBonus" size=50 value="No"> No
+</font>
+<br>
+<font face=arial,helvetica size=1>Please note that the Protected Bonus option is only available where at least 4 years no claims bonus has been earned with your last insurer.<br>&nbsp;</font>
+
+</td>
+</tr>
+
+
+<tr valign=top>
+<td align=right></td>
+<td><font face=arial,helvetica size="2">
+<b>How did you hear about 1st-on-line.com?</b><br>
+<select NAME="howDidYouFindUs">
+	<option value="">Please select...</option>
+	<option value="advert">Advertisement?</option>
+	<option value="link">Link from other web site?</option>
+	<option value="letter">Letter?</option>
+	<option value="recommendation">Recommendation?</option>
+	<option value="searchEngine">Search Engine. If so which one?</option>
+</select><p>
+
+<b>Which Search Engine?</b>&nbsp;<input type=text name="whichSearchEngine">
+
+</font></td>
+</tr>
+
+
+<tr valign=top>
+<td align=right>
+<input type="checkbox" name="mailing" value="NO"></td>
+<td><font face=arial,helvetica size="1">
+We send a monthly e-mail update of news and special offers to our customers.<br>
+Please tick if you do not wish to receive this email.
+</font></td>
+</tr>
+
+
+<tr valign=top>
+<td></td>
+<td> 
+<input type="button" value="Send this form" onclick="if (checkForm(document.carForm)) submit()">
+<INPUT NAME="Clear" TYPE=Reset VALUE="Clear">
+<input type="button" value="Check this form" onclick="checkForm(document.carForm)">
+<br></form></td> </tr>
+</table><!---END FORM FIELDS TABLE--->
+
+
+
+</td></tr>
+
+</table>
+<!---end home table----->
+
+
+</td></tr></table><!---end outer table----->
+</BODY>
+</html>
+

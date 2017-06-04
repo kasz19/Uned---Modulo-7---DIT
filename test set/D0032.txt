@@ -1,0 +1,1366 @@
+ID=D0032
+URL=http://www.javaworld.com/javaworld/jw-12-2000/jw-1229-traps.html
+SIZE=84775
+DATE=16/07/02
+TIME=14:35:32
+DATASET=Java
+HTML=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+    <head>
+        <title> When Runtime.exec() won't </title>
+<!-- ssilog 7814 -->
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="keywords" content=" Java pitfalls, tips, techniques, Runtime.exec">
+<meta name="description" content="
+
+In this installment of Java Traps, Michael Daconta discusses one new pitfall and revisits another from his previous column.  Originating in the java.lang package, the pitfall specifically involves problems with the Runtime.exec() method. Daconta also corrects an error from Pitfall 3 and offers a simpler solution.  (2,500 words) 
+
+">
+<meta name="date" content="2000-12-29">
+<META NAME="DC.Date" CONTENT="2000-12-29">
+<basefont face="verdana, arial, helvetica" size="3" />
+<style type="text/css">
+            code {font-size: 90%; font-family: monospace;}
+            pre {font-size: 90%; font-family: monospace;}
+            td {font-size: 90%;}
+</style>
+<script language="javascript">
+<!--// IDG.net Scripts
+            function mail2Friend () {
+                window.parent.location = "/MailToFriend?url=" + escape(document.location);
+            }
+
+            function openBrWindow() {
+                win=window.open("http://www.javaworld.com/channel_content/jw-story-feedback.shtml",'Feedback','width=600,height=330,toolbar=no,location=no,directories=no,menubar=no,scrollbars=yes,resizable=yes');
+            }
+            //-->
+        </script>
+    </head>
+<body bgcolor="#ffffff" text="#000000" link="#990033" vlink="#990033" alink="#990033" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tr>
+                <td colspan="2" width="186" bgcolor="#006699"><a href="http://www.javaworld.com"><img height=81 src="http://www.javaworld.com/images/top_jwlogo.gif" width=186 border=0 ></a></td>
+                <td bgcolor="#cccccc" width="100%" align="middle" valign="center"><!-- START TOP 468x60 BANNER -->
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0">
+<TR>
+<TD>
+<FONT COLOR="#000000" SIZE="-2" FACE="Arial,Helvetica,Sans-serif">
+Advertisement: Support JavaWorld, click here!</FONT><BR>
+<NOLAYER>
+<IFRAME SRC="http://ad.doubleclick.net/adi/idg.us.idgnet.javaworld/articles;pos=top;sz=468x60;tile=1;ord=366972?" width="468" height="60" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+<A HREF="http://ad.doubleclick.net/jump/idg.us.idgnet.javaworld/articles;abr=!ie;pos=top;sz=468x60;tile=1;ord=366972?"><IMG SRC="http://ad.doubleclick.net/ad/idg.us.idgnet.javaworld/articles;abr=!ie;pos=top;sz=468x60;tile=1;ord=366972?" border="0" height="60" width="468"></A>
+</IFRAME>
+</NOLAYER>
+<ILAYER id="layer1" visibility="hidden" width=468 height=60></ILAYER>
+</TD>
+</TR>
+</TABLE>
+<!-- END TOP 468x60 BANNER --></td>
+            </tr>
+        </table>
+        <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tr>
+                <td bgcolor="#006699" width="160"><img height=8 src="http://www.javaworld.com/images/spacer.gif" width=160 border=0 ></td>
+                <td width="26" valign="top" align="left" bgcolor="#ffffff"><img height=8 src="http://www.javaworld.com/images/c_whtbottom.gif" width=8 border=0 ></td>
+                <td width="100%"><img height=1 src="http://www.javaworld.com/images/spacer.gif" width=8 border=0 ><IMG SRC="http://ad.doubleclick.net/ad/idg.pixel.global/idgpixel7.18.00;sz=1x1;ord=366972?" border=0 height="1" width="1"><IMG SRC="http://ad.doubleclick.net/ad/idg.pixel.usa.jw/usajw.081501;sz=1x1;ord=366972?" border=0 height="1" width="1"></td>
+            </tr>
+        </table>
+        <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tr>
+                <td bgcolor="#006699" width="160" align="middle" valign="center" nowrap><nobr><font face="Verdana, Arial, Sans-serif" color="#ffffff" size="2">December 2000</font></nobr><img height=1 src="http://www.javaworld.com/images/spacer.gif" width=160 border=0 ></td>
+                <td width="8"><img height=1 src="http://www.javaworld.com/images/spacer.gif" width=8 border=0 ></td>
+                <td bgcolor="#006699" width="8" valign="top"><img height=8 src="http://www.javaworld.com/images/c_bltlft.gif" width=8 border=0 ></td>
+                <td bgcolor="#006699" width="100%" align="middle" valign="center">    <table width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tr>
+            <td align="middle" bgcolor="#006699"><a href="http://www.javaworld.com"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1" color="#ffffff">HOME</font></a></td>
+            <td align="middle" bgcolor="#006699"><a href="http://www.javaworld.com/features/index.shtml"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1" color="#ffffff">FEATURED TUTORIALS</font></a></td>
+            <td align="middle" bgcolor="#006699"><a href="http://www.javaworld.com/columns/index.shtml"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1" color="#ffffff">COLUMNS</font></a></td>
+            <td align="middle" bgcolor="#006699"><a href="http://www.javaworld.com/news-reviews/index.shtml"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1" color="#ffffff">NEWS & REVIEWS</font></a></td>
+            <td align="middle" bgcolor="#006699"><a href="http://forums.idg.net/webx?13@@.ee6b802"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1" color="#ffffff">FORUM</font></a></td>
+            <td align="middle" bgcolor="#006699"><a href="http://www.javaworld.com/resources/index.shtml"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1" color="#ffffff">JW RESOURCES</font></a></td>
+            <td align="middle" bgcolor="#006699"><a href="http://www.javaworld.com/info/jw-about-index.shtml"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1" color="#ffffff">ABOUT JW</font></a></td>
+        </tr>
+    </table></td>
+                <td bgcolor="#006699" width="8" align="right" valign="top"><img height=8 src="http://www.javaworld.com/images/c_bltrt.gif" width=8 border=0 ></td>
+                <td width="8"><img height=1 src="http://www.javaworld.com/images/spacer.gif" width=8 border=0 ></td>
+            </tr>
+        </table>
+        <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tr valign="top">
+                <td bgcolor="#006699" width="160" align="middle" valign="top">
+                    <table width="160" border="0" cellspacing="0" cellpadding="0" bgcolor="#006699" summary="">
+                        <tr>
+                            <td width="8"><img alt="" height="1" src="http://www.javaworld.com/images/spacer.gif" width="8" /></td>
+                            <td align="center">
+                                <form action="http://www.javaworld.com/isearch" method="GET" name="search">
+                                    <img alt="" height="1" src="http://www.javaworld.com/images/rule_ltblue.gif" width="144" vspace="2" /><br /><br />
+                                    <input type="text" name="qt" size="12" maxlength="2047" /><br />
+                                    <input type="image" value="search" src="http://www.javaworld.com/images/button_blue.gif" border="0" width="97" height="18" alt="GO" /><br />
+                                    <input type="hidden" name="site" value="javaworld"><br />
+                                   <!-- <a href="http://www.google.com/"><img src="http://www.javaworld.com/images/google-power-fp.gif" width="108" height="45" border="0" alt="Google.com"></a>-->
+                                    <input type="hidden" name="ms" value="1">
+                                    <input type="hidden" name="tid" value="1">
+                                    <input type="hidden" name="st" value="1">
+                                    <input type="hidden" name="rf" value="0">
+                                   
+                                </form>
+                            </td>
+                            <td width="8"><img alt="" height="1" src="http://www.javaworld.com/images/spacer.gif" width="8" /></td>
+                        </tr>
+                        <tr>
+                            <td width="8"><img height=1 alt="" src="http://www.javaworld.com/images/spacer.gif" width=8 ></td>
+                            <td><img height=1 alt="" src="http://www.javaworld.com/images/rule_ltblue.gif" width=144 vspace=2 ><br>
+                                <a href="http://www.javaworld.com/archives/index-year.html"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="2" color="#ffffff"><strong>ARCHIVE</strong></font></a><br>
+                                <img height=1 alt="" src="http://www.javaworld.com/images/rule_ltblue.gif" width=144 vspace=2 ><br>
+                                <strong><a href="http://www.javaworld.com/channel_content/jw-topical-index.shtml"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="2" color="#ffffff">TOPICAL INDEX</font></a></strong></font><br><table cellspacing="0" cellpadding="0" border="0" summary="">
+                        <tr>
+                            <td><img alt="" height="7" src="http://www.javaworld.com/images/arrow_closed.gif" width="8" border="0" /></td>
+                            <td><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><strong><a  href="http://www.javaworld.com/channel_content/jw-core-index.shtml"><font color="#ffffff">Core Java</font></a></strong></font></td>
+                        </tr>
+                        <tr>
+                            <td><img alt="" height="7" src="http://www.javaworld.com/images/arrow_closed.gif" width="8" border="0" /></td>
+                            <td><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><strong><a href="http://www.javaworld.com/channel_content/jw-enterprise-index.shtml"><font color="#ffffff">Enterprise Java</font></a></strong></font></td>
+                        </tr>
+                        <tr>
+                            <td><img alt="" height="7" src="http://www.javaworld.com/images/arrow_closed.gif" width="8" border="0" /></td>
+                            <td><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><strong><a href="http://www.javaworld.com/channel_content/jw-micro-index.shtml"><font color="#ffffff">Micro Java</font></a></strong></font></td>
+                        </tr>
+                        <tr>
+                            <td><img alt="" height="7" src="http://www.javaworld.com/images/arrow_closed.gif" width="8" border="0" /></td>
+                            <td><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><strong><a href="http://www.javaworld.com/channel_content/jw-applied-index.shtml"><font color="#ffffff">Applied Java</font></a></strong></font></td>
+                        </tr>
+                        <tr>
+                            <td><img alt="" height="7" src="http://www.javaworld.com/images/arrow_closed.gif" width="8" border="0" /></td>
+                            <td><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><strong><a href="http://www.javaworld.com/channel_content/jw-community-index.shtml"><font color="#ffffff">Java Community</font></a></strong></font><br /></td>
+                        </tr>
+                    </table><img alt="" height="1" src="http://www.javaworld.com/images/rule_ltblue.gif" width="144" vspace="2" /><br /> <a href="http://www.javaworld.com/columns/jw-qna-index.shtml"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="2" color="#ffffff"><strong>JAVA Q&A INDEX</strong></font></a><br /><img alt="" height="1" src="http://www.javaworld.com/images/rule_ltblue.gif" width="144" vspace="2" /><br /> <a href="http://www.javaworld.com/columns/jw-tips-index.shtml"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="2" color="#ffffff"><strong>JAVA TIPS INDEX</strong></font></a><br /> <img alt="" height="1" src="http://www.javaworld.com/images/rule_ltblue.gif" width="144" vspace="8" /><br /><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="2" color="#CCCCCC"><strong>JavaWorld Services</strong></font><br /><img alt="" height="4" src="http://www.javaworld.com/images/spacer.gif" width="1" border="0" /><table cellspacing="0" cellpadding="0" border="0" summary=""><tr><td><img alt="" height="7" src="http://www.javaworld.com/images/arrow_closed.gif" width="8" border="0" /><br /><img alt="" height="7" src="http://www.javaworld.com/images/spacer.gif" width="1" border="0" /></td><td><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><strong><a href="http://www.javaworld.com/subscribe"><font color="#ffffff">Free JavaWorld newsletters</font></a></strong></font></td></tr><tr><td><img alt="" height="7" src="http://www.javaworld.com/images/arrow_closed.gif" width="8" border="0" /><br /></td> <td><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><strong><a  href="http://javaworld.pricegrabber.com"><font color="#ffffff">ProductFinder </font></a></strong></font></td></tr><tr> <td><img alt="" height="7" src="http://www.javaworld.com/images/arrow_closed.gif" width="8" border="0" /><br /></td> <td><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><strong><a  href="http://www.javaworld.com/white-paper/index.shtml"><font color="#ffffff">White Paper Library</font></a></strong></font></td></tr>
+</table>
+<img alt="" height="1" src="http://www.javaworld.com/images/rule_ltblue.gif" width="144" vspace="8" /><br />
+</td>
+                            <td width="8"><img height=1 alt="" src="http://www.javaworld.com/images/spacer.gif" width=8 ></td>
+                        </tr>
+                        <tr valign="bottom">
+                            <td width="8"><img height=1 alt="" src="http://www.javaworld.com/images/spacer.gif" width=8 ></td>
+                            <td> </td>
+                            <td width="8"><img height=8 alt="" src="http://www.javaworld.com/images/c_gryblbottom.gif" width=8 ></td>
+                        </tr>
+                        <tr>
+                            <td width="8" bgcolor="#cccccc"> </td>
+                            <td bgcolor="#cccccc"> </td>
+                            <td width="8" bgcolor="#cccccc"> </td>
+                        </tr>
+                        <tr>
+                       <td width="8" bgcolor="#cccccc"><img height=1 alt="" src="http://www.javaworld.com/images/spacer.gif" width=8 ></td>
+                           <td align="middle" bgcolor="#cccccc"><!-- SKYSCRAPER AD START HERE -->
+<NOLAYER>
+<IFRAME SRC="http://ad.doubleclick.net/adi/idg.us.idgnet.javaworld/articles;pos=skyscraper;sz=120x600;tile=3;ord=366972?" width="120" height="600" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+<A HREF="http://ad.doubleclick.net/jump/idg.us.idgnet.javaworld/articles;abr=!ie;pos=skyscraper;sz=120x600;tile=3;ord=366972?"><IMG SRC="http://ad.doubleclick.net/ad/idg.us.idgnet.javaworld/articles;abr=!ie;skyscraper=med;sz=120x600;tile=3;ord=366972?" border=0 height="600" width="120"></A>
+</IFRAME>
+</NOLAYER>
+<ILAYER id="layer3" visibility="hidden" width=120 height=600></ILAYER>
+<!-- SKYSCRAPER AD ENDS HERE -->
+</td>
+                       <td width="8" bgcolor="#cccccc"><img height=8 alt="" src="http://www.javaworld.com/images/spacer.gif" width=8></td>
+                        </tr>
+                        <tr>
+                            <td width="8" bgcolor="#cccccc"> </td>
+                            <td bgcolor="#cccccc"> </td>
+                            <td width="8" bgcolor="#cccccc"> </td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="8"><img height=1 alt="" src="http://www.javaworld.com/images/spacer.gif" width=8 ></td>
+                            <td> </td>
+                            <td width="8"><img height=8 alt="" src="http://www.javaworld.com/images/c_grybltop.gif" width=8 ></td>
+                        </tr>
+                    </table>
+                    <img height=8 src="http://www.javaworld.com/images/spacer.gif" width=160 border=0 ></td>
+                    <td width="8"><img height=1 alt="" src="http://www.javaworld.com/images/spacer.gif" width=8 ></td>
+                <td width="100%">
+                    <!-- ## MAIN CONTENT STARTS HERE ### -->
+                    <font face="verdana, arial, helvetica" size="3">
+                        <strong> Java Traps </strong>
+                        <p>
+                            <h1 align="CENTER"> When Runtime.exec() won't </h1>
+                            <h3 align="CENTER"> Navigate yourself around pitfalls related to the Runtime.exec() method</h3>
+                        </p>
+                        <!--<BLOCKQUOTE><STRONG>Summary</STRONG><BR>-->
+                        <BLOCKQUOTE>
+<STRONG>Summary</STRONG><BR>
+
+
+In this installment of <strong>Java Traps,</strong> Michael Daconta discusses one new pitfall and revisits another from his previous column.  Originating in the <code>java.lang</code> package, the pitfall specifically involves problems with the <code>Runtime.exec()</code> method. Daconta also corrects an error from Pitfall 3 and offers a simpler solution. <em> (2,500 words) </em>
+
+</BLOCKQUOTE>
+                        <!--</BLOCKQUOTE>-->
+                        <a href="http://www.javaworld.com/feedback" target="Feedback"><STRONG>By   Michael C. Daconta</STRONG></a>
+                        <p><img src="http://www.javaworld.com/images/rule_ltblue.gif" width="100%" height="2"><br />
+                           <img src="http://www.javaworld.com/images/jw-print-icon.gif" width="16" height="15" border="0" alt="Printer-friendly version" vspace="4" align="absmiddle" />
+                           <a href="/javaworld/jw-12-2000/jw-1229-traps_p.html">Printer-friendly version</a> | <img src="http://www.javaworld.com/images/jw-email-icon.gif" width="20" height="15" border="0" alt="Send this article to a friend"> <a href="javascript:mail2Friend()">Mail this to a friend</a></p>
+                        <p><br /></p>
+                         <font size=-1>  <!-- REPLACE PAGECOUNT --></font>
+                        <p><!-- START BIG AD (336x280) -->
+<table align="right" border="0" cellpadding="0" cellspacing="0"><tr valign="bottom" align="center"><td><font face="verdana, arial, geneva, sans-serif" color="#999999" size="-2">Advertisement</font></td></tr><tr><td><table border=1 bordercolor="#cccccc" cellspacing="5" cellpadding="0"><tr><td>
+<NOLAYER>
+<IFRAME SRC="http://ad.doubleclick.net/adi/idg.us.idgnet.javaworld/articles;pos=rectangle;sz=336x280;tile=5;ord=366972" width="336" height="280" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+<A HREF="http://ad.doubleclick.net/jump/idg.us.idgnet.javaworld/articles;abr=!ie;pos=rectangle;sz=336x280;tile=5;ord=366972"><IMG SRC="http://ad.doubleclick.net/ad/idg.us.idgnet.javaworld/articles;abr=!ie;pos=rectangle;sz=336x280;tile=5;ord=366972" border=0 height="280" width="336"></A>
+</IFRAME>
+</NOLAYER>
+<ILAYER id="layer5" visibility="hidden" width=336 height=280></ILAYER>
+</td></tr></table></td></tr></table>
+<!-- END BIG AD (336x280) --></p>
+                        <p><P>
+<img align="left" width="30" height="28" src="/javaworld/abcs/A.gif" alt="A">s part of the Java language, the <code>java.lang</code> package is implicitly imported into every Java program. This package's pitfalls surface often, affecting most programmers. This month, I'll discuss the traps lurking in the <code>Runtime.exec()</code> method. <P><FONT SIZE="+1"><STRONG> Pitfall 4:  When Runtime.exec() won't </STRONG></FONT><BR>
+The class <code>java.lang.Runtime</code> features a static method called <code>getRuntime()</code>, which retrieves the current Java Runtime Environment.<P>
+That is the only way to obtain a reference to the <code>Runtime</code> object.  With that reference, you can run external programs by invoking the <code>Runtime</code> class's <code>exec()</code> method.  Developers often call this method to launch a browser for displaying a help page in HTML.
+<P>
+There are four overloaded versions of the <code>exec()</code> command: 
+<P>
+<ul> <li> <code>public Process exec(String command);</code> </li> <li> <code>public Process exec(String [] cmdArray);</code> </li> <li> <code>public Process exec(String command, String [] envp);</code> </li> <li> <code>public Process exec(String [] cmdArray, String [] envp); </code></li> </ul> <P>
+For each of these methods, a command -- and possibly a set of arguments -- is passed to an operating-system-specific function call. This subsequently creates an operating-system-specific process (a running program) with a reference to a <code>Process</code> class returned to the Java VM. The <code>Process</code> class is an abstract class, because a specific subclass of <code>Process</code> exists for each operating system. 
+<P>
+You can pass three possible input parameters into these methods: <P>
+<ol> <li>A single string that represents both the program to execute and any arguments to that program</li> <P>
+<li>An array of strings that separate the program from its arguments</li> <P>
+<li>An array of environment variables</li> </ol> <P>
+Pass in the environment variables in the form <code>name=value</code>.  If you use the version of <code>exec()</code> with a single string for both the program and its arguments, note that the string is parsed using white space as the delimiter via the <code>StringTokenizer</code> class. <P><STRONG> Stumbling into an IllegalThreadStateException  </STRONG><BR>
+<P>
+The first pitfall relating to <code>Runtime.exec()</code> is the <code>IllegalThreadStateException</code>. The prevalent first test of an API is to code its most obvious methods. For example, to execute a process that is external to the Java VM, we use the <code>exec()</code> method.  To see the value that the external process returns, we use the <code>exitValue()</code> method on the <code>Process</code> class.  In our first example, we will attempt to execute the Java compiler (<code>javac.exe</code>):
+<P>
+<strong>Listing 4.1 BadExecJavac.java</strong> <P>
+<CODE><P>
+<BR>
+
+import java.util.*;<BR>
+
+import java.io.*;<BR>
+
+<BR>
+
+public class BadExecJavac<BR>
+
+{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;public static void main(String args[])<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Runtime rt = Runtime.getRuntime();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process proc = rt.exec("javac");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int exitVal = proc.exitValue();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("Process exitValue: " + exitVal);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (Throwable t)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t.printStackTrace();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+}<BR>
+</CODE><P>
+A run of <code>BadExecJavac</code> produces: <P>
+<CODE><P>
+<BR>
+
+E:\classes\com\javaworld\jpitfalls\article2&gt;java BadExecJavac<BR>
+
+java.lang.IllegalThreadStateException: process has not exited<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Win32Process.exitValue(Native Method)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at BadExecJavac.main(BadExecJavac.java:13)<BR>
+</CODE><P>
+If an external process has not yet completed, the <code>exitValue()</code> method will throw an <code>IllegalThreadStateException</code>; that's why this program failed.  While the documentation states this fact, why can't this method wait until it can give a valid answer?
+<P>
+A more thorough look at the methods available in the <code>Process</code> class reveals a <code>waitFor()</code> method that does precisely that.  In fact, <code>waitFor()</code> also returns the exit value, which means that you would not use <code>exitValue()</code> and <code>waitFor()</code> in conjunction with each other, but rather would choose one or the other.  The only possible time you would use <code>exitValue()</code> instead of <code>waitFor()</code> would be when you don't want your program to block waiting on an external process that may never complete.  Instead of using the <code>waitFor()</code> method, I would prefer passing a boolean parameter called <code>waitFor</code> into the <code>exitValue()</code> method to determine whether or not the current thread should wait. A boolean would be more beneficial because <code>exitValue()</code> is a more appropriate name for this method, and it isn't necessary for two methods to perform the same function under different conditions. Such simple condition discrimination is the domain of an input parameter. <P>
+Therefore, to avoid this trap, either catch the <code>IllegalThreadStateException</code> or wait for the process to complete. 
+<P>
+Now, let's fix the problem in Listing 4.1 and wait for the process to complete.  In Listing 4.2, the program again attempts to execute <code>javac.exe</code> and then waits for the external process to complete: <P>
+<strong> Listing 4.2  BadExecJavac2.java</strong> <P>
+<CODE><P>
+<BR>
+
+import java.util.*;<BR>
+
+import java.io.*;<BR>
+
+<BR>
+
+public class BadExecJavac2<BR>
+
+{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;public static void main(String args[])<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Runtime rt = Runtime.getRuntime();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process proc = rt.exec("javac");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int exitVal = proc.waitFor();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("Process exitValue: " + exitVal);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (Throwable t)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t.printStackTrace();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+}<BR>
+</CODE><P>
+Unfortunately, a run of <code>BadExecJavac2</code> produces no output.  The program hangs and never completes.  Why does the <code>javac</code> process never complete?
+<P><STRONG> Why Runtime.exec() hangs </STRONG><BR>
+The JDK's Javadoc documentation provides the answer to this question: <P>
+<blockquote> <P>
+Because some native platforms only provide limited buffer size for standard input and output streams, failure to promptly write the input stream or read the output stream of the subprocess may cause the subprocess to block, and even deadlock. <P>
+</blockquote> 
+<P>
+Is this just a case of programmers not reading the documentation, as implied in the oft-quoted advice: read the fine manual (RTFM)?  The answer is partially yes.  In this case, reading the Javadoc would get you halfway there; it explains that you need to handle the streams to your external process, but it does not tell you how. 
+<P>
+Another variable is at play here, as is evident by the large number of programmer questions and misconceptions concerning this API in the newsgroups:  though <code>Runtime.exec()</code> and the Process APIs seem extremely simple, that simplicity is deceiving because the simple, or obvious, use of the API is prone to error.  The lesson here for the API designer is to reserve simple APIs for simple operations.  Operations prone to complexities and platform-specific dependencies should reflect the domain accurately.  It is possible for an abstraction to be carried too far. The <code>JConfig</code> library provides an example of a more complete API to handle file and process operations (see <a href="#resources">Resources</a> below for more information). 
+<P>
+Now, let's follow the JDK documentation and handle the output of the <code>javac</code> process.  When you run <code>javac</code> without any arguments, it produces a set of usage statements that describe how to run the program and the meaning of all the available program options.  Knowing that this is going to the <code>stderr</code> stream, you can easily write a program to exhaust that stream before waiting for the process to exit.  Listing 4.3 completes that task.  While this approach will work, it is not a good general solution.  Thus, Listing 4.3's program is named <code>MediocreExecJavac</code>; it provides only a mediocre solution.  A better solution would empty both the standard error stream and the standard output stream.  And the best solution would empty these streams simultaneously (I'll demonstrate that later). <P>
+<strong>Listing 4.3  MediocreExecJavac.java</strong> <P>
+<CODE><P>
+<BR>
+
+import java.util.*;<BR>
+
+import java.io.*;<BR>
+
+<BR>
+
+public class MediocreExecJavac<BR>
+
+{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;public static void main(String args[])<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Runtime rt = Runtime.getRuntime();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process proc = rt.exec("javac");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;InputStream stderr = proc.getErrorStream();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;InputStreamReader isr = new InputStreamReader(stderr);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BufferedReader br = new BufferedReader(isr);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;String line = null;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("&lt;ERROR>");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;while ( (line = br.readLine()) != null)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println(line);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("&lt;/ERROR>");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int exitVal = proc.waitFor();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("Process exitValue: " + exitVal);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (Throwable t)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t.printStackTrace();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+}<BR>
+</CODE><P>
+A run of <code>MediocreExecJavac</code> generates: <P>
+<CODE><P>
+<BR>
+
+E:\classes\com\javaworld\jpitfalls\article2&gt;java MediocreExecJavac<BR>
+
+&lt;ERROR&gt;<BR>
+
+Usage: javac &lt;options&gt; &lt;source files&gt;<BR>
+
+<BR>
+
+where &lt;options&gt; includes:<BR>
+
+&nbsp;&nbsp;-g&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generate all debugging info<BR>
+
+&nbsp;&nbsp;-g:none&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generate no debugging info<BR>
+
+&nbsp;&nbsp;-g:{lines,vars,source} Generate only some debugging info<BR>
+
+&nbsp;&nbsp;-O&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optimize; may hinder debugging or enlarge class files<BR>
+
+&nbsp;&nbsp;-nowarn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generate no warnings<BR>
+
+&nbsp;&nbsp;-verbose&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Output messages about what the compiler is doing<BR>
+
+&nbsp;&nbsp;-deprecation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Output source locations where deprecated APIs are used<BR>
+
+&nbsp;&nbsp;-classpath &lt;path&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Specify where to find user class files<BR>
+
+&nbsp;&nbsp;-sourcepath &lt;path&gt;&nbsp;&nbsp;&nbsp;&nbsp; Specify where to find input source files<BR>
+
+&nbsp;&nbsp;-bootclasspath &lt;path&gt;&nbsp;&nbsp;Override location of bootstrap class files<BR>
+
+&nbsp;&nbsp;-extdirs &lt;dirs&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Override location of installed extensions<BR>
+
+&nbsp;&nbsp;-d &lt;directory&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Specify where to place generated class files<BR>
+
+&nbsp;&nbsp;-encoding &lt;encoding&gt;&nbsp;&nbsp; Specify character encoding used by source files<BR>
+
+&nbsp;&nbsp;-target &lt;release&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generate class files for specific VM version<BR>
+
+&lt;/ERROR&gt;<BR>
+
+Process exitValue: 2<BR>
+</CODE><P>
+So, <code>MediocreExecJavac</code> works and produces an exit value of <code>2</code>.  Normally, an exit value of <code>0</code> indicates success; any nonzero value indicates an error.  The meaning of these exit values depends on the particular operating system.  A Win32 error with a value of <code>2</code> is a "file not found" error.  That makes sense, since <code>javac</code> expects us to follow the program with the source code file to compile. 
+<P>
+Thus, to circumvent the second pitfall -- hanging forever in <code>Runtime.exec()</code> -- if the program you launch produces output or expects input, ensure that you process the input and output streams.
+<P><STRONG> Assuming a command is an executable program </STRONG><BR>
+Under the Windows operating system, many new programmers stumble upon <code>Runtime.exec()</code> when trying to use it for nonexecutable commands like <code>dir</code> and <code>copy</code>. Subsequently, they run into <code>Runtime.exec()</code>'s third pitfall.  Listing 4.4 demonstrates exactly that: <P>
+<strong>Listing 4.4 BadExecWinDir.java</strong> <P>
+<CODE><P>
+<BR>
+
+import java.util.*;<BR>
+
+import java.io.*;<BR>
+
+<BR>
+
+public class BadExecWinDir<BR>
+
+{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;public static void main(String args[])<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Runtime rt = Runtime.getRuntime();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process proc = rt.exec("dir");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;InputStream stdin = proc.getInputStream();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;InputStreamReader isr = new InputStreamReader(stdin);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BufferedReader br = new BufferedReader(isr);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;String line = null;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("&lt;OUTPUT&gt;");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;while ( (line = br.readLine()) != null)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println(line);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("&lt;/OUTPUT&gt;");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int exitVal = proc.waitFor();&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("Process exitValue: " + exitVal);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (Throwable t)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t.printStackTrace();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+}<BR>
+</CODE><P>
+<P>
+A run of <code>BadExecWinDir</code> produces: <P>
+<CODE><P>
+<BR>
+
+E:\classes\com\javaworld\jpitfalls\article2&gt;java BadExecWinDir<BR>
+
+java.io.IOException: CreateProcess: dir error=2<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Win32Process.create(Native Method)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Win32Process.&lt;init&gt;(Unknown Source)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Runtime.execInternal(Native Method)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Runtime.exec(Unknown Source)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Runtime.exec(Unknown Source)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Runtime.exec(Unknown Source)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Runtime.exec(Unknown Source)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at BadExecWinDir.main(BadExecWinDir.java:12)<BR>
+</CODE><P>
+As stated earlier, the error value of <code>2</code> means "file not found," which, in this case, means that the executable named <code>dir.exe</code> could not be found.  That's because the directory command is part of the Windows command interpreter and not a separate executable.  To run the Windows command interpreter, execute either <code>command.com</code> or <code>cmd.exe</code>, depending on the Windows operating system you use.  Listing 4.5 runs a copy of the Windows command interpreter and then executes the user-supplied command (e.g., <code>dir</code>). <P>
+<strong>Listing 4.5 GoodWindowsExec.java</strong> <P>
+<CODE><P>
+<BR>
+
+import java.util.*;<BR>
+
+import java.io.*;<BR>
+
+<BR>
+
+class StreamGobbler extends Thread<BR>
+
+{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;InputStream is;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;String type;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler(InputStream is, String type)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.is = is;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.type = type;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;public void run()<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;InputStreamReader isr = new InputStreamReader(is);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BufferedReader br = new BufferedReader(isr);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;String line=null;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;while ( (line = br.readLine()) != null)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println(type + "&gt;" + line);&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (IOException ioe)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ioe.printStackTrace();&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+}<BR>
+
+<BR>
+
+public class GoodWindowsExec<BR>
+
+{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;public static void main(String args[])<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (args.length &lt; 1)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("USAGE: java GoodWindowsExec &lt;cmd&gt;");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.exit(1);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;String osName = System.getProperty("os.name" );<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;String[] cmd = new String[3];<BR>
+
+<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if( osName.equals( "Windows NT" ) )<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cmd[0] = "cmd.exe" ;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cmd[1] = "/C" ;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cmd[2] = args[0];<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;else if( osName.equals( "Windows 95" ) )<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cmd[0] = "command.com" ;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cmd[1] = "/C" ;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cmd[2] = args[0];<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Runtime rt = Runtime.getRuntime();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("Execing " + cmd[0] + " " + cmd[1] <BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + " " + cmd[2]);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process proc = rt.exec(cmd);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// any error message?<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler errorGobbler = new <BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler(proc.getErrorStream(), "ERROR");&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// any output?<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler outputGobbler = new <BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler(proc.getInputStream(), "OUTPUT");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// kick them off<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;errorGobbler.start();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;outputGobbler.start();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// any error???<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int exitVal = proc.waitFor();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("ExitValue: " + exitVal);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (Throwable t)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t.printStackTrace();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+}<BR>
+</CODE><P>
+Running <code>GoodWindowsExec</code> with the <code>dir</code> command generates: <P>
+<CODE><P>
+<BR>
+
+E:\classes\com\javaworld\jpitfalls\article2&gt;java GoodWindowsExec "dir *.java"<BR>
+
+Execing cmd.exe /C dir *.java<BR>
+
+OUTPUT&gt; Volume in drive E has no label.<BR>
+
+OUTPUT&gt; Volume Serial Number is 5C5F-0CC9<BR>
+
+OUTPUT&gt;<BR>
+
+OUTPUT&gt; Directory of E:\classes\com\javaworld\jpitfalls\article2<BR>
+
+OUTPUT&gt;<BR>
+
+OUTPUT&gt;10/23/00&nbsp;&nbsp;09:01p&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 805 BadExecBrowser.java<BR>
+
+OUTPUT&gt;10/22/00&nbsp;&nbsp;09:35a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 770 BadExecBrowser1.java<BR>
+
+OUTPUT&gt;10/24/00&nbsp;&nbsp;08:45p&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 488 BadExecJavac.java<BR>
+
+OUTPUT&gt;10/24/00&nbsp;&nbsp;08:46p&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519 BadExecJavac2.java<BR>
+
+OUTPUT&gt;10/24/00&nbsp;&nbsp;09:13p&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 930 BadExecWinDir.java<BR>
+
+OUTPUT&gt;10/22/00&nbsp;&nbsp;09:21a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,282 BadURLPost.java<BR>
+
+OUTPUT&gt;10/22/00&nbsp;&nbsp;09:20a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,273 BadURLPost1.java<BR>
+
+... (some output omitted for brevity)<BR>
+
+OUTPUT&gt;10/12/00&nbsp;&nbsp;09:29p&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 151 SuperFrame.java<BR>
+
+OUTPUT&gt;10/24/00&nbsp;&nbsp;09:23p&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1,814 TestExec.java<BR>
+
+OUTPUT&gt;10/09/00&nbsp;&nbsp;05:47p&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23,543 TestStringReplace.java<BR>
+
+OUTPUT&gt;10/12/00&nbsp;&nbsp;08:55p&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 228 TopLevel.java<BR>
+
+OUTPUT&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22 File(s)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 46,661 bytes<BR>
+
+OUTPUT&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 19,678,420,992 bytes free<BR>
+
+ExitValue: 0<BR>
+</CODE><P>
+Running <code>GoodWindowsExec</code> with any associated document type will launch the application associated with that document type.  For example, to launch Microsoft Word to display a Word document (i.e., one with a <code>.doc</code> extension), type: <P>
+<CODE><P>
+<BR>
+
+&gt;java GoodWindowsExec "yourdoc.doc"<BR>
+</CODE><P>
+Notice that <code>GoodWindowsExec</code> uses the <code>os.name</code> system property to determine which Windows operating system you are running -- and thus determine the appropriate command interpreter.  After executing the command interpreter, handle the standard error and standard input streams with the <code>StreamGobbler</code> class. <code>StreamGobbler</code> empties any stream passed into it in a separate thread.  The class uses a simple <code>String</code> type to denote the stream it empties when it prints the line just read to the console. 
+<P>
+Thus, to avoid the third pitfall related to <code>Runtime.exec()</code>, do not assume that a command is an executable program; know whether you are executing a standalone executable or an interpreted command. At the end of this section, I will demonstrate a simple command-line tool that will help you with that analysis. <P>
+It is important to note that the method used to obtain a process's output stream is called <code>getInputStream()</code>.  The thing to remember is that the API sees things from the perspective of the Java program and not the external process.  Therefore, the external program's output is the Java program's input.  And that logic carries over to the external program's input stream, which is an output stream to the Java program. <P><STRONG> Runtime.exec() is not a command line </STRONG><BR>
+One final pitfall to cover with <code>Runtime.exec()</code> is mistakenly assuming that <code>exec()</code> accepts any <code>String</code> that your command line (or shell) accepts. <code>Runtime.exec()</code> is much more limited and not cross-platform.  This pitfall is caused by users attempting to use the <code>exec()</code> method to accept a single <code>String</code> as a command line would.  The confusion may be due to the fact that <code>command</code> is the parameter name for the <code>exec()</code> method.  Thus, the programmer incorrectly associates the parameter command with anything that he or she can type on a command line, instead of associating it with a single program and its arguments.  In listing 4.6 below, a user tries to execute a command and redirect its output in one call to <code>exec()</code>: <P>
+<strong>Listing 4.6 BadWinRedirect.java</strong> <P>
+<CODE><P>
+<BR>
+
+import java.util.*;<BR>
+
+import java.io.*;<BR>
+
+<BR>
+
+// StreamGobbler omitted for brevity<BR>
+
+<BR>
+
+public class BadWinRedirect<BR>
+
+{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;public static void main(String args[])<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Runtime rt = Runtime.getRuntime();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process proc = rt.exec("java jecho 'Hello World' &gt; test.txt");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// any error message?<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler errorGobbler = new <BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler(proc.getErrorStream(), "ERROR");&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// any output?<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler outputGobbler = new <BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler(proc.getInputStream(), "OUTPUT");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// kick them off<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;errorGobbler.start();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;outputGobbler.start();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// any error???<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int exitVal = proc.waitFor();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("ExitValue: " + exitVal);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (Throwable t)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t.printStackTrace();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+}<BR>
+</CODE><P>
+Running <code>BadWinRedirect</code> produces: <P>
+<CODE><P>
+<BR>
+
+E:\classes\com\javaworld\jpitfalls\article2&gt;java BadWinRedirect<BR>
+
+OUTPUT&gt;'Hello World' &gt; test.txt<BR>
+
+ExitValue: 0<BR>
+</CODE><P>
+The program <code>BadWinRedirect</code> attempted to redirect the output of an echo program's simple Java version into the file <code>test.txt</code>.  However, we find that the file <code>test.txt</code> does not exist.  The <code>jecho</code> program simply takes its command-line arguments and writes them to the standard output stream. (You will find the source for <code>jecho</code> in the source code available for download in <a href="#resources">Resources</a>.) In Listing 4.6, the user assumed that you could redirect standard output into a file just as you could on a DOS command line.  Nevertheless, you do not redirect the output through this approach.  The incorrect assumption here is that the <code>exec()</code> method acts like a shell interpreter; it does not. Instead, <code>exec()</code> executes a single executable (a program or script).  If you want to process the stream to either redirect it or pipe it into another program, you must do so programmatically, using the <code>java.io</code> package.  Listing 4.7 properly redirects the standard output stream of the <code>jecho</code> process into a file. <P>
+<strong>Listing 4.7  GoodWinRedirect.java</strong> <P>
+<CODE><P>
+<BR>
+
+import java.util.*;<BR>
+
+import java.io.*;<BR>
+
+<BR>
+
+class StreamGobbler extends Thread<BR>
+
+{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;InputStream is;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;String type;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;OutputStream os;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler(InputStream is, String type)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this(is, type, null);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler(InputStream is, String type, OutputStream redirect)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.is = is;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.type = type;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.os = redirect;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;public void run()<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PrintWriter pw = null;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (os != null)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pw = new PrintWriter(os);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;InputStreamReader isr = new InputStreamReader(is);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BufferedReader br = new BufferedReader(isr);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;String line=null;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;while ( (line = br.readLine()) != null)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (pw != null)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pw.println(line);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println(type + "&gt;" + line);&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (pw != null)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pw.flush();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (IOException ioe)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ioe.printStackTrace();&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+}<BR>
+
+<BR>
+
+public class GoodWinRedirect<BR>
+
+{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;public static void main(String args[])<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (args.length &lt; 1)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("USAGE java GoodWinRedirect &lt;outputfile&gt;");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.exit(1);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FileOutputStream fos = new FileOutputStream(args[0]);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Runtime rt = Runtime.getRuntime();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process proc = rt.exec("java jecho 'Hello World'");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// any error message?<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler errorGobbler = new <BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler(proc.getErrorStream(), "ERROR");&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// any output?<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler outputGobbler = new <BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler(proc.getInputStream(), "OUTPUT", fos);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// kick them off<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;errorGobbler.start();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;outputGobbler.start();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// any error???<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int exitVal = proc.waitFor();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("ExitValue: " + exitVal);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fos.flush();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fos.close();&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (Throwable t)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t.printStackTrace();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+}<BR>
+</CODE><P>
+Running <code>GoodWinRedirect</code> produces: <P>
+<CODE><P>
+<BR>
+
+E:\classes\com\javaworld\jpitfalls\article2&gt;java GoodWinRedirect test.txt<BR>
+
+OUTPUT&gt;'Hello World'<BR>
+
+ExitValue: 0<BR>
+</CODE><P>
+After running <code>GoodWinRedirect</code>, <code>test.txt</code> does exist.  The solution to the pitfall was to simply control the redirection by handling the external process's standard output stream separately from the <code>Runtime.exec()</code> method.  We create a separate <code>OutputStream</code>, read in the filename to which we redirect the output, open the file, and write the output that we receive from the spawned process's standard output to the file.  Listing 4.7 completes that task by adding a new constructor to our <code>StreamGobbler</code> class.  The new constructor takes three arguments: the input stream to gobble, the type <code>String</code> that labels the stream we are gobbling, and the output stream to which we redirect the input.  This new version of <code>StreamGobbler</code> does not break any of the code in which it was previously used, as we have not changed the existing public API -- we only extended it. <P>
+Since the argument to <code>Runtime.exec()</code> is dependent on the operating system, the proper commands to use will vary from one OS to another.  So, before finalizing arguments to <code>Runtime.exec()</code> and writing the code, quickly test the arguments.  Listing 4.8 is a simple command-line utility that allows you to do just that. <P>
+Here's a useful exercise: try to  modify <code>TestExec</code> to redirect the standard input or standard output to a file.  When executing the <code>javac</code> compiler on Windows 95 or Windows 98, that would solve the problem of error messages scrolling off the top of the limited command-line buffer.
+<P>
+<strong>Listing 4.8 TestExec.java</strong> <P>
+<CODE><P>
+<BR>
+
+import java.util.*;<BR>
+
+import java.io.*;<BR>
+
+<BR>
+
+// class StreamGobbler omitted for brevity<BR>
+
+<BR>
+
+public class TestExec<BR>
+
+{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;public static void main(String args[])<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (args.length &lt; 1)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("USAGE: java TestExec \"cmd\"");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.exit(1);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;String cmd = args[0];<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Runtime rt = Runtime.getRuntime();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process proc = rt.exec(cmd);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// any error message?<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler errorGobbler = new <BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler(proc.getErrorStream(), "ERR");&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// any output?<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler outputGobbler = new <BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamGobbler(proc.getInputStream(), "OUT");<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// kick them off<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;errorGobbler.start();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;outputGobbler.start();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// any error???<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int exitVal = proc.waitFor();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("ExitValue: " + exitVal);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (Throwable t)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t.printStackTrace();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+}<BR>
+</CODE><P>
+Running <code>TestExec</code> to launch the Netscape browser and load the Java help documentation produces: <P>
+<CODE><P>
+<BR>
+
+E:\classes\com\javaworld\jpitfalls\article2&gt;java TestExec "e:\java\docs\index.html"<BR>
+
+java.io.IOException: CreateProcess: e:\java\docs\index.html error=193<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Win32Process.create(Native Method)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Win32Process.&lt;init&gt;(Unknown Source)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Runtime.execInternal(Native Method)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Runtime.exec(Unknown Source)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Runtime.exec(Unknown Source)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Runtime.exec(Unknown Source)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at java.lang.Runtime.exec(Unknown Source)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at TestExec.main(TestExec.java:45)<BR>
+</CODE><P>
+Our first test failed with an error of <code>193</code>.  The Win32 error for value 193 is "not a valid Win32 application."  This error tells us that no path to an associated application (e.g., Netscape) exists, and that the process cannot run an HTML file without an associated application.
+<P>
+Therefore, we try the test again, this time giving it a full path to Netscape. (Alternately, we could add Netscape to our <code>PATH</code> environment variable.)  A second run of <code>TestExec</code> produces: <P>
+<CODE><P>
+<BR>
+
+E:\classes\com\javaworld\jpitfalls\article2&gt;java TestExec <BR>
+
+"e:\program files\netscape\program\netscape.exe e:\java\docs\index.html"<BR>
+
+ExitValue: 0<BR>
+</CODE><P>
+This worked!  The Netscape browser launches, and it then loads the Java help documentation. 
+<P>
+One additional improvement to <code>TestExec</code> would include a command-line switch to accept input from standard input.  You would then use the <code>Process.getOutputStream()</code> method to pass the input to the spawned external program.
+<P>
+To sum up, follow these rules of thumb to avoid the pitfalls in <code>Runtime.exec()</code>: <P>
+<ol> <li>You cannot obtain an exit status from an external process until it has exited</li> <P>
+<li>You must immediately handle the input, output, and error streams from your spawned external process </li> <P>
+<li>You must use <code>Runtime.exec()</code> to execute programs </li> <P>
+<li>You cannot use <code>Runtime.exec()</code> like a command line </li> </ol> <P><FONT SIZE="+1"><STRONG> Correction to Pitfall 3 </STRONG></FONT><BR>
+In the discussion of Pitfall 3 ("Don't mix floats and doubles when generating text or XML messages") in my last column, I incorrectly stated that the different string representation of a decimal number after casting it from a float to a double was a bug. While this is a pitfall, its cause is not a bug, but the fact that the decimal numbers in question -- 100.28 and 91.09 -- do not represent precisely in binary.  I'd like to thank Thomas Okken and the others who straightened me out.  If you enjoy discussing the finer points of numerical methods, you can <a href="mailto:TOkken@refco.com">email Thomas</a>.
+<P>
+The combination of forgetting my numerical methods class, the numerous bug reports on the bug parade, and the automatic rounding of floats and doubles when printing (but not after casting a float to a double) threw me.  I apologize for confusing anyone who read the article, especially to new Java programmers.  I present two better solutions to the problem:
+<P>
+The first possible solution is to always specify the desired rounding explicitly with <code>NumberFormat</code>.  In my case, I use the float and double to represent dollars and cents; therefore, I need only two significant digits.  Listing C3.1 demonstrates how to use the <code>NumberFormat</code> class to specify a maximum of two fraction digits. <P>
+<strong>Listing C3.1 FormatNumbers.java</strong> <P>
+<CODE><P>
+<BR>
+
+import java.text.*;<BR>
+
+<BR>
+
+public class FormatNumbers<BR>
+
+{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;public static void main(String [] args)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NumberFormat fmt = NumberFormat.getInstance();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fmt.setMaximumFractionDigits(2);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;float f = 100.28f;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("As a float&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: " + f);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;double d = f;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("Cast to a double&nbsp;&nbsp;: " + d);<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("Using NumberFormat: " + fmt.format(d));&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (Throwable t)<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t.printStackTrace();<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;}<BR>
+
+}<BR>
+</CODE><P>
+When we run the <code>FormatNumbers</code> program, it produces: <P>
+<CODE><P>
+<BR>
+
+E:\classes\com\javaworld\jpitfalls\article2&gt;java FormatNumbers<BR>
+
+As a float&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 100.28<BR>
+
+Cast to a double&nbsp;&nbsp;: 100.27999877929688<BR>
+
+Using NumberFormat: 100.28<BR>
+</CODE><P>
+As you can see -- regardless of whether we cast the float to a double -- when we specify the number of digits we want, it properly rounds to that precision -- even if the number is infinitely repeating in binary.  To circumvent this pitfall, control the formatting of your doubles and floats when converting to a <code>String</code>. <P>
+A second, simpler solution would be to not use a float to represent cents.  Integers (number of pennies) can represent cents, with a legal range of 0 to 99. You can check the range in the mutator method. <P><FONT SIZE="+1"><STRONG> Next time </STRONG></FONT><BR>
+In my next column, I'll present another pitfall from <code>java.lang</code>, as well as two traps hiding in the <code>java.net</code> and the <code>Swing</code> packages.  If you know of any Java pitfalls that have wasted your time and caused you frustration, please <a href="http://www.javaworld.com/javaworld/feedback/jw-feedback-form.html" target="_blank">email them to me</a> so we can save others the same fate.
+
+<IMG HEIGHT="12" WIDTH="22" SRC="http://www.idg.net/microsites/javaworld/javaworld/icons/jw-dingbat.gif"><P><br /></p>
+                        <font size=-1><!-- REPLACE PAGEURLS --> </font>
+                        <p>
+                            <img src="http://www.javaworld.com/images/jw-print-icon.gif" width="16" height="15" border="0" alt="Printer-friendly version" vspace="4" align="absmiddle" />
+                            <a href="/javaworld/jw-12-2000/jw-1229-traps_p.html">Printer-friendly version</a> | <img src="http://www.javaworld.com/images/jw-email-icon.gif" width="20" height="15" border="0" alt="Send this article to a friend"> <a href="javascript:mail2Friend()">Mail this to a friend</a></p>
+                        <p><STRONG>About the author</STRONG><BR> 
+
+<a href="http://www.javaworld.com/javaworld/feedback/jw-feedback-form.html" target="_blank">Michael C. Daconta</a> is the director of Web and technology services for <a href="http://www.mcbrad.com">McDonald Bradley</a>, where he conducts training seminars and develops advanced systems with Java, JavaScript, and XML.  Over the past 15 years, Daconta has held every major development position, including chief scientist, technical director, chief developer, team leader, systems analyst, and programmer.  He is a Sun-certified Java programmer and coauthor of <em>Java Pitfalls</em> (John Wiley & Sons, 2000), <em>Java 2 and JavaScript for C and C++ Programmers</em> (John Wiley & Sons, 1999), and <em>XML Development with Java 2</em> (Sams Publishing, 2000). In addition, he is the author of <em>C++ Pointers and Dynamic Memory Management</em> (John Wiley & Sons, 1995).  
+
+<br /></p>
+                        <p><ul><A NAME="resources"></a><STRONG>Resources</STRONG>
+<BR>
+
+<LI>Download the source code for all the examples in this article: <BR><A HREF="http://www.javaworld.com/jw-12-2000/traps/jw-1229-traps.zip ">http://www.javaworld.com/jw-12-2000/traps/jw-1229-traps.zip 
+</A><BR>
+
+
+<LI> <em>Java Pitfalls, Time Saving Solutions, and Workarounds to Improve Programs.</em>, Michael C. Daconta, Eric Monk, J. Paul Keller, Keith Bohnenberger, (John Wiley & Sons, 2000): <BR><A HREF="http://www.amazon.com/exec/obidos/ASIN/0471361747/javaworld">http://www.amazon.com/exec/obidos/ASIN/0471361747/javaworld
+</A><BR>
+
+
+<LI>Review the <code>JConfig</code> library or download it for evaluation: <BR><A HREF="http://www.tolstoy.com/samizdat/jconfig.html">http://www.tolstoy.com/samizdat/jconfig.html
+</A><BR>
+
+
+<LI>Read Michael Daconta's previous <strong>Java Traps</strong> column, "Steer Clear of Java Pitfalls" (<em>JavaWorld,</em> September 22, 2000): <BR><A HREF="http://www.javaworld.com/javaworld/jw-09-2000/jw-0922-pitfalls.html">http://www.javaworld.com/javaworld/jw-09-2000/jw-0922-pitfalls.html
+</A><BR>
+
+
+<LI>Are you a Java novice who keeps falling into traps? You might try your luck in <em>JavaWorld'</em>s Java Beginner discussion, hosted on ITworld.com: <BR><A HREF="http://www.itworld.com/jump/jw-1228-traps/forums.itworld.com/webx?14@@.ee6b804">http://www.itworld.com/jump/jw-1228-traps/forums.itworld.com/webx?14@@.ee6b804
+</A><BR>
+
+
+<LI>Sign up for the <em>JavaWorld This Week</em> free weekly email newsletter and keep up with what's new at <em>JavaWorld</em>: <BR><A HREF="http://www.idg.net/jw-subscribe">http://www.idg.net/jw-subscribe
+</A><BR>
+
+
+<LI>Browse <em>JavaWorld</em>'s <strong>Topical Index</strong>: <BR><A HREF="http://www.javaworld.com/javaworld/topicalindex/jw-ti-index.html">http://www.javaworld.com/javaworld/topicalindex/jw-ti-index.html
+</A><BR>
+
+
+</ul><br /></p>
+                        <!-- REPLACE SIDEBAR -->
+                    </font>
+                    <!-- ## MAIN CONTENT ENDS HERE ### -->
+                </td>
+                <td width="8"><img height=1 src="http://www.javaworld.com/images/spacer.gif" width=8 border=0 ></td>
+            </tr>
+        </table>
+        <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tr>
+                <td bgcolor="#006699" width="168" nowrap><nobr><img src="http://www.javaworld.com/images/spacer.gif" width=160 height=8 border=0 ><img src="http://www.javaworld.com/images/c_bllftbottom.gif" width=8 height=8 border=0 ></nobr></td>
+                <td width="100%"><img src="http://www.javaworld.com/images/spacer.gif" width=1 height=1 border=0 ></td>
+                <td width="8"><img src="http://www.javaworld.com/images/spacer.gif" width=8 height=8 border=0 ></td>
+            </tr>
+        </table>
+        <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tr>
+                <td width="186" bgcolor="#006699" align="middle"><nobr><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="2"></font></nobr><a href="http://www.javaworld.com"><img height=81 src="http://www.javaworld.com/images/top_jwlogo.gif" width=186 border=0></a></td>
+                <td bgcolor="#cccccc" width="8" valign="bottom"><img height=8 src="http://www.javaworld.com/images/c_blgrylftbottom.gif" width=8 border=0 ></td>
+                <td bgcolor="#cccccc" width="100%" align="middle" valign="center"><!-- BOTTOM 468x60 AD STARTS HERE -->
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0">
+<TR>
+<TD>
+<FONT COLOR="#000000" SIZE="-2" FACE="Arial,Helvetica,Sans-serif">
+Advertisement: Support JavaWorld, click here!</FONT><BR>
+<NOLAYER>
+<IFRAME SRC="http://ad.doubleclick.net/adi/idg.us.idgnet.javaworld/articles;pos=bottom;sz=468x60;tile=4;ord=366972?" width="468" height="60" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+<A HREF="http://ad.doubleclick.net/jump/idg.us.idgnet.javaworld/articles;abr=!ie;pos=bottom;sz=468x60;tile=4;ord=366972?"><IMG SRC="http://ad.doubleclick.net/ad/idg.us.idgnet.javaworld/articles;abr=!ie;pos=bottom;sz=468x60;tile=4;ord=366972?" border=0 height="60" width="468"></A>
+</IFRAME>
+</NOLAYER>
+<ILAYER id="layer4" visibility="hidden" width=468 height=60></ILAYER>
+</TD>
+</TR>
+</TABLE>
+<!-- BOTTOM 468x60 AD ENDS HERE -->
+</td>
+                <td width="8"><img height=8 src="http://www.javaworld.com/images/spacer.gif" width=8 border=0 ></td>
+            </tr>
+        </table>
+        <table bgcolor="#006699" align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tr>
+                <td width="100%" align="middle" valign="center">    <font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1" color="#ffffff">
+        <p>
+            <br />
+            <a href="http://www.javaworld.com"><font color="#ffffff">HOME</font></a>&nbsp;|&nbsp;
+            <a href="http://www.javaworld.com/features/index.shtml"><font color="#ffffff">FEATURED TUTORIALS</font></a>&nbsp;|&nbsp;
+            <a href="http://www.javaworld.com/columns/index.shtml"><font color="#ffffff">COLUMNS</font></a>&nbsp;|&nbsp;
+            <a href="http://www.javaworld.com/news-reviews/index.shtml"><font color="#ffffff">NEWS & REVIEWS</font></a>&nbsp;|&nbsp;
+            <a href="http://forums.idg.net/webx?13@@.ee6b802"><font color="#ffffff">FORUM</font></a>&nbsp;|&nbsp;
+            <a href="http://www.javaworld.com/resources/index.shtml"><font color="#ffffff">JW RESOURCES</font></a>&nbsp;|&nbsp;
+            <a href="http://www.javaworld.com/info/jw-about-index.shtml"><font color="#ffffff">ABOUT JW</font></a>&nbsp;|&nbsp;
+            <a href="http://www.javaworld.com/feedback"><font color="#ffffff">FEEDBACK</font></a>
+        </p>
+        <p>
+
+            <a href="http://www.javaworld.com/javaworld/common/jw-copyright.html"><font color="#ffffff">Copyright © 2002</font></a> JavaWorld.com, an IDG Communications company
+        </p>
+    </font>
+</td>
+                <td bgcolor="#ffffff" width="8"><img height=8 src="http://www.javaworld.com/images/spacer.gif" width=8 border=0 ></td>
+            </tr>
+            <tr>
+                <td width="100%" align="right" valign="top"><img height=8 src="http://www.javaworld.com/images/c_blrtbottom.gif" width=8 border=0 ></td>
+                <td bgcolor="#ffffff" width="8"><img height=8 src="http://www.javaworld.com/images/spacer.gif" width=8 border=0 ></td>
+            </tr>
+        </table>
+        <!--TOP_BANNER-->
+<LAYER SRC="http://ad.doubleclick.net/adl/idg.us.idgnet.javaworld/articles;pos=top;sz=468x60;tile=1;ord=366972?" width=468 height=60 visibility="hidden" onLoad="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility='show';">
+</LAYER>
+
+<!--125x125-->
+<LAYER SRC="http://ad.doubleclick.net/adl/idg.us.idgnet.javaworld/articles;pos=med;sz=125x125;tile=2;ord=366972?" width=125 height=125 visibility="hidden" onLoad="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=125;clip.width=125;visibility='show';">
+</LAYER>
+
+<!--SKYSCRAPER-->
+<LAYER SRC="http://ad.doubleclick.net/adl/idg.us.idgnet.javaworld/articles;pos=skyscraper;sz=120x600;tile=3;ord=366972?" width=120 height=600 visibility="hidden" onLoad="moveToAbsolute(layer3.pageX,layer3.pageY);clip.height=600;clip.width=120;visibility='show';">
+</LAYER>
+
+<!--BOTTOM_BANNER-->
+<LAYER SRC="http://ad.doubleclick.net/adl/idg.us.idgnet.javaworld/articles;pos=bottom;sz=468x60;tile=4;ord=366972?" width=468 height=60 visibility="hidden" onLoad="moveToAbsolute(layer4.pageX,layer4.pageY);clip.height=60;clip.width=468;visibility='show';">
+</LAYER>
+
+<!--Big AD-->
+<LAYER SRC="http://ad.doubleclick.net/adl/idg.us.idgnet.javaworld/articles;pos=rectangle;sz=336x280;tile=5;ord=366972" width=336 height=280 visibility="hidden" onLoad="moveToAbsolute(layer5.pageX,layer5.pageY);clip.height=280;clip.width=336;visibility='show';">
+</LAYER>
+    </body>
+<!-- stories2 -->
+<!-- DOCID 658560 -->
+</html>
+

@@ -1,0 +1,380 @@
+ID=A0077
+URL=http://www.woolwich.co.uk/content/OPN/
+SIZE=6197
+DATE=27/06/02
+TIME=16:51:50
+DATASET=Commercial Banks
+HTML=
+<html>
+<head>
+<title>Open Plan - Home Page</title>
+<!-- External scripts -->
+<script language="JavaScript" src="/g_clientscripts/crossbrowser/core.js"></script>
+<script language="JavaScript" src="/g_clientscripts/crossbrowser/display.js"></script>
+<script language="JavaScript" src="/g_clientscripts/crossbrowser/image.js"></script>
+<script language="JavaScript" src="/g_clientscripts/hub/frmnavbar.js"></script>
+<script language="JavaScript" src="/g_clientscripts/hub/frmworkspace.js"></script>
+<script language="JavaScript" src="/g_clientscripts/hub/frmtoolkit.js"></script>
+<!-- External style-sheets -->
+<link rel="stylesheet" type="text/css" href="/g_themes/stylesheets/hubopn.css">
+<link rel="stylesheet" type="text/css" href="/g_themes/stylesheets/frmworkspace.css">
+<!-- script to set the header, nav-bar and pre-load images -->
+<script language="JavaScript">
+//<!--
+wrkSetHub('OPN');
+navShowPathAndHidePages('OPN', null, null, null);
+tkPreloadImages('OPN');
+
+function requestInfo(strProductId){
+ window.open("/content/shared/salesenquiry.asp?HubID=OPN&ProductID=" + strProductId + "","popUp","scrollbars=yes,width=600,height=540");
+}
+
+function loadWin(){
+ window.open("../request/sp_offset.asp","popUp","scrollbars=yes,width=600,height=540");
+}
+
+function loadEgs(){
+ window.open("http://www.openplan.co.uk/mortgage/product/productExamples.asp","popUp","height=480,width=540,scrollbars");
+}
+
+function comboChanged(strComboName)	{
+ var
+  strTempValue, 
+  strLocation,
+  iSelectedIndex;
+		
+  iSelectedIndex = eval('document.formCombo.combo' + strComboName + '.selectedIndex');
+  strTempValue = eval('document.formCombo.combo' + strComboName + '[' + iSelectedIndex + ']')
+
+  //Convert string to integer
+  strLocation = parseInt(strTempValue.value);
+
+ switch (strComboName){
+  case 1:
+   //The first combo box
+   switch (strLocation){
+    case 0:
+	 break;
+	case 1: //Find out more
+	 document.formCombo.combo1.options[0].selected = true
+	 windowLoad("emortgages/default.htm");
+	 break;
+	case 2: //Offset calc
+	 document.formCombo.combo1.options[0].selected = true
+	 windowLoad("/content/opn/borrowing/calculator/help.htm");
+	 break;
+	case 3: //Debt consolidator
+	 document.formCombo.combo1.options[0].selected = true
+	 windowLoad("/content/opn/borrowing/debt/help.htm");
+	 break;
+	case 4: //interest rates in new window
+	 document.formCombo.combo1.options[0].selected = true
+	 windowLoad("/content/opn/emortgages/productrates.htm");
+	 break;
+	case 5: //Quotation
+	 document.formCombo.combo1.options[0].selected = true
+	 cbOpenPopup('http://www.openplan.co.uk/mortgage/quote/quote2a.asp', 'mortgage', 'toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes');
+	 break;	
+	case 6: //Tariff of charges
+	 document.formCombo.combo1.options[0].selected = true
+	 windowLoad("/content/opn/emortgages/mortariff.htm");
+	 break;
+	case 7: //T&C
+	 document.formCombo.combo1.options[0].selected = true
+	 windowLoad("/content/opn/terms/default.htm?MOR");
+	 break;
+	case 8: //Request info
+	 document.formCombo.combo1.options[0].selected = true
+	 requestInfo("MORFLEX1");
+	 break;
+	case 9: //Apply online
+	 document.formCombo.combo1.options[0].selected = true
+	 windowLoad('http://www.openplan.co.uk/mortgage/product/product1.asp', 'products', 'toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes');
+	 break;
+   }
+   break;
+
+ case 2:
+  //The second combo box
+  switch (strLocation){
+   case 0:
+	break;
+   case 1: //Find out more
+	document.formCombo.combo2.options[0].selected = true
+	windowLoad("emortgages/morother.htm");
+	break;
+   case 2: //Debt consolidator
+	document.formCombo.combo2.options[0].selected = true
+	windowLoad("/content/opn/borrowing/debt/help.htm");
+	break;
+   case 3: //interest rates in new window
+	document.formCombo.combo2.options[0].selected = true
+	windowLoad("/content/opn/emortgages/productrates.htm");
+	break;
+   case 4: //Quotation
+	document.formCombo.combo2.options[0].selected = true
+	cbOpenPopup("http://www.openplan.co.uk/mortgage/quote/quote2a.asp", "mortgage", "toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes");
+	break;	
+   case 5: //Tariff of charges
+	document.formCombo.combo2.options[0].selected = true
+	windowLoad("/content/opn/emortgages/mortariff.htm")
+	break;
+   case 6: //T&C
+	document.formCombo.combo2.options[0].selected = true
+	windowLoad("/content/opn/terms/default.htm?MOR");
+	break;
+   case 7: //Request info
+	document.formCombo.combo2.options[0].selected = true
+	requestInfo("MORFLEX2");
+	break;
+   case 8: //Apply online
+	document.formCombo.combo2.options[0].selected = true
+	windowLoad("http://www.openplan.co.uk/mortgage/product/product1.asp", 'products', 'toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes');
+	break;
+  }
+  break;
+
+ case 3:
+  //The third combo box
+  switch (strLocation){
+   case 0:
+	break;
+   case 1: //Savings options
+	document.formCombo.combo3.options[0].selected = true
+	windowLoad("esavings/");
+	break;
+   case 2: //Open Plan for savers
+	document.formCombo.combo3.options[0].selected = true
+	windowLoad("esavings/opforsavers.asp");
+	break;
+   case 3: //Money Management
+	document.formCombo.combo3.options[0].selected = true
+	windowLoad("esavings/moneymanagement.asp");
+	break;
+   case 4: //Current rates
+	document.formCombo.combo3.options[0].selected = true
+	windowLoad("everyday/rates.asp?product=SAV");
+	break;
+   case 5: //T&C
+	document.formCombo.combo3.options[0].selected = true
+	windowLoad("/content/opn/terms/default.htm?MOR");
+	break;
+   case 6: //Request info
+	document.formCombo.combo3.options[0].selected = true
+	requestInfo("MORFLEX3");
+	break;
+   case 7: //Apply online
+	document.formCombo.combo3.options[0].selected = true
+	windowLoad("esavings/applynow.asp");
+	break;
+  }
+  break;
+
+ case 4:
+  //The fourth combo box
+  switch (strLocation){
+   case 0:
+	break;
+   case 1: //Current account
+	document.formCombo.combo4.options[0].selected = true
+	windowLoad("ecurrentaccounts/");
+	break;
+   case 2: //Money Management
+	document.formCombo.combo4.options[0].selected = true
+	windowLoad("ecurrentaccounts/");
+	break;
+   case 3: //Current rates
+	document.formCombo.combo4.options[0].selected = true
+	windowLoad("everyday/rates.asp?SAV");
+	break;
+   case 4: //T&C
+	document.formCombo.combo4.options[0].selected = true
+	windowLoad("/content/opn/terms/default.htm?MOR");
+	break;
+   case 5: //Request info
+	document.formCombo.combo4.options[0].selected = true
+	requestInfo("MORFLEX4");
+	break;
+   case 6: //Apply online
+	document.formCombo.combo4.options[0].selected = true
+	windowLoad("ECurrentAccounts/tour2.asp");
+	break;
+  }
+  break;
+ }
+}	
+
+function windowLoad(strLocation){
+ //Check target
+ if (strLocation.substr(0,4).toLowerCase() == "http"){
+  window.top.location.href = strLocation;
+ } else {
+  window.location.href = strLocation;
+ }
+}
+
+function comboChangedOLD(strComboName){
+ var
+  strTempValue, 
+  strLocation,
+  iSelectedIndex;
+
+ iSelectedIndex = eval('document.formCombo.' + strComboName + '.selectedIndex');
+
+ strTempValue = eval('document.formCombo.' + strComboName + '[' + iSelectedIndex + ']')
+
+ strLocation = strTempValue.value;
+		
+ //Check target 
+ if (strLocation.substr(0,4).toLowerCase() == "http"){
+  window.top.location.href = strLocation;
+ } else {
+  window.location.href = strLocation;
+ }
+}
+//-->  
+</script>
+</head>
+<body>
+<!-- Open Plan curve -->
+<div id="TopLeftCurve" class="TopLeftCurve">
+ <img src="/g_Themes/images/opn_nav_corner_curve.gif" border="0" width="19" height="18">
+</div>
+<!-- Toolkit and Advert -->
+<div id="ToolkitAndAdvert" class="ToolkitAndAdvert">
+ <table border="0" cellpadding="0" cellspacing="0">
+  <tr><td width="15"></td>
+   <td><script language="JavaScript">tkWriteToolkit('OPN', 'CME?HubID=OPN', 'WBD', 'SCH', 'EAF', 'ORG', 'ENQ?HubID=OPN', 'CFB');</script>
+	<table border="0" cellpadding="0" cellspacing="0">
+	 <tr><td><script language="JavaScript" src="/g_clientscripts/dynamicimage/adserver.asp?Group=OpnDefault"></script></td></tr>
+	</table></td>
+  <tr><td height="15"></td></tr>
+ </tr>
+ </table>
+</div>
+<!--Content-->
+<form name="formCombo" id="formCombo">
+<table border="0" cellspacing="0" cellpadding="0" width="71%">
+ <tr><td colspan="3"><img src="images/welcome.gif" width="219" height="22" alt="Welcome to Open Plan"></td></tr>
+ <tr><td colspan="3">&nbsp;</td></tr>
+ <tr>
+  <td align="left" valign="top">
+	Here you will find more about how Open Plan can help you save money compared to our traditional mortgage,  take years off your mortgage and generally make your life easier.
+	<br><br>Click on one of the links below to find out more about Open Plan.
+	<br><br>
+	<a href="ewhatisop/"><img src="/g_Themes/images/buttons/circle_arrow_red.gif" border="0" width="12" height="12" alt="">&nbsp;<font color="#9F2A28">Tell me more about Open Plan?</font></a>
+	<br><br><br>
+	If you know what you're looking for, choose from the options below...
+	<table border="0">
+	 <tr>
+	  <td class="tableBG">Offset Mortgages</td>
+	  <td class="tableBG">
+	   <select onchange="comboChanged(1);" id="combo1" name="combo1">
+		<option value="0">Find out more</option>
+		<option value="1">Offset mortgage </option>
+		<option value="2">Offset calculator</option>
+		<option value="3">Debt consolidator</option>
+		<option value="4">Current interest rates</option>
+		<option value="5">Quotation</option>
+		<option value="6">Tariff of charges</option>
+		<option value="7">Terms and conditions</option>
+		<option value="8">Request information</option>
+		<option value="9">Apply online</option>
+	   </select>
+	  </td>
+	 </tr>
+	 <tr>
+	  <td class="tableBG">Other Flexible Mortgages</td>
+	  <td class="tableBG">
+	   <select onchange="comboChanged(2);" id="combo2" name="combo2">
+		<option value="0">Find out more</option>
+		<option value="1">Other mortgages</option>
+		<option value="2">Debt consolidator</option>
+		<option value="3">Current interest rates</option>
+		<option value="4">Quotation</option>
+		<option value="5">Tariff of charges</option>
+		<option value="6">Terms and conditions</option>
+		<option value="7">Request information</option>
+		<option value="8">Apply online</option>
+	   </select>
+	  </td>
+	 </tr>
+	 <tr>
+	  <td class="tableBG">Savings</td>
+	  <td class="tableBG">
+	   <select onchange="comboChanged(3);" id="combo3" name="combo3">
+		<option value="0">Find out more</option>
+		<option value="1">Savings options</option>
+		<option value="2">Open Plan for Savers</option>
+		<option value="3">Money Management</option>
+		<option value="4">Current rates</option>
+		<option value="5">Terms and conditions</option>
+		<option value="6">Request information</option>
+		<option value="7">Apply online</option>
+	   </select>
+	  </td>
+	 </tr>
+	 <tr>
+	  <td class="tableBG">Current Accounts</td>
+	  <td class="tableBG">
+	   <select onchange="comboChanged(4);" id="combo4" name="combo4">
+		<option value="0">Find out more</option>
+		<option value="1">Current Account</option>
+		<option value="2">Money Management</option>
+		<option value="3">Current rates</option>
+		<option value="4">Terms and conditions</option>
+		<option value="5">Request information</option>
+		<option value="6">Apply online</option>
+	   </select>
+	  </td>
+	 </tr>
+	</table>
+   </td>
+   <td>&nbsp;</td>
+   <td align="right" valign="top"><a href="JavaScript:loadWin();"><img src="../request/images/salesmessage/sm_ffwd.gif"  width="214" height="211" border="0" alt="Fast Forward your mortgage"></a></td>
+ </tr>
+</table>
+</form>
+<table align="center">
+ <tr><td align="center"><a href="javascript:loadEgs();"><font face="verdana" size="1" color="red">Open Plan Borrowing - Typical examples</font></a></td></tr>
+</table>
+<p class="legal1">OPEN PLAN CURRENT ACCOUNT, DEBIT CARD, CREDIT CARD AND MORTGAGES ARE SUBJECT TO STATUS AND A 
+ MINIMUM AGE OF 18. UK RESIDENTS ONLY. WRITTEN QUOTATIONS AVAILABLE ON REQUEST.
+ MORTGAGES REQUIRE A FIRST CHARGE ON THE PROPERTY AND ARE SUBJECT TO VALUATION. 
+ WOOLWICH OPEN PLAN CURRENT ACCOUNT IS MANDATORY WITH THE OFFSET MORTGAGE. TO BENEFIT FROM THE 
+ OPEN PLAN CURRENT ACCOUNT A MINIMUM MONTHLY DEPOSIT OF £250 OR A MONTHLY SALARY MUST BE CREDITED 
+ TO THE ACCOUNT. STANDARD OVERDRAFT RATE ON THE OPEN PLAN CURRENT ACCOUNT 
+ IS 11.00% AER. OVERDRAFTS REPAYABLE ON DEMAND.  
+ OVERNIGHT SWEEPING IS SUBJECT TO TERMS AND CONDITIONS AND AVAILABILITY OF PERSONAL FUNDS IN THE 
+ OPEN PLAN CURRENT ACCOUNT. REFERENCES TO A TRADITIONAL MORTGAGE ON THIS WEB SITE REFERS TO A WOOLWICH MORTGAGE WITHOUT ANY OFFSET ELEMENT COMPARED TO OPEN PLAN WHICH HAS THIS FEATURE.<BR> WOOLWICH PLC REGISTERED IN ENGLAND. NUMBER 3295699. REGISTERED 
+ OFFICE: WATLING STREET, BEXLEYHEATH KENT DA6 7RR.</p>
+ <p class="legal1"><b><center>YOUR HOME IS AT RISK IF YOU DO NOT KEEP UP REPAYMENTS ON A MORTGAGE OR OTHER LOAN SECURED ON IT.</center></b></p>
+<br>
+<HTML>
+
+<HEAD>
+
+</HEAD>
+
+<BODY>
+<br><br>
+<CENTER><b><a href="/content/shared/legal.htm" target="new">Site Terms & Conditions<BR>Please Read</a></b></CENTER>
+
+</BODY>
+</HTML>
+<!-- End of Content -->
+<!--BEGINNING OF ADVERTISING TRACKING CODE - - - DO NOT REMOVE-->
+<script LANGUAGE="JavaScript">
+//<!--
+ var axel = Math.random() + "";
+ var ord = axel * 1000000000000000000;
+ spotlighttag="http://ad.uk.doubleclick.net/activity;src=442613;type=openp;cat=opnhp;ord="+ord;
+ document.writeln('<img src="' + spotlighttag + '?" WIDTH=1 HEIGHT=1 BORDER=0>');
+//-->
+</script>
+<noscript>
+ <img src="http://ad.uk.doubleclick.net/activity;src=442613;type=openp;cat=opnhp;?" border="0" width="1" height="1" alt="">
+</noscript>
+<!--END OF ADVERTISING TRACKING CODE - - - DO NOT REMOVE-->
+</body>
+</html>

@@ -1,0 +1,726 @@
+ID=A0082
+URL=http://www.bankofireland-ni.com/about_us/rates_&_fees/savings_&_deposit_rates/index.php
+SIZE=43628
+DATE=27/06/02
+TIME=16:51:55
+DATASET=Commercial Banks
+HTML=<script language="JavaScript">
+<!--  
+  function open_window(URL,winName,features) { 
+  window.open(URL,winName,features);
+}
+//-->
+</script> 
+<html>
+<head>
+<title>Bank of Ireland, Northern Ireland - Savings and Deposits</title>
+<link rel="stylesheet" type="text/css" href="/style.css">
+<meta name="description" content="Learn all about the Bank of Ireland and its activities with businesses and personal users">
+<meta name="keywords" content="bank of ireland, ireland, bank, banking, internet banking, online banking, e-banking, money, finance, financial transactions">
+
+<!-- ############  
+Graphic Designer - Kirk Moffatt - The Internet Business Ltd
+Programmer - Michael Slevin - The Internet Business Ltd 
+############### -->
+ 
+<script language="JavaScript">
+<!-- 
+ 
+    a1=new Image(48,16); a1.src="/images/but_about.gif";
+    a2=new Image(48,16); a2.src="/images/but_about_hi.gif";    
+    a3=new Image(87,16); a3.src="/images/but_personal.gif";
+    a4=new Image(87,16); a4.src="/images/but_personal_hi.gif";    
+    a5=new Image(86,16); a5.src="/images/but_business.gif";
+    a6=new Image(86,16); a6.src="/images/but_business_hi.gif";        
+    a7=new Image(75,16); a7.src="/images/but_findus.gif";
+    a8=new Image(75,16); a8.src="/images/but_findus_hi.gif";
+    a9=new Image(75,16); a9.src="/images/but_financial.gif";
+    a10=new Image(75,16); a10.src="/images/but_financial_hi.gif";            
+    a11=new Image(56,16); a11.src="/images/but_contact.gif";
+    a12=new Image(56,16); a12.src="/images/but_contact_hi.gif";        
+    a13=new Image(52,16); a13.src="/images/but_info.gif";    
+    a14=new Image(52,16); a14.src="/images/but_info_hi.gif";
+ 
+  function msOver(img,ref) {
+      document.images[img].src = ref;  
+  }
+  
+  function ExplorerFix()
+  {
+  for (a in document.links) document.links[a].onfocus = 
+  document.links[a].blur;
+  }
+  if (document.all)
+  {
+  document.onmousedown = ExplorerFix;
+  }
+
+  function sCountry(newURL) {
+    if (newURL != "") {
+      location.href=newURL
+    }
+  }
+       
+  //-->
+</script>  
+</head>
+<body bgcolor="#003366" text="#585858" link="#000000" vlink="#000000" alink="#000000" topmargin=0 leftmargin=0 marginwidth=0 marginheight=0>
+<!-- S -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top">
+    <td>  
+    <table width="600" cellpadding="0" cellspacing="0" border="0" align="center">
+      <tr valign="top">
+        <td width="119" rowspan=2><a href="/"><img src="/images/front_boi_logo.gif" width="119" height="51" border="0" alt="Bank of Ireland"></a></td>
+        <td>
+        <table width="491" cellpadding=0 cellspacing=0 border=0 align=center>
+          <tr>
+            <td><a onMouseOver="msOver('personal','/images/but_personal_hi.gif'); window.status='Personal Banking'; return true" onMouseOut="msOver('personal','/images/but_personal.gif'); window.status=''; return true" href="/personal_banking/"><img src="/images/but_personal.gif" width=87 height=16 border=0 alt="Personal Banking" name="personal"></a></td>
+            <td><img src="/images/but_tiny.gif" width=2 height=16 border=0 alt="Bank of Ireland"></td>
+            <td><a onMouseOver="msOver('business','/images/but_business_hi.gif'); window.status='Business Banking'; return true" onMouseOut="msOver('business','/images/but_business.gif'); window.status=''; return true" href="/business_banking/"><img src="/images/but_business.gif" width=86 height=16 border=0 alt="Business Banking" name="business"></a></td>
+            <td><img src="/images/but_tiny.gif" width=2 height=16 border=0 alt="Bank of Ireland"></td>
+            <td><a onMouseOver="msOver('about','/images/but_about_hi.gif'); window.status='About Us'; return true" onMouseOut="msOver('about','/images/but_about.gif'); window.status=''; return true" href="/about_us/"><img src="/images/but_about.gif" width=48 height=16 border=0 alt="About Us" name="about"></a></td>
+            <td><img src="/images/but_tiny.gif" width=2 height=16 border=0 alt="Bank of Ireland"></td>
+            <td><a onMouseOver="msOver('apply','/images/but_apply_hi.gif'); window.status='Apply Now'; return true" onMouseOut="msOver('apply','/images/but_apply.gif'); window.status=''; return true" href="/apply_now/"><img src="/images/but_apply.gif" width=52 height=16 border=0 alt="Apply Now" name="apply"></a></td>                                                                                
+            <td><img src="/images/but_tiny.gif" width=2 height=16 border=0 alt="Bank of Ireland"></td>
+            <td><a onMouseOver="msOver('findus','/images/but_findus_hi.gif'); window.status='Find Us'; return true" onMouseOut="msOver('findus','/images/but_findus.gif'); window.status=''; return true" href="/find_us/"><img src="/images/but_findus.gif" width=75 height=16 border=0 alt="Find Us" name="findus"></a></td>
+            <td><img src="/images/but_tiny.gif" width=2 height=16 border=0 alt="Bank of Ireland"></td>
+            <td><a onMouseOver="msOver('financial','/images/but_financial_hi.gif'); window.status='Financial News'; return true" onMouseOut="msOver('financial','/images/but_financial.gif'); window.status=''; return true" href="/financial_news/"><img src="/images/but_financial.gif" width=75 height=16 border=0 alt="Financial News" name="financial"></a></td>
+            <td><img src="/images/but_tiny.gif" width=2 height=16 border=0 alt="Bank of Ireland"></td>
+            <td><a onMouseOver="msOver('contactus','/images/but_contact_hi.gif'); window.status='Contact Us'; return true" onMouseOut="msOver('contactus','/images/but_contact.gif'); window.status=''; return true" href="/contact_us/"><img src="/images/but_contact.gif" width=56 height=16 border=0 alt="Contact Us" name="contactus"></a></td>                                                                                
+          </tr>
+        </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        <table width=491 cellpadding=0 cellspacing=0 border=0 align=center>
+          <tr valign=middle><form method="post" action="/php/searchit.php">
+            <td width=172><img src="/images/blank.gif" width=180 height=1 border=0 alt="Bank of Ireland"></td>      
+            <td width=250 align=right><img src="/images/blank.gif" width=150 height=5 border=0 alt="Bank of Ireland"><br>
+            <select name="sDirectory">
+<option value="personal_banking">Personal Banking
+<option value="current">- Current Account
+<option value="savings">- Savings & Investments
+<option value="mortgages">- Mortgages        
+<option value="loans">- Personal Loans
+<option value="credit">- Credit Cards
+<option value="insurance">- Home Insurance        
+<option value="travel">- Travel Banking        
+<option value="planning">- Financial Planning                        
+<option value="blank">----------------------------------
+<option value="business">Business Banking
+<option value="current2">- Current Account
+<option value="loans2">- Loans
+<option value="deposits2">- Business Deposits
+<option value="invoice2">- Invoice Finance
+<option value="asset2">- Asset Finance        
+<option value="treasury2">- Treasury Services
+<option value="international2">- International Trade        
+<option value="property2">- Property        
+<option value="corporate2">- Corporate Finance        
+<option value="ebusiness2">- eBusiness                
+<option value="blank">----------------------------------
+<option value="about_us">About Us
+<option value="profile">- Profile        
+<option value="annual">- Annual Report
+<option value="rates">- Rates & Fees        
+<option value="sponsorships">- Sponsorships        
+<option value="press">- Press Releases                
+<option value="personnel">- Jobs On Offer
+<option value="blank">----------------------------------
+<option value="apply_now">Apply Now
+<option value="blank">----------------------------------        
+<option value="find_us">How to find Us        
+<option value="365">- Banking 365        
+<option value="online">- Business On Line        
+<option value="locator">- Branch Locator
+<option value="internet">- Free Internet Access        
+<option value="blank">----------------------------------        
+<option value="whats_new">What's New
+<option value="blank">----------------------------------        
+<option value="financial_news">Financial News
+<option value="daily">- Daily Financial News        
+<option value="business_news">- Business News        
+<option value="blank">----------------------------------                
+<option value="contact_us">Contact Us
+<option value="enquiries">- Enquiries
+<option value="feedback">- Site Feedback                
+</select><br>
+            <img src="/images/blank.gif" width=50 height=5 border=0 alt="Bank of Ireland"><br>
+            </td>
+            <td width=65 align=right><input type="image" name="GO" src="/images/head_go.gif" width=37 height=36 alt="GO" border=0 align="absmiddle"></td>
+          </tr></form>
+        </table>
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#78C5A9"><img src="/images/blank.gif" width="1" height="2" border=0 alt="Bank of Ireland"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff">
+    <img src="/images/spacer.gif" alt="" width="1" height="5" border="0"><br>
+    <table width="600" cellpadding=0 cellspacing=0 border=0 align="center">
+      <tr valign=top>
+        <td width=113>
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='Personal Banking'; return true" onMouseOut="window.status=''; return true" href="/personal_banking/"><img src="/images/main_left_personal_banking.gif" alt="Personal Banking" width="113" height="53" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="4" border="0" alt="" /></td>
+            <td width="102" class="small"><img src="/images/spacer.gif" width="5" height="4" border="0" alt="" /></td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="4" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="1" border="0" alt="" /></td>
+            <td width="102" class="small">See how we are a one stop-shop for all your banking needs.</td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="1" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='Personal Banking'; return true" onMouseOut="window.status=''; return true" href="/personal_banking/"><img src="/images/main_left_bottom.gif" alt="" width="113" height="10" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><img src="/images/spacer.gif" alt="" width="1" height="3" border="0"></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='Business Banking'; return true" onMouseOut="window.status=''; return true" href="/business_banking/"><img src="/images/main_left_business_banking.gif" alt="Business Banking" width="113" height="23" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="4" border="0" alt="" /></td>
+            <td width="102" class="small"><img src="/images/spacer.gif" width="5" height="4" border="0" alt="" /></td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="4" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="1" border="0" alt="" /></td>
+            <td width="102" class="small">Information, support and advice available to you online...</td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="1" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='Business Banking'; return true" onMouseOut="window.status=''; return true" href="/business_banking/"><img src="/images/main_left_bottom.gif" alt="" width="113" height="10" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><img src="/images/spacer.gif" alt="" width="1" height="3" border="0"></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='About Us'; return true" onMouseOut="window.status=''; return true" href="/about_us/"><img src="/images/main_left_about_us.gif" alt="About Us" width="113" height="18" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="4" border="0" alt="" /></td>
+            <td width="102" class="small"><img src="/images/spacer.gif" width="5" height="4" border="0" alt="" /></td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="4" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="1" border="0" alt="" /></td>
+            <td width="102" class="small">Find out everything you need to know about us here..</td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="1" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='About Us'; return true" onMouseOut="window.status=''; return true" href="/about_us/"><img src="/images/main_left_bottom.gif" alt="" width="113" height="10" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><img src="/images/spacer.gif" alt="" width="1" height="3" border="0"></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='Apply Now'; return true" onMouseOut="window.status=''; return true" href="/apply_now/"><img src="/images/main_left_apply_now.gif" alt="Apply Now" width="113" height="18" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="4" border="0" alt="" /></td>
+            <td width="102" class="small"><img src="/images/spacer.gif" width="5" height="4" border="0" alt="" /></td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="4" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="1" border="0" alt="" /></td>
+            <td width="102" class="small">Download an application form or enquire further.</td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="1" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='Apply Now'; return true" onMouseOut="window.status=''; return true" href="/apply_now/"><img src="/images/main_left_bottom.gif" alt="" width="113" height="10" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><img src="/images/spacer.gif" alt="" width="1" height="3" border="0"></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='How to Find Us'; return true" onMouseOut="window.status=''; return true" href="/find_us/"><img src="/images/main_left_how_to_find_us.gif" alt="How to Find Us" width="113" height="18" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="4" border="0" alt="" /></td>
+            <td width="102" class="small"><img src="/images/spacer.gif" width="5" height="4" border="0" alt="" /></td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="4" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="1" border="0" alt="" /></td>
+            <td width="102" class="small">Online banking, branch and ATM details.</td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="1" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='How to Find Us'; return true" onMouseOut="window.status=''; return true" href="/find_us/"><img src="/images/main_left_bottom.gif" alt="" width="113" height="10" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><img src="/images/spacer.gif" alt="" width="1" height="3" border="0"></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='Whats New'; return true" onMouseOut="window.status=''; return true" href="/whats_new/"><img src="/images/main_left_whats_new.gif" alt="Whats New" width="113" height="18" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="4" border="0" alt="" /></td>
+            <td width="102" class="small"><img src="/images/spacer.gif" width="5" height="4" border="0" alt="" /></td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="4" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="1" border="0" alt="" /></td>
+            <td width="102" class="small">Latest BOI offers.</td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="1" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='Whats New'; return true" onMouseOut="window.status=''; return true" href="/whats_new/"><img src="/images/main_left_bottom.gif" alt="" width="113" height="10" border="0"></a></td>
+          </tr>     
+          <tr valign="top">
+            <td colspan="5"><img src="/images/spacer.gif" alt="" width="1" height="3" border="0"></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='Financial News'; return true" onMouseOut="window.status=''; return true" href="/financial_news/"><img src="/images/main_left_financial_news.gif" alt="Financial News" width="113" height="18" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="4" border="0" alt="" /></td>
+            <td width="102" class="small"><img src="/images/spacer.gif" width="5" height="4" border="0" alt="" /></td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="4" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="1" border="0" alt="" /></td>
+            <td width="102" class="small">Daily financial news and stock info.</td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="1" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='Financial News'; return true" onMouseOut="window.status=''; return true" href="/financial_news/"><img src="/images/main_left_bottom.gif" alt="" width="113" height="10" border="0"></a></td>
+          </tr> 
+          <tr valign="top">
+            <td colspan="5"><img src="/images/spacer.gif" alt="" width="1" height="3" border="0"></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='Euro Update'; return true" onMouseOut="window.status=''; return true" href="/euro_update/"><img src="/images/main_left_euro_update.gif" alt="Euro Update" width="113" height="18" border="0"></a></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="4" border="0" alt="" /></td>
+            <td width="102" class="small"><img src="/images/spacer.gif" width="5" height="4" border="0" alt="" /></td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="4" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="4" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+            <td width="6"><img src="/images/spacer.gif" width="6" height="1" border="0" alt="" /></td>
+            <td width="102" class="small">Details about Euro Commission.</td>
+            <td width="3"><img src="/images/spacer.gif" width="3" height="1" border="0" alt="" /></td>
+            <td width="1" bgcolor="#A7BBC6"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="5"><a onMouseOver="window.status='Euro Update'; return true" onMouseOut="window.status=''; return true" href="/euro_update/"><img src="/images/main_left_bottom.gif" alt="" width="113" height="10" border="0"></a></td>
+          </tr> 
+          <tr valign="top">
+            <td colspan="5"><img src="/images/main_leftside_bottom.gif" width="113" height="13" border="0" alt="" /></td>
+          </tr> 
+          <tr valign="top">
+            <td colspan="5"><img src="/images/spacer.gif" alt="" width="1" height="3" border="0"></td>
+          </tr>
+        </table>
+        </td>
+        <td width=12><img src="/images/blank.gif" width=12 height=1 border=0 alt="Bank of Ireland"></td>    
+        <td width=477>
+                <!-- break -->
+                        <div class=small><a href="/" class=small>Home</a> > <a href="http://www.bankofireland-ni.com/about_us/" class=small>About Us</a> > <a href="http://www.bankofireland-ni.com/about_us/rates_&_fees/" class=small>Rates & Fees</a> > <a href="http://www.bankofireland-ni.com/about_us/rates_&_fees/savings_&_deposit_rates/" class=small>Savings & Deposit Rates</a></div><img src="/images/blank.gif" width=1 height=3 border=0 alt="Bank of Ireland"><br>
+        <!-- S -->    
+                
+        <table background="/images/back_title_big_about_us.jpg" width=466 height=19 cellpadding=0 cellspacing=0 border=0 align=left>
+                  <tr>
+            <td class=title>&nbsp;Savings & Deposit Rates</td>
+          </tr>
+        </table><br><br>
+        <a name="Classic"></a>
+
+    <p>SAVINGS INTEREST RATES WITH EFFECT FROM 28TH NOVEMBER 2001</p>
+
+    
+    <table bgcolor="#003366" border=0 width="460" cellpadding=0 cellspacing=0 align=center>    
+      <tr>
+        <td>      
+        <table border=0 width=460 cellpadding=5 cellspacing=1>
+        <tr>
+          <td bgcolor="#ffffff" rowspan=2 valign=top width="40%"><font face="arial, helvetica" size=3><b>Classic Saver</b><br><font size=2>Interest paid annually in March</td>
+          <td bgcolor="#ffffff" align=center colspan=2 width="30%"><b>New</b></td>
+          <td bgcolor="#ffffff" align=center colspan=2 width="30%"><b>Previous</b></td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" width=285>100,000+<br>50,000 - 99,999<br>25,000 - 49,999<br>10,000 - 24,999<br>5,000 - 9,999<br>1,000 - 4,999<br>500 - 999<br>10 - 499</td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.50<Br>2.00<br>1.80<br>1.25<br>0.75<br>0.50<br>0.25<br>0.25</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.00<br>1.60<br>1.44<br>1.00<br>0.60<br>0.40<br>0.20<Br>0.20</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>3.00<Br>2.55<br>2.30<br>1.75<br>1.25<br>0.75<br>0.60<br>0.25</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.40<br>2.04<br>1.84<br>1.40<br>1.00<br>0.60<br>0.48<Br>0.20</b></td>
+        </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    <br>
+    <table bgcolor="#003366" border=0 width="460" cellpadding=0 cellspacing=0 align=center>    
+      <tr>
+        <td>      
+        <table border=0 width=460 cellpadding=5 cellspacing=1>
+        <tr>
+          <td bgcolor="#ffffff" rowspan=2 valign=top width="40%"><font face="arial, helvetica" size=3><b>Regular Saver</td>
+          <td bgcolor="#ffffff" align=center colspan=2 width="30%"><b>New</b></td>
+          <td bgcolor="#ffffff" align=center colspan=2 width="30%"><b>Previous</b></td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" width=285>from £30 per month</td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>3.00</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.40</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>3.50</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.80</b></td>
+        </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    <br>    
+    <table bgcolor="#003366" border=0 width="460" cellpadding=0 cellspacing=0 align=center>    
+      <tr>
+        <td>  
+        <table border=0 width=460 cellpadding=5 cellspacing=1>
+        <tr>
+          <td bgcolor="#ffffff" rowspan=2 valign=top width="40%"><font face="arial, helvetica" size=3><b>90 Day</b><br><font size=2>Interest paid annually in March</td>
+          <td bgcolor="#ffffff" align=center colspan=2 width="30%"><b>New</b></td>
+          <td bgcolor="#ffffff" align=center colspan=2 width="30%"><b>Previous</b></td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" width=291>100,000+<br>50,000 - 99,999<br>25,000 - 49,999<br>10,000 - 24,999<br>5,000 - 9,999<br>2,500 - 4,999<br>500 - 2,499</td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>3.50<br>3.10<br>2.90<br>2.35<br>2.00<br>1.00<br>0.45</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.80<br>2.48<br>2.32<Br>1.88<br>1.60<br>0.80<br>0.36</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>4.00<br>3.60<br>3.40<br>2.85<br>2.50<br>1.55<br>0.45</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>3.20<br>2.88<br>2.72<Br>2.28<br>2.00<br>1.24<br>0.36</b></td>
+        </tr>
+        </table>
+        </td><a name="Premium"></a>
+      </tr>
+    </table>
+    <br>
+    <table bgcolor="#003366" border=0 width="460" cellpadding=0 cellspacing=0 align=center>    
+      <tr>
+        <td> 
+        <table border=0 width=460 cellpadding=5 cellspacing=1>
+        <tr>
+          <td bgcolor="#ffffff" valign=top rowspan=2 width="40%"><font face="arial, helvetica" size=3><b>Premium Gold</b><br><font size=2>Interest paid annually in March or Monthly</td>
+          <td bgcolor="#ffffff" align=left colspan=3 width="30%"><b>New</b></td>
+          <td bgcolor="#ffffff" align=left colspan=3 width="30%"><b>Previous</b></td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+          <td bgcolor="#ffffff">AER&nbsp;%</td>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+          <td bgcolor="#ffffff">AER&nbsp;%</td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" width=291>25,000+<br>10,000 - 24,999<br>5,000 - 9,999</td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.25<br>1.45<br>0.75</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>1.80<br>1.16<br>0.60</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.27<br>1.46<br>0.75</b></td>          
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.75<br>1.95<br>1.25</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.20<br>1.56<br>1.00</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.78<br>1.97<br>1.26</b></td>          
+        </tr>
+        </table><a name="Kidsave"></a>
+        </td>
+      </tr>
+    </table>
+    <br>
+    <table bgcolor="#003366" border=0 width="460" cellpadding=0 cellspacing=0 align=center>    
+      <tr>
+        <td> 
+        <table border=0 width=460" cellpadding=5 cellspacing=1>
+        <tr>
+          <td bgcolor="#ffffff" rowspan=2 valign=top width="40%"><font face="arial, helvetica" size=3><b>Kidsave</b><br><font size=2>Interest paid annually in March</td>
+          <td bgcolor="#ffffff" align=center colspan=2 width="30%"><b>New</b></td>
+          <td bgcolor="#ffffff" align=center colspan=2 width="30%"><b>Previous</b></td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" width=291>1,000+<br>1 - 999</td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>1.75<br>1.10</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>1.40<br>0.88</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.25<br>1.60</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>1.80<br>1.28</b></td>
+        </tr>
+        </table>
+        <!--
+        <table border=0 width=460 align=left cellpadding=5 cellspacing=0>
+      
+        <tr>
+      
+        <td valign=top><font face="arial, helvetica" size=3><b>TESSA</b></td>
+      
+        <td bgcolor="#ffffff">Minimum<br>Balance</td>
+      
+        <td bgcolor="#ffffff">New<br>Gross %</td>
+      
+        <td colspan=2>Previous<br>Gross %</td>
+      
+      
+      
+        </tr>
+      
+        <tr>
+      
+        <td width=291>Lump Sum<br>Tessa Regular Saver</td>
+      
+        <td valign=bottom align=right>£500<br>£25</td>
+      
+        <td valign=bottom align=right>5.35<br>4.65</td>
+      
+        <td valign=bottom align=right colspan=2>&nbsp;</td>
+      
+      
+      
+        </tr>
+      
+        </table>
+        -->
+        </td>
+      </tr>
+    </table>
+    <br>
+    <table bgcolor="#003366" border=0 width="460" cellpadding=0 cellspacing=0 align=center>    
+      <tr>
+        <td> 
+        <table border=0 width=460 cellpadding=5 cellspacing=1>
+        <tr>
+          <td bgcolor="#ffffff" valign=top rowspan=2 width="40%"><b>Mini Cash & Tessa Only ISA - Individual Savings Accounts</b></td>
+          <td bgcolor="#ffffff" width="30%"><center><b>New</b></center></td>
+          <td bgcolor="#ffffff" width="30%"><center><b>Previous</b></center></td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff">Gross/AER &nbsp;%</td>
+          <td bgcolor="#ffffff">Gross/AER &nbsp;%</td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff"><b>500+<br>50 - 499<br>10 - 49</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right>3.75<br>3.50<br>3.25</td>
+          <td bgcolor="#ffffff" valign=bottom align=right>4.25<br>4.00<br>3.75</td>
+        </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+	<center>(w.e.f. 5 October 2001; provided by Bristol & West Plc)</center>
+	<br>
+    <table bgcolor="#003366" border=0 width="460" cellpadding=0 cellspacing=0 align=center>    
+      <tr>
+        <td> 
+        <table border=0 width=460 cellpadding=5 cellspacing=1>
+        <tr>
+          <td bgcolor="#ffffff" valign=top rowspan=2 width="40%"><font face="arial, helvetica" size=3><b>Premium Business Reserve</b><br><font size=2>Interest paid half yearly</td>
+          <td bgcolor="#ffffff" align=left colspan=3 width="30%"><b>New</b></td>
+          <td bgcolor="#ffffff" align=left colspan=3 width="30%"><b>Previous</b></td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+          <td bgcolor="#ffffff">AER&nbsp;%</td>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+          <td bgcolor="#ffffff">AER&nbsp;%</td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" width=291>100,000+<br>50,000 -99,999<br>25,000 - 49,999<br>5,000 - 24,999<br>2,500 - 4,999<br>500 - 2,499</td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.75<br>2.00<br>1.60<br>0.70<br>0.60<br>0.40</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.20<br>1.60<br>1.28<br>0.56<br>0.48<br>0.32</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.78<br>2.02<br>1.61<br>0.70<br>0.60<br>0.40</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>3.25<br>2.50<br>2.10<br>1.20<br>1.10<br>0.65</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>2.60<br>2.00<br>1.68<br>0.96<br>0.88<br>0.52</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>3.30<br>2.53<br>2.12<br>1.21<br>1.11<br>0.65</b></td>
+        </tr>
+        </table>    
+        </td>
+      </tr>
+    </table>
+    <br>
+    <table bgcolor="#003366" border=0 width="460" cellpadding=0 cellspacing=0 align=center>    
+      <tr>
+        <td>         
+        <table border=0 width=460 cellpadding=5 cellspacing=1>
+          <tr>
+            <td bgcolor="#ffffff" valign=top rowspan=2 width="40%"><font face="arial, helvetica" size=3><b>Demand Deposits</b><br><font size=2>Interest paid annually in March</td>
+            <td bgcolor="#ffffff" colspan=2 width="30%"><b>New</b></td>
+            <td bgcolor="#ffffff" colspan=2 width="30%"><b>Previous</b></td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff">Gross&nbsp;%</td>
+            <td bgcolor="#ffffff">Net&nbsp;%</td>
+            <td bgcolor="#ffffff">Gross&nbsp;%</td>
+            <td bgcolor="#ffffff">Net&nbsp;%</td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff">10,000 +<br>1 - 9,999</td>
+            <td bgcolor="#ffffff" valign=bottom align=right><b>0.15<br>0.10</b></td>
+            <td bgcolor="#ffffff" valign=bottom align=right><b>0.12<br>0.08</b></td>
+            <td bgcolor="#ffffff" valign=bottom align=right><b>0.15<br>0.10</b></td>
+            <td bgcolor="#ffffff" valign=bottom align=right><b>0.12<br>0.08</b></td>
+          </tr>
+        </table>        
+        </td>
+      </tr>
+    </table>
+    
+    <br>
+    <p align=center>Accounts no longer available to new customers</p>
+    
+    <table bgcolor="#003366" border=0 width="460" cellpadding=0 cellspacing=0 align=center>    
+      <tr>
+        <td> 
+        <table border=0 width=460 cellpadding=5 cellspacing=1>
+        <tr>
+          <td bgcolor="#ffffff" valign=top rowspan=2 width="40%"><b>Golden Years</b><br><font size=2>Interest paid annually or monthly</td>
+          <td bgcolor="#ffffff" colspan=3 width="30%">New</td>
+          <td bgcolor="#ffffff" colspan=3 width="30%">Previous</td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+          <td bgcolor="#ffffff">AER</td>          
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>
+          <td bgcolor="#ffffff">AER</td>          
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff">25,000+<br>10,000 - 24,999<br>2,000 - 9,999<br>0 - 1,999</td>
+          <td bgcolor="#ffffff" valign=bottom align=right>2.25<br>1.45<br>0.75<br>0.25</td>
+          <td bgcolor="#ffffff" valign=bottom align=right>1.80<br>1.16<br>0.60<br>0.20</td>
+          <td bgcolor="#ffffff" valign=bottom align=right>2.27<br>1.46<br>0.75<br>0.25</td>
+          <td bgcolor="#ffffff" valign=bottom align=right>2.75<br>1.95<br>1.25<br>0.25</td>
+          <td bgcolor="#ffffff" valign=bottom align=right>2.20<br>1.56<br>1.00<br>0.20</td>
+          <td bgcolor="#ffffff" valign=bottom align=right>2.78<br>1.97<br>1.26<br>0.25</td>
+        </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    <br>
+    <table bgcolor="#003366" border=0 width="460" cellpadding=0 cellspacing=0 align=center>    
+      <tr>
+        <td> 
+        <table border=0 width=460 cellpadding=5 cellspacing=1>
+        <tr>
+          <td bgcolor="#ffffff" valign=top rowspan=2 width="40%"><b>Tessa & Tessa Regular Saver</b><br><font size=2>Interest paid annually in March</td>
+          <td bgcolor="#ffffff" width="20%" rowspan=2><b>Minimum<br>Balance</b></td>
+          <td colspan=2 bgcolor="#ffffff" width="20%"><b>New</b></td>
+          <td colspan=2 bgcolor="#ffffff" width="20%">Previous</td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>          
+          <td bgcolor="#ffffff">Gross&nbsp;%</td>
+          <td bgcolor="#ffffff">Net&nbsp;%</td>          
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff"><b>Lump Sum<br>Tessa Regular Saver</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right><b>&pound 500<br>&pound 25<br>-</b></td>
+          <td bgcolor="#ffffff" valign=bottom align=right>3.85<br>3.15<br>-</td>
+          <td bgcolor="#ffffff" valign=bottom align=right>-<br>-<br>-</td>                    
+          <td bgcolor="#ffffff" valign=bottom align=right>4.35<br>3.65<br>-</td>
+          <td bgcolor="#ffffff" valign=bottom align=right>-<br>-<br>-</td>          
+        </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    <p align=center>These rates apply to the main Bank of Ireland Savings Accounts that are currently on offer.</p>
+
+    <p>
+		<small>
+		Interest rates may vary from time to time.  
+		This notice lists current gross annual interest rates with effect from 26th October 2001.  
+		Interest will be paid Net of Lower Rate Tax (currently 20%) or, where Bank of Ireland receives the relevant registration documentation, gross.  
+		Interest earned on ISA and Tessa accounts is tax-free.  
+		AER stands for Annual Equivalent Rate and illustrates what the interest rate would be if interest was paid and compounded each year.  
+		Full account conditions and details of when interest is paid are available from any Bank of Ireland branch or by contacting our Customer Services Dept.  
+		Freepost BEL 1732, Belfast, BT1 5BR (Freephone: 0800 833937).  
+		Bank of Ireland subscribes to the Banking Code and is also a member of the Financial Ombudsman Service.
+		</small>
+		</p>
+    
+ 
+         </td>    
+      </tr>
+    </table>
+    <table bgcolor="#003366" width="100%" cellpadding=0 cellspacing=0 border=0>
+      <tr>
+        <td bgcolor="#78C5A9"><img src="/images/blank.gif" width="1" height="2" border=0 alt="Bank of Ireland"></td>
+      </tr>
+      <tr>
+        <td align=center class="whitelink"><br>
+        <<< <a onMouseOver="window.status='Personal Banking'; return true" onMouseOut="window.status=''; return true" href="/personal_banking/" class="whitelink">Personal Banking</a> | <a onMouseOver="window.status='Business Banking'; return true" onMouseOut="window.status=''; return true" href="/business_banking/" class="whitelink">Business Banking</a> | <a onMouseOver="window.status='About Us'; return true" onMouseOut="window.status=''; return true" href="/about_us/" class="whitelink">About Us</a> | <a onMouseOver="window.status='Apply Now'; return true" onMouseOut="window.status=''; return true" href="/apply_now/" class="whitelink">Apply Now</a> | <a onMouseOver="window.status='Find Us'; return true" onMouseOut="window.status=''; return true" href="/find_us/" class="whitelink">How to Find Us</a> >>><br>
+        <a onMouseOver="window.status='Whats New'; return true" onMouseOut="window.status=''; return true" href="/whats_new/" class="whitelink">What's New</a> | <a onMouseOver="window.status='Financial News'; return true" onMouseOut="window.status=''; return true" href="/financial_news/" class="whitelink">Financial News</a> | <a onMouseOver="window.status='Contact Us'; return true" onMouseOut="window.status=''; return true" href="/contact_us/" class="whitelink">Contact Us</a> | <!--<a onMouseOver="window.status='Site Info'; return true" onMouseOut="window.status=''; return true" href="/info/">Site Info</a> | --><a onMouseOver="window.status='Legal'; return true" onMouseOut="window.status=''; return true" href="/legal/" class="whitelink">Legal</a> | <a onMouseOver="window.status='Homepage'; return true" onMouseOut="window.status=''; return true" href="/" class="whitelink">Home</a><br><br></td>
+      </tr>
+    </table>
+    </td>    
+  </tr>
+</table>
+    
+</body>
+</html>
+

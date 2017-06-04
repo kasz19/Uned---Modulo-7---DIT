@@ -1,0 +1,794 @@
+ID=C0059
+URL=http://www.insurance-at.com/income-protection-insurance-policy.htm
+SIZE=45319
+DATE=10/07/2002
+TIME=13:17:18
+DATASET=Insurance Agencies
+HTML=<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>about-us</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="Microsoft Theme" content="none">
+<meta name="Microsoft Border" content="none">
+</head>
+
+<body bgcolor="#9FCFFF"><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="100%" id="AutoNumber1" bgcolor="#9FCFFF">
+  <tr>
+    <td width="100%">
+    <h1><font face="Trebuchet MS"><b><font size="4" color="#0000FF">
+    <a name="start income protection insurance policy"></a>www.Insurance-at</font><font size="4" color="#FF0000">.com</font><font size="5" color="#FF0000"> </font></b><font size="4">
+    <font color="#0000FF">&amp;</font> <font color="#EB7B20">Income Protection 
+    Insurance </font></font></font>
+    <font face="Trebuchet MS" size="4" color="#EB7B20">POLICY WORDING</font></h1>
+    <h3><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
+    <a href="#income protection insurance cover">Cover provided</a></b></font></h3>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
+    <a href="#income protection insurance definitions">Definitions</a></b></font></p>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
+    <a href="#income protection insurance premiums and cover">Paying premiums 
+    and cancelling cover</a></b></font></p>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
+    <a href="#income protection insurance claims">Paying claims</a><br>
+    </b><i><a href="#income protection insurance claims">1 Disability benefit</a></i><br>
+    <i><a href="#income protection insurance claims unempolyment">2 Unemployment 
+    benefit</a></i><br>
+    <i><a href="#income protection insurance multiple claims">3 Claiming more 
+    than once</a></i><br>
+    <i><a href="#income protection insurance claims and work">4 Suspending an 
+    unemployment claim for temporary work</a></i></font></p>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
+    <a href="#income protection insurance no claims">Circumstances when you 
+    cannot claim</a></b></font></p>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
+    <a href="#income protection insurance fraud">income protection insurance 
+    fraud</a></b></font></p>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
+    <a href="#income protection insurance general conditions">General conditions</a></b></font></p>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
+    <a href="#income protection insurance claiming">How to claim</a></b></font></p>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
+    <a href="#income protection insurance complaints">Complaints procedure</a></b></font></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p align="center">
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC"><b>Goodfellows 
+    income protection insurance wording</b></font></p>
+    <p align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+    <font color="#0000CC">You have applied for accident, sickness and unemployment protection with 
+    certain underwriters at Lloyd’s. In return for the appropriate premium, this 
+    insurance will insure you against disability and unemployment. Your proposal 
+    and certificate are part of this insurance contact.<br>
+    <br>
+    If you are insuring more than one person, we will provide cover for the 
+    monthly payment as shown in the schedule if either person claims. </font>
+    <a href="#start income protection insurance policy">
+    <font color="#0000CC">
+    <img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a><font color="#0000CC"><br>
+    <br>
+    <b><a name="income protection insurance cover"></a>Cover provided</b><br>
+    <br>
+    Cover provided<br>
+    You can be covered under this contract if you:</font></font></p>
+    <ul>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+      permanently live in the United Kingdom, Channel Islands or the Isle of 
+      Man, for tax purposes;</font> </font> </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">are aged 
+      18 or over and will not have reached 65 years of age before the finishing 
+      date of cover;</font> </font> </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">are 
+      actively working and you have been in continuous employment for the 
+      six-month period before the contract start date; and</font> </font> </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">are in 
+      good health.</font> </font> </li>
+    </ul>
+    <p>
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">You cannot be 
+    covered under this contract if you:</font></p>
+    <ul>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">know of 
+      any possible unemployment or disability which may affect you; or</font>
+      </font>
+      </li>
+      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+      <font color="#0000CC">are in 
+      temporary or seasonal employment..</font><a href="#start income protection insurance policy"><font color="#0000CC"><img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a><font color="#0000CC"><br>
+&nbsp;</font></font></li>
+    </ul>
+    <p>
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC"><b>
+    <a name="income protection insurance definitions"></a>Definitions</b><br>
+    <br>
+    Some of the words and phrases we use in the contract terms and conditions 
+    have special meanings.</font></p>
+    <table cellPadding="1" width="100%" border="0">
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Amendment 
+        date </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">the date any 
+        amendment to the cover shown on your certificate comes into force.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Benefit 
+        period schedule.</font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">the maximum 
+        number of monthly benefit payments that we would pay for any one period 
+        of claim as shown on your schedule.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Business
+        </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">a trade, 
+        industry or profession you own and operate either alone or with others 
+        and which is registered in the United Kingdom.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Certificate 
+        of insurance </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">the 
+        insurance cover we provide under the conditions of this certificate.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Claim period
+        </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">any separate 
+        period of time during which you are unemployed or disabled and receiving 
+        monthly benefit under this insurance.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Company 
+        director </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">a director 
+        who owns more than 10% of the issued share capital of the company (or 
+        you are a relative of a director who is working for the same company as 
+        you and who owns more than 10% of the issued share capital of that 
+        company).</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Contract of 
+        employment </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">you are 
+        employed on a permanent fixed-term contract for at least 13 weeks and 
+        you have been in continuous employment with the same employer for at 
+        least two years. Under the contract, you will not be covered if your 
+        contract is not renewed and we will stop paying the monthly benefit on 
+        the date your contract was originally intended to finish.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Disability
+        </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">an accident 
+        or sickness certified by a registered medical practitioner in the UK 
+        (other than you or your husband or wife) which prevents you from doing 
+        your normal work or any similar work for which you are reasonably 
+        qualified and you are not doing any other job for payment or reward.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Disabled</font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">you are 
+        suffering from a disability.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Dismissed
+        </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">you are 
+        employed and your employment ends because of circumstances entirely 
+        beyond your control.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Employed
+        </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">you are in 
+        permanent employment and your employer is taking PAYE tax and national 
+        insurance contributions on your behalf.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Exclusion 
+        period </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">the period 
+        shown on your certificate, which immediately follows the start date of 
+        this insurance.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Finishing 
+        date of cover </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">when you:<br>
+        <br>
+        a die;<br>
+        <br>
+        b retire from work or reach age 65, whichever is the earlier;<br>
+        <br>
+        c stop living in the UK; or<br>
+        <br>
+        d have received the maximum number of monthly benefit payments we allow;<br>
+        <br>
+        whichever is earlier.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Insurance 
+        start date</font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">the date the 
+        insurance begins as shown on your certificate of insurance.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Maximum 
+        benefit </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">the maximum 
+        amount of cover we allow under this insurance (£2,500 each month).</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF" height="21">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Monthly 
+        benefit </font></td>
+        <td vAlign="top" bgColor="#FFFFFF" height="21">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">the amount 
+        of cover you have chosen as shown on your insurance certificate.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Period of 
+        cover </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">the period 
+        between the certificate start date and the end date for which you have 
+        paid <br>
+        the correct premium.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Permanent 
+        employment </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">you are 
+        employed on a permanent basis and your job has no fixed finishing date 
+        other than the normal retirement age for your occupation. Or you have 
+        been in continuous employment either on a yearly contract which has been 
+        renewed at least once or on a renewable fixed-term contract with the 
+        same employer for at least two years in a row.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Pre-existing 
+        conditions </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">any 
+        sickness, condition or injury which you knew about and which you have 
+        received treatment <br>
+        or advice for (including regular or routine examinations or 
+        consultations to monitor the condition) in the 12 months before the 
+        insurance start date.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF" height="13">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Premium
+        </font></td>
+        <td vAlign="top" bgColor="#FFFFFF" height="13">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">the premium 
+        set out in your certificate of insurance.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">
+        Self-employed </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">you are in a 
+        profession or business alone or with others and paying class 2 national 
+        insurance <br>
+        contributions or you are a company director.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Stops 
+        trading </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">when your 
+        business permanently stops trading entirely because of circumstances 
+        beyond your <br>
+        control or the control of any director or partner in your business.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Unemployed 
+        or <br>
+        unemployment </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">a period 
+        during which you must be:<br>
+        <br>
+        a receiving Income Support or Jobseeker’s Allowance or you do not 
+        qualify for these benefits because you have been entitled to make 
+        reduced national insurance contributions in the past;<br>
+        <br>
+        b actively looking for work;<br>
+        <br>
+        c registered as available for work at a Department of Education and 
+        Employment Office;<br>
+        <br>
+        d without any work; and <br>
+        <br>
+        e not receiving wages instead of serving notice.<br>
+        If you are self-employed you must meet a to e above and have stopped 
+        trading. If you are a company director, your company must have been 
+        wound up by a creditor who is not a director of that company.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Waiting 
+        period </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">the period 
+        shown in your certificate during which you will need to be continuously 
+        unemployed or disabled before you are entitled to receive the monthly 
+        benefit.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">We or us
+        </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Compass 
+        Underwriting Limited for certain underwriters at Lloyd’s.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Working
+        </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">paid 
+        employment under a contract, permanent employment or self-employment for 
+        16 hours or more each week. You must also be paying the appropriate 
+        national insurance contributions.</font></td>
+      </tr>
+      <tr>
+        <td vAlign="top" width="25%" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">You or your
+        </font></td>
+        <td vAlign="top" bgColor="#FFFFFF">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">the person 
+        or people named on your certificate of insurance.</font></td>
+      </tr>
+    </table>
+    <p align="right">
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
+    <a href="#start income protection insurance policy">
+    <font color="#0000CC">
+    <img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a></b></font></p>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+    <font color="#0000CC"><b>
+    <a name="income protection insurance premiums and cover"></a>Paying premiums 
+    and cancelling cover</b><br>
+    <br>
+    a If you are paying the premium for this insurance by direct debit (as shown 
+    in the schedule of insurance), this insurance will automatically end if any 
+    payment is not made and you fail to put this right within 14 days.<br>
+    <br>
+    b You may cancel this insurance within 10 days after the start date. You 
+    must write to us and we will refund any premium and insurance premium tax 
+    that we may have collected as long as we are not aware of any claims. If you 
+    do not do this, we will assume you have accepted this insurance and have 
+    agreed to keep to its terms and conditions.<br>
+    <br>
+    c You have the right to cancel this insurance at any time by giving us 
+    written notice at our registered office. The cancellation will apply when we 
+    receive your written notice. We will return any unearned premium you have 
+    paid for any period of cover which you have not used. However, this only 
+    applies if you have not made a claim. You will be responsible for cancelling 
+    the direct debit arrangement (if this applies).<br>
+    <br>
+    d We may cancel this insurance, for any reason, by giving written notice to 
+    you at your last known address. This will confirm that all cover will end 30 
+    days after the date of our notice. We will return a percentage of any 
+    premiums you have paid for any period of cover which you have not used, 
+    unless you have made a claim.<br>
+    <br>
+    e If you make a claim under this insurance, you must pay the rest of the 
+    premium.</font><b><a href="#start income protection insurance policy"><font color="#0000CC"><img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a></b></font></p>
+    <p>
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC"><b>
+    <a name="income protection insurance claims"></a>Paying claims</b></font></p>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+    <font color="#0000CC"><br>
+    <br>
+    <i>1 Disability benefit</i><br>
+    <br>
+    If you are in continuous employment and become disabled during the period of 
+    insurance for longer than the waiting period, we will pay you one monthly 
+    benefit on the 30th day that you are continuously disabled following the 
+    waiting period. After that, we will continue to pay you monthly benefit (at 
+    1/30 of the monthly benefit for each day you remain continuously disabled). 
+    We will pay benefit for the month passed. We will continue to pay you until:<br>
+    <br>
+    a the last day of your disability;<br>
+    <br>
+    b the date you stop providing proof that you are still disabled;<br>
+    <br>
+    c we have made the maximum number of monthly benefit payments we allow in 
+    the benefit period; or<br>
+    <br>
+    d the end date shown on your certificate of insurance or you stop paying 
+    your monthly premium (if this applies); <br>
+    <br>
+    whichever is earlier..</font><b><a href="#start income protection insurance policy"><font color="#0000CC"><img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a></b></font></p>
+    <p>
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC"><i>
+    <a name="income protection insurance claims unempolyment"></a>2 Unemployment 
+    benefit</i><br>
+    <br>
+    If you are in continuous employment and become unemployed during the period 
+    of insurance for longer than the waiting period, we will pay one monthly 
+    benefit on the 30th day that you are still unemployed following the waiting 
+    period. After that we will continue to pay you monthly benefit (at 1/30 of 
+    the monthly benefit for each day you remain continuously unemployed) for up 
+    to your chosen maximum benefit.<br>
+    <br>
+    We will continue to pay you until:<br>
+    <br>
+    a the last day of your unemployment;<br>
+    <br>
+    b the date you stop providing proof that you are still unemployed;<br>
+    <br>
+    c we have made the maximum number of monthly benefit payments we allow in 
+    the benefit period; or<br>
+    <br>
+    d the end date shown on your certificate of insurance or you stop paying 
+    your monthly premium (if this applies); <br>
+    <br>
+    whichever is earlier.<br>
+    <br>
+    Unemployment cover under this certificate of insurance will depend on your 
+    employment status</font></p>
+    <ul>
+      <li>
+      <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Employed 
+      (not including company directors, secretaries or their relatives or 
+      contract workers)<br>
+      a If you are working, we will insure you if you are dismissed.<br>
+      <br>
+&nbsp;</font></li>
+      <li>
+      <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Employed 
+      company directors, secretaries or their relatives<br>
+      <br>
+      a If you own less than 10% of the issued share capital of the business you 
+      are working for, or you are a relative of a company director or company 
+      secretary who owns less than 10% of the issued share capital of the 
+      business you are working for, we will insure you if you are dismissed.<br>
+      <br>
+      b If you own more than 10% of the issued share capital of the business you 
+      are working for, or you are a relative of a company <br>
+      director or company secretary who owns more than 10% of the issued share 
+      capital of the business you are working for, you <br>
+      will be insured if that business stops trading.<br>
+      <br>
+&nbsp;</font></li>
+      <li>
+      <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">Employed 
+      contract workers<br>
+      <br>
+      a If you have been working on a renewable fixed-term contract with the 
+      same employer for more than two years in a row, we will insure you if you 
+      are dismissed.<br>
+      <br>
+      b If you have been working on a renewable fixed-term contract with the 
+      same employer for less than two years in a row we will insure you if you 
+      are dismissed during the term of your contract. We will not insure you if 
+      your contract is not renewed and any entitlement to monthly benefit under 
+      this insurance will automatically end on the date your contract was 
+      originally intended to finish.<br>
+      <br>
+&nbsp;</font></li>
+      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+      <font color="#0000CC">Self-employed and their relatives<br>
+      <br>
+      If you are the sole proprietor or a partner in the business you are 
+      working for, or you are a relative of the sole proprietor or a partner in 
+      the business you are working for, we will insure you if that business 
+      stops trading.</font><b><a href="#start income protection insurance policy"><font color="#0000CC"><img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a></b></font><font color="#0000CC">
+      </font>
+      </li>
+    </ul>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+    <font color="#0000CC"><i>
+    <a name="income protection insurance multiple claims"></a>3 Claiming more 
+    than once</i><br>
+    <br>
+    We will treat a claim which happens within three months of a separate claim 
+    you have made as the same period of claim. You can make a new claim as long 
+    as you have been in continuous employment for at least three months between 
+    each claim.</font><b><a href="#start income protection insurance policy"><font color="#0000CC"><img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a></b></font></p>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+    <font color="#0000CC"><i>
+    <a name="income protection insurance claims and work"></a>4 Suspending an 
+    unemployment claim for temporary work</i><br>
+    <br>
+    If you are eligible to claim for unemployment under this insurance and you 
+    are offered a temporary job, you can suspend your claim as long as:<br>
+    <br>
+    a you tell us who you will be working for (even if you will be 
+    self-employed), how many hours you will be working for and how long the 
+    temporary employment will last;<br>
+    <br>
+    b your temporary job lasts for at least one week and no longer than six 
+    months and you do not have more than three separate jobs during any one 
+    period of claim; and<br>
+    <br>
+    c you continue to meet the conditions of this insurance and tell us 
+    immediately if any of the above circumstances change.<br>
+    You are eligible to claim for unemployment when a temporary job ends. We 
+    will begin paying you again (up to your chosen maximum benefit payments for 
+    any one period of claim).</font><b><a href="#start income protection insurance policy"><font color="#0000CC"><img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a></b><font color="#0000CC"><br>
+    <br>
+    <b><a name="income protection insurance no claims"></a>Circumstances when 
+    you cannot claim</b><br>
+    <br>
+    A Unemployment<br>
+&nbsp;</font></font></p>
+    <p>
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">We will not 
+    pay if:<br>
+&nbsp;</font></p>
+    <ul>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">you have 
+      not been in continuous employment for at least six months before your 
+      first period of unemployment under this contract;</font> </font> </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">you are 
+      told about the unemployment within the initial exclusion period even 
+      though your unemployment may not take place until after this period;</font>
+      </font>
+      </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">your work 
+      is seasonal or temporary;</font> </font> </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">your 
+      fixed-term contract ends (but, depending on the other conditions of this 
+      contract, you may be entitled to benefit during your fixed-term contract);</font>
+      </font>
+      </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">you accept 
+      voluntary redundancy, resign or retire;</font> </font> </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">you are 
+      dismissed by your employer as a result of misconduct, or breaking your 
+      contract;</font> </font> </li>
+      <li>
+      <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">you knew 
+      about the possibility of unemployment (or in our reasonable opinion you 
+      should have known about it) at the contact start date;<br>
+&nbsp;</font></li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">you are 
+      made unemployed because of a civil commotion, riot, terrorist activity, 
+      war or any similar event;</font> </font> </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">you are 
+      made unemployed due to any of the disability exclusions; or</font> </font> </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">your 
+      unemployment happens while you are away from the EU for a period of more 
+      than 90 days. This clause will not apply if your reason for leaving the EU 
+      is because you:<br>
+      <br>
+      a work for the British Armed Forces; or<br>
+      <br>
+      b work as a civil servant in a British embassy or consulate.</font> </font> </li>
+    </ul>
+    <p>
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">B You will 
+    not be entitled to any benefit for any period in which you are receiving pay 
+    instead of serving notice.</font></p>
+    <p>
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">C Disability<br>
+    <br>
+    We will not pay benefit if:</font></p>
+    <ul>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">your 
+      disability is due to or arises from AIDS or being infected by HIV, unless 
+      a specialist certifies that that condition prevents you from working;</font>
+      </font>
+      </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">you 
+      deliberately injure yourself or your disability is caused by alcohol, 
+      solvent abuse or drugs (other than drugs taken under the direction of a 
+      doctor or consultant and not to treat drug addiction);</font> </font> </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">your 
+      disability arises from stress, anxiety or depression or any mental or 
+      nervous disorder unless a specialist certifies that that condition 
+      prevents you from working;</font> </font> </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">your 
+      disability results from any condition, injury or illness, disease or 
+      sickness which came about as a result of a pre-existing condition;</font>
+      </font>
+      </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">your 
+      disability is caused by pregnancy, childbirth, miscarriage or abortion 
+      other than a medical complication which directly occurs as a result of 
+      your pregnancy or pregnancy-related conditions;</font> </font> </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">your 
+      disability is due to a back-related condition unless there is radiological 
+      evidence of a medical abnormality or visible wound, or a specialist 
+      certifies that that condition prevents you from working;</font> </font> </li>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">your 
+      disability arises from medical operations or treatments which are not 
+      medically necessary, including cosmetic or beauty treatments; or</font>
+      </font>
+      </li>
+      <li>
+      <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">your 
+      disability is caused by any of the unemployment exclusions.<br>
+&nbsp;</font></li>
+    </ul>
+    <p>
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">For 
+    unemployment and disability sections<br>
+    You cannot claim disability and unemployment benefit at the same time.<br>
+    <br>
+    We will not pay benefit as a result of:</font></p>
+    <ul>
+      <li><font color="#0000CC"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">war, 
+      revolution, riot, or any similar event; or</font> </font> </li>
+      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+      <font color="#0000CC">radioactive contamination from ionising radiation or contamination from 
+      any nuclear fuel, or from any nuclear waste arising from burning nuclear 
+      fuel; or the radioactive, toxic, explosive or other dangerous effect of 
+      any explosive nuclear equipment or part of that equipment.</font><b><a href="#start income protection insurance policy"><font color="#0000CC"><img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a></b><font color="#0000CC"><br>
+&nbsp;</font></font></li>
+    </ul>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+    <font color="#0000CC"><b>
+    <a name="income protection insurance fraud"></a>Fraud</b><br>
+    <br>
+    If you have given us any incorrect information or missed out any information 
+    which affects this contract, or any claim under this contract, you will lose 
+    all rights to claim.</font><b><a href="#start income protection insurance policy"><font color="#0000CC"><img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a></b></font></p>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+    <font color="#0000CC"><b>
+    Transferring this contract to someone else</b><br>
+    <br>
+    You may transfer the benefits of this contract to someone else if we send 
+    you written confirmation that this is acceptable.<br>
+    <br>
+    <b><a name="income protection insurance general conditions"></a>General 
+    conditions</b><br>
+    <br>
+    a This contract and any endorsements together with the proposal and 
+    certificate and any written statement of medical or other information you 
+    have made make up the contract between you and us.<br>
+    <br>
+    b This contract or any of the terms of this contract cannot be changed 
+    unless this is done in writing by one or more of our <br>
+    authorised officials. If in doubt please contact your intermediary.<br>
+    <br>
+    c You and we are free to choose the law which applies to this insurance 
+    contract. Unless we and you agree otherwise this <br>
+    insurance will be governed by English law and the English courts will deal 
+    with any disputes.<br>
+    <br>
+    d If at the time any condition of this contract becomes invalid, illegal, or 
+    cannot be enforced, it will not affect the rest of the <br>
+    contract.<br>
+    <br>
+    e All benefits under this insurance will not be taxed, although this may 
+    change in line with any amendments to legislation. If this happens, we will 
+    take from any monthly benefit any amounts which, by law, we have to take.<br>
+    <br>
+    f If you miss out any important information or provide false statements in 
+    your application for this insurance or any claim, we may not pay benefits 
+    under this insurance. Important information is information which is likely 
+    to influence whether we accept your application or claim for insurance. If 
+    you are not certain whether a fact is important, you should tell us anyway. 
+    If you make a claim which we consider to be fraudulent or exaggerated, you 
+    will lose all benefits under this contract and we will try to recover any 
+    benefits we have paid under that claim.<br>
+    <br>
+    g We will process any information you give us according to the conditions of 
+    the Data Protection Act 1998 for the purpose of <br>
+    providing insurance and handling claims. This may involve passing your 
+    information to other organisations.</font><b><a href="#start income protection insurance policy"><font color="#0000CC"><img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a></b></font></p>
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+    <font color="#0000CC"><b>
+    <a name="income protection insurance claiming"></a>How to claim<br>
+    </b><br>
+    You must write to us about a claim, within 30 days of becoming unemployed or 
+    disabled or as soon as reasonably possible. Write to our claims department 
+    at Compass Underwriting Limited, Minerva House, Spaniel Row, Nottingham, NG1 
+    6EP or phone our customer service desk on 0115 934 8999 to ask for a claim 
+    form.<br>
+    <br>
+    We will send you the claim form. You will need to fill this in and return it 
+    to us as soon as reasonably possible, giving us all the information we ask 
+    for so we can process your claim. This should include wage slips, your 
+    termination notice and your P60, or if you are self-employed a bank 
+    statement, invoices and annual accounts and Inland Revenue and national 
+    insurance records. You will be responsible for giving us the proof we need. 
+    If you delay in sending in a claim to us it may make your claim harder to 
+    confirm. It could also lead to a delay in paying your claim or not paying 
+    your claim at all. If we want you to have a medical you must have one, or we 
+    may refuse to pay your claim. We will pay any costs involved for the 
+    medical.<br>
+    <br>
+    We will pay the benefit when we receive satisfactory evidence of your 
+    entitlement to claim. Throughout the period for which you claim under this 
+    contract we will need you to provide evidence of your disability or 
+    unemployment. We will not pay benefit for any period of disability or 
+    unemployment for which you do not provide evidence. We may ask you to 
+    produce this certificate as proof. Once we have accepted a claim, we will 
+    pay your benefit for the month passed.</font><b><a href="#start income protection insurance policy"><font color="#0000CC"><img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a></b><font color="#0000CC"><br>
+    <b><br>
+    <a name="income protection insurance complaints"></a>Complaints procedure</b><br>
+    <br>
+    We always try to provide a first-class standard of service. However, if you 
+    have a complaint, you should contact the intermediary who arranged this 
+    insurance for you.<br>
+    <br>
+    If they cannot sort the matter out, please write to the Managing Director of 
+    Compass Underwriting Limited at Minerva House, Spaniel Row, Nottingham, NG1 
+    6EP.<br>
+    <br>
+    If you are still not satisfied with the way a complaint has been dealt with, 
+    you may ask the Complaints and Advisory Department at Lloyd’s to review your 
+    case. This will not affect your right to take legal action. The address is:
+    <br>
+    Complaints and Advisory Department<br>
+    Lloyd’s <br>
+    One Lime Street <br>
+    London EC3M 7HA.<b><br>
+    </b>Phone: 020 7327 1000.</font><b><a href="#start income protection insurance policy"><font color="#0000CC"><img src="images/income-protection-insurance-policy-arrow.gif" border="0" width="16" height="9"></font></a></b></font></p>
+    <p align="center">
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
+    <img src="images/crystal_mark.gif" align="middle" width="137" height="81"></b></font></p>
+    <p>
+    <font face="Verdana, Arial, Helvetica, sans-serif" color="#0000cc" size="2"><br>
+    <br>
+    <b>Goodfellows</b><font size="1">®</font><b> PO Box 6164 Braintree Essex CM7 
+    8FF<br>
+    Telephone - 01376 347369 Facsimile - 01376 347135<br>
+    Email - <a href="mailto:%20income-protection@insurance-at.com">
+    income-protection@insurance-at.com</a></b></font></p>
+    <p>&nbsp;</p>
+        
+        <p align="center"><font size="2" face="Trebuchet MS">
+        <b>
+        <a target="_top" href="http://www.insurance-at.com/">Homepage</a> -
+        <a href="income-protection-insurance-info.htm">About us</a> -
+        <a href="income-protection-insurance-cover.htm">Cover</a> -
+        <a href="income-protection-insurance-features.htm">Features</a> -
+        <a href="income-protection-insurance-policy.htm">Policy Wording</a> -
+        <a href="income-protection-insurance-claims.htm">Claims</a> -
+        <a href="https://protectiononline.co.uk/asp/siteCheck.asp?useForm=Form4&amp;siteID=71">
+        Instant QUOTE</a> -
+        <a href="https://protectiononline.co.uk/asp/siteCheck.asp?useForm=Form3&amp;siteID=71">
+        APPLY</a></b></font></p>
+        
+        </td>
+  </tr>
+</table></body>
+
+</html>

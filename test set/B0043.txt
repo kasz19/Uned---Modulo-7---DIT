@@ -1,0 +1,2625 @@
+ID=B0043
+URL=http://www.theuniversal.co.uk/mortgage/print.php3
+SIZE=97554
+DATE=28/06/2002
+TIME=12:46:54
+DATASET=Building Societies
+HTML=
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page0a'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<font color=red face='arial,helvetica' size=-1>
+<b>PERSONAL DETAILS</b></font>
+<br><br>
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547>
+<tr><td width='267'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='230'>
+<font face='arial,helvetica' size=-1 color=red>
+<b>First Applicant</b>
+</font>
+</td>
+</tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Title and Surname
+</font></td><td width='230'><input type=text name=tux1 value='' size=27></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+First Name(s)
+</font></td><td width='230'><input size=27 type=text name=tux2 value=''></td></tr>
+
+<tr><td width=267><font face='arial,helvetica' size=-2 color=black>
+Previous Name (e.g. maiden name or former name if changed by deed poll)
+</font></td><td width='230'><input type=text size=27 name=tux3 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Marital Status
+</font></td><td width='230'><input type=text size=27 name=tux4 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Date of Birth
+</font></td><td width='230'><input size=27 type=text name=tux5 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Present Address
+</font></td><td width='230'><input size=27 type=text name=tux6 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+</font>&nbsp;&nbsp;</td><td width='230'><input size=27 type=text name=tux7 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Postcode
+</font></td><td width='230'><input size=27 type=text name=tux8 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Home Telephone No.
+</font></td><td width='230'><input size=27 type=text name=tux9 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Work Telephone No.
+</font></td><td width='230'><input size=27 type=text name=tux10 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Are you resident for tax purposes?
+</font></td>
+</center>
+<td width='230'>
+  <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input  type=radio name=tux11 value=yes> NO
+<input
+   type=radio name=tux11 value=no></font></p>
+</td></tr>
+
+<center>
+<tr>
+  <td width=267><font face='arial,helvetica' size=-2 color=black>
+Have you lived at your present address for 5 years?
+</font></td>
+</center>
+<td width='230'>
+  <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input  type=radio name=tux13 value=yes> NO
+<input   type=radio name=tux13 value=no></font></p>
+</td>
+</tr>
+<center>
+<tr>
+  <td width='267'><font face='arial,helvetica' size=-2 color=black>
+If you have lived at your present address for less than 5 years please give previous address(es)
+</font></td><td width='230'><input size=27 type=text name=tux15 value=''></td>
+</tr>
+<tr>
+  <td width='267'><font face='arial,helvetica' size=-2 color=black>
+Postcode
+</font></td><td width='230'><input size=27 type=text name=tux16 value=''></td>
+</tr>
+<tr>
+  <td width=267><font face='arial,helvetica' size='-2' color='black'>Will this
+    application have a Guarantor?<br>
+    If YES the Guarantor should complete a separate application form</font></td><td width='230'>
+    <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input   type=radio name=tux17 value=yes> NO
+<input   type=radio name=tux17 value=no></font></p>
+  </td>
+</tr>
+
+<tr><td width=267><font face='arial,helvetica' size='-2' color='black'>Have you
+    ever been made bankrupt, has a County Court Order/Judgement against you, or
+    had a property repossessed?</font></td>
+</center>
+<td width='230'>
+  <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input type=radio   name=tux19 value=yes> NO
+<input
+type=radio   name=tux19 value=no></font></p>
+</td></tr>
+
+<center>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+If YES please give details</font></td><td width='230'><input size=27 type=text name=tux21 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size='-2' color='black'>&nbsp; </font></td><td width='230'><input size=27 type=text name=tux22 value=''></td></tr>
+</table>
+</td></tr></table>
+<br><br>
+<center>
+
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page0b'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<font color=red face='arial,helvetica' size=-1>
+<b>PERSONAL DETAILS</b></font>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547>
+<tr><td width='267'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='230'>
+<font face='arial,helvetica' size=-1 color=red>
+<b>Second Applicant</b>
+</font>
+</td>
+</tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Title and Surname
+</font></td><td width='230'><input type=text name=tux24 value='' size=27></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+First Name(s)
+</font></td><td width='230'><input size=27 type=text name=tux25 value=''></td></tr>
+
+<tr><td width=267><font face='arial,helvetica' size=-2 color=black>
+Previous Name (e.g. maiden name or former name if changed by deed poll)
+</font></td><td width='230'><input type=text size=27 name=tux26 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Marital Status
+</font></td><td width='230'><input type=text size=27 name=tux27 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Date of Birth
+</font></td><td width='230'><input size=27 type=text name=tux28 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Present Address
+</font></td><td width='230'><input size=27 type=text name=tux29 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+</font>&nbsp;</td><td width='230'><input size=27 type=text name=tux30 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Postcode
+</font></td><td width='230'><input size=27 type=text name=tux31 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Home Telephone No.
+</font></td><td width='230'><input size=27 type=text name=tux32 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Work Telephone No.
+</font></td><td width='230'><input size=27 type=text name=tux33 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+Are you resident for tax purposes?
+</font></td>
+</center>
+<td width='230'>
+  <p align='center'>YES <input  type=radio name=tux34 value=yes> NO <input type=radio name=tux34
+   value=no></p>
+</td></tr>
+
+<center>
+<tr>
+  <td width=267><font face='arial,helvetica' size=-2 color=black>
+Have you lived at your present address for 5 years?
+</font></td>
+</center>
+<td width='230'>
+  <p align='center'>YES <input type=radio   name=tux36 value=yes> NO <input type=radio name=tux36 value=no></p>
+</td>
+</tr>
+<center>
+<tr>
+  <td width='267'><font face='arial,helvetica' size=-2 color=black>
+If you have lived at your present address for less than 5 years please give previous address(es)
+</font></td><td width='230'><input size=27 type=text name=tux38 value=''></td>
+</tr>
+<tr>
+  <td width='267'><font face='arial,helvetica' size=-2 color=black>
+Postcode
+</font></td><td width='230'><input size=27 type=text name=tux39 value=''></td>
+</tr>
+<tr>
+  <td width=267><font face='arial,helvetica' size='-2' color='black'>Will this
+    application have a Guarantor?<br>
+    If YES the Guarantor should complete a separate application form</font></td><td width='230'>
+    <p align='center'>YES <input type=radio  name=tux40 value=yes> NO <input type=radio name=tux40   value=no></p>
+  </td>
+</tr>
+
+<tr><td width=267><font face='arial,helvetica' size='-2' color='black'>Have you
+    ever been made bankrupt, has a County Court Order/Judgement against you, or
+    had a property repossessed?</font></td>
+</center>
+<td width='230'>
+  <p align='center'>YES <input  type=radio name=tux42 value=yes> NO <input type=radio name=tux42
+value=no ></p>
+</td></tr>
+
+<center>
+
+<tr><td width='267'><font face='arial,helvetica' size=-2 color=black>
+If YES please give details</font></td><td width='230'><input size=27 type=text name=tux44 value=''></td></tr>
+
+<tr><td width='267'><font face='arial,helvetica' size='-2' color='black'>&nbsp; </font></td><td width='230'><input size=27 type=text name=tux45 value=''></td></tr>
+</table>
+</td></tr></table>
+<br><br>
+<center>
+<script>
+
+</script>
+<input type=hidden name=itype value=>
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page1a'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<b><font color='red' face='arial,helvetica' size='-1'>EMPLOYMENT DETAILS&nbsp;</font></b><font face='arial,helvetica' size='-1'>
+- If self employed go to next page</font>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547>
+<tr><td width='267'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='230'>
+<font face='arial,helvetica' size=-1 color=red>
+<b>First Applicant</b>
+</font>
+</td>
+</tr>
+
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Employers Name</font></td>
+  <td><input name='tux53' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Employers Address</font></td>
+  <td><input name='tux54' value='' size='27'></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td><input name='tux55' value='' size='27'></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td><input name='tux56' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Postcode</font></td>
+  <td><input name='tux57' value='' size='27'></td>
+</tr>
+
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Position Held</font></td>
+  <td><input name='tux58' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Is this position
+    permanent?</font></td>
+  <td>YES <input name='tux59'  checked  type='radio' value='yes'> NO <input  name='tux59' type='radio'
+value='no'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>If NO please give
+    further details</font></td>
+  <td><input name='tux60' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Length of service</font></td>
+  <td><input name='tux61' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Works No./Payroll No.</font></td>
+  <td><input name='tux62' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Nature of Business</font></td>
+  <td><input name='tux63' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Gross Basic Earnings
+    (yearly)</font></td>
+  <td><input name='tux64' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Guaranteed
+    Overtime/Bonus (yearly)</font></td>
+  <td><input name='tux65' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Tax Office</font></td>
+  <td><input name='tux66' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Tax Reference</font></td>
+  <td><input name='tux67' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>National Insurance
+    No.</font></td>
+  <td><input name='tux68' value='' size='27'></td>
+</tr>
+<tr>
+  <td colspan='2'><font color='black' face='arial,helvetica' size='-2'>The
+    society will contact your Employer to confirm your earnings, however, please
+    attach a copy of your last 3 wage slips and/or a copy of your latest P60 if
+    you are posting this application.<br>
+    </font></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Previous Employer (If
+    you have been with present for less than 1 year)</font></td>
+  <td><input name='tux69' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Previous Employers
+    Address</font></td>
+  <td><input name='tux70' value='' size='27'></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td><input name='tux71' value='' size='27'></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td><input name='tux72' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Length of service and
+    date of leaving</font></td>
+  <td><input name='tux73' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Any other Income and
+    Source</font></td>
+  <td><input name='tux74' value='' size='27'></td>
+</tr>
+
+</center>
+<center>
+</center>
+<center>
+</center>
+
+<center>
+
+</table>
+  </center>
+</td></tr></table>
+<br><br>
+<center>
+<script>
+</script>
+
+
+  </center>
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page1b'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<b><font color='red' face='arial,helvetica' size='-1'>EMPLOYMENT DETAILS&nbsp;</font></b><font face='arial,helvetica' size='-1'>
+- If self employed go to next page</font>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547>
+<tr><td width='267'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> <input size=20 type=hidden name=tux76>
+  </td><td width='230'>
+<font face='arial,helvetica' size='-1' color='red'><b>Second Applicant</b></font>
+</td>
+</tr>
+
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Employers Name</font></td>
+  <td><input name='tux77' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Employers Address</font></td>
+  <td><input name='tux78' value='' size='27'></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td><input name='tux79' value='' size='27'></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td><input name='tux80' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Postcode</font></td>
+  <td><input name='tux81' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Position Held</font></td>
+  <td><input name='tux82' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Is this position
+    permanent?</font></td>
+  <td>YES <input name='tux83' type='radio' value='yes'> NO <input name='tux83'  type='radio'
+value='no'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>If NO please give
+    further details</font></td>
+  <td><input name='tux84' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Length of service</font></td>
+  <td><input name='tux85' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Works No./Payroll No.</font></td>
+  <td><input name='tux86' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Nature of Business</font></td>
+  <td><input name='tux87' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Gross Basic Earnings
+    (yearly)</font></td>
+  <td><input name='tux88' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Guaranteed
+    Overtime/Bonus (yearly)</font></td>
+  <td><input name='tux89' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Tax Office</font></td>
+  <td><input name='tux90' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Tax Reference</font></td>
+  <td><input name='tux91' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>National Insurance
+    No.</font></td>
+  <td><input name='tux92' value='' size='27'></td>
+</tr>
+<tr>
+  <td colspan='2'><font color='black' face='arial,helvetica' size='-2'>The
+    society will contact your Employer to confirm your earnings, however, please
+    attach a copy of your last 3 wage slips and/or a copy of your latest P60 if
+    you are posting this application.<br>
+    </font></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Previous Employer (If
+    you have been with present for less than 1 year)</font></td>
+  <td><input name='tux93' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Previous Employers
+    Address</font></td>
+  <td><input name='tux94' value='' size='27'></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td><input name='tux95' value='' size='27'></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td><input name='tux96' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Length of service and
+    date of leaving</font></td>
+  <td><input name='tux97' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Any other Income and
+    Source</font></td>
+  <td><input name='tux98' value='' size='27'></td>
+</tr>
+
+</center>
+<center>
+</center>
+<center>
+</center>
+
+<center>
+
+</table>
+  </center>
+</td></tr></table>
+<br><br>
+<center>
+<script>
+
+</script>
+
+
+  </center>
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page2a'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<b><font color='red' face='arial,helvetica' size='-1'>SELF EMPLOYMENT DETAILS</font></b>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547>
+<tr><td width='267'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='230'>
+<font face='arial,helvetica' size=-1 color=red>
+<b>First Applicant</b>
+</font>
+</td>
+</tr>
+
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>Name of Business</font></td>
+    <td><input name='tux100' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>Nature of Business</font></td>
+    <td><input name='tux101' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>Business Address</font></td>
+    <td><input name='tux102' value='' size='27'></td>
+</tr>
+<tr>
+    <td>&nbsp;</td>
+    <td><input name='tux103' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>How long
+      established? (years)</font></td>
+    <td><input name='tux104' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>How long has the
+      business been under your control?</font></td>
+    <td><input name='tux105' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>Company
+      Registration No.</font></td>
+    <td><input name='tux106' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>Net Profit for last
+      3 years</font></td>
+    <td><input name='tux107' value='' size='27' ></td>
+</tr>
+<tr>
+    <td>&nbsp;</td>
+    <td><input name='tux108' value='' size='27' ></td>
+</tr>
+<tr>
+    <td>&nbsp;</td>
+    <td><input name='tux109' value='' size='27' ></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>Name and Address of
+      Accountants</font></td>
+    <td><input name='tux110' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>&nbsp;&nbsp;</font></td>
+    <td><input name='tux111' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Telephone Number</font></td>
+  <td><input name='tux112' value='' size='27'></td>
+</tr>
+
+</center>
+<center>
+</center>
+<center>
+</center>
+
+<center>
+
+</table>
+  </center>
+</td></tr></table>
+<br><br>
+<center>
+<script>
+</script>
+
+
+  </center>
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page2b'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<b><font color='red' face='arial,helvetica' size='-1'>SELF EMPLOYMENT DETAILS</font></b>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547>
+<tr><td width='267'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='230'>
+<font face='arial,helvetica' size='-1' color='red'><b>Second Applicant</b></font>
+</td>
+</tr>
+
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>Name of Business</font></td>
+    <td><input name='tux114' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>Nature of Business</font></td>
+    <td><input name='tux115' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>Business Address</font></td>
+    <td><input name='tux116' value='' size='27'></td>
+</tr>
+<tr>
+    <td>&nbsp;</td>
+    <td><input name='tux117' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>How long
+      established? (years)</font></td>
+    <td><input name='tux118' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>How long has the
+      business been under your control?</font></td>
+    <td><input name='tux119' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>Company
+      Registration No.</font></td>
+    <td><input name='tux120' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>Net Profit for last
+      3 years</font></td>
+    <td><input name='tux121' value='' size='27' ></td>
+</tr>
+<tr>
+    <td>&nbsp;</td>
+    <td><input name='tux122' value='' size='27' ></td>
+</tr>
+<tr>
+    <td>&nbsp;</td>
+    <td><input name='tux123' value='' size='27' ></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>Name and Address of
+      Accountants</font></td>
+    <td><input name='tux124' value='' size='27'></td>
+</tr>
+<tr>
+    <td><font color='black' face='arial,helvetica' size='-2'>&nbsp;&nbsp;</font></td>
+    <td><input name='tux125' value='' size='27'></td>
+</tr>
+<tr>
+  <td><font color='black' face='arial,helvetica' size='-2'>Telephone Number</font></td>
+  <td><input name='tux126' value='' size='27'></td>
+</tr>
+
+</center>
+<center>
+</center>
+<center>
+</center>
+
+<center>
+
+</table>
+  </center>
+</td></tr></table>
+<br><br>
+<center>
+
+
+  </center>
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page3a'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<font color='red' face='arial,helvetica' size='-1'><b>OUTGOINGS</b></font>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr>
+  <td width='648'>
+    <table bgColor='pink' border='0' cellPadding='6' cellSpacing='0' width='547'>
+      <tbody>
+        <tr>
+          <td width='278'><font face='arial,helvetica' size='-2' color='black'>
+            </b></font> </td>
+          <td width='241'><font color='red' face='arial,helvetica' size='-1'><b>First
+            Applicant</b></font></td>
+        </tr>
+        <tr>
+          <td width='278'>&nbsp;</td>
+          <td width='241'>
+            <table>
+              <tbody>
+                <tr>
+                  <td width='60'>Monthly Payment</td>
+                  <td width='87'>Remaining Term</td>
+                  <td>Lender</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td width='278'><font color='black' face='arial,helvetica' size='-2'>Hire
+            Purchase / Bank Loan</font></td>
+          <td width='241'>
+            <table>
+              <tbody>
+                <tr>
+                  <td>£<input name='tux128' value='' size='5'></td>
+                  <td><input name='tux129' value='' size='5'>months</td>
+                  <td><input name='tux130' value='' size='5'></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td width='278'><font color='black' face='arial,helvetica' size='-2'>Car
+            Loans</font></td>
+          <td width='241'>
+            <table>
+              <tbody>
+                <tr>
+                  <td>£<input name='tux131' value='' size='5'></td>
+                  <td><input name='tux132' value='' size='5'>months</td>
+                  <td><input name='tux133' value='' size='5'></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td width='278'><font color='black' face='arial,helvetica' size='-2'>Credit
+            Cards</font></td>
+          <td width='241'>
+            <table>
+              <tbody>
+                <tr>
+                  <td>£<input name='tux134' value='' size='5'></td>
+                  <td><input name='tux135' value='' size='5'>months</td>
+                  <td><input name='tux136' value='' size='5'></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td width='278'><font color='black' face='arial,helvetica' size='-2'>Maintenance
+            Payments</font></td>
+          <td width='241'>
+            <table>
+              <tbody>
+                <tr>
+                  <td>£<input name='tux137' value='' size='5'></td>
+                  <td><input name='tux138' value='' size='5'>months</td>
+                  <td><input name='tux139' value='' size='5'></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td width='278'><font color='black' face='arial,helvetica' size='-2'>Others</font></td>
+          <td width='241'>
+            <table>
+              <tbody>
+                <tr>
+                  <td>£<input name='tux140' value='' size='5'></td>
+                  <td><input name='tux141' value='' size='5'>months</td>
+                  <td><input name='tux142' value='' size='5'></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </td>
+</tr>
+</center>
+  </table>
+<br><br>
+<center>
+<script>
+
+</script>
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page3b'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<font color='red' face='arial,helvetica' size='-1'><b>OUTGOINGS</b></font>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr>
+  <td width='648'>
+    <table bgColor='pink' border='0' cellPadding='6' cellSpacing='0' width='547'>
+      <tbody>
+        <tr>
+          <td width='278'><font face='arial,helvetica' size='-2' color='black'>
+            </b></font> </td>
+          <td width='241'><font color='red' face='arial,helvetica' size='-1'><b>Second
+            Applicant</b></font></td>
+        </tr>
+        <tr>
+          <td width='278'>&nbsp;</td>
+          <td width='241'>
+            <table>
+              <tbody>
+                <tr>
+                  <td width='60'>Monthly Payment</td>
+                  <td width='87'>Remaining Term</td>
+                  <td>Lender</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td width='278'><font color='black' face='arial,helvetica' size='-2'>Hire
+            Purchase / Bank Loan</font></td>
+          <td width='241'>
+            <table>
+              <tbody>
+                <tr>
+                  <td>£<input name='tux144' value='' size='5'></td>
+                  <td><input name='tux145' value='' size='5'>months</td>
+                  <td><input name='tux146' value='' size='5'></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td width='278'><font color='black' face='arial,helvetica' size='-2'>Car
+            Loans</font></td>
+          <td width='241'>
+            <table>
+              <tbody>
+                <tr>
+                  <td>£<input name='tux147' value='' size='5'></td>
+                  <td><input name='tux148' value='' size='5'>months</td>
+                  <td><input name='tux149' value='' size='5'></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td width='278'><font color='black' face='arial,helvetica' size='-2'>Credit
+            Cards</font></td>
+          <td width='241'>
+            <table>
+              <tbody>
+                <tr>
+                  <td>£<input name='tux150' value='' size='5'></td>
+                  <td><input name='tux151' value='' size='5'>months</td>
+                  <td><input name='tux152' value='' size='5'></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td width='278'><font color='black' face='arial,helvetica' size='-2'>Maintenance
+            Payments</font></td>
+          <td width='241'>
+            <table>
+              <tbody>
+                <tr>
+                  <td>£<input name='tux153' value='' size='5'></td>
+                  <td><input name='tux154' value='' size='5'>months</td>
+                  <td><input name='tux155' value='' size='5'></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td width='278'><font color='black' face='arial,helvetica' size='-2'>Others</font></td>
+          <td width='241'>
+            <table>
+              <tbody>
+                <tr>
+                  <td>£<input name='tux156' value='' size='5'></td>
+                  <td><input name='tux157' value='' size='5'>months</td>
+                  <td><input name='tux158' value='' size='5'></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </td>
+</tr>
+</center>
+  </table>
+<br><br>
+<center>
+<script>
+
+</script>
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page4a'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<font color='red' face='arial,helvetica' size='-1'><b>EXISTING PROPERTY</b></font>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547 height='515'>
+<tr><td width='331' colspan='2' height='21'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='183' height='21'>
+<font face='arial,helvetica' size='-1' color='red'><b>First Applicant</b></font>
+</td>
+</tr>
+
+<tr><td width='331' colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>Owner
+    Occupied/Rented/Other</font></td><td width='183' height='25'><input type=text name=tux160 value='' size=27></td></tr>
+
+<tr><td width='331' colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>If
+    Owner Occupied what is the probable sale price?</font></td><td width='183' height='25'><input size=27 type=text  name=tux161 value=''></td></tr>
+
+<tr><td width=331 colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>Current
+    Rent/Mortgage Payments</font></td><td width='183' height='25'><input type=text size=27  name=tux162 value=''></td></tr>
+
+<tr><td width='331' colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>Name
+    and Address of Current Landlord/Lender</font></td><td width='183' height='25'><input type=text size=27 name=tux163 value=''></td></tr>
+
+<tr><td width='331' colspan='2' height='25'>&nbsp;</td><td width='183' height='25'><input size=27 type=text name=tux164 value=''></td></tr>
+
+<tr><td width='331' colspan='2' height='25'><font face='arial,helvetica' size=-2 color=black>
+Postcode
+</font></td><td width='183' height='25'><input size=27 type=text name=tux165 value=''></td></tr>
+
+<tr><td width='331' colspan='2' height='30'><font face='arial,helvetica' size='-2' color='black'>If
+    Owner Occupied how long have you had this mortgage?</font></td><td width='183' height='30'><input size=27 type=text  name=tux166 value=''></td></tr>
+
+<tr><td width='331' colspan='2' height='23'><font face='arial,helvetica' size='-2' color='black'>Existing
+    Mortgage Account No.</font></td><td width='183' height='23'><input size=27 type=text name=tux167 value=''></td></tr>
+
+<tr><td width='331' colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>Balance
+    outstanding</font></td><td width='183' height='25'><input size=27 type=text name=tux168 value=''></td></tr>
+
+<tr>
+  <td width='331' colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>Current
+    property value</font></td><td width='183' height='25'><input size=27 type=text name=tux169 value=''></td>
+</tr>
+<tr>
+  <td width='497' colspan='3' height='18'><font color='red' face='arial,helvetica' size='-1'><b>OTHER
+    OCCUPANTS</b></font></td>
+</tr>
+<tr>
+  <td width='497' colspan='3' height='30'><font face='arial,helvetica' size='-2' color='black'>Details
+    of all persons aged 17 or over who will live in the property with you (other
+    than the applicant(s) or, in Scotland, any children of the applicant)</font></td>
+</tr>
+
+<tr>
+  <td width='182' height='25'>
+    <p align='center'>FULL NAME</p>
+  </td><td width='182' height='25'>
+    <p align='center'>DATE OF BIRTH</p>
+  </td><td width='183' height='25'>
+    <p align='center'>RELATIONSHIP</p>
+  </td>
+</tr>
+<tr>
+  <td width='182' height='25'>
+    <p align='center'><input size=17 type=text name=tux170 value=''></p>
+  </td><td width='182' height='25'>
+    <p align='center'><input size=17 type=text name=tux171 value=''></p>
+  </td><td width='183' height='25'>
+    <p align='center'><input size=17 type=text name=tux172 value=''></p>
+  </td>
+</tr>
+<tr>
+  <td width='182' height='25'>
+    <p align='center'><input size=17 type=text name=tux173 value=''></p>
+  </td><td width='182' height='25'>
+    <p align='center'><input size=17 type=text name=tux174 value=''></p>
+  </td><td width='183' height='25'>
+    <p align='center'><input size=17 type=text name=tux175 value=''></p>
+  </td>
+</tr>
+
+<tr><td width='182' height='25'>
+    <p align='center'><input size=17 type=text name=tux176 value=''></p>
+  </td><td width='182' height='25'>
+    <p align='center'><input size=17 type=text name=tux177 value=''></p>
+  </td><td width='183' height='25'>
+    <p align='center'><input size=17 type=text name=tux178 value=''></p>
+  </td></tr>
+
+</center>
+
+<center>
+</center>
+<center>
+</center>
+
+<center>
+
+</table>
+  </center>
+</td></tr></table>
+<br><br>
+<center>
+<script>
+
+</script>
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page4b'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<font color='red' face='arial,helvetica' size='-1'><b>EXISTING PROPERTY</b></font>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547 height='515'>
+<tr><td width='331' colspan='2' height='21'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='183' height='21'>
+<font face='arial,helvetica' size='-1' color='red'><b>Second Applicant</b></font>
+</td>
+</tr>
+
+<tr><td width='331' colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>Owner
+    Occupied/Rented/Other</font></td><td width='183' height='25'><input type=text name=tux180 value='' size=27></td></tr>
+
+<tr><td width='331' colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>If
+    Owner Occupied what is the probable sale price?</font></td><td width='183' height='25'><input size=27 type=text  name=tux181 value=''></td></tr>
+
+<tr><td width=331 colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>Current
+    Rent/Mortgage Payments</font></td><td width='183' height='25'><input type=text size=27  name=tux182 value=''></td></tr>
+
+<tr><td width='331' colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>Name
+    and Address of Current Landlord/Lender</font></td><td width='183' height='25'><input type=text size=27 name=tux183 value=''></td></tr>
+
+<tr><td width='331' colspan='2' height='25'>&nbsp;</td><td width='183' height='25'><input size=27 type=text name=tux184 value=''></td></tr>
+
+<tr><td width='331' colspan='2' height='25'><font face='arial,helvetica' size=-2 color=black>
+Postcode
+</font></td><td width='183' height='25'><input size=27 type=text name=tux185 value=''></td></tr>
+
+<tr><td width='331' colspan='2' height='30'><font face='arial,helvetica' size='-2' color='black'>If
+    Owner Occupied how long have you had this mortgage?</font></td><td width='183' height='30'><input size=27 type=text  name=tux186 value=''></td></tr>
+
+<tr><td width='331' colspan='2' height='23'><font face='arial,helvetica' size='-2' color='black'>Existing
+    Mortgage Account No.</font></td><td width='183' height='23'><input size=27 type=text name=tux187 value=''></td></tr>
+
+<tr><td width='331' colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>Balance
+    outstanding</font></td><td width='183' height='25'><input size=27 type=text name=tux188 value=''></td></tr>
+
+<tr>
+  <td width='331' colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>Current
+    property value</font></td><td width='183' height='25'><input size=27 type=text name=tux189 value=''></td>
+</tr>
+<tr>
+  <td width='497' colspan='3' height='18'><font color='red' face='arial,helvetica' size='-1'><b>OTHER
+    OCCUPANTS</b></font></td>
+</tr>
+<tr>
+  <td width='497' colspan='3' height='30'><font face='arial,helvetica' size='-2' color='black'>Details
+    of all persons aged 17 or over who will live in the property with you (other
+    than the applicant(s) or, in Scotland, any children of the applicant)</font></td>
+</tr>
+
+<tr>
+  <td width='182' height='25'>
+    <p align='center'>FULL NAME</p>
+  </td><td width='182' height='25'>
+    <p align='center'>DATE OF BIRTH</p>
+  </td><td width='183' height='25'>
+    <p align='center'>RELATIONSHIP</p>
+  </td>
+</tr>
+<tr>
+  <td width='182' height='25'>
+    <p align='center'><input size=17 type=text name=tux190 value=''></p>
+  </td><td width='182' height='25'>
+    <p align='center'><input size=17 type=text name=tux191 value=''></p>
+  </td><td width='183' height='25'>
+    <p align='center'><input size=17 type=text name=tux192 value=''></p>
+  </td>
+</tr>
+<tr>
+  <td width='182' height='25'>
+    <p align='center'><input size=17 type=text name=tux193 value=''></p>
+  </td><td width='182' height='25'>
+    <p align='center'><input size=17 type=text name=tux194 value=''></p>
+  </td><td width='183' height='25'>
+    <p align='center'><input size=17 type=text name=tux195 value=''></p>
+  </td>
+</tr>
+
+<tr><td width='182' height='25'>
+    <p align='center'><input size=17 type=text name=tux196 value=''></p>
+  </td><td width='182' height='25'>
+    <p align='center'><input size=17 type=text name=tux197 value=''></p>
+  </td><td width='183' height='25'>
+    <p align='center'><input size=17 type=text name=tux198 value=''></p>
+  </td></tr>
+
+</center>
+
+<center>
+</center>
+<center>
+</center>
+
+<center>
+
+</table>
+  </center>
+</td></tr></table>
+<br><br>
+<center>
+<script>
+</script>
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page5a'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<font color='red' face='arial,helvetica' size='-1'><b>GENERAL INFORMATION</b></font>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547 height='383'>
+<tr><td width='331' height='21'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='183' height='21'>
+<font face='arial,helvetica' size='-1' color='red'><b>First </b></font><font face='arial,helvetica' size='-1' color='red'><b>Applicant</b></font>
+</td>
+</tr>
+
+<tr>
+  <td width='324' height='1'><font face='arial,helvetica' size='-2' color='black'>Have
+    you ever incurred rent, mortgage or loan arrears?<br>
+    If YES give details</font></td><td width='199' height='1'>
+  <p align='center'>YES <input  checked type=radio name=tux200 value=yes> NO <input type=radio name=tux200
+value=no></p>
+  </td>
+</tr>
+<tr>
+  <td width='514' colspan='2' height='25'>
+    <p align='right'><input size=65 type=text name=tux202 value=''></p>
+  </td>
+</tr>
+<tr>
+  <td width=514 colspan='2' height='25'>
+    <p align='right'><input type=text size=65 name=tux203 value=''></p>
+  </td>
+</tr>
+
+<tr><td width='324' height='1'><font face='arial,helvetica' size='-2' color='black'>Have
+    you applied for a mortgage on this, or any other property, to any other
+    lender within the last six months?</font></td><td width='199' height='1'>
+  <p align='center'>YES <input  type=radio name=tux204 value=yes> NO <input  checked type=radio name=tux204
+value=no></p>
+  </td></tr>
+
+</center>
+
+<tr><td width='514' colspan='2' height='25'>
+    <p align='right'><input size=65 type=text name=tux206 value=''></p>
+  </td></tr>
+
+<tr><td width=514 colspan='2' height='25'>
+    <p align='right'><input type=text size=65 name=tux207 value=''></p>
+  </td></tr>
+
+<center>
+
+<tr><td width='514' colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>Please
+    give the numbers of any existing Universal Investment Accounts</font></td></tr>
+
+<tr><td width='331' height='25'>&nbsp;<input size=27 type=text name=tux208 value=''></td><td width='183' height='25'></td></tr>
+
+</center>
+
+<center>
+</center>
+<center>
+</center>
+
+<center>
+
+</table>
+  </center>
+</td></tr></table>
+<br><br>
+<center>
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page5b'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<font color='red' face='arial,helvetica' size='-1'><b>GENERAL INFORMATION</b></font>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547 height='383'>
+<tr><td width='331' height='21'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='183' height='21'>
+<font face='arial,helvetica' size='-1' color='red'><b>Second Applicant</b></font>
+</td>
+</tr>
+
+<tr>
+  <td width='324' height='1'><font face='arial,helvetica' size='-2' color='black'>Have
+    you ever incurred rent, mortgage or loan arrears?<br>
+    If YES give details</font></td><td width='199' height='1'>
+  <p align='center'>YES <input  type=
+radio name=tux210 value=yes> NO <input type=radio name=tux210
+value=no></p>
+  </td>
+</tr>
+<tr>
+  <td width='514' colspan='2' height='25'>
+    <p align='right'><input size=65 type=text name=tux212 value=''></p>
+  </td>
+</tr>
+<tr>
+  <td width=514 colspan='2' height='25'>
+    <p align='right'><input type=text size=65 name=tux213 value=''></p>
+  </td>
+</tr>
+
+<tr><td width='324' height='1'><font face='arial,helvetica' size='-2' color='black'>Have
+    you applied for a mortgage on this, or any other property, to any other
+    lender within the last six months?</font></td><td width='199' height='1'>
+  <p align='center'>YES <input type=radio name=tux214 value=yes> NO <input type=radio name=tux214
+value=no></p>
+  </td></tr>
+
+</center>
+
+<tr><td width='514' colspan='2' height='25'>
+    <p align='right'><input size=65 type=text name=tux216 value=''></p>
+  </td></tr>
+
+<tr><td width=514 colspan='2' height='25'>
+    <p align='right'><input type=text size=65 name=tux217 value=''></p>
+  </td></tr>
+
+<center>
+
+<tr><td width='514' colspan='2' height='25'><font face='arial,helvetica' size='-2' color='black'>Please
+    give the numbers of any existing Universal Investment Accounts</font></td></tr>
+
+<tr><td width='331' height='25'>&nbsp;<input size=27 type=text name=tux218 value=''></td><td width='183' height='25'></td></tr>
+
+</center>
+
+<center>
+</center>
+<center>
+</center>
+
+<center>
+
+</table>
+  </center>
+</td></tr></table>
+<br><br>
+<center>
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page6'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<b>
+<font color='red' face='arial,helvetica' size='-1'>PROPERTY DETAILS </font></b><font face='arial,helvetica' size='-2' color='black'><b>-
+</b>type and valuation</font>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547 height='630'>
+<tr><td width='331' height='21'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='183' height='21'>
+<font face='arial,helvetica' size='-1' color='red'><b>&nbsp; </b></font>
+</td>
+</tr>
+
+<tr>
+  <td width='523' height='16' colspan='2'><font face='arial,helvetica' size='-2' color='black'>Address
+    of the property for which the loan is required, including postcode</font></td>
+</tr>
+<tr>
+  <td width='514' colspan='2' height='25'>
+    <p align='right'><input size=65 type=text name=tux220 value=''></p>
+  </td>
+</tr>
+<tr>
+  <td width=514 colspan='2' height='25'>
+    <p align='right'><input type=text size=65 name=tux221 value=''></p>
+  </td>
+</tr>
+
+<tr>
+  <td width='324' height='25'><font face='arial,helvetica' size='-2' color='black'>Present
+    owners name</font></td><td width='199' height='25'>
+  <input size=27 type=text name=tux222 value=''>
+  </td>
+</tr>
+<tr>
+  <td width='331' height='25'><font face='arial,helvetica' size='-2' color='black'>Telephone
+    No.</font></td><td width='183' height='25'><input size=27 type=text name=tux223 value=''></td>
+</tr>
+<tr>
+  <td width='324' height='25'><font face='arial,helvetica' size='-2' color='black'>Date
+    of Entry (Scotland only)</font></td><td width='199' height='25'>
+  <input size=27 type=text name=tux224 value=''>
+  </td>
+</tr>
+<tr>
+  <td width='331' height='13'><font face='arial,helvetica' size='-2' color='black'>Is
+    this the first property you have purchased?</font></td><td width='183' height='13'><input size=27 type=text name=tux225 value=''></td>
+</tr>
+
+</center>
+
+<tr>
+  <td width='331' height='12'><font face='arial,helvetica' size='-2' color='black'>What
+    type of property is it?</font></td><td width='183' height='12'><font face='arial,helvetica' size='-2' color='black'>&nbsp;</font></td>
+</tr>
+
+<tr>
+  <td width='311' height='1' valign='bottom' align='left'>
+    <p align='left'><font face='arial,helvetica' size='-2' color='black'><input  checked type=radio name=tux226 value=house>
+    House<br>
+ <input type=radio name=tux226 value=bungalow>
+  Bungalow&nbsp;<br>
+ <input type=radio  name=tux226 value=pbf>
+  Purpose built flat&nbsp;<br>
+ <input type=radio name=tux226 value=cf>
+  Converted flat&nbsp;<br>
+ <input type=radio  name=tux226 value=garage>
+  Garage&nbsp;<br>
+ <input type=radio name=tux226 value=other>
+  Other - specify below</font></p>
+<center>
+    </center>
+    </td>
+
+  <td width='183' height='1' valign='bottom' align='left'>
+  <p align='left'><font face='arial,helvetica' size='-2' color='black'>
+  <input type=radio  checked  name=tux232 value=semidet> Semi-detached<br>
+ <input type=radio name=tux232 value=detach>
+  Detached&nbsp;<br>
+ <input type=radio name=tux232 value=terraced>
+  Terraced&nbsp;<br>
+ <input type=radio name=tux232 value=other>
+  Other - specify below</font></p>
+</td>
+</tr>
+<center>
+
+<tr>
+  <td width='311' height='14' valign='top' align='left'>
+    <input size=27 type=text name=tux236 value=''>
+    </td>
+
+  <td width='183' height='2' valign='top' align='left'>
+  <input size=27 type=text name=tux237 value=''>
+</td>
+</tr>
+
+<tr><td width='324' height='86'><font face='arial,helvetica' size='-2' color='black'>If
+    flat or maisonette, please state</font>
+    <p><font face='arial,helvetica' size='-2' color='black'>Number of floors in
+    block<br>
+    <br>
+    On which floor is flat situated</font></p>
+  </td><td width='199' height='86'>
+  &nbsp;
+  <p><input size=27 type=text name=tux238 value=''><br>
+  <input size=27 type=text name=tux239 value=''>
+  </td></tr>
+
+</center>
+
+<center>
+
+<tr>
+  <td width='331' height='21'><font face='arial,helvetica' size='-2' color='black'>Please
+    indicate what type of valuation you require</font></td><td width='183' height='21'>&nbsp;</td>
+</tr>
+<tr>
+  <td width='331' height='30'><font face='arial,helvetica' size='-2' color='black'>Valuation
+    report for mortgage purposes - this is a limited report for the Society's
+    own use</font></td><td width='183' height='30'>
+    <p align='center'><font face='arial,helvetica' size='-2' color='black'> <input  checked type=radio name=tux240
+value=valuation></font></p>
+  </td>
+</tr>
+<tr>
+  <td width='331' height='30'><font face='arial,helvetica' size='-2' color='black'>Housebuyers/Flatbuyers
+    report - this is a more detailed report providing information on the state
+    of the property</font></td><td width='183' height='30'>
+  <p align='center'><font face='arial,helvetica' size='-2' color='black'><input type=radio name=tux240
+value=housereport></font></p>
+  </td>
+</tr>
+<tr>
+  <td width='331' height='30'><font face='arial,helvetica' size='-2' color='black'>Structural
+    survey report - please ask our Branch staff for further details</font></td><td width='183' height='30'>
+    <p align='center'><font face='arial,helvetica' size='-2' color='black'> <input type=radio name=tux240
+value=surveyreport></font></p>
+  </td>
+</tr>
+<tr>
+  <td width='514' height='1' colspan='2'><font face='arial,helvetica' size='-2' color='black'>Who
+    can we contact to arrange the valuation?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Present owner<input type=radio  checked name=tux243 value=owner></font> <font face='arial,helvetica'
+size='-2'
+color='black'>Selling
+    agent<input type=radio name=tux243 value=agent></font></td>
+</tr>
+
+<tr><td width='331' height='71' valign='top'><font face='arial,helvetica' size='-2' color='black'>Please
+    give details</font></td><td width='183' height='71'><input size=27 type=text  name=tux245 value=''><br>
+    <input size=27 type=text  name=tux246 value=''></td></tr>
+
+</center>
+
+<center>
+</center>
+<center>
+</center>
+
+<center>
+
+</table>
+  </center>
+</td></tr></table>
+<br><br>
+<center>
+
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page7'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<b>
+<font color='red' face='arial,helvetica' size='-1'>PROPERTY DETAILS </font></b><font face='arial,helvetica' size='-2' color='black'><b>-
+</b>accommodation, tenure and construction</font>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547 height='571'>
+<tr><td width='314' height='21' colspan='4'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font>
+  </td><td width='200' height='21' colspan='3'>
+<font face='arial,helvetica' size='-1' color='red'><b>&nbsp; </b></font>
+</td>
+</tr>
+
+<tr>
+  <td width='523' height='16' colspan='7'><b><font color='red' face='arial,helvetica' size='-1'>ACCOMMODATION
+    </font></b><font face='arial,helvetica' size='-2' color='black'>- Enter
+    number in each box</font></td>
+</tr>
+
+<tr>
+  <td width='78' height='13'><font face='arial,helvetica' size='-2' color='black'>Living
+    Rooms</font></td>
+  <td width='78' height='13'><font face='arial,helvetica' size='-2' color='black'>Bedrooms</font></td>
+  <td width='78' height='13'><font face='arial,helvetica' size='-2' color='black'>Kitchens</font></td>
+  <td width='78' height='13'><font face='arial,helvetica' size='-2' color='black'>Bathrooms</font></td><td width='78' height='25'>
+  <font face='arial,helvetica' size='-2' color='black'>Toilets</font>
+  </td>
+  <td width='78' height='25'>
+  <font face='arial,helvetica' size='-2' color='black'>Outbuildings</font>
+  </td>
+  <td width='79' height='25'>
+  <font face='arial,helvetica' size='-2' color='black'>Other (specify)</font>
+  </td>
+</tr>
+
+<tr>
+  <td width='78' height='12'><font face='arial,helvetica' size='-2' color='black'><input size=7 type=text name=tux248 value=''></font></td>
+  <td width='78' height='12'><font face='arial,helvetica' size='-2' color='black'><input size=7 type=text name=tux249 value=''></font></td>
+  <td width='78' height='12'><font face='arial,helvetica' size='-2' color='black'><input size=7 type=text name=tux250 value=''></font></td>
+  <td width='78' height='12'><font face='arial,helvetica' size='-2' color='black'><input size=7 type=text name=tux251 value=''></font></td>
+  <td width='78' height='25'><font face='arial,helvetica' size='-2' color='black'><input size=7 type=text name=tux252 value=''></font></td>
+  <td width='78' height='25'><font face='arial,helvetica' size='-2' color='black'><input size=7 type=text name=tux253 value=''></font></td>
+  <td width='79' height='25'><font face='arial,helvetica' size='-2' color='black'><input size=7 type=text name=tux254 value=''></font>
+  </td>
+</tr>
+<tr>
+  <td width='314' height='25' valign='top' colspan='4'><b><font color='red' face='arial,helvetica'
+size='-1'>TENURE</font></b></td><td width='200' height='25' colspan='3'><font face='arial,helvetica' size='-2'
+color='black'><input type=radio  name=tux255 value=freehold>
+    Freehold<br>
+ <input  checked type=radio name=tux255 value=leasehold>
+    Leasehold&nbsp;<br>
+ <input type=radio  name=tux255 value=feudal>
+    Feudal (Scotland)</font></td>
+</tr>
+<tr>
+  <td width='307' height='25' colspan='4'><font face='arial,helvetica' size='-2' color='black'>If
+    Leasehold, please state:</font></td><td width='216' height='25' colspan='3'>
+  &nbsp;&nbsp;
+  </td>
+</tr>
+
+</center>
+
+<tr>
+  <td width='307' height='25' colspan='4' align='right'>
+    <p align='right'><font face='arial,helvetica' size='-2' color='black'>&nbsp;
+    remaining term (years):</font></p>
+  </td>
+<center>
+<td width='216' height='25' colspan='3'>
+  <input size=27 type=text name=tux258 value=''>
+  </td>
+  </tr>
+
+</center>
+
+<tr>
+  <td width='307' height='25' colspan='4' align='right'>
+    <p align='right'><font face='arial,helvetica' size='-2' color='black'>ground
+    rent (£):</font></p>
+  </td>
+<center>
+<td width='216' height='25' colspan='3'>
+  <input size=27 type=text name=tux259 value=''>
+  </td>
+  </tr>
+
+</center>
+
+<tr>
+  <td width='307' height='25' colspan='4' align='right'>
+    <p align='right'><font face='arial,helvetica' size='-2' color='black'>service
+    charge (if any £):</font></p>
+  </td>
+<center>
+<td width='216' height='25' colspan='3'>
+  <input size=27 type=text name=tux260 value=''>
+  </td>
+</tr>
+<tr>
+  <td width='314' height='13' colspan='4'><b><font color='red' face='arial,helvetica' size='-1'>CONSTRUCTION</font></b></td><td width='200' height='13' colspan='3'>&nbsp;</td>
+</tr>
+
+</center>
+
+<tr>
+  <td width='314' height='12' colspan='4'><font face='arial,helvetica' size='-2' color='black'>What
+    type of property is it?</font></td><td width='200' height='12' colspan='3'><font face='arial,helvetica' size='-2' color='black'>&nbsp;</font><input size=27 type=text name=tux261 value=''>
+  </td>
+</tr>
+
+<tr>
+  <td width='294' height='1' valign='bottom' align='left' colspan='4'>
+    <p align='left'><font face='arial,helvetica' size='-2' color='black'><input type=radio name=tux262 value=stone>
+    Stone<br>
+ <input type=radio  checked  name=tux262 value=brick>
+    Brick<br>
+ <input type=radio  name=tux262 value=other>
+    Other - specify below</font></p>
+<center>
+    </center>
+    </td>
+
+  <td width='200' height='1' valign='bottom' align='left' colspan='3'>
+  <p align='left'><font face='arial,helvetica' size='-2' color='black'>&nbsp;Age
+  of Property:</font></p>
+</td>
+</tr>
+<center>
+
+<tr>
+  <td width='294' height='14' valign='top' align='left' colspan='4'>
+    <input size=27 type=text name=tux265 value=''>
+    </td>
+
+</center>
+
+  <td width='200' height='2' valign='top' align='left' colspan='3'>
+  <p align='left'>
+  <input size=19 type=text name=tux266 value=''>&nbsp; <font face='arial,helvetica' size='-2' color='black'>years</font></p>
+</td>
+</tr>
+
+<tr><td width='523' height='8' colspan='7' align='left'>
+    <p align='left'><font face='arial,helvetica' size='-2' color='black'>If more
+    than one acre, state current and intended use of land and any out-buildings</font>
+  </td></tr>
+
+<center>
+
+</center>
+
+<center>
+</center>
+<center>
+</center>
+
+  <tr>
+    <td width='523' height='8' colspan='7' align='right'>
+      <p align='right'><input size=65 type=text name=tux267 value=''>
+  </td>
+  </tr>
+  <tr>
+    <td width='523' height='8' colspan='7' align='right'>
+      <p align='right'><input size=65 type=text name=tux268 value=''>
+  </td>
+  </tr>
+
+<center>
+
+<tr>
+  <td width='300' height='4' colspan='4' align='left'><font face='arial,helvetica' size='-2' color='black'>If
+    built within last ten years, is the property sold<br>
+    &nbsp;with NHBC cover or Foundation 15 cover?</font>
+  </td><td width='223' height='4' colspan='3' align='left'>
+  <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input type=radio  checked name=tux269 value=yes> NO
+<input type=radio  name=tux269 value=no></font></p>
+  </td>
+</tr>
+<tr>
+  <td width='523' height='1' colspan='7' align='left'><font face='arial,helvetica' size='-2' color='black'>If
+    NO </font><font face='arial,helvetica' size='-2' color='black'>please give
+    the NAME and ADDRESS of the firm of CHARTERED ARCHITECTS who were or are to
+    be employed to design and supervise the construction of the property</font>
+  </td>
+</tr>
+<tr>
+  <td width='523' height='1' colspan='7' align='right'>
+    <p align='right'><input size=65 type=text name=tux271 value=''>
+  </td>
+</tr>
+<tr>
+  <td width='523' height='2' colspan='7' align='right'>
+    <p align='right'><input size=65 type=text name=tux272 value=''>
+  </td>
+</tr>
+<tr>
+  <td width='300' height='4' colspan='4' align='left'><font face='arial,helvetica' size='-2' color='black'>Will
+    you be making any structural alterations to the property?</font>
+  </td><td width='223' height='4' colspan='3' align='left'>
+  <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input type=radio  checked  name=tux273 value=yes> NO
+<input type=radio name=tux273 value=no></font></p>
+  </td>
+</tr>
+<tr>
+  <td width='300' height='4' colspan='4' align='left'><font face='arial,helvetica' size='-2' color='black'>Has
+    the property suffered from subsidence or been underpinned?</font>
+  </td><td width='223' height='4' colspan='3' align='left'>
+  <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input  checked type=radio name=tux275 value=yes> NO
+<input type=radio name=tux275  value=no></font></p>
+  </td>
+</tr>
+<tr>
+  <td width='300' height='4' colspan='4' align='left'><font face='arial,helvetica' size='-2' color='black'>Has
+    the property been subject to any structurally related insurance claim?</font>
+  </td><td width='223' height='4' colspan='3' align='left'>
+  <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input type=radio  checked  name=tux277 value=yes> NO
+<input type=radio name=tux277 value=no ></font></p>
+  </td>
+</tr>
+<tr>
+  <td width='523' height='1' colspan='7' align='left'><font face='arial,helvetica' size='-2' color='black'>If
+    </font><font face='arial,helvetica' size='-2' color='black'>YES to any of
+    the above, give details</font>
+  </td>
+</tr>
+<tr>
+  <td width='523' height='1' colspan='7' align='right'>
+    <p align='right'><input size=65 type=text name=tux279 value=''>
+  </td>
+</tr>
+<tr>
+  <td width='523' height='2' colspan='7' align='right'>
+    <p align='right'><input size=65 type=text name=tux280 value=''>
+  </td>
+</tr>
+
+<tr><td width='300' height='4' colspan='4' align='left'><font face='arial,helvetica' size='-2' color='black'>Will
+    you use the property wholly for your residential purpose?</font>
+  </td><td width='223' height='4' colspan='3' align='left'>
+  <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input type=radio  checked  name=tux281 value=yes> NO
+<input type=radio  name=tux281 value=no></font></p>
+  </td></tr>
+
+<tr><td width='523' height='1' colspan='7' align='left'><font face='arial,helvetica' size='-2' color='black'>If
+    NO </font><font face='arial,helvetica' size='-2' color='black'>please give
+    details</font>
+  </td></tr>
+
+  </center>
+
+<tr><td width='523' height='1' colspan='7' align='right'>
+    <p align='right'><input size=65 type=text name=tux283 value=''>
+  </td></tr>
+
+<tr><td width='523' height='2' colspan='7' align='right'>
+    <p align='right'><input size=65 type=text name=tux284 value=''>
+  </td></tr>
+
+</table>
+</td></tr></table>
+<br><br>
+<center>
+
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page8'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<b>
+<font color='red' face='arial,helvetica' size='-1'>PROPERTY DETAILS </font></b><font face='arial,helvetica' size='-2' color='black'><b>-</b>
+insurance</font>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547 height='571'>
+<tr><td width='314' height='21'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='200' height='21'>
+<font face='arial,helvetica' size='-1' color='red'><b>&nbsp; </b></font>
+</td>
+</tr>
+
+<tr>
+  <td width='523' height='8' colspan='2'><b><font color='red' face='arial,helvetica' size='-1'>BUILDING
+    AND CONTENTS INSURANCE</font></b></td>
+</tr>
+
+<tr>
+  <td width='523' height='8' colspan='2'><font face='arial,helvetica' size='-2' color='black'>It
+    is essential that the property and its contents are adequately insured and
+    the Society can arrange cover with a major insurance company to suit your
+    needs. The insurance policy arranged will provide protection to your
+    property OR combined property and contents against major causes of loss or
+    damage. It is a convenient, easy and inexpensive method of arranging your
+    insurance needs. The amount of buildings insurance cover is based on a
+    figure recommended by our valuers, the contents are automatically insured up
+    to a maximum of £35,000. If your contents exceed this figure please advise
+    the Society immediately.</font>
+    <p><font face='arial,helvetica' size='-2' color='black'>Accidental damage
+    cover is recommended to ensure you receive maximum benefit in the event of a
+    claim.</font></td>
+</tr>
+
+<tr>
+  <td width='314' height='25' valign='top'><font face='arial,helvetica' size='-2' color='black'>Please
+    indicate the type of insurance you require</font></td><td width='200' height='25'><font face='arial,helvetica' size='-2'
+color='black'><input type=radio  checked  name=tux286 value=buildingsonly>
+    Buildings only<br>
+ <input type=radio name=tux286 value=buildingscontents>
+    Buildings and Contents&nbsp;<br>
+ <input type=radio  name=tux286 value=accidental>
+    </font><font face='arial,helvetica' size='-2' color='black'>including
+    accidental damage cover</font></td>
+</tr>
+<tr>
+  <td width='523' height='25' colspan='2'><font face='arial,helvetica' size='-2' color='black'>The
+    Premium will be included in your Monthly payment.<br>
+    If you would prefer to pay your premium annually, please ask your local
+    branch for further details.</font>
+    <p><font face='arial,helvetica' size='-2' color='black'>The Society's
+    arrangements with its Insurers for Buildings or Buildings and Contents
+    Insurance do not require completion of detailed insurance proposal forms.
+    However, a contract of insurance requires disclosure of all facts which an
+    insurer would regard as likely to influence the acceptance and assessment of
+    an insurance proposal.<br>
+    If you are in any doubt about facts considered material, you should disclose
+    them. Failure to do so may affect the settlement of a claim or render the
+    policy invalid.<br>
+    If any answer is YES, or you are in any doubt as to whether facts are
+    material, please give full details on a separate sheet attached to this
+    application form.<br>
+    You should keep a record (including copies of letters) of all information
+    supplied for the purposes of entering into the insurance contract.</font></p>
+  </td>
+</tr>
+
+</center>
+
+<center>
+
+</center>
+
+<center>
+
+</center>
+
+<center>
+
+</center>
+
+<tr>
+  <td width='523' height='8' colspan='2'><font face='arial,helvetica' size='-2' color='black'>Have
+    you, or any member of your family normally residing with you:</font></td>
+</tr>
+<tr>
+  <td width='314' height='5' valign='top'><font face='arial,helvetica' size='-2' color='black'>1
+    (a) ever been convicted of, or is any prosecution pending, for<br>
+    &nbsp;&nbsp; any criminal offence other than a driving offence?<br>
+    &nbsp;&nbsp; NOTE: You are not required to disclose convictions regarded<br>
+    &nbsp;&nbsp; as &quot;spent&quot; by virtue of the Rehabilitation of
+    Offenders Act 1974</font></td><td width='200' height='5'>
+    <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input  checked type=radio name=tux289 value=yes> NO
+<input type=radio name=tux289  value=no></font></p>
+  </td>
+</tr>
+<tr>
+  <td width='314' height='5' valign='top'><font face='arial,helvetica' size='-2' color='black'>&nbsp;&nbsp;
+    (b) had any home or personal insurance declined, cancelled<br>
+    &nbsp;&nbsp;&nbsp;or had special terms imposed?</font></td><td width='200' height='5'>
+    <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input  checked type=radio name=tux291 value=yes> NO
+<input type=radio   name=tux291 value=no></font></p>
+  </td>
+</tr>
+<tr>
+  <td width='314' height='5' valign='top'><font face='arial,helvetica' size='-2' color='black'>2
+    Have you or any other persons normally resident with you at&nbsp;<br>
+    &nbsp;&nbsp; your present address or elsewhere sustained any loss,<br>
+    &nbsp;&nbsp; damage or liability, whether insured or not during the past 5<br>
+    &nbsp;&nbsp; years arising from risks which can be insured under a<br>
+    &nbsp;&nbsp; Householders' Building or Contents Policy?</font></td><td width='200' height='5'>
+    <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input type=radio  checked  name=tux293 value=yes> NO
+<input type=radio  name=tux293 value=no></font></p>
+  </td>
+</tr>
+<tr>
+  <td width='314' height='5' valign='top'><font face='arial,helvetica' size='-2' color='black'>3
+    Will the property be left unoccupied for any reason for more<br>
+    &nbsp;&nbsp; than 1 month at a time?</font></td><td width='200' height='5'>
+    <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input  checked  type=radio name=tux295 value=yes> NO
+<input type=radio  name=tux295 value=no></font></p>
+  </td>
+</tr>
+<tr>
+  <td width='314' height='5' valign='top'><font face='arial,helvetica' size='-2' color='black'>4
+    Will the property be used for business or professional<br>
+    &nbsp;&nbsp; reasons?</font></td><td width='200' height='5'>
+    <p align='center'><font face='arial,helvetica' size='-2' color='black'>YES <input type=radio checked  name=tux297 value=yes> NO
+<input type=radio name=tux297 value=no ></font></p>
+  </td>
+</tr>
+<center>
+
+</center>
+
+<tr><td width='523' height='8' colspan='2' align='left'>
+    <p align='left'><font face='arial,helvetica' size='-2' color='black'>If you
+    have answered YES to any of these questions please give full details</font>
+  </td></tr>
+
+<center>
+
+</center>
+
+<center>
+</center>
+<center>
+</center>
+
+  <tr>
+    <td width='523' height='8' colspan='2' align='right'>
+      <p align='right'><input size=65 type=text name=tux299 value=''>
+  </td>
+  </tr>
+  <tr>
+    <td width='523' height='8' colspan='2' align='right'>
+      <p align='right'><input size=65 type=text name=tux300 value=''>
+  </td>
+  </tr>
+
+<center>
+
+<tr><td width='523' height='8' colspan='2' align='left'><font face='arial,helvetica' size='-2' color='black'>We
+    will issue the cover on the basis of the information supplied by you or on
+    your behalf. Please tell us immediately of any changes that affect what you
+    have told us e.g. the use of the property is changed, or you add an
+    extension or install double glazing or central heating.<br>
+    A specimen copy of the policy form is available on request.<br>
+    A copy of this application will be supplied on request within three months
+    of completion of the mortgage.</font>
+    <p><font face='arial,helvetica' size='-2' color='black'>Insurance cover will
+    commence on completion of the mortgage, or earlier on request</font></p>
+    <p><font face='arial,helvetica' size='-2' color='black'>To allow for rising
+    costs, the insurance value will be adjusted monthly in line with the
+    Building Housing Cost Index as prepared by RICS, or some similar index. The
+    premium will be amended yearly and is likely to increase each year.<br>
+    If you wish, you may arrange the insurance through another nominated
+    insurance company. The details of the insurance must be approved by the
+    Society and reasonable consideration will be given to such a proposal. A
+    charge will be made to cover the extra administration costs involved.<br>
+    Insurers and their agents share information with each other to prevent
+    fraudulent claims and to assess whether to offer insurance including the
+    terms via the Claims and Underwriting Exchange register, operated by
+    Insurance Database Services Ltd. A list of participants is available on
+    request. In dealing with your application this register may be searched. In
+    the event of a claim, the information you supply on this form and the claim
+    form, together with information relating to the claim, will be put on the
+    register and made available to participants.<br>
+    Having completed this section please ensure you read and sign the
+    declaration overleaf.</font></p>
+  </td></tr>
+
+  </center>
+
+</table>
+</td></tr></table>
+<br><br>
+<center>
+
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page9'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<b><font color='red' face='arial,helvetica' size='-1'>MORTGAGE SCHEME REQUIRED</font></b>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547 height='417'>
+<tr><td width='337' height='21' colspan='4'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='177' height='21' colspan='3'>
+<font face='arial,helvetica' size='-1' color='red'><b>&nbsp; </b></font>
+</td>
+</tr>
+
+<tr>
+  <td width='523' height='8' colspan='7'>
+<b>
+<font color='red' face='arial,helvetica' size='-1'>LOAN DETAILS </font></b></td>
+</tr>
+
+<tr>
+  <td width='523' height='1' colspan='7'><font face='arial,helvetica' size='-2' color='black'>Loan
+    Required </font><input size='20' type='text' name='tux302' value=''>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face='arial,helvetica' size='-2' color='black'>&nbsp;
+    over&nbsp; <input size='20' type='text' name='tux303' value=''>&nbsp;&nbsp; years</font></td>
+</tr>
+
+<tr>
+  <td width='337' height='25' valign='top' colspan='4'><font face='arial,helvetica' size='-2' color='black'>Which
+    type of loan do you require?</font></td><td width='177' height='25' colspan='3'><font face='arial,helvetica' size='-2'
+color='black'><input  checked type=radio name=tux304 value=repayment>
+    Repayment<br>
+ <input type=radio  name=tux304 value=interest>
+    Interest Only&nbsp;<br>
+ <input type=radio  name=tux304 value=partrepayment>
+    Part Repayment/Part Interest<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (If the latter, give details below)
+    </font></td>
+</tr>
+<tr>
+  <td width='343' height='1' colspan='4'>
+    <p align='right'><font face='arial,helvetica' size='-2' color='black'>Repayment
+    Amount:<br>
+    Interest Only Amount:</font>
+  </td>
+  <td width='180' height='1' colspan='3'><font face='arial,helvetica' size='-2' color='black'><input size='20' type='text' name='tux307' value=''><br>
+    <input size='20' type='text' name='tux308' value=''>
+    </font>
+  </td>
+</tr>
+
+<tr>
+  <td width='337' height='25' valign='top' colspan='4'><font face='arial,helvetica' size='-2' color='black'>If
+    interest only, how will the loan be repaid at the end of the term?</font></td><td width='177' height='25'
+colspan='3'><font face='arial,helvetica' size='-2' color='black'><input type=radio  name=tux309 value=pension>
+    Pension<br>
+ <input type=radio  name=tux309 value=isa>
+    ISA&nbsp;<br>
+ <input type=radio  checked  name=tux309 value=endowment>
+    Endowment<br>
+    <input type=radio  name=tux309 value=other>
+    Other<br>
+    (If the latter, give details below)<input size='20' type='text' name='tux313' value=''></font></td>
+</tr>
+
+</center>
+
+<tr>
+  <td width='523' height='1' colspan='7'>
+    <table border='0' width='100%' height='304' cellpadding='4'>
+      <tr>
+        <td width='50%' height='18'><b><font color='red' face='arial,helvetica' size='-1'>IF
+          YOU ARE PURCHASING </font></b></td>
+        <td width='50%' height='18'><b><font color='red' face='arial,helvetica' size='-1'>IF
+          YOU ARE REMORTGAGING</font></b></td>
+      </tr>
+      <tr>
+        <td width='50%' height='25'><font face='arial,helvetica' size='-2' color='black'>Purchase
+          Price&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input size='20' type='text' name='tux314' value='' ></font></td>
+        <td width='50%' height='25'><font face='arial,helvetica' size='-2' color='black'>Date
+          of Purchase&nbsp;&nbsp;&nbsp; <input size='20' type='text' name='tux315' value=''></font></td>
+      </tr>
+      <tr>
+        <td width='50%' height='50'><font face='arial,helvetica' size='-2' color='black'>Are
+          you purchasing as<br>
+          sitting
+          tenant?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          YES <input type=radio  name=tux316 value=yes> NO <input type=radio  checked  name=tux316
+value=no></font></td>
+        <td width='50%' height='50'><font face='arial,helvetica' size='-2' color='black'>Original
+          Purchase
+          Price&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <input size='12' type='text' name='tux318' value='' ></font></td>
+      </tr>
+      <tr>
+        <td width='50%' height='50'><font face='arial,helvetica' size='-2' color='black'>Are
+          you borrowing more<br>
+          than the purchase
+          price?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          YES <input type=radio  checked name=tux319 value=yes> NO <input type=radio  name=tux319
+value=no></font></td>
+        <td width='50%' height='50'><font face='arial,helvetica' size='-2' color='black'>Original
+          Mortgage Advance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input size='12' type='text' name='tux321' value='' ></font></td>
+      </tr>
+      <tr>
+        <td width='50%' height='25'><font face='arial,helvetica' size='-2' color='black'>Amount&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <input size='20' type='text' name='tux322' value='' ></font></td>
+        <td width='50%' height='25'><font face='arial,helvetica' size='-2' color='black'>Current
+          Mortgage Outstanding&nbsp;&nbsp; <input size='12' type='text' name='tux323' value='' ></font></td>
+      </tr>
+      <tr>
+        <td width='50%' height='16'><font face='arial,helvetica' size='-2' color='black'>For
+          what purpose?</font></td>
+        <td width='50%' height='16'><font face='arial,helvetica' size='-2' color='black'>Purpose
+          for which additional finance is required</font></td>
+      </tr>
+      <tr>
+        <td width='50%' height='25'><font face='arial,helvetica' size='-2' color='black'><input size='35' type='text' name='tux324' value=''><br>
+          <input size='35' type='text' name='tux325' value=''><br>
+          <input size='35' type='text' name='tux326' value=''></font></td>
+        <td width='50%' height='25' valign='top'><font face='arial,helvetica' size='-2' color='black'><input size='34' type='text' name='tux327' value=''><br>
+          Are there any second mortgages or charges over the
+          property?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; YES <input type=radio  checked  name=tux328 value=yes> NO <input type=radio
+  name=tux328 value=no></font></td>
+      </tr>
+      <tr>
+        <td width='50%' valign='top' height='42'><font face='arial,helvetica' size='-2' color='black'>&nbsp;&nbsp;</font></td>
+        <td width='50%' height='42'><font face='arial,helvetica' size='-2' color='black'>Will
+          the second mortgage(s) or charge(s) be repaid on completion?</font>&nbsp;&nbsp;
+          <font face='arial,helvetica' size='-2' color='black'>YES <input type=radio  name=tux330 value=yes> NO <input
+type=radio  checked  name=tux330 value=no></font></td>
+      </tr>
+    </table>
+  </td>
+<center>
+</tr>
+
+</center>
+
+<center>
+
+</center>
+
+<center>
+
+</center>
+
+<center>
+
+</center>
+
+<tr>
+  <td width='514' height='3' valign='top' colspan='7'><font face='arial,helvetica' size='-2' color='black'>Are
+    you applying to anyone else for money towards the purchase price?<br>
+    (If YES give details
+    below)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    YES <input type=radio name=tux332 value='yes' > NO <input type=radio name=tux332 value='no'  checked ></font></td>
+</tr>
+<tr>
+  <td width='514' height='2' valign='top' colspan='7'><font face='arial,helvetica' size='-2' color='black'>Details:
+    <input size=12 type=text name=tux334 value=''>&nbsp; 
+</font></td>
+</tr>
+<tr>
+  <td width='514' height='5' align='left' colspan='7'>
+    <p align='left'><b><font color='red' face='arial,helvetica' size='-1'>LIFE
+    INSURANCE</font></b></td>
+</tr>
+<tr>
+  <td width='514' height='5' valign='top' colspan='7'><font face='arial,helvetica' size='-2' color='black'>You
+    are advised to have adequate life insurance to cover your loan and the
+    Society may provide a quotation.<br>
+    Please give details of all new and existing policies you wish to use.</font></td>
+</tr>
+<tr>
+  <td width='78' height='1' valign='top'>&nbsp;</td>
+  <td width='78' height='1' valign='top'><font face='arial,helvetica' size='-2' color='black'>Company
+    Name</font></td>
+  <td width='78' height='1' valign='top'><font face='arial,helvetica' size='-2' color='black'>Type
+    of Policy</font></td>
+  <td width='78' height='1' valign='top'><font face='arial,helvetica' size='-2' color='black'>Policy
+    Number</font></td>
+  <td width='78' height='1' valign='top'><font face='arial,helvetica' size='-2' color='black'>Lives
+    Assured</font></td>
+  <td width='90' height='1' valign='top'><font face='arial,helvetica' size='-2' color='black'>Guaranteed
+    Minimum<br>
+    Death Benefit</font></td>
+  <td width='67' height='1' valign='top'><font face='arial,helvetica' size='-2' color='black'>Maturity
+    Date</font></td>
+</tr>
+<tr>
+  <td width='78' height='5' valign='top'><font face='arial,helvetica' size='-2' color='black'>New
+    Policies</font></td>
+  <td width='78' height='5' valign='top'><input size=7 type=text name=tux335 value=''>
+  </td>
+  <td width='78' height='5' valign='top'><input size=7 type=text name=tux336 value=''>
+  </td>
+  <td width='78' height='5' valign='top'><input size=7 type=text name=tux337 value=''>
+  </td>
+  <td width='78' height='5' valign='top'><input size=7 type=text name=tux338 value=''>
+  </td>
+  <td width='90' height='5' valign='top'><input size=7 type=text name=tux339 value='' >
+  </td>
+  <td width='67' height='5' valign='top'><input size=7 type=text name=tux340 value=''>
+  </td>
+</tr>
+<tr>
+  <td width='78' height='5' valign='top'><font face='arial,helvetica' size='-2' color='black'>Existing
+    Policies</font></td>
+  <td width='78' height='5' valign='top'><input size=7 type=text name=tux341 value=''>
+  </td>
+  <td width='78' height='5' valign='top'><input size=7 type=text name=tux342 value=''>
+  </td>
+  <td width='78' height='5' valign='top'><input size=7 type=text name=tux343 value=''>
+  </td>
+  <td width='78' height='5' valign='top'><input size=7 type=text name=tux344 value=''>
+  </td>
+  <td width='90' height='5' valign='top'><input size=7 type=text name=tux345 value='' >
+  </td>
+  <td width='67' height='5' valign='top'><input size=7 type=text name=tux346 value=''>
+  </td>
+</tr>
+<center>
+
+</center>
+
+<tr><td width='523' height='8' colspan='7' align='left'>
+    <p align='left'><font face='arial,helvetica' size='-2' color='black'>If you
+    have answered YES to any of these questions please give full details</font>
+  </td></tr>
+
+<center>
+
+</center>
+
+<center>
+</center>
+<center>
+</center>
+
+  <tr>
+    <td width='523' height='8' colspan='7' align='left'>
+      <p align='left'><font color='red' face='arial,helvetica' size='-1'><b>SOLICITOR
+      DETAILS<br>
+      </b></font><font face='arial,helvetica' size='-2' color='black'>Please
+      give the name and address of the firm of solicitors<br>
+      who will act for you in the purchase of the property:</font>
+  </td>
+  </tr>
+<tr>
+    <td width='222' height='8' colspan='3' align='right'>
+      <p align='right'><font face='arial,helvetica' size='-2' color='black'>Name:
+      </font>
+  </td>
+    <td width='301' height='8' colspan='4' align='right'>
+      <font face='arial,helvetica' size='-2' color='black'><input size=35 type=text name=tux347 value=''>
+      </font>
+  </td>
+</tr>
+<tr>
+    <td width='222' height='8' colspan='3' align='right'>
+      <p align='right'><font face='arial,helvetica' size='-2' color='black'>Address:
+      </font>
+  </td>
+    <td width='301' height='8' colspan='4' align='right'>
+      <font face='arial,helvetica' size='-2' color='black'><input size=35 type=text name=tux348 value=''>
+      </font>
+  </td>
+</tr>
+<tr>
+    <td width='222' height='8' colspan='3' align='right'>
+      <p align='left'><font face='arial,helvetica' size='-2' color='black'>&nbsp;&nbsp;
+      </font>
+  </td>
+    <td width='301' height='8' colspan='4' align='right'>
+      <font face='arial,helvetica' size='-2' color='black'><input size=35 type=text name=tux349 value=''>
+      </font>
+  </td>
+</tr>
+<tr>
+    <td width='222' height='1' colspan='3' align='right'>
+      <p align='right'><font face='arial,helvetica' size='-2' color='black'>Postcode:
+      </font>
+  </td>
+    <td width='301' height='1' colspan='4' align='right'>
+      <font face='arial,helvetica' size='-2' color='black'><input size=35 type=text name=tux350 value=''>
+      </font>
+  </td>
+</tr>
+<tr>
+    <td width='222' height='8' colspan='3' align='right'>
+      <p align='left'><font face='arial,helvetica' size='-2' color='black'>&nbsp;&nbsp;
+      </font>
+  </td>
+    <td width='301' height='8' colspan='4' align='right'>
+      <font face='arial,helvetica' size='-2' color='black'><input size=35 type=text name=tux351 value='' >
+      </font>
+  </td>
+</tr>
+  <tr>
+    <td width='222' height='1' colspan='3' align='right'>
+      <p align='right'><font face='arial,helvetica' size='-2' color='black'>Person
+      dealing with purchase: </font>
+  </td>
+    <td width='301' height='1' colspan='4' align='right'>
+      <font face='arial,helvetica' size='-2' color='black'><input size=35 type=text name=tux352 value=''>
+      </font>
+  </td>
+  </tr>
+
+<center>
+
+  </center>
+
+</table>
+</td></tr></table>
+<br><br>
+<center>
+<script>
+</script>
+
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+
+
+
+
+<html>
+<form method=post action=fullapp.php3?section=3>
+<input type=hidden name=pageno value='page10'>
+<body bgcolor='pink'>
+<center>
+<table width=551 cellpadding=0 cellspacing=0 border=0>
+<tr><td width='553'>
+<b><font color='red' face='arial,helvetica' size='-1'>DECLARATIONS</font></b>
+<br><br>
+
+<table border=0 cellpadding=2 cellspacing=0 bgcolor=red width=552>
+<tr><td width='547'>
+<table border=0 cellpadding=6 cellspacing=0 bgcolor=#FFC8CB width=547 height='393'>
+<tr><td width='337' height='21'><font face='arial,helvetica' size='-2' color='black'>
+    </b></font> </td><td width='177' height='21'>
+<font face='arial,helvetica' size='-1' color='red'><b>&nbsp; </b></font>
+</td>
+</tr>
+
+<tr>
+  <td width='523' height='8' colspan='2'>
+<b><font color='red' face='arial,helvetica' size='-1'>IMPORTANT NOTE:<br>
+</font></b><font face='arial,helvetica' size='-2' color='black'>It is a
+condition of your mortgage application that you read and accept the following
+terms and conditions,<br>
+including those applicable under the Data Protection Acts of 1984 and1998. You
+indicate your acceptance<br>
+and willingness to be bound by those terms and conditions by clicking on the 'I
+Agree' button below.</font></td>
+</tr>
+
+<tr>
+  <td width='523' height='1' colspan='2' align='center'>
+    <p align='center'><textarea rows='5' name='tux47' value='I AGREE THAT:
+A Valuation Report will be arranged by the Society. I understand' cols='64'>I AGREE THAT:
+A Valuation Report will be arranged by the Society. I understand that this report, a copy of which will be made available to me (initial valuation only), is intended solely for the purpose of the Society in considering this application for a loan and is not intended to be a detailed inspection of the property.Neither the Society nor its valuer warrants that the condition of the property or the price paid is reasonable and that it is for me to satisfy myself as to the value and condition of the property. (If you require the Society can introduce you to firms of chartered surveyors you can instruct to carry out a more detailed Report on Condition of the property or a full Structural Survey).
+Whether or not a loan has been made l will meet the cost of the valuation.
+If necessary the Society may arrange additional Security for the sole benefit of the Society and the fee for this cover will be paid by me.
+The Society may make any enquiries which it may consider necessary in respect of this application, including the taking of references from my Employer/Accountant Banker/Lender/Landlord
+The Society may supply information on this form, or otherwise provide to the Society's valuer, solicitor, the insurer of the property and any other persons having a legal right to this information.
+I consent to the information on this form and on any claim I may make being supplied to IDS Ltd so that it can be made available to other insurers. I also agree that, in response to any searches you may make in connection with this application or any claim, IDS Ltd may supply information it has received from other insurers about other claims I have made.
+I am over 18 years of age.
+I apply for a loan to be made on the security of the property according to the Rules of the Society.
+I confirm I have no convictions or pending prosecution(s) which relate to any aspect of dishonesty. (Driving offences or convictions which are spent under The Rehabilitation of Offenders Act 1974 should be ignored.)
+I have no objection to a copy of this application form being sent to the Society's Solicitor.
+The information I have given on this form is true to the best of my knowledge or belief.
+I am/We are able to afford and express my/our willingness to pay the mortgage repayments under the terms of the Society's mortgage.
+We may at any time in our discretion and without obtaining your consent or the consent of anyone else transfer to any other person the benefit of all or part of the Whole Debt, the Legal Charge, any related security and all or any legal or equitable rights under any of the same. Such a transferee may or may not be a Building Society or an associated body of a Building Society.
+You acknowledge that you will be bound to any such transferee in respect of the transferred obligations to the same extent as you were originally bound to us.
+DATA PROTECTION ACT 1984 AND 1998
+I/We consent to your using and disclosing the information contained in this form and about my/our account in the following ways: -
+To make such enquiries as the Society shall consider necessary in respect of my/our application and to disclose information furnished by me/us in this application to the National Hunter central credit application checking system whence it may be made available to other credit grantors where this is done in the interests of fraud prevention and detection.
+To assist in fraud prevention and detection and tracing debtors.
+For registration with MCL Software Limited who may make it available to other mortgage lenders in the interests of fraud prevention.
+For registration together with details of 'my/our account with licensed credit reference agencies including Equifax Europe (UK) Limited and the Council of Mortgage Lenders Possessions Register.
+To any guarantor/proposed guarantor of my/our obligations to you.
+To hold data far statistical analysis and to bring to my/our attention (by mail telephone, Email or otherwise) products or services the Society or other selected suppliers which may be of interest to me/us.
+I/We understand that.
+
+Under the Data Protection Acts, 1984 and 1998 any information furnished by you, the applicant, may be held by Universal Building Society in its records, and may be shared within Universal Building Society and with third parties to protect Universal Building Society, other Credit Grantors and our customers against fraud.
+Under the data Protection Acts 1984 and 1998 information held by the Society will be used only for purposes registered under the Acts including general business purposes, making credit decisions and marketing.
+I/We may at any time request in writing, upon payment of a fee, a copy of the details which are held about me/us on the Society's computer.
+</textarea><p>I Agree: <input type='checkbox'  checked   name='tux48'></p>
+  </td>
+</tr>
+
+<tr>
+  <td width='337' height='1' valign='top'><font face='arial,helvetica' size='-2' color='black'>I/We
+    understand that I/We can request not to receive any details about the Society's products and services by writing to it at
+its address shown an this form, or by ticking this box.</font></td><td width='177' height='1'><font face='arial,helvetica'
+size='-2' color='black'><input type=checkbox  checked   name=tux49>
+    No details of the Society's other<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; products and services, please
+    </font></td>
+</tr>
+
+</center>
+
+<tr>
+  <td width='523' height='1' colspan='2'>
+    <font face='arial,helvetica' size='-2' color='black'><input size=64 type=text name=tux50 value='' ></font>
+  </td>
+<center>
+</tr>
+
+</center>
+
+<center>
+
+</center>
+
+<center>
+
+</center>
+
+<center>
+
+</center>
+
+<tr>
+  <td width='514' height='3' valign='top' colspan='2'><font face='arial,helvetica' size='-2' color='black'><input size=64 type=text name=tux51 value='' ></font></td>
+</tr>
+<tr>
+  <td width='514' height='2' valign='top' colspan='2'><font face='arial,helvetica' size='-2' color='black'>Please
+    also sign reference authority.&nbsp;</font></td>
+</tr>
+<tr>
+  <td width='514' height='5' align='left' colspan='2'>
+    <p align='left'><b><font color='red' face='arial,helvetica' size='-1'>DIRECT
+    DEBIT</font></b></td>
+</tr>
+<tr>
+  <td width='514' height='5' valign='top' colspan='2'><font face='arial,helvetica' size='-2' color='black'>The
+    Society recommends that you make your monthly payments by Direct Debit<br>
+    This is a convenient method of ensuring that the correct amount is paid
+    direct from your bank account when it is due. The payment will be collected
+    on the sixth day of each month. If there is a change of interest rate we
+    will advise you of your new payment and automatically collect the amount
+    from your bank account.</font></td>
+</tr>
+<center>
+
+</center>
+
+<center>
+
+</center>
+
+<center>
+</center>
+<center>
+</center>
+
+<center>
+
+  </center>
+
+</table>
+</td></tr></table>
+<br><br>
+<center>
+
+
+
+</td></tr>
+</table>
+</body></form></html>
+
+
+

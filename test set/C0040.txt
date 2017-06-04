@@ -1,0 +1,256 @@
+ID=C0040
+URL=http://www.ansvar.co.uk/charitable_obj.htm
+SIZE=15656
+DATE=10/07/2002
+TIME=13:17:07
+DATASET=Insurance Agencies
+HTML=<html>
+
+	<head>
+
+		<title>Customer Support Area - Claims Code</title>
+		<meta name="keywords" content="Ansvar, Ansvar Insurance, ansvar insurance uk, Church Insurance, Insurance services, Charity Insurance, Voluntary group insurance, Ecclesiastical insurance, ecclesiastical, religious, non-profit sector, not-for-profit sector, ethical insurance, ethics, positive lifestyle, church fellowships, christian bookshops, community groups, special events, charity shops, trustee indemnity, minibus insurance, charity connect, church connect">
+<meta name="description" content="Ansvar Insurance - Providing insurance services for Churches, organisations, charities, voluntary groups and non-profit making companies">
+	</head>
+
+	
+<body bgcolor="white" background="images/03_shadow.gif" leftmargin="0" topmargin="0" link="#000000" vlink="#000000" alink="#000000">
+<table border="0" width="55%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%" height="20"></td>
+  </tr>
+  <tr> 
+    <td width="100%"> 
+      <div align="left"><img src="images/charitobj/charitableobjectives_header.gif" width="500" height="86"> 
+      </div>
+      <center>
+        <p> 
+        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td valign="top"> 
+              <div align="left"> 
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr> 
+                    <td width="33%">&nbsp;</td>
+                    <td width="33%">&nbsp;</td>
+                    <td width="33%">&nbsp;</td>
+                  </tr>
+                  <tr> 
+                    <td width="33%"><img src="images/charitobj/kindofbuzz_pic.gif" width="113" height="145"></td>
+                    <td width="33%"><img src="images/charitobj/ansvarsponsership_pic.gif" width="113" height="146"></td>
+                    <td width="33%"><img src="images/charitobj/ansvarsupportcharity_pic.gif" width="113" height="145"></td>
+                  </tr>
+                  <tr>
+                    <td width="33%" height="10"></td>
+                    <td width="33%" height="10"></td>
+                    <td width="33%" height="10"></td>
+                  </tr>
+                  <tr> 
+                    <td width="33%" valign="top"><font face="Arial" size="4" color="#0099FF"><b><font size="2">Supporting 
+                      the <br>
+                      right kind of buzz</font></b></font><br>
+                      <font face="Arial" size="2" color="000066"><b><font size="3"> 
+                      </font></b></font> 
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr> 
+                          <td width="78%"><font face="Arial" size="2" color="000066"><b><font size="1"><a href="#globalrock">We 
+                            sponsor The Global<br>
+                            Rock Challenge </a></font></b></font></td>
+                          <td width="22%"><font face="Arial" size="2" color="000066"><a href="#globalrock"><img src="images/next_arrow.gif" width="11" height="11" border="0"></a></font></td>
+                        </tr>
+                      </table>
+                      <font face="Arial" size="2" color="000066"><b><font size="3"> 
+                      </font></b></font></td>
+                    <td width="33%" valign="top"><font face="Arial" size="4"><b><font color="#0099FF" size="2">Ansvar<br>
+                      Sponsorship</font></b></font><font face="Arial"><br>
+                      <font size="3" color="000066"><b></b></font></font> 
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr> 
+                          <td width="83%"><font face="Arial"><font size="3" color="000066"><b><font size="1"><a href="#sponsor">Making 
+                            a real difference<br>
+                            to other</a></font></b></font></font></td>
+                          <td width="17%"><font face="Arial"><font size="3" color="000066"><b><a href="#sponsor"><img src="images/next_arrow.gif" width="11" height="11" border="0"></a></b></font></font></td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td width="33%" valign="top"><font face="Arial" size="4" color="#0099FF"><b><font size="2">Ansvar 
+                      support <br>
+                      charity award</font><br>
+                      </b> </font> 
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr> 
+                          <td width="72%"><font face="Arial" size="4" color="#0099FF"><font size="3" color="000066"><b><font size="1"><a href="#charity">And 
+                            the winners are...<br>
+                            Kidscope</a></font></b></font></font></td>
+                          <td width="28%"><font face="Arial" size="4" color="#0099FF"><font size="3" color="000066"><b><a href="#charity"><img src="images/next_arrow.gif" width="11" height="11" border="0"></a></b></font></font></td>
+                        </tr>
+                      </table>
+                      <font face="Arial" size="4" color="#0099FF"><font size="3" color="000066"><b></b></font></font></td>
+                  </tr>
+                </table>
+                <p><font face="Arial" size="2"><br>
+                  <b><font face="Arial" size="4" color="#0099FF"><b><font size="3"><a name="sponsor"></a></font></b></font><font size="3" color="#0099FF">Ansvar 
+                  sponsorship &#150; making a real difference</font></b><br>
+                  <br>
+                  Ansvar have always made it a cornerstone of their ethical positioning 
+                  to associate with responsible lifestyles and to give tangible 
+                  support to organisations which work to reduce the harm that 
+                  alcohol and drugs do in society.<br>
+                  <br>
+                  Today&#146;s rapidly changing and competitive business climate 
+                  perhaps leaves little room for sentiment but this philosophy 
+                  remains in force today&#133;as demonstrated by these two examples 
+                  of current sponsorship projects.<br>
+                  <br>
+                  <b><font size="3" color="#0099FF"><a name="globalrock"></a>Supporting 
+                  the right kind of buzz</font></b><br>
+                  <br>
+                  <b>Ansvar have announced that they are to sponsor The Global 
+                  Rock Challenge in 2001.</b><br>
+                  <br>
+                  Established in Australia in 1980, the Challenge addresses the 
+                  most emotive social issues of the day&#133;by delivering healthy 
+                  lifestyle, drug free and crime prevention messages to the heart 
+                  of the teenage culture. The core message is that young people 
+                  can have a great time without recourse to artificial stimulants.<br>
+                  <br>
+                  The Challenge is a national inter-schools competition capturing 
+                  the imagination of young people by enabling them to use music, 
+                  dance, costumes and media images familiar to young people and 
+                  perform to professional standards.<br>
+                  <br>
+                  With 120 area competitions throughout the UK involving over 
+                  10,000 students, the event culminates in two regional finals 
+                  at the Sheffield Arena and the Albert Hall in May 2001. Previousl 
+                  sponsors of the UK Challenge have included BT and Wella Haircare.<br>
+                  <br>
+                  Ansvar&#146;s General Manager Paul Godfrey commented: &#147;With 
+                  extensive media coverage at local and national level, there 
+                  is no doubt that this sponsorship is a sound commercial proposition. 
+                  But more important is that the aims of the Challenge are in 
+                  total harmony with our ethical stance and declared intention 
+                  of supporting organisations who work hard to reduce the damaging 
+                  effects of drug and alcohol in society.&#148;<br>
+                  <br>
+                  <br>
+                  <br>
+                  </font><font face="Arial" size="4" color="#0099FF"><b><font size="3">Global 
+                  Rock Challenge hits the road</font></b></font><font face="Arial" size="2"><br>
+                  <br>
+                  In the last issue of Ansvar News we reported that Ansvar had 
+                  become th main sponsor for the Global Rock Challenge. Essentially 
+                  this is a performing arts national inter-schools competition 
+                  organised by the charity &#147;Be Your Best Foundation&#148;. 
+                  The objective is to promote healthy lifestyle messages to school 
+                  teenagers.<br>
+                  <br>
+                  The regional events are already under way in theatres and other 
+                  large venues across the country.<br>
+                  <br>
+                  <b>Ian Sadler, Ansvar Field Operations Manager, reports on this 
+                  years competition.</b><br>
+                  <br>
+                  I am very excited about Ansvar&#146;s involvement with this 
+                  worthy project. Ansvar are the main sponsor and are given a 
+                  very high profile with large banners on prominent display promoting 
+                  the Ansvar name. Other sponsors include Panasonic, Wella, Daihatsu, 
+                  Sewing World.<br>
+                  <br>
+                  The main aim of Rock Challenge is to demonstrate that young 
+                  people can have a great time without the need for drugs or alcohol 
+                  and it is good to see some kids mention this when they are interviewed 
+                  after their performances.<br>
+                  <br>
+                  Each presentation is 8 minutes ling and the school act and dance 
+                  to a soundtrack that are made up by the schools and edited by 
+                  the local radio stations. The performances are very good and 
+                  the costumes and sets well put together.<br>
+                  <br>
+                  Each event is generally very well supported by local authorities 
+                  including the police. Local radio stations also help to raise 
+                  awareness of the initiative and a panel of professional judges 
+                  are there to assess the performances.<br>
+                  <br>
+                  In addition to the main winner there are a number of prizes 
+                  such as &#147;Best Concept&#148; and &#147;Best Set Design&#148; 
+                  . The sponsors representatives line up on the stage for the 
+                  presentations so each of us have had our moments in a packed 
+                  theatre going to the microphone and presenting the prize in 
+                  front of many hundreds of people.<br>
+                  <br>
+                  Congratulations go to all schools who have taken part in this 
+                  years competition, especially to the Northern and Southern Champions 
+                  - Ashfield Girls High School from Belfast and King Richard School 
+                  from Portsmouth.<br>
+                  <br>
+                  <br>
+                  <b><font size="3" color="#0099FF">Spring Harvest 2000</font></b><br>
+                  <br>
+                  The major multi-denominational Christian festivals, took place 
+                  this year at Minehead and Skegness &#150; Ansvar&#146;s sponsorship 
+                  was behind a series of seminars dealing with drug prevention, 
+                  rehabilitation and education, which were attended by nearly 
+                  1,400 people.<br>
+                  <br>
+                  Ansvar supported this initiative by funding the running costs 
+                  of the seminar speakers of the Evangelical Coalition on Drugs 
+                  (ECOD) and also the administrative costs of another partnership 
+                  organisation Hope UK, a Christian charity working to promote 
+                  drug-free lifestyles.<br>
+                  <br>
+                  A fundamental purpose of these seminars was to facilitate a 
+                  network of speakers and expertise to spread the message at local 
+                  level through churches and Christian organisations. Early evaluation 
+                  indicates that this objective is certainly being achieved.<br>
+                  <br>
+                  </font><font face="Arial" size="3" color="#0099ff"><b>The Salvation 
+                  Army&#146;s National Addiction Service</b></font><font face="Arial" size="2"> 
+                  is another beneficiary, which focuses on hard drug usage in 
+                  particular. Ansvar are committed to significant financial assistance 
+                  to the developing biomedical service which aims to provide a 
+                  unique monitoring and biomedical profiling system of the socially 
+                  marginalised in a range of supported accommodation and specific 
+                  monitoring of clients undertaking recovery programmes. The scheme 
+                  will provide a unique insight into drug and alcohol related 
+                  programmes in the community and facilitate client support by 
+                  an improved approach in the care of individuals.<br>
+                  <br>
+                  Paul Godfrey, Ansvar&#146;s General Manager, commented: &#147;There 
+                  is no doubt that sponsorship of this nature helps to raise our 
+                  profile within important niche markets. But more important for 
+                  us is the opportunity to use our ethical stance to support projects 
+                  that make a real difference to people&#146;s lives.&#148;<br>
+                  <font size="4"><b><font color="#0099FF"><br>
+                  <font size="3"><a name="charity"></a>Ansvar sponsorship for 
+                  Charity of the Year</font></font></b></font><br>
+                  <br>
+                  <b>UK Charity Awards 2001</b><br>
+                  <br>
+                  Ansvar have announced that they are to sponsor, for the second 
+                  year running, the major category at the UK Charity Awards, the 
+                  inaugural scheme hosted by Charity Times Magazine, recognising 
+                  the excellence in the management and co-ordination of charitable 
+                  activities.<br>
+                  The Awards ceremony takes place again in September and ANSVAR 
+                  NEWS will be reporting full details shortly.</font></p>
+                </div>
+              <center>
+            
+                <br>
+              </center>
+              </td>
+          </tr>
+        </table>
+      </center>
+      <center>
+        <p><img src="images/bluerule.gif" alt="bluerule.gif (922 bytes)" width="500" height="7"></p>
+      </center>
+      <center>
+        <p>&nbsp;
+      </center>
+    </td>
+  </tr>
+</table>
+	</body>
+
+</html>

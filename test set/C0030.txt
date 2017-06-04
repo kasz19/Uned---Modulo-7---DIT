@@ -1,0 +1,348 @@
+ID=C0030
+URL=http://www.providentfinancial.com/
+SIZE=13025
+DATE=10/07/2002
+TIME=13:15:52
+DATASET=Insurance Agencies
+HTML=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<META content="text/html; Charset=iso-8859-2" http-equiv=Content-Type>
+	<title>Provident Financial - Global Gateway</title>
+<!--<link rel="stylesheet" href="style.css">
+<script language="JavaScript" src="../script.js"></script>-->
+
+<script language="JavaScript">
+
+<!--
+var stop=1;
+var isCycle=0;
+var imageid=1;
+var imgint=new Image();
+imgint.src="imgGlobal/int.gif";
+var imgBox2= new Image();
+imgBox2.src="imgGlobal/box2blank.gif";
+
+var bV=parseFloat(navigator.appVersion);
+var bN=navigator.appName;
+
+// BROWSER DETECTION
+if(parseInt(navigator.appVersion) >= 4){
+  isNav = (navigator.appName == "Netscape")&&(parseInt(navigator.appVersion) < 5);
+  isNav06 = (navigator.appName == "Netscape")&&(parseInt(navigator.appVersion) >= 5);
+  isIE = (navigator.appName.indexOf("Microsoft Internet Explorer") != -1);
+  isMacIE = (navigator.userAgent.indexOf("MSIE") != -1) && (navigator.userAgent.indexOf("Mac") != -1) && (parseInt(navigator.appVersion) >= 4);
+if (isNav)
+      document.write("<LINK REL=\"STYLESHEET\" HREF=\"provident_net.css\" TYPE=\"text\/css\">");
+    else
+      document.write("<LINK REL=\"STYLESHEET\" HREF=\"provident_other.css\" TYPE=\"text\/css\">");
+}
+
+if (bN == "Netscape" && bV < 3.0)
+  { roll = 'false'; }
+else if	(bN == "Microsoft Internet Explorer" && bV < 3.0)
+  { roll = 'false'; }
+else
+  { roll = 'true'; }
+
+function rollover(img,file)
+  {      
+     if (roll == 'true')
+       { document.images[img].src = file; }
+  }
+
+function rollout(img,file)
+{
+  if (roll == 'true')
+    { document.images[img].src = file; }
+}
+	
+/*	preloads at end of file		*/	
+//-->
+
+<!--
+// OBJECTS TO VISIBLE
+function show(id){
+  if (isNav){
+    document.layers[id].visibility = 'show';
+  }else if (isIE){ 
+    document.all[id].style.visibility = 'visible';
+  }else if (isNav06){
+    document.getElementById(id).style.visibility = 'visible';
+  }
+
+}
+//OBJECTS TO HIDDEN
+function hide(id){
+  if (isNav){
+    document.layers[id].visibility = "hide"
+  }else if (isIE){
+    document.all[id].style.visibility = "hidden"
+  }else if (isNav06){    
+    document.getElementById(id).style.visibility = 'hidden';
+  }
+}
+
+//Function to cycle images
+function cycleimages(){
+
+var image=1
+var showimage
+var hideimage
+var boxid
+var boxidblank
+//alert ([isCycle]);
+//if (isCycle==1){
+	//alert ("Already running - don't run again");
+	//}
+//else if (isCycle==0){
+	isCycle=1
+		if (stop==1){
+			for (image=1; image<8; image++){
+				boxid=("box" + image);
+				boxidblank=("box" + image + "blank");
+				hide([boxid]);
+				show([boxidblank]);
+				}
+		
+			showimage=("box" + imageid);
+			hideimage=("box" + imageid + "blank");
+			show([showimage]);
+			hide([hideimage]);	
+			if (imageid<7){
+					imageid++;
+					}
+			else {	
+				imageid=1;
+				}
+			isCycle=0}
+		else if (stop==0){
+			isCycle=0
+			
+			}
+	setTimeout("cycleimages()", 775)
+}
+
+//-->
+
+function cyclestart(){
+	stop=1;
+	}
+	
+function cyclestop(){
+	stop=0;
+	
+		for (image=1; image<8; image++){
+				boxid=("box" + image);
+				boxidblank=("box" + image + "blank");
+				hide([boxid]);
+				show([boxidblank]);
+				}
+				
+	}
+</script>
+
+<style>
+#mainbody{position:absolute; visibility:show; width:800px;  z-index:60; left: 0px; top:0px;}
+#menu1{position:absolute; visibility:hidden; width:260px;  z-index:60; left: 11px; top:358px;}
+#menu2{position:absolute; visibility:hidden; width:203px;  z-index:60; left: 343px; top:358px;}
+#menu3{position:absolute; visibility:hidden; width:209px;  z-index:60; left: 559px; top:358px;}
+
+#box1{position:absolute; visibility:hidden; width:72px; z-index:60; left: 489px; top:36px;}
+#box1blank{position:absolute; visibility:show; width:72px; z-index:60; left: 489px; top:36px;}
+
+#box2{position:absolute; visibility:hidden; width:72px; z-index:60; left: 417px; top:108px;}
+#box2blank{position:absolute; visibility:show; width:72px; z-index:60; left: 417px; top:108px;}
+
+#box3{position:absolute; visibility:hidden; width:72px; z-index:60; left: 489px; top:108px;}
+#box3blank{position:absolute; visibility:show; width:72px; z-index:60; left: 489px; top:108px;}
+
+#box4{position:absolute; visibility:hidden; width:72px; z-index:60; left: 417px; top:180px;}
+#box4blank{position:absolute; visibility:show; width:72px; z-index:60; left: 417px; top:180px;}
+
+#box5{position:absolute; visibility:hidden; width:72px; z-index:60; left: 345px; top:252px;}
+#box5blank{position:absolute; visibility:show; width:72px; z-index:60; left: 345px; top:252px;}
+
+#box6{position:absolute; visibility:hidden; width:72px; z-index:60; left: 561px; top:180px;}
+#box6blank{position:absolute; visibility:show; width:72px; z-index:60; left: 561px; top:180px;}
+
+#box7{position:absolute; visibility:hidden; width:72px; z-index:60; left: 633px; top:108px;}
+#box7blank{position:absolute; visibility:show; width:72px; z-index:60; left: 633px; top:108px;}
+
+#contact{position:absolute; visibility:show; width:72px; z-index:60; left:705px; top:375px;}
+#menu2right{position:absolute; visibility:show; width:40px; z-index:60; left:544px; top:362px;}
+#menu2bottom{position:absolute; visibility:show; width:203px; z-index:60; left:343px; top:512px;}
+
+.main4 { font-family:Verdana,Arial; font-size:9px; text-decoration:none; font-weight: bold; color:'666666';}
+
+</style>
+</head>
+
+<body leftmargin=0 topmargin=0 marginwidth="0" marginheight="0" background="imgGlobal/bkgrd_glob.gif"  bgcolor="#ffffff" onload="javascript:cycleimages();"  >
+<img src="imgGlobal/pixTrans.gif" width="300" height="800" border="0" alt="">
+<div id="mainbody">
+<table cellpadding="0" cellspacing="0" border="0" width="1">
+	<!--	column widths at end	-->
+	<tr>
+	  <td valign="top"><img src="imgGlobal/logo.gif" width="122" height="44px" border="0" alt=""><br><img src="imgGlobal/pixTrans.gif" width="1" height="114" border="0" alt=""><br><img src="imgGlobal/helping.gif" width="249" height="51" border="0" alt=""><br><img src="imgGlobal/pixTrans.gif" width="1" height="82" border="0" alt=""><br>
+	<img src="imgGlobal/ourwebsites.gif"><br>
+	   <img src="imgGlobal/pixTrans.gif" width="1" height="4" border="0" alt=""><br>
+		<table width="202" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			 <td width="16"><img src="imgGlobal/pixTrans.gif" width="16" height="1" border="0" alt=""></td>
+			 <td width="186"><a href="http://www.providentfinancial.com/plc" onMouseover="hide('menu1');hide('menu2');hide('menu3');show('box2');hide('box2blank');show('box3');hide('box3blank');rollover('imgplc' , 'imgGlobal/plc_f2.gif')" onMouseout="show('box2blank');hide('box2');show('box3blank');hide('box3');rollover('imgplc' , 'imgGlobal/plc.gif')"><img src="imgGlobal/plc.gif" width="186" height="12" alt="" border="0" name="imgplc"></a></td>
+		</tr>
+		<tr>
+		   <td colspan="2"><img src="imgGlobal/pixTrans.gif" width="16" height="3" border="0" alt=""></td>
+		</tr>
+		<tr> 
+		 <td></td>
+		 <td><a href="javascript:;" onMouseover="show('menu1');hide('menu2');hide('menu3');show('box2');hide('box2blank');show('box5');hide('box5blank');show('box6');hide('box6blank');cyclestop();rollover('imgint' , 'imgGlobal/int_f2.gif');" onMouseout="show('box2blank');hide('box2');show('box5blank');hide('box5');show('box6blank');hide('box6');rollover('imgint' , 'imgGlobal/int.gif')"><img src="imgGlobal/int.gif" width="186" height="12" alt="" border="0" name="imgint"></a></td>
+		</tr>
+	</table>
+   </td>			
+   <td valign="top">	
+		<table cellpadding="0" cellspacing="0" border="0" width="1">
+			<tr>
+				<td><img src="imgGlobal/pixTrans.gif" width="72" height="36" border="0" alt=""></td>
+				<td><img src="imgGlobal/pixTrans.gif" width="72" height="1" border="0" alt=""></td>
+				<td><img src="imgGlobal/pixTrans.gif" width="72" height="1" border="0" alt=""></td>
+				<td><img src="imgGlobal/pixTrans.gif" width="72" height="1" border="0" alt=""></td>
+				<td><img src="imgGlobal/pixTrans.gif" width="72" height="1" border="0" alt=""></td>
+				<td><img src="imgGlobal/pixTrans.gif" width="70" height="1" border="0" alt=""></td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td><img src="imgGlobal/pixTrans.gif" width="72" height="72" border="0" alt=""></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><img src="imgGlobal/pixTrans.gif" width="72" height="72" border="0" alt=""></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><img src="imgGlobal/pixTrans.gif" width="72" height="72" border="0" alt=""></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td><a href="javascript:;" onMouseover="hide('menu1');hide('menu2');hide('menu3');show('contact');"><img src="imgGlobal/pixTrans.gif" width="72" height="72"  border ="0"></a></td>
+				<td><a href="javascript:;" onMouseover="hide('menu1');hide('menu2');hide('menu3');show('contact');"><img src="imgGlobal/pixTrans.gif" width="72" height="72"  border ="0"></a></td>
+				<td><a href="javascript:;" onMouseover="hide('menu1');hide('menu2');hide('menu3');show('contact');"><img src="imgGlobal/pixTrans.gif" width="72" height="72"  border ="0"></a></td>
+				<td><a href="javascript:;" onMouseover="hide('menu1');hide('menu2');hide('menu3');show('contact');"><img src="imgGlobal/pixTrans.gif" width="72" height="72"  border ="0"></a></td>
+				<td><a href="javascript:;" onMouseover="hide('menu1');hide('menu2');hide('menu3');show('contact');"><img src="imgGlobal/pixTrans.gif" width="72" height="72"  border ="0"></a></td>
+				<td><a href="javascript:;" onMouseover="hide('menu1');hide('menu2');hide('menu3');show('contact');"><img src="imgGlobal/pixTrans.gif" width="72" height="72"  border ="0"></a></td>
+			</tr>
+			<tr>
+				<td><img src="imgGlobal/pixTrans.gif" width="1" height="9" border="0" alt=""></td>
+			</tr>
+			<tr>
+					<td colspan="3"><a href="javascript:;" onMouseover="show('menu2');hide('menu1'); hide('menu3');cyclestop();rollover('imgjob','imgGlobal/job_f21.gif');show('contact');" onMouseout="rollover('imgjob' , 'imgGlobal/job1.gif')"><img src="imgGlobal/job1.gif" name="imgjob" width="205" height="27" border="0" alt=""></a></td>
+					<td colspan="3"><img src="imgGlobal/pixTrans.gif" width="1" height="2" border="0" alt=""><br><a href="javascript:;" onMouseover="show('menu3');hide('menu1');hide('menu2');cyclestop();rollover('imgstaff' , 'imgGlobal/staff_f2.gif');hide('contact');" onMouseout="rollover('imgstaff' , 'imgGlobal/staff.gif');hide('contact');"><img src="imgGlobal/staff.gif" name="imgstaff" width="200" height="27" border="0" alt=""></a></td>
+			</tr>
+		</table>		
+	  </td>
+	</tr>
+	<tr>
+		<td><img src="imgGlobal/pixTrans.gif" width="345" height="1" border="0" alt=""></td>
+		<td><img src="imgGlobal/pixTrans.gif" width="430" height="1" border="0" alt=""></td>
+	</tr>
+	
+</table>
+</div>
+
+<div id="menu1" onmouseover="javascript:show('menu1');cyclestop();show('box2');hide('box2blank');show('box5');hide('box5blank');show('box6');hide('box6blank');rollover('imgint' , 'imgGlobal/int_f2.gif')" onmouseout="javascript:hide('menu1');show('box2blank');hide('box2');show('box5blank');hide('box5');show('box6blank');hide('box6');cyclestart();rollover('imgint' , 'imgGlobal/int.gif')" >
+	<table width = "259px" height="130px" border="0">
+		<tr>
+			<td width="255px" height="129px" BACKGROUND="imgGlobal/menuBkgrd1.gif">
+				<span class="main3">
+				<img src="imgGlobal/pixTrans.gif" width="2" height="4" border="0" alt=""><br>
+				&nbsp;<img src="imgGlobal/arrow.gif" border="0"><a class="main4" href="http://www.providentfinancial.com/pl" onMouseOver="this.style.color='#6699CC'" onMouseOut="this.style.color='#666666'">Provident Polska S.A. - Poland</a><br>
+				<img src="imgGlobal/pixTrans.gif" width="2" height="4" border="0" alt=""><br>
+				&nbsp;<img src="imgGlobal/arrow.gif" border="0"><a class="main4" href="http://www.providentfinancial.com/cz" onMouseOver="this.style.color='#6699CC'" onMouseOut="this.style.color='#666666'">Provident Financial s.r.o. - Czech Republic</a><br>
+				<img src="imgGlobal/pixTrans.gif" width="2" height="4" border="0" alt=""><br>
+				&nbsp;<img src="imgGlobal/arrow.gif" border="0"><a  class="main4"  href="http://www.providentfinancial.com/sk" onMouseOver="this.style.color='#6699CC'" onMouseOut="this.style.color='#666666'">Provident Financial s.r.o. - Slovakia</a> <Br>	
+				<img src="imgGlobal/pixTrans.gif" width="2" height="4" border="0" alt=""><br>
+				&nbsp;<img src="imgGlobal/arrow.gif" border="0"><a  class="main4"  href="http://www.providentfinancial.com/hu" onMouseOver="this.style.color='#6699CC'" onMouseOut="this.style.color='#666666'">Provident Financial R.T. - Hungary</a> <Br>
+		</td>		
+		</tr>
+		
+	 </table>
+</div>
+<div id="menu2" onmouseover="javascript:show('menu2');cyclestop();show('contact');rollover('imgjob' , 'imgGlobal/job_f21.gif')" onmouseout="javascript:hide('menu2');cyclestart();rollover('imgjob' , 'imgGlobal/job1.gif')" >
+	<table border="0" width = "203px" height="151px">
+		<tr>
+			<td  width = "199px" height="150px" BACKGROUND="imgGlobal/menuBkgrd4.gif"><img src="imgGlobal/pixTrans.gif" width="1" height="4" border="0" alt=""><br>
+				<span class="main3">&nbsp;&nbsp;For UK jobs and International jobs based in<br>
+				&nbsp;&nbsp;the UK go to the <a class="main4" href="http://www.providentfinancial.com/plc" onMouseOver="this.style.color='#6699CC'" onMouseOut="this.style.color='#666666'">Provident 
+				<br> &nbsp;&nbsp;Financial plc</a> 
+				site.<br>
+				<br>
+				&nbsp;&nbsp;For opportunities based in our international <br>
+				&nbsp;&nbsp;offices go to the relevant <a class="main4" href="#" onMouseOver="javascript:this.style.color='#6699CC';show('menu1');show('box2');hide('box2blank');show('box5');hide('box5blank');show('box6');hide('box6blank');" onMouseOut="this.style.color='#666666'">Provident 
+				 <br>&nbsp;&nbsp;Financial International</a> website.</span><br>
+				<img src="imgGlobal/pixTrans.gif" width="1" height="6" border="0" alt="">
+			</td>
+		</tr>
+	 </table>
+</div>
+<div id="menu3" onmouseover="javascript:show('menu3');cyclestop();hide('contact');rollover('imgstaff' , 'imgGlobal/staff_f2.gif')" onmouseout="javascript:hide('menu3');cyclestart();show('contact');rollover('imgstaff' , 'imgGlobal/staff.gif')">
+	<table width = "209px" height="105px" border="0">
+		<tr>
+			<td width = "206px" height="105px" BACKGROUND="imgGlobal/menuBkgrd3.gif" ><img src="imgGlobal/pixTrans.gif" width="2" height="16" border="0" alt=""><br>
+				<span class="main3">&nbsp;&nbsp;This section is only relevant for current or<br>
+				&nbsp;&nbsp;former staff members.<br>
+				<Br>
+				<a class="main4" href="http://www.providentfinancial.com/pensions" onMouseOver="this.style.color='#6699CC'" onMouseOut="this.style.color='#666666'">&nbsp;<img src="imgGlobal/arrow.gif" border="0">Provident Financial Staff<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pension Scheme</a>
+				</span><br>
+				<img src="imgGlobal/pixTrans.gif" width="1" height="6" border="0" alt="">
+			</td>
+			
+		</tr>
+	 </table>
+</div>
+
+<div id="box1"><img src="imgGlobal/box1_f2.gif" width="72" height="72" border="0" alt=""></div>
+<div id="box1blank"><img src="imgGlobal/box1.gif" width="72" height="72" border="0" alt="" onmouseover="javascript:this.src='imgGlobal/box1_f2.gif';cyclestop();" onmouseout="javascript:this.src='imgGlobal/box1.gif';cyclestart();"  ></div>
+
+<div id="box2"><img src="imgGlobal/box2_f2.gif" width="72" height="72" border="0" alt=""></div>
+<div id="box2blank"><img src="imgGlobal/box2.gif" width="72" height="72" border="0" alt="" onmouseover="javascript:this.src='imgGlobal/box2_f2.gif';cyclestop();" onmouseout="javascript:this.src='imgGlobal/box2.gif';cyclestart();"  ></div>
+
+<div id="box3"><img src="imgGlobal/box3_f2.gif" width="72" height="72" border="0" alt=""></div>
+<div id="box3blank"><img src="imgGlobal/box3.gif" width="72" height="72" border="0" alt="" onmouseover="javascript:this.src='imgGlobal/box3_f2.gif';cyclestop();" onmouseout="javascript:this.src='imgGlobal/box3.gif';cyclestart();" ></div>
+
+<div id="box4"><img src="imgGlobal/box4_f2.gif" width="72" height="72" border="0" alt=""></div>
+<div id="box4blank"><img src="imgGlobal/box4.gif" width="72" height="72" border="0" alt="" onmouseover="javascript:this.src='imgGlobal/box4_f2.gif';cyclestop();" onmouseout="javascript:this.src='imgGlobal/box4.gif';cyclestart();"  ></div>
+
+<div id="box5"><img src="imgGlobal/box5_f2.gif" width="72" height="72" border="0" alt=""></div>
+<div id="box5blank"><img src="imgGlobal/box5.gif" width="72" height="72" border="0" alt="" onmouseover="javascript:this.src='imgGlobal/box5_f2.gif';cyclestop();" onmouseout="javascript:this.src='imgGlobal/box5.gif';hide('menu1');hide('menu2');hide('menu3');;cyclestart();"  ></div>
+
+<div id="box6"><img src="imgGlobal/box6_f2.gif" width="72" height="72" border="0" alt=""></div>
+<div id="box6blank"><img src="imgGlobal/box6.gif" width="72" height="72" border="0" alt="" onmouseover="javascript:this.src='imgGlobal/box6_f2.gif';cyclestop();" onmouseout="javascript:this.src='imgGlobal/box6.gif';cyclestart();"  ></div>
+
+<div id="box7"><img src="imgGlobal/box7_f2.gif" width="72" height="72" border="0" alt=""></div>
+<div id="box7blank"><img src="imgGlobal/box7.gif" name="img7" id="img7" width="72" height="72" border="0" alt="" onmouseover="javascript:this.src='imgGlobal/box7_f2.gif';cyclestop();" onmouseout="javascript:this.src='imgGlobal/box7.gif';cyclestart();"  ></div>
+
+<div id="contact" border="0">
+	<a href="cont_us_glob.cfm" ><img src="imgGlobal/contact.gif" border="0"></a>
+</div>
+
+<div id="menu2right" border="5" height="400px" width="40px" onmouseover="javascript:hide('menu1')"><img src="imgGlobal/pixTrans.gif" width="40" height="170px" border="0" alt=""></div>
+<div id="menu2bottom" border="5"  height="20px" width="203px" onmouseover="javascript:hide('menu1')"><img src="imgGlobal/pixTrans.gif" width="203" height="16" border="0" alt=""></div>
+
+</body>
+
+</html>
+

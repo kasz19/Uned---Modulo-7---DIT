@@ -1,0 +1,914 @@
+ID=C0013
+URL=http://www.endsleigh.co.uk/quotebuy/wintersport/cover.html
+SIZE=30485
+DATE=10/07/2002
+TIME=13:15:19
+DATASET=Insurance Agencies
+HTML=<!-- MarkM 27 August 1998 14:48:53 -->
+<HTML>
+<HEAD><TITLE>Endsleigh Winter Sports Insurance - Cover</TITLE></HEAD>
+<BODY BGCOLOR="#FFCC00" LINK="#0066CC" TEXT="#000000" VLINK="#0066CC" LEFTMARGIN=0>
+<CENTER>
+<!-- the cover -->
+
+<TABLE WIDTH=500 BORDER=0>
+ <TR>
+  <TD ALIGN=Left>
+   <FORM METHOD=POST>
+    <IMG SRC="../images/thecover.gif" WIDTH=131 HEIGHT=18 BORDER=0 VSPACE=10 ALT="The Cover"><BR>
+     <FONT FACE="Verdana" SIZE="-1">
+      <SELECT NAME="next" SIZE=1 onChange="window.open(this.options[this.selectedIndex].value,'_self')">
+       <OPTION SELECTED VALUE="http://www.endsleigh.co.uk/quotebuy/wintersport/index.html">Find out more:
+       <OPTION VALUE="http://www.endsleigh.co.uk/quotebuy/wintersport/cover.html">Essential and Comprehensive Cover
+       
+       <OPTION VALUE="http://www.endsleigh.co.uk/quotebuy/wintersport/features.html">Special Features of Endsleigh
+       
+       <OPTION VALUE="http://www.endsleigh.co.uk/quotebuy/wintersport/exclusions.html">Summary of principal exclusions
+       <OPTION VALUE="http://www.endsleigh.co.uk/quotebuy/wintersport/moneyback.html">Money back guarantee
+       
+       <OPTION VALUE="http://www.endsleigh.co.uk/quotebuy/wintersport/information.html">Client Information
+       <OPTION VALUE="http://www.endsleigh.co.uk/quotebuy/wintersport/safety.html">Smart Security
+      </SELECT>
+     </FONT>
+    </FORM>
+  </TD>
+  
+<TD>
+   <A HREF="https://travel.endsleigh.co.uk/travel/travelquote.asp?type=winter" TARGET="_top"><IMG SRC="orderit.gif" ALT="Order Now!" ALIGN=right WIDTH=60 HEIGHT=80 BORDER=0></A>
+  </TD>
+ </TR>
+</TABLE>
+
+<HR NOSHADE WIDTH=500>
+<TABLE WIDTH=500 BORDER=0>
+ <TR>
+  <TD WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+   <B>cover</B>
+  </FONT></TD>
+  <TD WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+   <B>&nbsp;</B>
+  </FONT></TD>
+ </TR>
+</TABLE>
+<BR>
+
+<A NAME="medical"></A>
+<!-- medical and other expenses -->
+
+<TABLE WIDTH=500 BORDER=0>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica">
+ <b>"What am I covered for if I have a medical problem?"</b><br><br>
+ </td></tr>
+ 
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ if you are taken ill or have an accident we will pay your medical bills<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£2,000,000</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>unlimited</B>
+  </FONT></TD>
+ </TR>
+
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ the cost of bringing you back to the UK, by Air Ambulance if required, with a doctor if necessary plus the return of your insured partner and family<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£2,000,000</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>unlimited</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ the cost of hospital/nursing home charges<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£2,000,000</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>unlimited</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ £15 per day for each 24 hours you are in hospital as an in-patient
+<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>no cover</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£300 (max)</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ emergency dental treatment for the immediate relief of pain	<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£250</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>&pound;500</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ reasonable travelling and accommodation expenses for a friend or relative who on medical advice must stay or travel with you<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£3,000</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£5,000</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ in the event of your death we will:
+either repatriate your body or ashes to the UK	
+<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£2,000,000</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>unlimited</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ or pay for your funeral costs abroad	
+<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£2,000</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£2,000</B>
+  </FONT></TD>
+ </TR>
+  
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica"><br><br><br>
+ <b>"What cover is there if I'm attacked or mugged?"</b><br><br>
+ </td></tr>
+ 
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ payment for permanent loss or loss of use of limbs or senses<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>up to &pound;10,000</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>up to &pound;10,000</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ your next of kin will receive a lump sum if you die<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>&pound;2,500</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>&pound;2,500</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica"><br><br><br>
+ <b>"What will you do if I get robbed or my luggage is lost or accidentally damaged?"</b><br><br>
+ </td></tr>
+ 
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ you will be reimbursed if your luggage is lost, stolen or accidentally damaged<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£1,500</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£2,000</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ we will help you to replace your passport<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£250</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£500</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ money stolen from either your person or which is locked away will be replaced<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£200</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£500</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica"><br><br><br>
+ <b>"What if the piste is closed?"</b><br><br>
+ </td></tr>
+ 
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ if closure of lifts in your pre-booked resort due to snow/avalanche means you have to travel to an alternative resort we will cover those additional travel expenses and the cost of acquiring a new lift pass or extending a lift pass.<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£30 per 24hrs<br>(up to £200)</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£30 per 24hrs<br>(up to £300)</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica"><br><br><br>
+ <b>"What if I'm delayed by avalanche?"</b><br><br>
+ </td></tr>
+ 
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ cover for extra travel expenses or accommodation if your arrival/departure is delayed by more than 12 hours<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£200</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£300</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica"><br><br><br>
+ <b>"What if I'm stranded on the mountain?"</b><br><br>
+ </td></tr>
+ 
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ search and rescue is covered - regardless of the circumstances under which you went missing<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£5,000	</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£5,000</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica"><br><br><br>
+ <b>"Is my ski equipment covered?"</b><br><br>
+ </td></tr>
+ 
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ we provide extra cover for all your specialist skiing equipment against theft or accidental damage<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£500	</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£750</B>
+  </FONT></TD>
+ </TR>
+
+<tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ if your boots/skis are lost or delayed in transit we will cover the cost of hiring new boots/skis<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£30 per day<br> (up to £200)</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£30 per day<br> (up to £300)</B>
+  </FONT></TD>
+ </TR> 
+ 
+<tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica"><br><br><br>
+ <b>"A delay could cost me money..."</b><br><br>
+ </td></tr>
+ 
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ we will pay up to £100 for emergency purchases if your luggage is delayed for more than 12 hours<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>no cover</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£100</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ we will cover you for £20 after 12 hours and a further £20 for every 12 hours thereafter you are delayed on your first outward journey or your final return leg.  You may cancel your trip and claim full reimbursement if the delay exceeds 24 hours<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>no cover</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£20 per 12 hours</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ we will cover your for extra transport and accommodation charges so you can reach your destination if public transport fails or your vehicle breaks down<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£250	</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£500</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica"><br><br><br>
+ <b>"What happens if my trip is cancelled or I need to come home early?"</b><br><br>
+ </td></tr>
+ 
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ if you have to cancel your holiday due to accident, illness, bereavement or redundancy we will be happy to cover your costs<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£2,000</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£5,000</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ if you need to cut short your holiday due to accident, illness or bereavement we will reimburse you<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£2,000	</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£5,000</B>
+  </FONT></TD>
+ </TR>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica"><br><br><br>
+ <b>"What if I need some legal help?"</b><br><br>
+ </td></tr>
+ 
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ if you accidentally injure someone, or damage their property we will cover your legal liability to pay damages<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£1,000,000</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£2,000,000</B>
+  </FONT></TD>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ advice and assistance to take legal action is covered<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£10,000	</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£20,000</B>
+  </FONT></TD>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica"><br><br><br>
+ <b>"What if the really unexpected happens?"</b><br><br>
+ </td></tr>
+ 
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ if you are taken hostage we will cover the travelling expenses and accommodation cost for one relative or friend to travel to where you were last seen in order to make local investigations<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>no cover</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£3,000</B>
+  </FONT></TD>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ should you be forced to move from your pre-booked and prepaid holiday as a result of natural disaster, government directive or medical epidemic, we will pay for you to be relocated<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>no cover</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£500</B>
+  </FONT></TD>
+  
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ if your fellow passengers' drunken or violent behaviour on the outbound or inbound flights cause you either travel delay or injury we will compensate you<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>no cover</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£40,000 personal accident/£1,000 delay</B>
+  </FONT></TD>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ if you are imprisoned we will pay for one relative or friend to travel out to visit you<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>no cover</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£1,000</B>
+  </FONT></TD>
+ 
+ <tr><td colspan=3><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+ if you are hijacked we will pay you £50 for each 24 hour period you are detained and automatically extend your insurance for up to 12 months<br>
+ </td></tr>
+ <TR>
+  <TD ROWSPAN=2 WIDTH=50%><FONT FACE="Verdana, Arial, Helvetica" SIZE="-1">
+  &nbsp;
+  </FONT></TD>
+
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>essential</B>
+  </FONT></TD>
+  
+<TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>comprehensive</B>
+  </FONT></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH=25% BGCOLOR="#FFCCCC" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>no cover</B>
+  </FONT></TD>
+  <TD WIDTH=25% BGCOLOR="#CCCCFF" ALIGN=Center><FONT FACE="Verdana, Arial, Helvetica" SIZE="1">
+   <B>£3,000</B>
+  </FONT></TD>
+ 
+
+</TABLE>
+
+<TABLE BORDER=0 width=500>
+<tr><td colspan=2><br>
+<HR NOSHADE WIDTH=500>
+</td></tr>
+
+
+<TR>
+<TD align="RIGHT">
+
+<A HREF="/main.html" target="_top"><IMG SRC="../../images/icon_home.gif" BORDER=0 ALT="Home"></A>
+</TD>
+<TD>
+   <A HREF="https://travel.endsleigh.co.uk/travel/travelquote.asp?type=winter" TARGET="_top"><IMG SRC="orderit.gif" ALT="Order Now!" ALIGN=right WIDTH=60 HEIGHT=80 BORDER=0></A>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+</HTML>
+

@@ -1,0 +1,914 @@
+ID=B0085
+URL=http://www.skipton.co.uk/society_news/press_releases/annual_results_highlight_strategy.asp
+SIZE=47271
+DATE=28/06/2002
+TIME=12:47:19
+DATASET=Building Societies
+HTML=<HTML>
+<HEAD>
+
+
+
+<TITLE>Skipton Building Society - Skipton Annual Results Highlight Strategy for Success</TITLE>
+
+<META NAME="KEYWORDS" CONTENT="building society,skipton life,personal finance,finanacial advice,finance,money,money matters,skipton building society,yorkshire,mortgages,investments,flexible mortgage,mortgage calculator,isa">
+<META NAME="DESCRIPTION" CONTENT="Skipton Building Society provides a comprehensive range of mortgage and investment products">
+
+<script language="JavaScript">
+<!-- Hide the script from old browsers --
+function changePage(form) {
+
+		// position in the list
+        var position=form.destination.selectedIndex
+
+		// value of that position
+		pageURL = form.destination.options[position].value;
+
+		// is it a popup window or not
+		floatingWindow = form.destination.options[position].popUp;
+		
+		if (floatingWindow == "Y" && pageURL!="EMPTY")
+		{
+	        window.open(pageURL,"main");
+		}
+		else
+		{
+			if (pageURL!="EMPTY")
+			{
+				this.location.href = pageURL;
+			}
+		}
+
+
+
+}
+//-->
+</SCRIPT>
+
+<LINK REL=STYLESHEET HREF="/shared/skipton.CSS">
+<script src="/shared/popUp.js"></script>
+</HEAD>
+
+<BODY bgcolor="#ffffff" text="#00005F" link="#0000ff" vlink="#ff0000" topmargin=0 leftmargin=0 marginwidth=0 marginheight=0>
+
+<!--header of page-->
+<table width=600 cellpadding=0 cellspacing=0 border=0>
+	<td valign=top rowspan=3><a href="/index.asp"><img src="/shared/header_left.gif" width=236 height=110 border=0 alt="Skipton Building Society Logo"></a></td>
+	<td valign=top rowspan=2><a href="/index.asp"><img src="/shared/header_top_middle.gif" width=85 height=69 border=0></a></td>
+	<td valign=top colspan=2><a href="/index.asp"><img src="/shared/header_top_right.gif" width=429 height=23 border=0></a></td>
+<tr>
+	<td align=right valign=top>
+	<span style="font-size: 18pt; font-family: arial; letter-spacing: 8">skipton.co.uk</span>
+	<br>
+	<span style="font-size: 8pt">
+			Friday&nbsp;28th&nbsp;June&nbsp;2002</span></td>
+	<td><img src="dot.gif" width=8 height=32 border=0></td>
+<tr>
+	<td align=right valign=bottom colspan=3>
+		<FORM class="dropdown" NAME="menuListForm">
+		<SELECT NAME="destination" onChange="changePage(this.form)">
+			<option class="menutitle" value="EMPTY" popUp="N">Site Menu</option>
+			<option value="EMPTY" popUp="N"></option>
+
+			<option class="menutitle" value="/index.asp" popUp="N">Home</option>
+			<option class="menutitle" value="/product_portfolio/mortgages/index.asp" popUp="N">Mortgages</option>
+			<option class="menutitle" value="/product_portfolio/investments/index.asp" popUp="N">Investments</option>
+			<option class="menutitle" value="/product_portfolio/isas/index.asp" popUp="N">ISAs</option>
+			<option class="menutitle" value="http://uk.multimap.com/clients/places.cgi?client=skip" popUp="N">Branch Locator</option>
+			<option class="menutitle" value="/customer_services/index.asp" popUp="N">Customer Services</option>
+			<option class="menutitle" value="http://www.skiptongroup.com/" popUp="Y">Skipton Group</option>
+			<option class="menutitle" value="/contact_us.asp" popUp="N">Contact Us</option>
+			<option class="menutitle" value="/newsletter_sbs/sbs_subscribe_link.asp" popUp="N">Newsletter</option>
+			<option class="menutitle" value="/about_skipton/index.asp" popUp="N">About Skipton</option>
+			<option class="menutitle" value="/society_news/index.asp" popUp="N">Press Office</option>
+			<option class="menutitle" value="/careers/index.asp" popUp="N">Careers</option>
+			<option class="menutitle" value="/commercial_mortgages/index.asp" popUp="N">Commercial Mortgages</option>
+			<option class="menutitle" value="http://www.skiptongroup.com/group_b2c/sgl.htm" popUp="Y">Offshore Investment</option>
+			<option class="menutitle" value="http://skipton.stockpoint.com/skipton/indices.asp" popUp="N">Financial Indices</option>
+			<option class="menutitle" value="http://www.insure.co.uk/skiptons.html?refer=SKIPBS" popUp="Y">Travel Insurance</option>
+			<option class="menutitle" value="/product_portfolio/mortgages/nu_term_assurance.asp" popUp="N">On-Line Term Assurance</option>
+			<option class="menutitle" value="/map/index.asp" popUp="N">Location Map</option>
+			<option class="menutitle" value="/help/index.asp" popUp="N">Help</option>			
+			
+		</select></form>
+		</td>
+</table>
+<!--end of header of page-->
+
+<!-- society news-->
+<table width=750 cellpadding=0 cellspacing=0 border=0>
+	<td align=left valign=top colspan=3>
+		<!--Top row-->
+		<table cellpadding=0 cellspacing=0 border=0>
+			<td align=left valign=top>
+				<a href="/society_news/index.asp"><img src="/shared/header_society_news.gif" width="124" height="33" border="0" alt="Society News"></a></td>
+			<td align=left valign=top>
+				<img src="/shared/top_line.gif" width="292" height="33" border="0" alt=""></td>
+			<td align=left valign=top>
+				<a href="http://www.skiptongroup.com/group_news/index.htm"><img src="/shared/2ndry_group_news.gif" width="103" height="33" border="0" alt="Group News"></a></td>
+			<td align=left valign=top>
+				<img src="/shared/top_line.gif" width="5" height="33" border="0" alt=""></td>
+			<td align=left valign=top>
+				<a href="http://www.skiptongroup.com/group_b2b/index.htm"><img src="/shared/2ndry_group_b2b.gif" width="97" height="33" border="0" alt="Group B2B"></a></td>
+			<td align=left valign=top>
+				<img src="/shared/top_line.gif" width="5" height="33" border="0" alt=""></td>
+			<td align=left valign=top>
+				<a href="http://www.skiptongroup.com/group_b2c/index.htm"><img src="/shared/2ndry_group_b2c.gif" width="97" height="33" border="0" alt="Group B2C"></a></td>
+			<td align=left valign=top>
+				<img src="/shared/top_right_corner.gif" width="27" height="33" border="0" alt=""></td>
+		</table>
+	</td>
+<tr>
+	<td align=left valign=top>
+		<img src="/shared/left_line.gif" width="27" height="2475" border="0" alt=""></td>
+	<td align=left valign=top>
+
+	
+	
+		<table width=680 cellpadding=0 cellspacing=0 border=0>
+			<td align=right><a href="/society_news/index.asp"><IMG SRC="/shared/sbs_logo.gif" BORDER=0 WIDTH=112 HEIGHT=65 ALT="Click to go back"></a></td>
+		<tr>
+			<td align=right colspan=2><span class="textsmall">Tuesday 29 January 2002</span></td>
+		</table>
+
+<br><p>
+
+<center><b>SKIPTON RESULTS HIGHLIGHT STRATEGY FOR SUCCESS</b></center>
+<br><p>
+Skipton Building Society is proud to report a strong all round performance for 2001 with the announcement of its Annual Results:
+<br><p>
+<center><b>HIGHLIGHTS 2001</b></center>
+<ul>
+	<li>Group Assets up 6.25% to £6.2 billion
+	<li>Group Pre-Tax Profit, excluding exceptional items, up 11.22% to £53.2 million
+	<li>Society Interest Rate Margin at 1.07%
+	<li>Group Interest Rate Margin at 1.29%
+	<li>Group Loans and Advances to customers up 5.89% to £4.7 billion
+	<li>Group Retail Balances up 4.86% to £3.7 billion
+	<li>Gross Capital Ratio up to 6.60%
+	<li>Society Management Expenses down to 74p per £100 of Assets 
+	<li>Skipton was voted a '5 Star' Mortgage Service Provider by readers of 'Financial Adviser', whilst Homeloan Management Ltd conducted the administration for two of the seven other winners of this award.
+	<li>The addition of 4 new subsidiary companies, GMAP Ltd, Direct Life and Pension Services Ltd, Skipton Business Finance Ltd and Industrial Equipment Finance Ltd, saw Skipton increase to a 16 strong Group of companies, including the Society.
+	<li>A unique 'Mortgage Discount Scheme' was launched.  This applies a discount (0.3% after 2 years rising to 0.5% after 4 years) to all qualifying Skipton borrowers whose interest rate is governed by the Society, either now or in the future, and whose current mortgage has been with the Society for at least 2 years.
+	<li>Innovative new products were developed to create wider choice and value for members such as the Manhattan Mortgage (designed to track the 3-Month US $ LIBOR rate) and the Blue Chip Tracker and Guaranteed Protection Bonds.
+</ul>
+John Goodfellow, Chief Executive and Director of Skipton Building Society commented, "The year 2001 has, once again, proved to be one of considerable success, achievement and development for the Skipton Building Society Group.
+<br><p>
+"At the end of a difficult year, where we have seen increasing challenges both at home and internationally, we believe that Skipton is now uniquely placed to capitalise on the opportunities which our fast changing industry will present.  Our rapidly evolving Group structure ensures that we have a wide and varied range of interests across many sectors and these will, undoubtedly, reap benefits in the coming years.
+<br><p>
+"The addition of four new businesses to the Group during 2001 is further testament to our desire to explore appropriate opportunities to achieve a greater return on our capital. This will continue to be done in a prudent manner and in a way which does not inhibit the organic development of our primary business.
+<br><p>
+"Our corporate strategy, to remain an independent building society, is unambiguous. We are able to demonstrate that the more the Society and its subsidiaries prosper, the greater the long term benefits we are able to generate for our members in the form of better interest rates and services. It is imperative to remember that the one and only true measure of the benefits which apply to all members, is through an organisation's Interest Rate Margin. With Skipton's at 1.07% for 2001, we are confident that this, once again, will be amongst the very lowest in the whole industry.
+<br><p>
+"A fundamental part of our plan is that, unlike the banks, we do not have any external shareholders to satisfy, and so we can use this inherent advantage to focus on putting the interests of our customers at the very heart of our strategy.  There is already a weight of evidence which supports the fact that building societies offer the best long-term rewards to their customers, through consistency and fairness, when compared to the banks.  We believe that consumers will increasingly recognise that, whilst the interest rate on some new products may grab the headlines, the short term gains will be, more often than not, at the expense of long term advantages.
+<br><p>
+"We have continued to grow our business both organically and via acquisition and at each stage of our development, we continue to concentrate our thoughts on building a Society which is valued by our members, both present and future.  We believe that this coherent approach truly reflects the principles of a Modern Mutual in the 21st Century."
+<br><p>
+<center><a class="textlink" href="/about_skipton/report_and_accounts_2001.pdf" target="_blank">Full Annual Report and Accounts 2001 (PDF format)</a></center>
+<br><p>
+<center>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=2 WIDTH=600>
+<TR><TD VALIGN="TOP" COLSPAN=10 HEIGHT=27>
+<P><FONT FACE="Arial" SIZE=6>summary financial statements</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=10 HEIGHT=24>
+<FONT FACE="Arial" SIZE=5><P>financial extract for year ended 31 december 2001</FONT></TD>
+</TR>
+<TR><TD WIDTH="76%" VALIGN="TOP" COLSPAN=7 HEIGHT=24><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+</TR>
+<TR><TD WIDTH="76%" VALIGN="TOP" COLSPAN=7 HEIGHT=24>
+<FONT FACE="Arial" SIZE=5><P>income &amp; expenditure account</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=10 HEIGHT=24>
+<FONT FACE="Arial" SIZE=5><P>results for the year ended 31 december 2001</FONT></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=13>
+<B><FONT FACE="Arial" SIZE=2><P>Group</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=13>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">2001</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">2000</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=13>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">£000s </B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">£000s </B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+</TR>
+<TR><TD WIDTH="27%" VALIGN="TOP" COLSPAN=3 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Net interest receivable</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">77,863</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">67,738 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="27%" VALIGN="TOP" COLSPAN=3 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Special interest credits</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">- </FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">(46,658)</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="27%" VALIGN="TOP" COLSPAN=3 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Other income and charges</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">115,581</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">110,284 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="27%" VALIGN="TOP" COLSPAN=3 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Administrative expenses</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">(137,144)</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">(128,932)</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="18%" VALIGN="TOP" COLSPAN=2 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Provisions</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">(3,133)</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">(1,288)</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="45%" VALIGN="TOP" COLSPAN=4 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Profit on sale of a subsidiary</FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">-</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">57,309 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=4><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=4><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=4><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=4><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=4><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=4><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=4><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=4><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=4><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=4><P></P></TD>
+</TR>
+<TR><TD WIDTH="45%" VALIGN="TOP" COLSPAN=4 HEIGHT=20>
+<FONT FACE="Arial" SIZE=2><P>Profit for the year before taxation</FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=20>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">53,167</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=20>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">58,453 </B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=13>
+<FONT FACE="Arial" SIZE=2><P>Taxation</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=13>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">(14,366)</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">(17,831)</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+</TR>
+<TR><TD WIDTH="45%" VALIGN="TOP" COLSPAN=4 HEIGHT=21>
+<FONT FACE="Arial" SIZE=2><P>Profit for the year after taxation</FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=21>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">38,801</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=21><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=21>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">40,622 </B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=21><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=21><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=21><P></P></TD>
+</TR>
+<TR><TD WIDTH="18%" VALIGN="TOP" COLSPAN=2 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Minority interests</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">523</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">287 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+</TR>
+<TR><TD WIDTH="45%" VALIGN="TOP" COLSPAN=4 HEIGHT=20>
+<B><FONT FACE="Arial" SIZE=2><P>Profit for the financial year</B></FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=20>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">39,324</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=20>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">40,909 </B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=6><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=10 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Results for the year to 31 December 2000 include the results in respect of discontinued operations of Dealwise Limited, our execution only share dealing subsidiary, which was sold on the 19 May 2000.</FONT></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+</TABLE>
+
+</FONT>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=2 WIDTH=613>
+<TR><TD VALIGN="TOP" COLSPAN=10 HEIGHT=24>
+<P><FONT FACE="Arial" SIZE=5>financial position at 31 december 2001</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=10 HEIGHT=24>
+<FONT FACE="Arial" SIZE=5><P>balance sheet</FONT></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=15>
+<B><FONT FACE="Arial" SIZE=2><P>Group</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">2001</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">2000</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">£000s </B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">£000s </B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=15>
+<B><FONT FACE="Arial" SIZE=2><P>Assets</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="18%" VALIGN="TOP" COLSPAN=2 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Liquid assets</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,315,733</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,228,302 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="18%" VALIGN="TOP" COLSPAN=2 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Mortgages</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">4,647,326</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">4,463,447 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="18%" VALIGN="TOP" COLSPAN=2 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Other loans</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">101,398</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">21,239 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="27%" VALIGN="TOP" COLSPAN=3 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Fixed and other assets</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">152,476</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">138,331 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+</TR>
+<TR><TD WIDTH="18%" VALIGN="TOP" COLSPAN=2 HEIGHT=20>
+<FONT FACE="Arial" SIZE=2><P>Total Assets</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=20>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">6,216,933</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=20>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">5,851,319 </B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=6><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=6><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="18%" VALIGN="TOP" COLSPAN=2 HEIGHT=15>
+<B><FONT FACE="Arial" SIZE=2><P>Liabilities</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Shares</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">3,652,938</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">3,483,590 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="18%" VALIGN="TOP" COLSPAN=2 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Borrowings</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">2,123,033</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,982,801 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="18%" VALIGN="TOP" COLSPAN=2 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Other liabilities</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">59,766</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">42,362</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="27%" VALIGN="TOP" COLSPAN=3 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Subordinated liabilities</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">37,000</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">37,000 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="27%" VALIGN="TOP" COLSPAN=3 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Subscribed capital</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">25,000</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">25,000 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="18%" VALIGN="TOP" COLSPAN=2 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Minority interests</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">565</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,259 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="18%" VALIGN="TOP" COLSPAN=2 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Reserves</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">318,631</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">279,307 </FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=5><P></P></TD>
+</TR>
+<TR><TD WIDTH="18%" VALIGN="TOP" COLSPAN=2 HEIGHT=15>
+<FONT FACE="Arial" SIZE=2><P>Total Liabilities</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">6,216,933</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">5,851,319 </B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=7><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+</TR>
+</TABLE>
+
+
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=2 WIDTH=612>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=15>
+<P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=10 HEIGHT=24>
+<FONT FACE="Arial" SIZE=5><P>summary of key ratios</FONT></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=24>
+<FONT FACE="Arial"><H5>Group</H5></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=24>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">2001</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">2000</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=15>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">%</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=15>
+<B><FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">%</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP" COLSPAN=6 HEIGHT=22>
+<FONT FACE="Arial" SIZE=2><P>Gross capital as a percentage of shares and borrowings</FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=22>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">6.60</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=22><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=22>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">6.27 </FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=22><P></P></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP" COLSPAN=6 HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P>Liquid assets as a percentage of shares and borrowings</FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">22.78</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">22.47 </FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP" COLSPAN=6 HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P>Profit for the year after taxation as a percentage of mean assets</FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">0.65</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">0.74</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP" COLSPAN=6 HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P>Solvency Ratio – Tier 1 (old basis)</FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">10.05</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">9.77</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP" COLSPAN=6 HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P>Solvency Ratio – Tier 2 (old basis)</FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1.34</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1.40</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP" COLSPAN=6 HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P>Solvency Ratio – Tier 1 (new basis)</FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">10.74</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP" COLSPAN=6 HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P>Solvency Ratio – Tier 2 (new basis)</FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1.41</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP" COLSPAN=6 HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" HEIGHT=24><P></P></TD>
+</TR>
+</TABLE></center>
+<span class="textsmall">
+With effect from 1 December 2001 regulation of the Society passed from the Building Societies Commission to the Financial Services Authority ('FSA').  The FSA has made some changes to the basis of calculation of the Solvency Ratio.
+<br><p>
+The Solvency Ratio shown above at December 2001 is shown on both bases; whilst the comparative figures for the previous year were calculated on the old basis.
+</span>
+</td>
+
+	<td align=left valign=top>
+		<img src="/shared/right_line.gif" width="27" height="2475" border="0" alt=""></td>
+<tr>
+	<!-- bottom row-->
+	<td align=left valign=top>
+		<img src="/shared/bottom_left_corner.gif" width="27" height="29" border="0" alt=""></td>
+	<td align=left valign=top>
+		<img src="/shared/bottom_line.gif" width="696" height="29" border="0" alt=""></td>
+	<td align=left valign=top>
+		<img src="/shared/bottom_right_corner.gif" width="27" height="29" border="0" alt=""></td>
+</table>
+
+
+</center>
+<br><p>
+<table width=600 cellpadding=0 cellspacing=0 border=0>
+<td colspan=2><img src="/shared/legal_divider_row.gif" width=600 height=2 border=0></td>
+<tr>
+<td align=left valign=top>
+	<SPAN class="textlegal">&nbsp;&nbsp;Principal Office, The Bailey, Skipton, North Yorkshire, BD23 1DN.<img src="dot.gif" width="30" height="1" border="0" alt="spacer mage">Site intended for UK residents only.</SPAN></td>
+<td align=right valign=top>
+	<SPAN class="textlegal"><a class="utilitylink" href="/shared/legal_notice.asp">Legal Notice</a></SPAN></td>
+</table>
+
+
+</BODY>
+</HTML>

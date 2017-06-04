@@ -1,0 +1,729 @@
+ID=A0070
+URL=http://www.nbonline.co.uk/about/remoteatm.php
+SIZE=27811
+DATE=27/06/02
+TIME=16:51:38
+DATASET=Commercial Banks
+HTML=
+<html>
+<head>
+<title>Northern Bank</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../css/nag.css" type="text/css">
+</head>
+<body margin="0" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+<script language = "JavaScript">
+<!--//
+function preloader(){return;}
+b1 = new Image(110,34);
+b1.src = "/g_images/1b_personal.gif";
+b1 = new Image(110,34);
+b1.src = "/g_images/1b_personal_r.gif";
+b2 = new Image(110,34);
+b2.src = "/g_images/1b_business.gif";
+b2 = new Image(110,34);
+b2.src = "/g_images/1b_business_r.gif";
+b3 = new Image(110,34);
+b3.src = "/g_images/1b_aboutus.gif";
+b3 = new Image(110,34);
+b3.src = "/g_images/1b_aboutus_r.gif";
+b5 = new Image(110,34);
+b5.src = "/g_images/1b_share.gif";
+b5 = new Image(110,34);
+b5.src = "/g_images/1b_share_r.gif";
+//-->
+</script><script type="text/javascript" language="Javascript">
+<!--
+function viewper() {
+	
+	window.open("/index_dis.php","myWindow","scrollbars=yes, width=400 ,height=500");
+}
+
+function POP(the_url) {
+popup = window.open(the_url,'Demo','width=696,height=492,top=0,left=0,toolbar=no,location=no,status=yes,menubar=no,scrollbars=yes,resizable=yes');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+	popup.focus();
+}
+
+
+
+
+
+
+
+
+//-->
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="164" height="68"><img src="/g_images/logo.gif" alt="Northern Bank" /></td>
+    <td class="navbottomright" height="68">
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+		  <td height="15" class="navbottomright">
+            <!--STARTDATE-->
+            Thursday, 27.06.02            <!--ENDDATE-->
+          </td>
+		  <td class="navbottomright"><img src="/g_images/1x1space.gif" width="10" alt="" /></td>
+          <td class="navbottomright"><a href="/index.php"><img src="/g_images/1b_utilities_001.gif" border="0" alt="Home" /></a></td>
+          <td class="navbottomright"><a href="/sitemap.php"><img src="/g_images/1b_utilities_002.gif" border="0" alt="Site Map" /></a></td>
+          <td class="navbottomright"><a href="/personal/InterestRates.php"><img src="/g_images/1b_utilities_005.gif" border="0" alt="Interest Rates" /></a></td>
+		  <td class="navbottomright"><a href="javascript:void(null)" onClick="javascript:viewper()"><img src="/g_images/1b_utilities_003.gif" border="0" alt="Rules of Use" /></a></td>
+          <td class="navbottomright"><a href="/about/nbon_web_abo_php_004.php"><img src="/g_images/1b_utilities_004.gif" border="0" alt="Contact Us" /></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colpsan="3" height="1"><img src="/g_images/1x1space.gif" width="100%" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="navmenuleft">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          			
+          <td class="navmenuleft" nowrap><a href="/about/nbon_web_abo_php_000.php" onMouseOver="document.b3.src='/g_images/1b_aboutus_r.gif'" onMouseOut="document.b3.src='/g_images/1b_aboutus_r.gif'"><img src="/g_images/1b_aboutus_r.gif" width="110" height="34" name="b3" border="0" alt="About Us" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/personal/nbon_web_per_php_000.php" onMouseOver="document.b1.src='/g_images/1b_personal_r.gif'" onMouseOut="document.b1.src='/g_images/1b_personal.gif'"><img src="/g_images/1b_personal.gif" width="110" height="34" name="b1" alt="Personal" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/business/nbon_web_bus_php_001.php" onMouseOver="document.b2.src='/g_images/1b_business_r.gif'" onMouseOut="document.b2.src='/g_images/1b_business.gif'"><img src="/g_images/1b_business.gif" width="110" height="34" name="b2" alt="Business" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/personal/nbon_web_per_php_010.php" onMouseOver="document.b5.src='/g_images/1b_share_r.gif'" onMouseOut="document.b5.src='/g_images/1b_share.gif'"><img src="/g_images/1b_share.gif" width="110" height="34" name="b5" alt="Online Sharedealing" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /></td>
+                  </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2" height="1"><img src="/g_images/1x1space.gif" width="100%" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    <!-- personal level 1 -->
+
+<!-- business level 1 -->
+<!-- business level 2 -->
+
+
+
+
+
+<!-- about us level 1 -->
+<!-- about us level 2 -->
+<!-- ibank level 1 -->
+<!-- ibank level 2 -->
+
+<!-- main draw function -->
+<td width="109" class="about">
+			<a href="/about/nbon_web_abo_php_001.php" onMouseOver="document.l1.src='/g_images/2b_about_001h.gif'" onMouseOut="document.l1.src='/g_images/2b_about_001.gif'"><img src="/g_images/2b_about_001.gif" name="l1" alt="Our Press Releases" width="110" height="33" border="0" /></a><br>
+		
+		<a href="/about/nbon_web_abo_php_002.php" onMouseOver="document.l2.src='/g_images/2b_about_002h.gif'" onMouseOut="document.l2.src='/g_images/2b_about_002h.gif'"><img src="/g_images/2b_about_002h.gif" name="l2" alt="Branches" border="0" width="110" height="22" /></a><br>
+	<img src="/g_images/1x1space.gif" width="100%" height="1" alt="" /><br>
+<table width="110" border="0" cellspacing="0" cellpadding="2">
+    <tr>
+    <td width="1" class="personal_lower_high"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+	<td class="personal_lower_high"><a href="/about/remoteatm.php" class="businesslink">Remote ATMs</a></td>
+  </tr>
+	</table>
+	
+		<a href="/about/nbon_web_abo_php_003.php" onMouseOver="document.l3.src='/g_images/2b_about_003h.gif'" onMouseOut="document.l3.src='/g_images/2b_about_003.gif'"><img src="/g_images/2b_about_003.gif" name="l3" alt="NAB Group Worldwide" border="0" width="110" height="34" /></a><br>
+		
+	
+		<a href="/about/nbon_web_abo_php_004.php" onMouseOver="document.l4.src='/g_images/2b_about_004h.gif'" onMouseOut="document.l4.src='/g_images/2b_about_004.gif'"><img src="/g_images/2b_about_004.gif" name="l4" alt="Contact Us" width="110" height="22" border="0" /></a><br>
+	<img src="/g_images/2b_divider.gif" width="100%" height="1" alt="" /><br>
+	
+</td>
+
+    <!--content-->
+	<td class="content">
+      <table border="0" cellspacing="5" cellpadding="0" width="100%">
+        <tr>
+		  <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt=" "></td>
+          <td colspan="3" class="content">
+		    <p class="bread"><a href="/about/nbon_web_abo_php_000.php" class="breadcrumbs">About Us</a> > <a href="/about/nbon_web_abo_php_002.php" class="breadcrumbs">Branches</a> > Remote ATMs</p>
+            <p class="contentmainhead">Remote ATMs</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt=" "></td>
+          <td colspan="3" height="1"><img src="/g_images/3b_blackline.gif" width="100%" height="1" alt="" /></td>
+        </tr>
+        <tr>
+          <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt=" "></td>
+          <td class="content">
+		  <ul>
+		  <li><a href="#belcity" class="link">Belfast City Remote ATMs</a></li>
+		  <li><a href="#couant" class="link">County Antrim Remote ATMs</a></li>
+		  <li><a href="#couarm" class="link">County Armagh Remote ATMs</a></li>
+		  <li><a href="#coudow" class="link">County Down Remote ATMs</a></li>
+		  <li><a href="#coufer" class="link">County Fermanagh Remote ATMs</a></li>
+		  <li><a href="#coulon" class="link">County Londonderry Remote ATMs</a></li>
+		  <li><a href="#coutyr" class="link">County Tyrone Remote ATMs</a></li>
+		  </ul>
+		  	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td class="border">
+                  <table width="100%" border="0" cellspacing="1" cellpadding="3">
+                    <thead> 
+                    <tr>
+                      <th colspan="2" class="branchhead"><a name="belcity"></a>Belfast City Remote ATMs</th>
+                    </tr>
+					</thead>
+                    <tr>
+						
+                      <td class="branchdetails" width="50%">Kings Hall</td>
+						
+                      <td class="branchdetails" width="50%">Lisburn Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Ann St Belfast</td>
+						
+                      <td class="branchdetails" width="50%">KFC 33 Ann St</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">High Street Belfast</td>
+						
+                      <td class="branchdetails" width="50%">10 High St</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Spar-Cavehill Road</td>
+						
+                      <td class="branchdetails" width="50%">325 Cavehill Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Donegall House</td>
+						
+                      <td class="branchdetails" width="50%">Donegall Place</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Fountain Street</td>
+						
+                      <td class="branchdetails" width="50%">Fountain Street</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Head Office A</td>
+						
+                      <td class="branchdetails" width="50%">Donegall Square West</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Head Office B</td>
+						
+                      <td class="branchdetails" width="50%">Donegall Square West</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Tinsleys Service St</td>
+						
+                      <td class="branchdetails" width="50%">757 Upper Newtownards 
+                        Road</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Texaco-RVH</td>
+						
+                      <td class="branchdetails" width="50%">62 Broadway</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Blackstaff Jet Station</td>
+						
+                      <td class="branchdetails" width="50%">111-129 Springfield 
+                        Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Castle Blds-Stormont</td>
+						
+                      <td class="branchdetails" width="50%">Stormont</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Donegall Quay</td>
+						
+                      <td class="branchdetails" width="50%">Ulsterbus, Donegall 
+                        Quay Belfast</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Sainsburys Forestside</td>
+						
+                      <td class="branchdetails" width="50%">FSC Upper Galwally</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Europa Hotel</td>
+						
+                      <td class="branchdetails" width="50%">Europa Hotel</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Gt Victoria St-Train 
+                        station</td>
+						
+                      <td class="branchdetails" width="50%">Belfast</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">David Kerr Bld</td>
+						
+                      <td class="branchdetails" width="50%">28/30 Malone Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Stranmillis Road</td>
+						
+                      <td class="branchdetails" width="50%">68 Stranmillis Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Texaco Saintfield 
+                        Road</td>
+						
+                      <td class="branchdetails" width="50%">Saintfield Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Guys Antrim Rd</td>
+						
+                      <td class="branchdetails" width="50%">771 Antrim Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Castlecourt C</td>
+						
+                      <td class="branchdetails" width="50%">Royal Avenue</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Castlecourt D</td>
+						
+                      <td class="branchdetails" width="50%">Royal Avenue</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Castlecourt E</td>
+						
+                      <td class="branchdetails" width="50%">Royal Avenue</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Castlecourt F</td>
+						
+                      <td class="branchdetails" width="50%">Royal Avenue</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Head Office Lobby 
+                        (Staff)</td>
+						
+                      <td class="branchdetails" width="50%">Donegall Square West</td>
+						</tr>
+                  </table>
+                </td>
+			  </tr>
+            </table>
+			<p align="right"><a href="#top"><img alt="Back to Top" src ="../g_images/but_top.gif" border=0 ></a></p>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td class="border">
+                  <table width="100%" border="0" cellspacing="1" cellpadding="3">
+                    <thead> 
+                    <tr>
+                      <th colspan="2" class="branchhead"><a name="couant"></a>County Antrim Remote ATMs</th>
+                    </tr>
+					</thead>
+                    <tr>
+					  <td class="branchdetails" width="50%">Belfast International 
+                        Airport</td>
+					  <td class="branchdetails" width="50%">Aldergrove</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Twelfthmilestone Templepatrick</td>
+					  <td class="branchdetails" width="50%">Air Port Road</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Antrim Area Hospital</td>
+					  <td class="branchdetails" width="50%">45 Bush Road</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Ballyclare Milestone</td>
+					  <td class="branchdetails" width="50%">91 Templepatrick Rd</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Islandbawn Stores, Muckamore</td>
+					  <td class="branchdetails" width="50%">128 Belfast Road, Antrim</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Sainsburys Ballymena</td>
+					  <td class="branchdetails" width="50%">Larne Rd Link</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Fairhill Shopping Centre</td>
+					  <td class="branchdetails" width="50%">Unit K7 Fairhill S C</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Braid River Esso</td>
+					  <td class="branchdetails" width="50%">10 North Rd</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">McKillens Shoe Shop</td>
+					  <td class="branchdetails" width="50%">78 Church Street</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Causeway Hospital</td>
+					  <td class="branchdetails" width="50%">4 Newbridge Road Coleraine</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Fairhill Shopping Centre</td>
+					  <td class="branchdetails" width="50%">Unit K7 Fairhill S C</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Carrick Milestone</td>
+					  <td class="branchdetails" width="50%">24 Middle Road</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Joymount Department 
+                        Store</td>
+					  <td class="branchdetails" width="50%">30 Joymount St</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Glengormley Northcott</td>
+					  <td class="branchdetails" width="50%">Ballyclare Rd</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Larne Harbour</td>
+					  <td class="branchdetails" width="50%">9 Olderfleet Rd</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Bovalley Spar</td>
+					  <td class="branchdetails" width="50%">1-9 Anderson Rd, Limavady</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Lisburn Bow St Mall</td>
+					  <td class="branchdetails" width="50%">40 Bow St Mall</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Lisburn Markt Sq BR</td>
+					  <td class="branchdetails" width="50%">2 Market Sq North</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Lisburn Bow St Mall 
+                        B</td>
+					  <td class="branchdetails" width="50%">40 Bow St Mall</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Lisburn Texaco</td>
+					  <td class="branchdetails" width="50%">Mercer Street</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Cloughfern</td>
+					  <td class="branchdetails" width="50%">142 Doagh Rd</td>
+					</tr>
+					<tr>
+					  <td class="branchdetails" width="50%">Galgorm</td>
+					  <td class="branchdetails" width="50%">Fenaghy Road</td>
+					</tr>
+                  </table>
+                </td>
+			  </tr>
+            </table>
+			<p align="right"><a href="#top"><img alt="Back to Top" src ="../g_images/but_top.gif" border=0 ></a></p>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td class="border">
+                  <table width="100%" border="0" cellspacing="1" cellpadding="3">
+                    <thead> 
+                    <tr>
+                      <th colspan="2" class="branchhead"><a name="couarm"></a>County Armagh Remote ATMs</th>
+                    </tr>
+					</thead>
+                    <tr>
+						
+                      <td class="branchdetails" width="50%">Newry Road Armagh</td>
+						
+                      <td class="branchdetails" width="50%">&nbsp;</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Sainsburys Armagh</td>
+						
+                      <td class="branchdetails" width="50%">&nbsp;</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Moira</td>
+						
+                      <td class="branchdetails" width="50%">16 Main St</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Sainsburys Craigavon</td>
+						
+                      <td class="branchdetails" width="50%">Central Way</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Texaco SS M1 Lurgan</td>
+						
+                      <td class="branchdetails" width="50%">Lough Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Portadown Hendersons</td>
+						
+                      <td class="branchdetails" width="50%">102-106 Armagh Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">High St Mall Portadown</td>
+						
+                      <td class="branchdetails" width="50%">&nbsp;</td>
+						</tr>
+                  </table>
+                </td>
+			  </tr>
+            </table>
+			<p align="right"><a href="#top"><img alt="Back to Top" src ="../g_images/but_top.gif" border=0 ></a></p>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td class="border">
+                  <table width="100%" border="0" cellspacing="1" cellpadding="3">
+                    <thead> 
+                    <tr>
+                      <th colspan="2" class="branchhead"><a name="coudow"></a>County Down Remote ATMs</th>
+                    </tr>
+					</thead>
+                    <tr>
+						
+                      <td class="branchdetails" width="50%">Bangor Bryansburn</td>
+						
+                      <td class="branchdetails" width="50%">Maxol F S 139 Bryansburn 
+                        Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Rathgael Filling Station</td>
+						
+                      <td class="branchdetails" width="50%">98 Rathgael Road</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Crossgar Bells Food 
+                        Stores</td>
+						
+                      <td class="branchdetails" width="50%">7 Saintfield Road</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">M1 Filling St Hillsborough 
+                        Rd</td>
+						
+                      <td class="branchdetails" width="50%">220 Hillsborough Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">D of Education Rathgael</td>
+						
+                      <td class="branchdetails" width="50%">43 Balloo Road, Bangor</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Newcastle Barbican 
+                        Esso</td>
+						
+                      <td class="branchdetails" width="50%">80/82 Dundrum Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Annalong Barbican 
+                        Esso</td>
+						
+                      <td class="branchdetails" width="50%">35 Kilkeel Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Sainsburys Newry</td>
+						
+                      <td class="branchdetails" width="50%">Unit 1 The Quays Albert 
+                        Basin</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Newry Armagh Road</td>
+						
+                      <td class="branchdetails" width="50%">Fiveways F S 128 Armagh 
+                        Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Clarkes BP Belfast 
+                        Rd Newry</td>
+						
+                      <td class="branchdetails" width="50%">Belfast Road</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Stewarts Solicitors</td>
+						
+                      <td class="branchdetails" width="50%">Regent St</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Ards Shopping Centre</td>
+						
+                      <td class="branchdetails" width="50%">Newtownards</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Portavogie Mace</td>
+						
+                      <td class="branchdetails" width="50%">59/61 Harbour Rd</td>
+						</tr>
+                  </table>
+                </td>
+			  </tr>
+            </table>
+			<p align="right"><a href="#top"><img alt="Back to Top" src ="../g_images/but_top.gif" border=0 ></a></p>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td class="border">
+                  <table width="100%" border="0" cellspacing="1" cellpadding="3">
+                    <thead> 
+                    <tr>
+                      <th colspan="2" class="branchhead"><a name="coufer"></a>County Fermanagh Remote ATMs</th>
+                    </tr>
+					</thead>
+                    <tr>
+						
+                      <td class="branchdetails" width="50%">Loughside Garage</td>
+						
+                      <td class="branchdetails" width="50%">22 Tempo Road</td>
+						</tr>
+                  </table>
+                </td>
+			  </tr>
+            </table>
+			<p align="right"><a href="#top"><img alt="Back to Top" src ="../g_images/but_top.gif" border=0 ></a></p>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td class="border">
+                  <table width="100%" border="0" cellspacing="1" cellpadding="3">
+                    <thead> 
+                    <tr>
+                      <th colspan="2" class="branchhead"><a name="coulon"></a>County Londonderry Remote ATMs</th>
+                    </tr>
+					</thead>
+                    <tr>
+						
+                      <td class="branchdetails" width="50%">Coleraine Strand Road 
+                        Service St</td>
+						
+                      <td class="branchdetails" width="50%">7 Strand Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Coleraine Uni of Ulster 
+                        SU</td>
+						
+                      <td class="branchdetails" width="50%">Cromore Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Sainsburys Coleraine</td>
+						
+                      <td class="branchdetails" width="50%">Riverside Pk</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Coleraine Railway 
+                        Road</td>
+						
+                      <td class="branchdetails" width="50%">Railway Road</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Greysteel Jet St</td>
+						
+                      <td class="branchdetails" width="50%">172 Clooney Rd</td>
+						</tr>
+						<tr>
+						
+                      <td class="branchdetails" width="50%">Trinity Hotel</td>
+						
+                      <td class="branchdetails" width="50%">22/24 Strand Rd</td>
+						</tr>
+						
+                      <td class="branchdetails" width="50%">Star Garage Magherafelt</td>
+						
+                      <td class="branchdetails" width="50%">36 Castledawson Road</td>
+						</tr>
+                  </table>
+                </td>
+			  </tr>
+            </table>
+			<p align="right"><a href="#top"><img alt="Back to Top" src ="../g_images/but_top.gif" border=0 ></a></p>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td class="border">
+                  <table width="100%" border="0" cellspacing="1" cellpadding="3">
+                    <thead>
+					<tr>
+                      <th colspan="2" class="branchhead"><a name="coutyr"></a>County Tyrone Remote ATMs</th>
+                    </tr>
+					</thead>
+                    <tr>
+						<td width= "50%" class="branchdetails">M1 Service St Dungannon</td>
+						<td width= "50%" class="branchdetails">Drumgormal, Balleygawley Rd</td>
+						</tr>
+						<tr>
+						<td width= "50%" class="branchdetails">Ranfurley BP Station</td>
+						<td width= "50%" class="branchdetails">20 Moy Rd</td>
+						</tr>
+						<tr>
+						<td width= "50%" class="branchdetails">Cohannon Inn Dungannon</td>
+						<td width= "50%" class="branchdetails">A45 FS 212 Ballymakelly Rd</td>
+						</tr>
+						<tr>
+						<td width= "50%" class="branchdetails">Foxes Spar and Petrol Station</td>
+						<td width= "50%" class="branchdetails">2 Tattymoyle St</td>
+						</tr>
+                  </table>
+                </td>
+			  </tr>
+            </table>
+			<p align="right"><a href="#top"><img alt="Back to Top" src ="../g_images/but_top.gif" border=0 ></a></p>
+          </td>
+          <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt=" "></td>
+          <td width="131" class="content">
+            <table width="131" border="0" cellspacing="0" cellpadding="2">
+
+
+
+
+
+
+
+
+
+
+</table>          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+	<td width="109" class="about">&nbsp;</td>
+<td class="disclaimer">
+      <table width="100%" border="0" cellspacing="9" cellpadding="0">
+        <tr>
+			<td class="disclaimer">&copy; Northern Bank Limited 2001. Use of the information contained on this page is subject to certain rules. To view the Rules of Use, <a href="javascript:void(null)" onClick="javascript:viewper()" class="disclaimerlink">click here.</a></td>
+        </tr>
+      </table>
+</td>  </tr>
+</table>
+</body>
+</html>
+

@@ -1,0 +1,1160 @@
+ID=C0081
+URL=http://www.biba.org.uk/carins.asp
+SIZE=89445
+DATE=10/07/2002
+TIME=13:18:04
+DATASET=Insurance Agencies
+HTML=
+<html>
+<head>
+<title>BIBA</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script LANGUAGE="Javascript" TYPE="text/javascript" SRC="includes/script.js"></script>
+
+<style type="text/css">
+A:hover {
+	COLOUR: #99CCFF; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #99CCFF; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #99CCFF; TEXT-DECORATION: none
+}
+</style>
+
+
+</head>
+
+<body bgcolor="#ffffff" onload topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+<a name="top"></a>
+<table border="0" cellpadding="0" cellspacing="0" width="765">
+  <tr valign="top"><!-- row 1 -->
+   <td><img border="0" name="page_r1_c1" src="images/page_r1_c1.gif" usemap="#FPMap0" WIDTH="647" HEIGHT="86"></td>
+   <td rowspan="2"><img name="page_r1_c2" src="images/page_r1_c2.gif" width="118" height="113" border="0"></td>
+   <td><img src="images/shim.gif" width="1" height="86" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 2 -->
+    <td><img name="page_r2_c1" src="images/page_r2_c1.gif" width="647" height="27" border="0" usemap="#Map2"></td>
+   <td><img src="images/shim.gif" width="1" height="27" border="0"></td>
+  </tr>
+ 
+</table>
+<div id="Layer1" style="position:absolute; width:130px; height:45px; z-index:1; left: 1px; top: 113px; visibility: hidden"> 
+  <table width="130" border="0" cellspacing="0" cellpadding="0" bgcolor="#000066">
+    <tr> 
+      <td height="42" rowspan="2" width="8"><a href="#" onMouseOut="MM_showHideLayers('Layer1','','hide')"><img src="images/shim.gif" width="8" height="42" border="0"></a></td>
+      <td height="21" width="122"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"> 
+        <a href="whyuse.asp">Why use a BIBA Broker?</a></font></td>
+      <td height="42" rowspan="2" width="8"><a href="#" onMouseOut="MM_showHideLayers('Layer1','','hide')"><img src="images/shim.gif" width="8" height="42" border="0"></a></td>
+    </tr>
+    <tr> 
+      <td height="21" width="122"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"> 
+        <a href="findbroker.asp">Find your Broker</a></font></td>
+    </tr>
+  </table>
+</div>
+<div id="Layer2" style="position:absolute; width:113px; height:110px; z-index:1; left: 135px; top: 113px; visibility: hidden"> 
+  <table width="128" border="0" cellspacing="0" cellpadding="0" bgcolor="#000066">
+    <tr> 
+      <td height="105" rowspan="6"><a href="#" onMouseOver="MM_showHideLayers('Layer1','','hide','Layer2','','hide')"><img src="images/shim.gif" width="8" height="110" border="0"></a></td>
+      <td height="21"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"> 
+        <a href="whattolook.asp">What to look for</a></font></td>
+      <td height="105" rowspan="6"> <a href="#" onMouseOut="MM_showHideLayers('Layer1','','hide','Layer2','','hide')"><img src="images/shim.gif" width="8" height="110" border="0"></a></td>
+    </tr>
+    <tr> 
+      <td height="21"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"> 
+        <a href="jargonbuster.asp">Jargon Buster</a> </font></td>
+    </tr>
+    <tr> 
+      <td height="21"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"> 
+        <a href="homeins.asp">Home</a></font></td>
+    </tr>
+    <tr> 
+      <td height="21"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"> 
+        <a href="carins.asp">Car</a></font></td>
+    </tr>
+    <tr>
+      <td height="21"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><a href="travelins.asp">Travel</a></font></td>
+    </tr>
+    <tr> 
+      <td height="21"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><a href="exclusive.asp">BIBA schemes</a> 
+        </font></td>
+    </tr>
+  </table>
+</div>
+<map name="Map2"><area shape="rect" coords="1,2,131,25" href="#" onMouseOver="MM_showHideLayers('Layer1','','show','Layer2','','hide')"><area shape="rect" coords="136,2,265,25" href="#" onMouseOver="MM_showHideLayers('Layer1','','hide','Layer2','','show')"> 
+  <area shape="rect" coords="272,3,371,26" href="findout.asp" onMouseOver="MM_showHideLayers('Layer1','','hide','Layer2','','hide')"></map>
+
+    <map name="FPMap0">
+   <area href="consumerhome.asp" shape="rect" coords="389, 13, 435, 36">
+   <area href="contactus.asp" shape="rect" coords="574, 15, 643, 36">
+<!-- news.asp-->
+   <area href="newshome.asp" shape="rect" coords="439, 13, 508, 35">
+<!-- brokers.asp-->
+   <area href="brokerhome.asp" shape="rect" coords="513, 15, 569, 35"></map>
+
+<table border="0" cellpadding="0" cellspacing="0" width="765">
+
+  <tr valign="top"><!-- row 2 -->
+  </tr>
+  <tr valign="top"><!-- row 3 -->
+   <td background="images/page_r3_c1.gif" width="647"><img border="0" src="images/shim.gif" width="647" height="1">
+    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="28%" valign="top">
+          <table border="0" width="100%" cellspacing="0" cellpadding="4">
+            <tr>
+              <td width="100%" valign="top">
+                <p align="right"><img border="0" src="images/cone.gif" WIDTH="51" HEIGHT="100"></td>
+            </tr>
+            <tr>
+              <td width="100%" valign="top">
+                <p align="right"><font size="5" face="Arial, Helvetica, sans-serif" color="#333366">Motor
+                Insurance</font></td>
+            </tr>
+            <tr>
+              <td width="100%" valign="top"> 
+                                          
+                                                      <ul>
+                                                       
+                                                      <li><b><a href="carins.asp#3"><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">Third 
+                                                        Party, fire and theft</font></a></b> 
+                                                      <li><b><a href="carins.asp#4"><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">Comprehensive 
+                                                        insurance</font></a></b> 
+                                                        <li> <b><font color="#333399" face="Arial, Helvetica, sans-serif" size="1"></font><a href="carins.asp#1"><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">Uninsured 
+                                                        loss recovery</font></a></b> 
+                                                      <li><b><a href="carins.asp#2"><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">Motorist's 
+                                                        legal protection </font></a> </b>
+                                                      <li><b><a href="carins.asp#5"><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">How 
+                                                        much will it cost?</font></a></b> 
+                                                      <li><b><a href="carins.asp#6"><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">Cutting 
+                                                        the cost</font></a></b> 
+                                                      <li><b><a href="carins.asp#7"><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">No 
+                                                        claim bonus</font></a></b> 
+                                                      <li><a href="carins.asp#8"><b><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">Insuring 
+                                                        your car abroad</font></b></a> 
+                                                      <li><b><a href="carins.asp#9"><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">If 
+                                                        you are involved in an</font></a><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">
+                                                        </font> 
+                                                        <a href="carins.asp#9"><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">accident</font></a></b> 
+                                                      <li><b><a href="carins.asp#10"><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">If 
+                                                        your vehicle is stolen</font></a></b> 
+                                                      <li><b><a href="carins.asp#11"><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">Where 
+                                                        to go for advice</font></a></b> 
+                                                      <li><b><a href="checklist.htm" target="_blank"><font color="#333399" face="Arial, Helvetica, sans-serif" size="1">Your 
+                                                        accident checklist 
+                                                        </font></a> 
+                                                        </b> 
+                                                      </ul>
+              </td>
+            </tr>
+            <tr>
+              <td width="100%" valign="top"></td>
+            </tr>
+          </table>
+        </td>
+        <td width="72%" valign="top">
+         
+                              <table width="95%" border="0" cellspacing="0" cellpadding="0" height="100%">
+                                <tr valign="top"> 
+                                  <td background width="38" height="100%"> 
+                                    <p align="center"> 
+                                    <font size="2" face="Arial, Helvetica, sans-serif"> 
+                                    <b> </b> </font> <font size="3" face="Arial"><br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <img border="0" src="images/shim.gif" width="20">
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    </font><img border="0" src="images/arrow3.gif" WIDTH="15" HEIGHT="34">&nbsp;</p>
+ </td>
+                                              <td background width="96%" height="4694"> 
+                                                <font size="2" face="Arial, Helvetica, sans-serif">
+                                                If you are a driver or owner of 
+                                                a car, motorbike, lorry or any 
+                                                other type of motor vehicle, you 
+                                                must be insured by law. <br>
+                                                <br>
+                                                The world of motor insurance is 
+                                                a complex one. There are literally 
+                                                hundreds of different policies 
+                                                to choose from, and it's not always 
+                                                easy to know how to go about finding 
+                                                the right one for you - and at 
+                                                a cost that won't break the bank! 
+                                                <br>
+                                                <br>
+                                                Here we aim to explain some of 
+                                                the ins and outs of motor insurance, 
+                                                and the advantages of obtaining 
+                                                impartial and expert advice. Also, 
+                                                what you should do if you're involved 
+                                                in an accident.<br>
+                                                <a name="#3"></a><br>
+                                                <b><font color="#333399" size="2" face="Arial, Helvetica, sans-serif">THIRD 
+                                                PARTY, FIRE AND THEFT</font></b><br>
+                                                <br>
+                                                The minimum insurance cover you 
+                                                can buy is called 'third party 
+                                                only'. This covers you if you 
+                                                injure someone else or damage 
+                                                their property. However, very 
+                                                few companies will sell you this 
+                                                cover on its own. <br>
+                                                <br>
+                                                The next step up includes 'fire 
+                                                and theft', and this provides 
+                                                protection against loss and damage 
+                                                if your vehicle is burnt or stolen. 
+                                                However it will not protect you 
+                                                against damage to your vehicle 
+                                                if you're involved in an accident, 
+                                                or if it is vandalised.<br>
+                                                <a name="#4"></a><br>
+                                                <font color="#333399" size="2" face="Arial, Helvetica, sans-serif"><b>COMPREHENSIVE 
+                                                INSURANCE</b></font><br>
+                                                <br>
+                                                Comprehensive insurance covers 
+                                                damages to your vehicle from a 
+                                                wide range of causes, including 
+                                                accident, third party, fire and 
+                                                theft. Other benefits sometimes 
+                                                include limited cover for items 
+                                                stolen from your vehicle, medical 
+                                                expenses and personal accident 
+                                                protection. <br>
+                                                <br>
+                                                The word 'comprehensive' can be 
+                                                misleading, however as these policies 
+                                                always include limitations and 
+                                                exclusions.<br>
+                                                <a name="#1"></a><br>
+                                                <font color="#333399" size="2" face="Arial, Helvetica, sans-serif"><b>UNINSURED 
+                                                LOSS RECOVERY</b></font><br>
+                                                <br>
+                                                This is a policy for motorists 
+                                                which ensures that costs are recovered 
+                                                from other parties in the event 
+                                                of an accident which is not your 
+                                                fault. It offers two levels of 
+                                                cover and also provides Personal 
+                                                Injury cover, roadside assistance 
+                                                and a legal helpline. <br>
+                                                <a name="#2"></a><br>
+                                                <b><font color="#333399" size="2" face="Arial, Helvetica, sans-serif">MOTORIST'S 
+                                                LEGAL PROTECTION</font></b><br>
+                                                <br>
+                                                This is cover to meet the cost 
+                                                of defending court actions arising 
+                                                from incidents on the road. It 
+                                                includes a free 24 hour expert 
+                                                advisory service.<br>
+                                                <a name="#5"></a><br>
+                                                <font color="#333399" size="2" face="Arial, Helvetica, sans-serif"><b>HOW 
+                                                MUCH WILL IT COST?</b></font><br>
+                                                <br>
+                                                The cost of motor insurance can 
+                                                vary enormously - an insurance 
+                                                broker who knows the market will 
+                                                be able select the best policy 
+                                                for you. However, many factors 
+                                                will influence the premium you 
+                                                have to pay.<br>
+                                                <br>
+                                                </font> 
+                                                <ul>
+                                                <li><font size="2" face="Arial, Helvetica, sans-serif">The 
+                                                  type of vehicle you drive. Cars 
+                                                  are grouped into 20 bands. The 
+                                                  more powerful the engine, the 
+                                                  more expensive the car is to 
+                                                  repair, and the more likely 
+                                                  it is to be broken into or stolen 
+                                                  will all affect the band it 
+                                                  comes into and the premium you 
+                                                  have to pay. Generally speaking, 
+                                                  insurance companies have the 
+                                                  same bands, but some makes of 
+                                                  car may rate higher or lower 
+                                                  with different companies.<br>
+                                                  <br>
+                                                  </font></li>
+                                                <li><font size="2" face="Arial, Helvetica, sans-serif"> 
+                                                  The area you live in, your occupation 
+                                                  and where your car is parked. 
+                                                  If you live in an inner city 
+                                                  where you are more likely to 
+                                                  be involved in an accident or 
+                                                  have your car stolen, you will 
+                                                  pay more than someone who lives 
+                                                  in a country village. The same 
+                                                  is true if you use your car 
+                                                  for work. Whether or not your 
+                                                  car is kept in a garage also 
+                                                  makes a difference. Including 
+                                                  cover for drivers under the 
+                                                  age of 25 will also affect the 
+                                                  premium - costs can be kept 
+                                                  lower by restricting the drivers 
+                                                  to the insured or the insured 
+                                                  and spouse only.<br>
+                                                  <br>
+                                                  </font></li>
+                                                <li><font size="2" face="Arial, Helvetica, sans-serif"> 
+                                                  Your age and driving experience. 
+                                                  Young drivers are more likely 
+                                                  to have accidents, while older 
+                                                  people tend to be more careful. 
+                                                  Insurers generally apply a basic 
+                                                  rate to drivers aged 30-49. 
+                                                  If you're younger than this, 
+                                                  you will incur a 'penalty'. 
+                                                  If you're older, you could qualify 
+                                                  for a discount. Any disabilities 
+                                                  you have will also be taken 
+                                                  into account.<br>
+                                                  <br>
+                                                  </font></li>
+                                                <li><font size="2" face="Arial, Helvetica, sans-serif"> 
+                                                  If you've been convicted of 
+                                                  motoring offences in the past, 
+                                                  or have a bad accident record, 
+                                                  you will probably have to pay 
+                                                  a higher premium.<br>
+                                                  <br>
+                                                  </font></li>
+                                                <li><font size="2" face="Arial, Helvetica, sans-serif"> 
+                                                  Before an insurance company 
+                                                  will sell you motor insurance 
+                                                  it will want to weigh up all 
+                                                  the risks involved, so before 
+                                                  your broker can offer you an 
+                                                  accurate quotation they will 
+                                                  have to ask a lot of detailed 
+                                                  questions covering the points 
+                                                  outlined above. Remember - if 
+                                                  you fail to provide accurate 
+                                                  information a subsequent claim 
+                                                  may be refused.<br>
+                                                  <br>
+                                                  </font></li>
+                                                <li><font size="2" face="Arial, Helvetica, sans-serif"> 
+                                                  It's worth consulting a broker 
+                                                  who has a wide knowledge of 
+                                                  what's available and will shop 
+                                                  around, saving you considerable 
+                                                  time in having to seek quotations 
+                                                  from different insurers.<br>
+                                                  <a name="#6"></a><br>
+                                                  </font></li>
+                                                </ul>
+                                                <font color="#333399" size="2" face="Arial, Helvetica, sans-serif"><b>CUTTING 
+                                                THE COST</b></font><br>
+                                                <br>
+                                                <font size="2" face="Arial, Helvetica, sans-serif">You 
+                                                may be able to reduce the premium 
+                                                you pay by restricting the cover 
+                                                granted by the policy. For example 
+                                                - you could limit the number of 
+                                                people who will drive the vehicle. 
+                                                But be careful - if the regular 
+                                                driver is incapacitated, you don't 
+                                                want to find out that nobody can 
+                                                drive the car in an emergency.<br>
+                                                <br>
+                                                Another way of cutting your insurance 
+                                                costs is to agree to pay the first 
+                                                part of any claim. This is known 
+                                                as an 'excess' and has the advantage 
+                                                that you will know in advance 
+                                                how much you will need to pay 
+                                                towards any claim you make. The 
+                                                policy may already be subject 
+                                                to an excess, which you can generally 
+                                                increase.</font><br>
+                                                <font size="2" face="Arial, Helvetica, sans-serif"><a name="#7"></a></font><br>
+                                                <font color="#333399" size="2" face="Arial, Helvetica, sans-serif"><b>NO 
+                                                CLAIM BONUS</b></font><br>
+                                                <br>
+                                                <font face="Arial, Helvetica, sans-serif" size="2">Once 
+                                                you've had motor insurance for 
+                                                a year or more without making 
+                                                a claim, you should be eligible 
+                                                for a 'no claim discount' or 'no 
+                                                claim bonus.' This usually amounts 
+                                                to a reduction of 30% on your 
+                                                premium in the first year, rising 
+                                                in annual steps to a maximum of 
+                                                60 or 65%. <br>
+                                                <br>
+                                                If you make a claim, your no claim 
+                                                discount will be reduced or disallowed. 
+                                                If you have built up a higher 
+                                                rate of discount, most insurers 
+                                                will usually reduce it by two 
+                                                years, rather than disallowing 
+                                                it altogether, and some offer 
+                                                a protected no claim discount. 
+                                                Sometimes it may be cheaper to 
+                                                pay for minor damage yourself, 
+                                                rather than risk losing your bonus. 
+                                                <br>
+                                                <br>
+                                                But what if the accident was your 
+                                                fault? Your no claim discount 
+                                                shouldn't be affected if the insurer 
+                                                is able to recover the cost of 
+                                                the claim from the party who was 
+                                                to blame. Some companies operate 
+                                                a 'knock for knock' or similar 
+                                                type of arrangement. If two cars 
+                                                involved in an accident are insured 
+                                                with different companies, each 
+                                                one pays for the damage to the 
+                                                car it insured. This cuts down 
+                                                on the paperwork and so the cost 
+                                                of your premiums. However, this 
+                                                practice is becoming less common. 
+                                                <br>
+                                                <br>
+                                                It's important that you inform 
+                                                your broker of all incidents of 
+                                                damage or loss, however small, 
+                                                and even if you do not make a 
+                                                claim for them. There have been 
+                                                cases where insurance companies 
+                                                have refused to meet claims because 
+                                                the driver failed to disclose 
+                                                previous incidents.</font><br>
+                                                <font size="2" face="Arial, Helvetica, sans-serif"><a name="#8"></a></font><br>
+                                                <font color="#333399" size="2" face="Arial, Helvetica, sans-serif"><b>INSURING 
+                                                YOUR CAR ABROAD</b></font><br>
+                                                <br>
+                                                <font face="Arial, Helvetica, sans-serif" size="2">Your 
+                                                UK policy will provide cover in 
+                                                EU countries to meet their minimum 
+                                                legal requirements, but this will 
+                                                not be enough if you have an accident. 
+                                                Nor will it cover you for theft 
+                                                or damage to your car, and may 
+                                                not cover your legal liabilities 
+                                                to other people. If you pay an 
+                                                additional premium you can ensure 
+                                                full protection. Many insurers 
+                                                will now give you free continental 
+                                                cover for up to 30 days in any 
+                                                one year, but you may need to 
+                                                advise your insurer of any overseas 
+                                                trip. <br>
+                                                <br>
+                                                <b>If you don't tell your insurer 
+                                                and have an accident</b>, you 
+                                                may find yourself paying for the 
+                                                extra costs they would have been 
+                                                incurred had the accident happened 
+                                                in this country, provided the 
+                                                insurer agrees to deal with the 
+                                                claim. <br>
+                                                <br>
+                                                <b>Give your broker plenty of 
+                                                notice of your trip</b>. He will 
+                                                get the insurance company to issue 
+                                                an international certificate of 
+                                                motor insurance, otherwise known 
+                                                as a 'Green Card'. This is not 
+                                                absolutely necessary but is recommended. 
+                                                <br>
+                                                <br>
+                                                <b>If you are driving in Spain, 
+                                                you will also need a 'Bail Bond'</b>. 
+                                                If you have an accident - even 
+                                                if it is not your fault - the 
+                                                Spanish authorities can impound 
+                                                your car. A Bail Bond is used 
+                                                to secure the release of your 
+                                                vehicle. Most insurers will automatically 
+                                                include a Bail Bond in your cover 
+                                                up to a certain amount, usually 
+                                                £1,000 if they know you're travelling 
+                                                to Spain.<br>
+                                                <br>
+                                                <b>If you do not own the car you 
+                                                are taking abroad</b>, it's advisable 
+                                                to take a letter from the owner 
+                                                explaining that you have permission 
+                                                to drive the car. This should 
+                                                save time if you have an accident. 
+                                                It's also a good idea to take 
+                                                the vehicle registration document 
+                                                with you. It goes without saying 
+                                                that you should never leave valuables 
+                                                -including any documentation - 
+                                                unattended in the car.</font><br>
+                                                <font size="2" face="Arial, Helvetica, sans-serif"><a name="#9"></a></font><br>
+                                                <b><font color="#333399" size="2" face="Arial, Helvetica, sans-serif">IF 
+                                                YOU ARE INVOLVED IN AN ACCIDENT</font></b><br>
+                                                <br>
+                                                <font face="Arial, Helvetica, sans-serif" size="2">If 
+                                                you have a vehicle accident which 
+                                                causes injury or damage, you must 
+                                                give your name and address, and 
+                                                details of your insurance policy 
+                                                to anyone who reasonably needs 
+                                                it.
+                                                </font>
+                                                <ul>
+                                                <li><font size="2" face="Arial, Helvetica, sans-serif">If 
+                                                  you're involved in an accident, 
+                                                  do not admit liability. Take 
+                                                  the name and address of the 
+                                                  other driver, and details of 
+                                                  their insurance company, and 
+                                                  of any witnesses. If anyone 
+                                                  is injured, call the police. 
+                                                  If they do not attend the scene, 
+                                                  or if someone else's property 
+                                                  has been damaged, the accident 
+                                                  must be reported to the police 
+                                                  within 24 hours.<br>
+                                                  <br>
+                                                  </font> 
+                                                <li><font size="2" face="Arial, Helvetica, sans-serif"> 
+                                                  You must tell your insurance 
+                                                  company about the accident, 
+                                                  even if you do not intend making 
+                                                  a claim, as you will always 
+                                                  need to submit a claim form 
+                                                  to your insurer. Your broker 
+                                                  can advise you about whether 
+                                                  you should make a claim or not.<br>
+                                                  <br>
+                                                  </font> 
+                                                <li><font size="2" face="Arial, Helvetica, sans-serif"> 
+                                                  If you intend to claim, you'll 
+                                                  have to complete an claims form. 
+                                                  You should wait for the go-ahead 
+                                                  from your insurance company 
+                                                  before having your vehicle repaired. 
+                                                  They may want a damage assessor 
+                                                  to look at it, or you may have 
+                                                  to supply estimates before the 
+                                                  work is done. Some insurers 
+                                                  may have their own repair schemes, 
+                                                  where you can take the vehicle 
+                                                  to garages who may be able to 
+                                                  start repairs immediately.<br>
+                                                  <br>
+                                                  </font> 
+                                                <li><font size="2" face="Arial, Helvetica, sans-serif"> 
+                                                  If you have to pay a proportion 
+                                                  of the repair costs, then you 
+                                                  must pay this to the repairer 
+                                                  irrespective of who was to blame 
+                                                  for the accident. Should you 
+                                                  decide to go ahead with the 
+                                                  repair yourself, you are responsible 
+                                                  for the cost until your insurers 
+                                                  have agreed to pay. But beware 
+                                                  of taking this course of action, 
+                                                  because if the insurer can show 
+                                                  repairs could have been done 
+                                                  cheaper somewhere else, they 
+                                                  may pay a lesser amount than 
+                                                  you claim.<br>
+                                                  <br>
+                                                  </font> 
+                                                <li><font size="2" face="Arial, Helvetica, sans-serif"> 
+                                                  If your vehicle is not worth 
+                                                  repairing, the insurance company 
+                                                  will offer you a lump sum for 
+                                                  it. This is known as a 'write-off'. 
+                                                  The damaged vehicle then belongs 
+                                                  to them.<br>
+                                                  <br>
+                                                  </font> 
+                                                <li><font size="2" face="Arial, Helvetica, sans-serif"> 
+                                                  After an accident, you may incur 
+                                                  expenses which are not covered 
+                                                  by your policy - examples are 
+                                                  the cost of hiring a car while 
+                                                  yours is repaired, or compensation 
+                                                  for personal injury. Such expenses 
+                                                  might be claimed against a third 
+                                                  party - again, your broker will 
+                                                  be able to give you all the 
+                                                  advice you need.<br>
+                                                  <a name="#10"></a><br>
+                                                  </font> 
+                                                </ul>
+                                                <p><font size="2" face="Arial, Helvetica, sans-serif"> 
+                                                  <b><font color="#333399">IF 
+                                                  YOUR VEHICLE IS STOLEN </font></b><br>
+                                                  <br>
+                                                  If you vehicle is stolen, you 
+                                                  must inform the police immediately. 
+                                                  You should also tell your insurance 
+                                                  company and complete a report 
+                                                  form as quickly as possible. 
+                                                  <br>
+                                                  <br>
+                                                  You'll probably have to wait 
+                                                  at least six weeks before your 
+                                                  insurers will settle any claim 
+                                                  for its loss. This time is to 
+                                                  allow the police to investigate 
+                                                  the crime, and hopefully recover 
+                                                  the vehicle. <br>
+                                                  <br>
+                                                  If your vehicle is found, tell 
+                                                  your insurance company and give 
+                                                  them precise details of its 
+                                                  whereabouts. <br>
+                                                  <br>
+                                                  Personal property stolen from 
+                                                  a vehicle or damaged may be 
+                                                  covered under a comprehensive 
+                                                  policy, but only up to a certain 
+                                                  limit - usually around £150.<br>
+                                                  <a name="#11"></a><br>
+                                                  <b><font color="#333399">WHERE 
+                                                  TO GO FOR ADVICE</font></b><br>
+                                                  <br>
+                                                  The world of motor insurance 
+                                                  is extremely complex, so always 
+                                                  talk to a registered insurance 
+                                                  broker. As an independent expert, 
+                                                  they will help you decide what 
+                                                  sort of cover you need, and 
+                                                  choose the right insurer to 
+                                                  meet your requirements at the 
+                                                  most reasonable cost. <br>
+                                                  <br>
+                                                  By law, a registered insurance 
+                                                  broker must put your interests 
+                                                  first. They work for you, not 
+                                                  the insurance company. So you 
+                                                  can be sure of impartial advice 
+                                                  at all times, a choice of the 
+                                                  products available, and a helping 
+                                                  hand.<br>
+                                                  <br>
+                                                  BIBA - the British Insurance 
+                                                  Brokers' Association - is the 
+                                                  largest trade association for 
+                                                  insurance brokers. All BIBA 
+                                                  members offer the highest professional 
+                                                  standards and financial integrity, 
+                                                  and always place the interests 
+                                                  of their clients first. <br>
+                                                  <br>
+                                                  <a href="findbroker.asp"><font color="#0000FF">
+                                                  BIBA members</font></a> can be found nationwide, 
+                                                  so there's bound to be one near 
+                                                  you.<br>
+                                                  <a name="#12"></a><br>
+                                                  <font color="#333399"><b>YOUR 
+                                                  ACCIDENT CHECKLIST</b></font><br>
+                                                  <br>
+                                                  Print out this checklist and 
+                                                  keep it in your car in case 
+                                                  you have an accident. <br>
+                                                  <br>
+                                                  If you are involved in an accident, 
+                                                  do not admit liability. <br>
+                                                  <br>
+                                                  <b>Complete the details below:<br>
+                                                  <br>
+                                                  <br>
+                                                  </b></font> 
+                                                </p>
+                                                  <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#B0B0D0">
+                                                    <form name="form1">
+                                                      <tr valign="middle" bgcolor="#333399"> 
+                                                        <td colspan="3" height="27"> 
+                                                          <font face="Arial, Helvetica, sans-serif" size="2" color="#333399"><b>...<font color="#FFFFFF">Registration 
+                                                          number and type of vehicle: 
+                                                          </font></b></font></td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="22%">&nbsp;</td>
+                                                        <td width="20%">&nbsp;</td>
+                                                        <td width="58%">&nbsp;</td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="22%" valign="top"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#333399">Vehicle 
+                                                            1</font></b> </font></div>
+                                                        </td>
+                                                        <td width="20%" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh13" size="7" maxlength="7">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1"><b>Reg.</b></font> 
+                                                            </font> </div>
+                                                        </td>
+                                                        <td width="58%" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="mod13" size="20" value>
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <b><font size="1">Type/Model 
+                                                            </font></b></font> 
+                                                          </div>
+                                                        </td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="22%" valign="top"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#333399">Vehicle 
+                                                            2 </font></b></font></div>
+                                                        </td>
+                                                        <td width="20%" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh23" size="7" maxlength="7">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1">Reg.</font></font> 
+                                                          </div>
+                                                        </td>
+                                                        <td width="58%" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="mod23" size="20" value>
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1">Type/Model 
+                                                            </font></font> </div>
+                                                        </td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="22%" valign="top"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#333399">Vehicle 
+                                                            3 </font></b></font></div>
+                                                        </td>
+                                                        <td width="20%" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh33" size="7" maxlength="7">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1">Reg.</font></font> 
+                                                          </div>
+                                                        </td>
+                                                        <td width="58%" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="mod33" size="20" value>
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1">Type/Model 
+                                                            </font></font> </div>
+                                                        </td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="22%" height="40">&nbsp;</td>
+                                                        <td width="20%" height="40"> 
+                                                          <div align="center"><b><font face="Arial, Helvetica, sans-serif" size="1">i.e. 
+                                                            D789CCD</font></b></div>
+                                                        </td>
+                                                        <td width="58%" height="20"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="1">i.e. 
+                                                            Land Rover Freelander 
+                                                            - Blue</font></div>
+                                                        </td>
+                                                      </tr>
+                                                    </form>
+                                                  </table>
+                                                  <font size="2" face="Arial, Helvetica, sans-serif"><br>
+                                                  <br>
+                                                  </font> 
+                                                  <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#B0B0D0">
+                                                    <form name="form1">
+                                                      <tr bgcolor="#333399"> 
+                                                        <td colspan="3" height="27" valign="middle"> 
+                                                          <font face="Arial, Helvetica, sans-serif" size="2" color="#333399"><b>...<font color="#FFFFFF">Names 
+                                                          and Addresses of other 
+                                                          drivers: </font></b></font></td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94">&nbsp;</td>
+                                                        <td width="92">&nbsp;</td>
+                                                        <td width="242">&nbsp;</td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94" valign="top"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#333399">Driver 
+                                                            1</font></b> </font></div>
+                                                        </td>
+                                                        <td width="92" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh123" size="10" maxlength="26">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1"><b>Name</b></font> 
+                                                            </font> </div>
+                                                        </td>
+                                                        <td width="242" valign="top"> 
+                                                          <div align="center"> 
+                                                            <textarea name="textarea2" cols="20" rows="1"></textarea>
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <b><font size="1">Address 
+                                                            </font></b></font> 
+                                                          </div>
+                                                        </td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94" valign="top"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#333399">Driver 
+                                                            2 </font></b></font></div>
+                                                        </td>
+                                                        <td width="92" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh223" size="10" maxlength="26">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1">Name</font></font></div>
+                                                        </td>
+                                                        <td width="242" valign="top"> 
+                                                          <div align="center"> 
+                                                            <textarea name="textarea2" cols="20" rows="1"></textarea>
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1">Address 
+                                                            </font></font> </div>
+                                                        </td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94" valign="top"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#333399">Driver 
+                                                            3 </font></b></font></div>
+                                                        </td>
+                                                        <td width="92" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh323" size="10" maxlength="25">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1">Name</font></font> 
+                                                          </div>
+                                                        </td>
+                                                        <td width="242" valign="top"> 
+                                                          <div align="center"> 
+                                                            <textarea name="textarea2" cols="20" rows="1"></textarea>
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1">Address 
+                                                            </font></font> </div>
+                                                        </td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94" height="20">&nbsp;</td>
+                                                        <td width="92" height="20" valign="middle"> 
+                                                          <div align="left"> 
+                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0" height="40">
+                                                              <tr> 
+                                                                <td><b><font face="Arial, Helvetica, sans-serif" size="1">i.e. 
+                                                                  Mr John Smith<br>
+                                                                  </font></b></td>
+                                                              </tr>
+                                                            </table>
+                                                          </div>
+                                                        </td>
+                                                        <td width="242" height="20" valign="middle"> 
+                                                          <div align="left"> 
+                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0" height="40">
+                                                              <tr> 
+                                                                <td height="27"> 
+                                                                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1">i.e. 
+                                                                    Street/Town/Post 
+                                                                    Code<br>
+                                                                    </font></div>
+                                                                </td>
+                                                              </tr>
+                                                            </table>
+ </div>
+                                                        </td>
+                                                      </tr>
+                                                    </form>
+                                                  </table>
+                                                <font size="2" face="Arial, Helvetica, sans-serif"><br>
+                                                  <br>
+                                                  </font> 
+                                                  <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#B0B0D0">
+                                                    <form name="form1">
+                                                      <tr bgcolor="#333399"> 
+                                                        <td colspan="3" height="27" valign="middle"> 
+                                                          <b> 
+                                                          <font face="Arial, Helvetica, sans-serif" size="2" color="#333399">...<font color="#FFFFFF">Names 
+                                                          and Addresses </font></font><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">of
+                                                          witnesses</font><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">:</font><font face="Arial, Helvetica, sans-serif" size="2" color="#333399">:</font></b></td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94">&nbsp;</td>
+                                                        <td width="92">&nbsp;</td>
+                                                        <td width="242">&nbsp;</td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94" valign="top"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#333399">Witness
+                                                            1</font></b> </font></div>
+                                                        </td>
+                                                        <td width="92" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh123" size="10" maxlength="26">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1"><b>Name</b></font> 
+                                                            </font> </div>
+                                                        </td>
+                                                        <td width="242" valign="top"> 
+                                                          <div align="center"> 
+                                                            <textarea name="textarea2" cols="20" rows="1"></textarea>
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <b><font size="1">Address 
+                                                            </font></b></font> 
+                                                          </div>
+                                                        </td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94" valign="top"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#333399">Witness
+                                                            2</font></b></font></div>
+                                                        </td>
+                                                        <td width="92" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh223" size="10" maxlength="26">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1">Name</font></font></div>
+                                                        </td>
+                                                        <td width="242" valign="top"> 
+                                                          <div align="center"> 
+                                                            <textarea name="textarea2" cols="20" rows="1"></textarea>
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1">Address 
+                                                            </font></font> </div>
+                                                        </td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94" valign="top"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#333399">Witness
+                                                            3</font></b> </font></div>
+                                                        </td>
+                                                        <td width="92" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh323" size="10" maxlength="25">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1">Name</font></font> 
+                                                          </div>
+                                                        </td>
+                                                        <td width="242" valign="top"> 
+                                                          <div align="center"> 
+                                                            <textarea name="textarea2" cols="20" rows="1"></textarea>
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            <font size="1">Address 
+                                                            </font></font> </div>
+                                                        </td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94" height="20">&nbsp;</td>
+                                                        <td width="92" height="20" valign="middle"> 
+                                                          <div align="left"> 
+                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0" height="40">
+                                                              <tr> 
+                                                                <td><b><font face="Arial, Helvetica, sans-serif" size="1">i.e. 
+                                                                  Mr John Smith<br>
+                                                                  </font></b></td>
+                                                              </tr>
+                                                            </table>
+                                                          </div>
+                                                        </td>
+                                                        <td width="242" height="20" valign="middle"> 
+                                                          <div align="left"> 
+                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0" height="40">
+                                                              <tr> 
+                                                                <td height="27"> 
+                                                                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1">i.e. 
+                                                                    Street/Town/Post 
+                                                                    Code<br>
+                                                                    </font></div>
+                                                                </td>
+                                                              </tr>
+                                                            </table>
+ </div>
+                                                        </td>
+                                                      </tr>
+                                                    </form>
+                                                  </table>
+                                                <font size="2" face="Arial, Helvetica, sans-serif"><br>
+                                                  <br>
+                                                  </font> 
+                                                  <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#B0B0D0">
+                                                    <form name="form1">
+                                                      <tr bgcolor="#333399"> 
+                                                        <td colspan="4" height="27" valign="middle"> 
+                                                          <font face="Arial, Helvetica, sans-serif" size="2" color="#333399"><b>...</b></font><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><b>Other driver's insurance details:</b></font></td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94">&nbsp;</td>
+                                                        <td width="92">&nbsp;</td>
+                                                        <td width="121">&nbsp;</td>
+                                                        <td width="121">&nbsp;</td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94" valign="top"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#333399">Driver 
+                                                            1</font></b> </font></div>
+                                                        </td>
+                                                        <td width="92" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh123" size="10" maxlength="26">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            </font> <font size="1" face="Arial, Helvetica, sans-serif"><b>Insurer</b></font> </div>
+                                                        </td>
+                                                        <td width="121" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh123" size="10" maxlength="26">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            </font> 
+                                                            <font size="1" face="Arial, Helvetica, sans-serif"><b>Policy No</b></font> 
+                                                          </div>
+                                                        </td>
+                                                        <td width="121" valign="top" align="center"> 
+                                                            <input type="text" name="veh123" size="10" maxlength="26">
+                                                          <br>
+                                                          <font face="Arial, Helvetica, sans-serif" size="1"><b>Date of expiry</b></font>
+                                                        </td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94" valign="top"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#333399">Driver 
+                                                            2 </font></b></font></div>
+                                                        </td>
+                                                        <td width="92" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh223" size="10" maxlength="26">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            </font><font size="1" face="Arial, Helvetica, sans-serif">Insurer</font></div>
+                                                        </td>
+                                                        <td width="121" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh123" size="10" maxlength="26">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            </font> <font size="1" face="Arial, Helvetica, sans-serif">Policy No</font> </div>
+                                                        </td>
+                                                        <td width="121" valign="top" align="center"> 
+                                                            <input type="text" name="veh123" size="10" maxlength="26">
+                                                          <br>
+                                                          <font face="Arial, Helvetica, sans-serif" size="1">Date of expiry</font>
+                                                        </td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94" valign="top"> 
+                                                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#333399">Driver 
+                                                            3 </font></b></font></div>
+                                                        </td>
+                                                        <td width="92" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh323" size="10" maxlength="25">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            </font> 
+                                                            <font size="1" face="Arial, Helvetica, sans-serif">Insurer</font> 
+                                                          </div>
+                                                        </td>
+                                                        <td width="121" valign="top"> 
+                                                          <div align="center"> 
+                                                            <input type="text" name="veh123" size="10" maxlength="26">
+                                                            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                                                            </font> <font size="1" face="Arial, Helvetica, sans-serif">Policy No</font> </div>
+                                                        </td>
+                                                        <td width="121" valign="top" align="center"> 
+                                                            <input type="text" name="veh123" size="10" maxlength="26">
+                                                          <br>
+                                                          <font face="Arial, Helvetica, sans-serif" size="1">Date of expiry</font>
+                                                        </td>
+                                                      </tr>
+                                                      <tr> 
+                                                        <td width="94" height="20">&nbsp;</td>
+                                                        <td width="92" height="20" valign="middle"> 
+                                                          <div align="left"> 
+                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0" height="40">
+                                                              <tr> 
+                                                                <td></td>
+                                                              </tr>
+                                                            </table>
+                                                          </div>
+                                                        </td>
+                                                        <td width="121" height="20" valign="middle"> 
+                                                          <div align="left"> 
+                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0" height="40">
+                                                              <tr> 
+                                                                <td height="27"> 
+                                                                  <div align="center">&nbsp;</div>
+                                                                </td>
+                                                              </tr>
+                                                            </table>
+ </div>
+                                                        </td>
+                                                        <td width="121" height="20" valign="middle"> 
+                                                          &nbsp;
+                                                        </td>
+                                                      </tr>
+                                                    </form>
+                                                  </table>
+                                                <font size="2" face="Arial, Helvetica, sans-serif"><br>
+                                                  </font> 
+                                                <p align="center"><a href="#top"><img border="0" src="images/arrow2.gif" WIDTH="15" HEIGHT="17">
+                                                <b><font size="2" face="Arial" color="#000080">Back</font></b></a></p>
+                                              </td>
+                                  <td background width="398" height="100%">
+                                          &nbsp;
+                                          <p>&nbsp;</p>
+                                          <p> 
+                                          &nbsp; </p>
+</td> 
+                                </tr> 
+                              </table> 
+</td>
+      </tr>
+    </table>
+    </td>
+   <td background="images/page_r4_c2.gif">
+  
+<table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img name="page_r3_c2" src="images/page_r3_c2.gif" width="118" height="60" border="0"></td>
+      </tr>
+      <tr>
+        <td height="300" valign="top" background="images/girl.gif">
+        
+<form><br>
+        
+                              
+<select name="select2" onChange="MM_jumpMenu('self',this,0)" style="font-family:Arial; font-size:8pt" style="background-color: #E1E5EE">
+<option selected>Jump to</option>
+<option value=whyuse.asp>Use a BIBA broker</option>
+<option value=findbroker.asp>Find a broker</option>
+<option value=whattolook.asp>What to look for</option>
+<option value=jargonbuster.asp>Jargon buster</option>
+<option value=homeins.asp>Home & contents</option>
+<option value=carins.asp>Car insurance</option>
+<option value=travelins.asp>Travel Insurance</option>
+<option value=exclusive.asp>BIBA schemes</option>
+</select>
+
+</form>
+        
+        </td>
+      </tr>
+    </table>
+
+
+    </td>
+  </tr>
+  <tr valign="top"><!-- row 4 -->
+  </tr>
+</table>
+</body>
+
+</html>
+
+

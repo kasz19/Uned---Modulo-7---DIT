@@ -1,0 +1,932 @@
+ID=B0038
+URL=http://www.skipton.co.uk/customer_services/investment_statement_guide.asp
+SIZE=49009
+DATE=28/06/2002
+TIME=12:46:50
+DATASET=Building Societies
+HTML=<HTML>
+</head>
+
+
+
+<TITLE>Investment Statement Guide - customer service - investment statement guide</TITLE>
+
+<script language="JavaScript">
+<!-- Hide the script from old browsers --
+function changePage(form) {
+
+		// position in the list
+        var position=form.destination.selectedIndex
+
+		// value of that position
+		pageURL = form.destination.options[position].value;
+
+		// is it a popup window or not
+		floatingWindow = form.destination.options[position].popUp;
+		
+		if (floatingWindow == "Y" && pageURL!="EMPTY")
+		{
+	        window.open(pageURL,"main");
+		}
+		else
+		{
+			if (pageURL!="EMPTY")
+			{
+				this.location.href = pageURL;
+			}
+		}
+
+
+
+}
+//-->
+</SCRIPT>
+
+<LINK REL=STYLESHEET HREF="/shared/skipton.CSS">
+
+</HEAD>
+
+<BODY bgcolor="#ffffff" text="#00005F" link="#0000ff" vlink="#ff0000" topmargin=0 leftmargin=0 marginwidth=0 marginheight=0>
+
+<!--header of page-->
+<table width=600 cellpadding=0 cellspacing=0 border=0>
+	<td valign=top rowspan=3><a href="/index.asp"><img src="/shared/header_left.gif" width=236 height=110 border=0 alt="Skipton Building Society Logo"></a></td>
+	<td valign=top rowspan=2><a href="/index.asp"><img src="/shared/header_top_middle.gif" width=85 height=69 border=0></a></td>
+	<td valign=top colspan=2><a href="/index.asp"><img src="/shared/header_top_right.gif" width=279 height=23 border=0></a></td>
+<tr>
+	<td align=right valign=top>
+	<span style="font-size: 18pt; font-family: arial; letter-spacing: 8">skipton.co.uk</span>
+	<br>
+	<span style="font-size: 8pt">
+			Friday&nbsp;28th&nbsp;June&nbsp;2002</span></td>
+	<td><img src="dot.gif" width=8 height=32 border=0></td>
+<tr>
+	<td align=right valign=bottom colspan=3>
+		<FORM class="dropdown" NAME="menuListForm">
+		<SELECT NAME="destination" onChange="changePage(this.form)">
+			<option class="menutitle" value="EMPTY" popUp="N">Site Menu</option>
+			<option value="EMPTY" popUp="N"></option>
+
+			<option class="menutitle" value="/index.asp" popUp="N">Home</option>
+			<option class="menutitle" value="/product_portfolio/mortgages/index.asp" popUp="N">Mortgages</option>
+			<option class="menutitle" value="/product_portfolio/investments/index.asp" popUp="N">Investments</option>
+			<option class="menutitle" value="/product_portfolio/isas/index.asp" popUp="N">ISAs</option>
+			<option class="menutitle" value="http://uk.multimap.com/clients/places.cgi?client=skip" popUp="N">Branch Locator</option>
+			<option class="menutitle" value="/customer_services/index.asp" popUp="N">Customer Services</option>
+			<option class="menutitle" value="http://www.skiptongroup.com/" popUp="Y">Skipton Group</option>
+			<option class="menutitle" value="/contact_us.asp" popUp="N">Contact Us</option>
+			<option class="menutitle" value="/newsletter_sbs/sbs_subscribe_link.asp" popUp="N">Newsletter</option>
+			<option class="menutitle" value="/about_skipton/index.asp" popUp="N">About Skipton</option>
+			<option class="menutitle" value="/society_news/index.asp" popUp="N">Press Office</option>
+			<option class="menutitle" value="/careers/index.asp" popUp="N">Careers</option>
+			<option class="menutitle" value="/commercial_mortgages/index.asp" popUp="N">Commercial Mortgages</option>
+			<option class="menutitle" value="http://www.skiptongroup.com/group_b2c/sgl.htm" popUp="Y">Offshore Investment</option>
+			<option class="menutitle" value="http://skipton.stockpoint.com/skipton/indices.asp" popUp="N">Financial Indices</option>
+			<option class="menutitle" value="http://www.insure.co.uk/skiptons.html?refer=SKIPBS" popUp="Y">Travel Insurance</option>
+			<option class="menutitle" value="/product_portfolio/mortgages/nu_term_assurance.asp" popUp="N">On-Line Term Assurance</option>
+			<option class="menutitle" value="/map/index.asp" popUp="N">Location Map</option>
+			<option class="menutitle" value="/help/index.asp" popUp="N">Help</option>			
+			
+		</select></form>
+		</td>
+</table>
+<!--end of header of page--><!-- Page header title and dropdown menu-->
+<table width=600 cellpadding=0 cellspacing=0 border=0>
+<td width=10 rowspan=2><img src="/shared/dot.gif" height=10 width=10></td>
+<td height=17 colspan=2><img src="/shared/dot.gif" height=17 width=10></td>
+<tr>
+	<td align=left valign=top>
+
+		<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+		 codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+		 WIDTH=340 HEIGHT=45>
+		 <PARAM NAME=movie VALUE="/customer_services/customer_services.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF> <EMBED src="/customer_services/customer_services.swf" quality=high bgcolor=#FFFFFF  WIDTH=340 HEIGHT=45 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED>
+		</OBJECT>
+
+</td>
+
+
+
+<!--page sub heading-->
+<table width=600 cellpadding=0 cellspacing=0 border=0>
+<td width=130 height=54>
+	<!--Spacer col--><img src="/shared/dot.gif" width=130 height=54></td>
+<td width=470 height=54 align=left valign=center>
+	<DIV class="subtitle">
+		investment statement guide
+	</DIV></td>
+</table>
+<!--end of page sub heading-->
+
+
+<table width=600 cellpadding=0 cellspacing=0 border=0>
+
+<td width=10 height=10>
+	<!--Spacer col--><img src="/shared/dot.gif" width=10 height=10></td>
+
+<td align=left valign=top>
+	<!--about skipton utility menu-->
+	<table width=100 cellpadding=0 cellspacing=0 border=0>
+	<td align=left valign=top>
+		<DIV class="textutilitytitle">
+			Services&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="/shared/action_arrow.gif" width=9 height=6 border=0 align=bottom>
+		</DIV></td>
+	<tr>
+	<td align=left valign=top>
+		<img src="/shared/double_line.gif" width=100 height=9 border=0></td>
+	<tr>
+	<td align=left valign=top>
+		<DIV class="textutility">
+			<a class="utilitylink" href="/customer_services/index.asp">Customer Services</a>
+		</DIV></td>
+	<tr>
+	<td align=left valign=top>
+		<img src="/shared/single_line.gif" width=100 height=9 border=0></td>
+	<tr>
+	<td align=left valign=top>
+		<DIV class="textutility">
+			<a class="utilitylink" href="/customer_services/index.asp">Mortgage</a>
+		</DIV></td>
+	<tr>
+	<td align=left valign=top>
+		<img src="/shared/single_line.gif" width=100 height=9 border=0></td>
+	<tr>
+	<td align=left valign=top>
+		<DIV class="textutility">
+			<a class="utilitylink" href="/customer_services/index.asp">Insurance</a>
+		</DIV></td>
+	<tr>
+	<td align=left valign=top>
+		<img src="/shared/single_line.gif" width=100 height=9 border=0></td>
+	<tr>
+	<td align=left valign=top>
+		<DIV class="textutility">
+			<a class="utilitylink" href="/customer_services/index.asp">General</a>
+		</DIV></td>
+	<tr>
+	<td align=left valign=top>
+		<img src="/shared/single_line.gif" width=100 height=9 border=0></td>
+	<tr>
+	<td align=left valign=top>
+		<DIV class="textutility">
+			<a class="utilitylink" href="/customer_services/investment_information.asp">Investment Information</a>
+	<tr>
+	<td align=left valign=top>
+		<img src="/shared/single_line.gif" width=100 height=9 border=0></td>
+	<tr>
+	<td align=left valign=top>
+		<DIV class="textutility">
+			<a class="utilitylink" href="/investment_rates/index.asp">Investment Rates</a>
+	<tr>
+	<td align=left valign=top>
+		<img src="/shared/single_line.gif" width=100 height=9 border=0></td>
+	<tr>
+	<td align=left valign=top>
+		<DIV class="textutility">
+			<a class="utilitylink" href="/customer_services/investment_statement_guide.asp">Forms to Print</a>
+	<tr>
+	<td align=left valign=top>
+		<img src="/shared/single_line.gif" width=100 height=9 border=0></td>
+	<tr>
+	<td align=left valign=top>
+		<DIV class="textutility">
+			<a class="utilitylink" href="/customer_services/investment_statement_guide.asp">Statement Guide</a>
+	<tr>
+	<td align=left valign=top>
+		<img src="/shared/single_line.gif" width=76 height=9 border=0></td>
+	<tr>
+	<td align=left valign=top>
+		<DIV class="textutility">
+			<a class="utilitylink" href="/customer_services/investment_faq.asp">Statement FAQ</a>
+		</DIV></td>
+	<tr>
+	<td align=left valign=top>
+		<img src="/shared/single_line.gif" width=76 height=9 border=0></td>
+	<tr>
+	<td align=left valign=top>
+		<DIV class="textutility">
+			<a class="utilitylink" href="/a_z_investment_guide/index.asp">Jargon Buster</a>
+		</DIV></td>
+	<tr>
+	<td align=left valign=top>
+		<img src="/shared/double_line.gif" width=100 height=9 border=0></td>
+	</table></td>
+	<!--end of about skipton utility menu-->
+
+<td align=left valign=top>
+	<img src="/shared/divider_col.gif" width=18 height=5460 border=0></td>
+
+
+<td width=470 align=left valign=top>
+	To give a clearer picture of the information in your Year End Investment Statement, we have provided a sample form with a comprehensive explanation of each section.
+	<br><p>
+	For those accounts that do not have the interest directly credited to the account we have also provided a Statement of Remitted Interest sample form.
+	<br><P>
+	<table width=470 cellpadding=0 cellspacing=0 background="/shared/paper.gif" border=0>
+	<td>
+		<table width=470 cellpadding=2 cellspacing=0 border=0>
+		<td align=left valign=top>
+			<SPAN class="textsmall">
+			<img src="taxman.gif" width=201 height=33 border=0 alt="KEEP IT">
+			<br><p>
+			<SPAN class="textbold">
+			ANNUAL STATEMENT
+			<br>
+			OF INVESTMENT ACCOUNT</SPAN>
+			<br><p>
+			<br><p>
+			<br><p>
+			<SPAN class="textsmallbold">PRIVATE & CONFIDENTIAL</SPAN>
+			<br>
+			&nbsp;&nbsp;D000099\00000
+			<br>
+			Mr A N Other <a href="#inv_1"><img src="/shared/1.gif" width=18 height=18 border=0 alt="1" align=absmiddle></a>
+			<br>
+			21 Other Street
+			<br>
+			Skipton
+			<br>
+			N. Yorks.
+			<br><p>
+			BDXX 1XX</td>
+		
+		<td align=right valign=top>
+		<SPAN class="textsmall">
+			<table cellpadding=0 cellspacing=0 border=0>
+			<td align=center valign=top><SPAN class="textsmall"><img src="/shared/sbs_logo.gif" width=112 height=65 border=0 alt="Skipton Building Society"></td>
+			<tr>
+			<td align=center valign=top><SPAN class="textsmall"><br><p>Principal Office: The Bailey,</td>
+			<tr>
+			<td align=center valign=top height=9><!--Spacer col--><img src="/shared/single_line.gif" width=195 height=9></td>
+			<tr>
+			<td align=center valign=top><SPAN class="textsmall">Skipton, North Yorkshire, BD23 1DN</td>
+			<tr>
+			<td align=center valign=top height=9><!--Spacer col--><img src="/shared/single_line.gif" width=195 height=9></td>
+			<tr>
+			<td align=center valign=top><SPAN class="textsmallbold">Statement Hotline: 01756 705034</SPAN></td>
+			<tr>
+			<td align=center valign=top height=9><!--Spacer col--><img src="/shared/single_line.gif" width=195 height=9></td>
+			<tr>
+			<td align=center valign=top><SPAN class="textsmall">Fax: 01756 705700&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DX: 21757 Skipton</SPAN></td>
+			<tr>
+			<td align=center valign=top height=9><!--Spacer col--><img src="/shared/single_line.gif" width=195 height=9></td>
+			<tr>
+			<td align=center valign=top><SPAN class="textsmall">Mon-Thurs 8.00am to 8.00pm, Fri 8.00am to 5.30pm,<br>and Sat 9.00am to 12noon.<br><img src="/shared/single_line.gif" width=195 height=9><br>www.skipton.co.uk
+			<br><p>
+			* To help maintain service quality, some telephone calls with customers may be recorded and monitored.
+			</SPAN></td>
+			</table></td>
+		<tr>
+		<td align=right colspan=2><br><p>FOR TAX YEAR 2001/02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		</table>
+
+	<tr>
+	<td><img src="/shared/dot.gif" width=10 height=20></td>
+	<tr>
+
+	<td>
+		<table width=470 cellpadding=0 cellspacing=0 border=0>
+			<td align=left valign=top colspan=5><SPAN class="textsmallbold">Account Type</SPAN></td>
+			<td align=left valign=top><SPAN class="textsmallbold">Balance as at 01/01/02</SPAN></td>
+		<tr>
+			<td align=left valign=top colspan=5><table width=350 cellpadding=0 cellspacing=0 border=1><td>PAID UP SHARE ACCOUNT <a href="#inv_2"><img src="/shared/2.gif" width=18 height=18 border=0 alt="2" align=absmiddle></a></td></table></td>
+			<td align=left valign=top><table width=100 cellpadding=0 cellspacing=0 border=1><td align=center>2020.85 <a href="#inv_3"><img src="/shared/3.gif" width=18 height=18 border=0 alt="3" align=absmiddle></a></td></table></td>
+		<tr>
+		<td><img src="/shared/dot.gif" width=100 height=20></td>
+		<tr>
+			<td align=left valign=top><SPAN class="textsmallbold">Account No.</SPAN></td>
+			<td rowspan=4><img src="/shared/dot.gif" width=10 height=20></td>
+			<td align=left valign=top><SPAN class="textsmallbold">Gross Interest credited<br>(for the period ended 01/01/02)</SPAN></td>
+			<td rowspan=4><img src="/shared/dot.gif" width=10 height=20></td>
+			<td align=left valign=top><SPAN class="textsmallbold">Less Tax Deducted<br>(if applicable)</SPAN></td>
+			<td align=left valign=top><SPAN class="textsmallbold">Interest Credited</SPAN></td>
+		<tr>
+			<td align=left valign=top><table width=100 cellpadding=0 cellspacing=0 border=1><td align=center>123456789 <a href="#inv_4"><img src="/shared/4.gif" width=18 height=18 border=0 alt="4" align=absmiddle></a></td></table></td>
+			<td align=left valign=top><table width=130 cellpadding=0 cellspacing=0 border=1><td align=center>21.05 <a href="#inv_5"><img src="/shared/5.gif" width=18 height=18 border=0 alt="5" align=absmiddle></a></td></table></td>
+			<td align=left valign=top><table width=80 cellpadding=0 cellspacing=0 border=1><td align=center>4.21 <a href="#inv_6"><img src="/shared/6.gif" width=18 height=18 border=0 alt="6" align=absmiddle></a></td></table></td>
+			<td align=left valign=top><table width=100 cellpadding=0 cellspacing=0 border=1><td align=center>16.84 <a href="#inv_7"><img src="/shared/7.gif" width=18 height=18 border=0 alt="7" align=absmiddle></a></td></table></td>
+		<tr>
+		<td><img src="/shared/dot.gif" width=10 height=20></td>
+		<tr>
+			<td colspan=5></td>
+			<td align=left valign=top><SPAN class="textsmallbold">New Balance 02/01/02</SPAN></td>
+		<tr>
+			<td colspan=5></td>
+			<td align=left valign=top><table width=100 cellpadding=0 cellspacing=0 border=1><td align=center>2037.69 <a href="#inv_8"><img src="/shared/8.gif" width=18 height=18 border=0 alt="8" align=absmiddle></a></td></table></td>
+			</table></td>
+
+
+	<tr>
+	<td><img src="/shared/dot.gif" width=10 height=20></td>
+	<tr>
+
+	<td>
+		<table width=470 cellpadding=0 cellspacing=0 border=0>
+			<td align=left valign=top colspan=5><SPAN class="textsmallbold">&nbsp;Details of interest and effective dates.</SPAN></td>
+		<tr>
+			<td align=left valign=top>
+				<table cellpadding=4 cellspacing=0 border=1>
+				<td align=left valign=top>
+					<table width=460 cellpadding=0 cellspacing=0 border=0>
+					<td><SPAN class="textsmallbold">Effective<br>Date</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Rate</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Effective<br>Date</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Rate</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Effective<br>Date</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Rate</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Effective<br>Date</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Rate</SPAN></td>
+				<tr>
+					<td><SPAN class="textsmall">02/01/01</SPAN></td>
+					<td><SPAN class="textsmall">1.25%</SPAN></td>
+				<tr>
+					<td><SPAN class="textsmall">30/01/01</SPAN></td>
+					<td><SPAN class="textsmall">1.50%</SPAN></td>
+					<td><a href="#inv_9"><img src="/shared/9.gif" width=18 height=18 border=0 alt="9" align=absmiddle></a></td>
+				<tr>
+					<td><SPAN class="textsmall">27/02/01</SPAN></td>
+					<td><SPAN class="textsmall">1.75%</SPAN></td>
+					</table></td>
+				</table></td>
+		</table>
+
+	<tr>
+	<td><img src="/shared/dot.gif" width=10 height=20></td>
+	<tr>
+
+	<td>
+		<table width=470 cellpadding=0 cellspacing=0 border=0>
+			<td align=center valign=top>
+			<SPAN class="textsmall">IMPORTANT NOTES RELATING TO YOUR ACCOUNT ARE CONTAINED OVERLEAF</SPAN>
+			<br>
+			<img src="scissors_left.gif" width=20 height=15 border=0 alt="cut"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="scissors_right.gif" width=20 height=15 border=0 alt="cut">
+			<br><p>
+			<u><SPAN class="textsmallbold">REQUEST FOR 352 CERTIFICATE OF DEDUCTION OF TAX /<br>NOTIFICATION OF CHANGE OF NAME OR ADDRESS</SPAN></u>
+			<br><p>
+			<SPAN class="textsmall">Return slip to: Skipton Building Society, Investment Administration, Freepost SK6, The Bailey, Skipton, North Yorkshire BD23 1BR</SPAN></td>
+		<tr>
+			<td align=left valign=top>
+			<table width=470 cellpadding=4 cellspacing=0 border=0>
+				<td align=left valign=top colspan=2>
+					<img src="tick.gif" width=14 height=14 border=0 alt="tick">&nbsp;&nbsp;<a href="#inv_10"><img src="/shared/10.gif" width=18 height=18 border=0 alt="10" align=absmiddle></a></td>
+			<tr>
+				<td align=left valign=top>
+					<img src="checkbox.gif" width=13 height=13 border=0 alt="tickbox"></td>
+				<td align=left valign=top>
+					<SPAN class="textsmall">This Account No. 123456789&nbsp;&nbsp;&nbsp;&nbsp;Please send a 352 Certificate of Deduction of Tax for the tax year ended: 2001/02</SPAN></td>
+			<tr>
+				<td align=left valign=top>
+					<img src="checkbox.gif" width=13 height=13 border=0 alt="tickbox"></td>
+				<td align=left valign=top>
+					<SPAN class="textsmall">Notification of change of name or address (if there are more than two account holders, please supply the above details on a separate sheet)</SPAN></td>
+			</table></td>
+
+
+	<tr>
+	<td><img src="/shared/dot.gif" width=10 height=20></td>
+	<tr>
+
+	<td align=center>
+		<table cellpadding=0 cellspacing=0 border=0>
+		<td>
+			<table cellpadding=0 cellspacing=0 border=0>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				Name 1:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				New Name</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				New address:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td></td>
+				<td align=left valign=top><SPAN class="textsmall">
+				Postcode:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				Telephone no.:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top><SPAN class="textsmall">
+				Signed 1:</td>
+				<td align=left valign=top><SPAN class="textsmall">
+				Date:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			</table></td>
+
+		<td><img src="/shared/dot.gif" width=20 height=10></td>
+
+		<td>
+			<table cellpadding=0 cellspacing=0 border=0>
+				<td align=left valign=top><SPAN class="textsmall">
+				Name 2:</td>
+				<td align=right valign=top><a href="#inv_11"><img src="/shared/11.gif" width=18 height=18 border=0 alt="11" align=absmiddle></a></td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				New Name</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				New address:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td></td>
+				<td align=left valign=top><SPAN class="textsmall">
+				Postcode:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				Telephone no.:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top><SPAN class="textsmall">
+				Signed 2:</td>
+				<td align=left valign=top><SPAN class="textsmall">
+				Date:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			</table></td>
+		
+		</table>
+	</table>
+
+	<br><p>
+	<SPAN class="textsmall">
+	<SPAN class="textsmallbold">NOTES:</SPAN><br>
+	1. Change of name must be supported by an official document.<br>
+	2. Only forms bearing the signatures of ALL parties to the account(s) will be accepted.
+
+	<br><p>
+	
+	<SPAN class="textsmallitalic">For Office Use Only</SPAN> - Cus No(s).:&nbsp;&nbsp;&nbsp;<img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle>&nbsp;&nbsp;&nbsp;<img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle>&nbsp;&nbsp;&nbsp;<img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle>&nbsp;&nbsp;&nbsp;<img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle>
+	
+
+
+	</td>
+	</table>
+
+
+	<br><p>
+	<img src="/shared/single_line.gif" width=470 height=9>
+	<br><p>
+
+
+
+<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->
+
+<!--     REMITTED INTEREST -->
+
+<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->
+
+
+	<DIV class="subtitle">
+		remitted statement guide
+	</DIV>
+	
+	<br><p>
+
+	<table width=470 cellpadding=0 cellspacing=0 background="/shared/paper.gif" border=0>
+	<td>
+		<table width=470 cellpadding=2 cellspacing=0 border=0>
+		<td align=left valign=top>
+			<SPAN class="textsmall">
+			<img src="taxman.gif" width=201 height=33 border=0 alt="KEEP IT">
+			<br><p>
+			<SPAN class="textbold">
+			STATEMENT OF REMITTED INTEREST</SPAN>
+			<br>
+			<SPAN class="textsmall">(INTEREST WHICH HAS NOT BEEN CREDITED TO THIS ACCOUNT)</SPAN>
+			<br><p>
+			<br><p>
+			<br><p>
+			<SPAN class="textsmallbold">PRIVATE & CONFIDENTIAL</SPAN>
+			<br>
+			&nbsp;&nbsp;D000099\00000
+			<br>
+			Mr A N Other <a href="#inv_1"><img src="/shared/1.gif" width=18 height=18 border=0 alt="1" align=absmiddle></a>
+			<br>
+			21 Other Street
+			<br>
+			Skipton
+			<br>
+			N. Yorks.
+			<br><p>
+			BDXX 1XX</td>
+		
+		<td align=right valign=top>
+		<SPAN class="textsmall">
+			<table cellpadding=0 cellspacing=0 border=0>
+			<td align=center valign=top><SPAN class="textsmall"><img src="/shared/sbs_logo.gif" width=112 height=65 border=0 alt="Skipton Building Scoeity"></td>
+			<tr>
+			<td align=center valign=top><SPAN class="textsmall"><br><p>Principal Office: The Bailey,</td>
+			<tr>
+			<td align=center valign=top height=9><!--Spacer col--><img src="/shared/single_line.gif" width=195 height=9></td>
+			<tr>
+			<td align=center valign=top><SPAN class="textsmall">Skipton, North Yorkshire, BD23 1DN</td>
+			<tr>
+			<td align=center valign=top height=9><!--Spacer col--><img src="/shared/single_line.gif" width=195 height=9></td>
+			<tr>
+			<td align=center valign=top><SPAN class="textsmallbold">Statement Hotline: 01756 705034</SPAN></td>
+			<tr>
+			<td align=center valign=top height=9><!--Spacer col--><img src="/shared/single_line.gif" width=195 height=9></td>
+			<tr>
+			<td align=center valign=top><SPAN class="textsmall">Fax: 01756 705700&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DX: 21757 Skipton</SPAN></td>
+			<tr>
+			<td align=center valign=top height=9><!--Spacer col--><img src="/shared/single_line.gif" width=195 height=9></td>
+			<tr>
+			<td align=center valign=top><SPAN class="textsmall">Mon-Thurs 8.00am to 8.00pm, Fri 8.00am to 5.30pm,<br>and Sat 9.00am to 12noon.<br><img src="/shared/single_line.gif" width=195 height=9><br>www.skipton.co.uk
+			<br><p>
+			* To help maintain service quality, some telephone calls with customers may be recorded and monitored.
+			</SPAN></td>
+			</table></td>
+		<tr>
+		<td><img src="/shared/dot.gif" width=200 height=10></td>
+		<td>YEARLY INTEREST AS SHOWN WILL BE REMITTED TO BANK ACCOUNT No. 654321 IN THE NAME OF A N OTHER<BR>SORT CODE 010203 <a href="#inv_12"><img src="/shared/12.gif" width=18 height=18 border=0 alt="1" align=absmiddle></a></td>
+		<tr>
+		<td align=right colspan=2><br><p>FOR TAX YEAR 2001/02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		</table>
+
+	<tr>
+	<td><img src="/shared/dot.gif" width=10 height=20></td>
+	<tr>
+
+	<td>
+		<table width=470 cellpadding=0 cellspacing=0 border=0>
+			<td align=left valign=top colspan=5><SPAN class="textsmallbold">Account Type</SPAN></td>
+			<td align=left valign=top><SPAN class="textsmallbold">Balance as at 01/01/02</SPAN></td>
+		<tr>
+			<td align=left valign=top colspan=5><table width=350 cellpadding=0 cellspacing=0 border=1><td>BASE RATE TRACKER ACCOUNT <a href="#inv_2"><img src="/shared/2.gif" width=18 height=18 border=0 alt="2" align=absmiddle></a></td></table></td>
+			<td align=left valign=top><table width=100 cellpadding=0 cellspacing=0 border=1><td align=center>50000.00 <a href="#inv_3"><img src="/shared/3.gif" width=18 height=18 border=0 alt="3" align=absmiddle></a></td></table></td>
+		<tr>
+		<td><img src="/shared/dot.gif" width=100 height=20></td>
+		<tr>
+			<td align=left valign=top><SPAN class="textsmallbold">Account No.</SPAN></td>
+			<td rowspan=4><img src="/shared/dot.gif" width=10 height=20></td>
+			<td align=left valign=top><SPAN class="textsmallbold">Gross Interest remitted<br>(for the period ended 01/01/02)</SPAN></td>
+			<td rowspan=4><img src="/shared/dot.gif" width=10 height=20></td>
+			<td align=left valign=top><SPAN class="textsmallbold">Less Tax Deducted<br>(if applicable)</SPAN></td>
+			<td align=left valign=top><SPAN class="textsmallbold">Interest remitted</SPAN></td>
+		<tr>
+			<td align=left valign=top><table width=100 cellpadding=0 cellspacing=0 border=1><td align=center>123456789 <a href="#inv_4"><img src="/shared/4.gif" width=18 height=18 border=0 alt="4" align=absmiddle></a></td></table></td>
+			<td align=left valign=top><table width=130 cellpadding=0 cellspacing=0 border=1><td align=center>3222.61 <a href="#inv_5"><img src="/shared/5.gif" width=18 height=18 border=0 alt="5" align=absmiddle></a></td></table></td>
+			<td align=left valign=top><table width=80 cellpadding=0 cellspacing=0 border=1><td align=center>644.52 <a href="#inv_6"><img src="/shared/6.gif" width=18 height=18 border=0 alt="6" align=absmiddle></a></td></table></td>
+			<td align=left valign=top><table width=100 cellpadding=0 cellspacing=0 border=1><td align=center>2578.09 <a href="#inv_7"><img src="/shared/7.gif" width=18 height=18 border=0 alt="7" align=absmiddle></a></td></table></td>
+		<tr>
+		<td><img src="/shared/dot.gif" width=10 height=20></td>
+		<tr>
+			<td colspan=5></td>
+			<td align=left valign=top><SPAN class="textsmallbold">New Balance 02/01/02</SPAN></td>
+		<tr>
+			<td colspan=5></td>
+			<td align=left valign=top><table width=100 cellpadding=0 cellspacing=0 border=1><td align=center>50000.00 <a href="#inv_8"><img src="/shared/8.gif" width=18 height=18 border=0 alt="8" align=absmiddle></a></td></table></td>
+			</table></td>
+
+
+	<tr>
+	<td><img src="/shared/dot.gif" width=10 height=20></td>
+	<tr>
+
+	<td>
+		<table width=470 cellpadding=0 cellspacing=0 border=0>
+			<td align=left valign=top colspan=5><SPAN class="textsmallbold">&nbsp;Details of interest and effective dates.</SPAN></td>
+		<tr>
+			<td align=left valign=top>
+				<table cellpadding=4 cellspacing=0 border=1>
+				<td align=left valign=top>
+					<table width=460 cellpadding=0 cellspacing=0 border=0>
+					<td><SPAN class="textsmallbold">Effective<br>Date</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Rate</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Effective<br>Date</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Rate</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Effective<br>Date</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Rate</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Effective<br>Date</SPAN></td>
+					<td rowspan=5><img src="/shared/dot.gif" width=10 height=20></td>
+					<td><SPAN class="textsmallbold">Rate</SPAN></td>
+				<tr>
+					<td><SPAN class="textsmall">02/01/01</SPAN></td>
+					<td><SPAN class="textsmall">6.00%</SPAN></td>
+				<tr>
+					<td><SPAN class="textsmall">28/01/01</SPAN></td>
+					<td><SPAN class="textsmall">6.25%</SPAN></td>
+					<td><a href="#inv_9"><img src="/shared/9.gif" width=18 height=18 border=0 alt="9" align=absmiddle></a></td>
+				<tr>
+					<td><SPAN class="textsmall">25/02/01</SPAN></td>
+					<td><SPAN class="textsmall">6.50%</SPAN></td>
+				</table></td>
+		</table>
+
+	<tr>
+	<td><img src="/shared/dot.gif" width=10 height=20></td>
+	<tr>
+
+	<td>
+		<table width=470 cellpadding=0 cellspacing=0 border=0>
+			<td align=center valign=top>
+			<SPAN class="textsmall">IMPORTANT NOTES RELATING TO YOUR ACCOUNT ARE CONTAINED OVERLEAF</SPAN>
+			<br>
+			<img src="scissors_left.gif" width=20 height=15 border=0 alt="cut"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="dashed_line.gif" width=45 height=15 border=0 alt="- - - - -"><img src="scissors_right.gif" width=20 height=15 border=0 alt="cut">
+			<br><p>
+			<u><SPAN class="textsmallbold">REQUEST FOR 352 CERTIFICATE OF DEDUCTION OF TAX /<br>NOTIFICATION OF CHANGE OF NAME OR ADDRESS</SPAN></u>
+			<br><p>
+			<SPAN class="textsmall">Return slip to: Skipton Building Society, Investment Administration, Freepost SK6, The Bailey, Skipton, North Yorkshire BD23 1BR</SPAN></td>
+		<tr>
+			<td align=left valign=top>
+			<table width=470 cellpadding=4 cellspacing=0 border=0>
+				<td align=left valign=top colspan=2>
+					<img src="tick.gif" width=14 height=14 border=0 alt="tick">&nbsp;&nbsp;<a href="#inv_10"><img src="/shared/10.gif" width=18 height=18 border=0 alt="10" align=absmiddle></a></td>
+			<tr>
+				<td align=left valign=top>
+					<img src="checkbox.gif" width=13 height=13 border=0 alt="tickbox"></td>
+				<td align=left valign=top>
+					<SPAN class="textsmall">This Account No. 123456789&nbsp;&nbsp;&nbsp;&nbsp;Please send a 352 Certificate of Deduction of Tax for the tax year ended: 2001/02</SPAN></td>
+			<tr>
+				<td align=left valign=top>
+					<img src="checkbox.gif" width=13 height=13 border=0 alt="tickbox"></td>
+				<td align=left valign=top>
+					<SPAN class="textsmall">Notification of change of name or address (if there are more than two account holders, please supply the above details on a separate sheet)</SPAN></td>
+			</table></td>
+
+
+	<tr>
+	<td><img src="/shared/dot.gif" width=10 height=20></td>
+	<tr>
+
+	<td align=center>
+		<table cellpadding=0 cellspacing=0 border=0>
+		<td>
+			<table cellpadding=0 cellspacing=0 border=0>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				Name 1:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				New Name</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				New address:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td></td>
+				<td align=left valign=top><SPAN class="textsmall">
+				Postcode:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				Telephone no.:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top><SPAN class="textsmall">
+				Signed 1:</td>
+				<td align=left valign=top><SPAN class="textsmall">
+				Date:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			</table></td>
+
+		<td><img src="/shared/dot.gif" width=20 height=10></td>
+
+		<td>
+			<table cellpadding=0 cellspacing=0 border=0>
+				<td align=left valign=top><SPAN class="textsmall">
+				Name 2:</td>
+				<td align=right valign=top><a href="#inv_11"><img src="/shared/11.gif" width=18 height=18 border=0 alt="11" align=absmiddle></a></td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				New Name</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				New address:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td></td>
+				<td align=left valign=top><SPAN class="textsmall">
+				Postcode:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top colspan=2><SPAN class="textsmall">
+				Telephone no.:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			<tr>
+				<td align=left valign=top><SPAN class="textsmall">
+				Signed 2:</td>
+				<td align=left valign=top><SPAN class="textsmall">
+				Date:</td>
+			<tr>
+				<td align=left valign=top colspan=2>
+				<img src="underline.gif" width=220 height=9 border=0></td>
+			</table></td>
+		
+		</table>
+	</table>
+
+	<br><p>
+	<SPAN class="textsmall">
+	<SPAN class="textsmallbold">NOTES:</SPAN><br>
+	1. Change of name must be supported by an official document.<br>
+	2. Only forms bearing the signatures of ALL parties to the account(s) will be accepted.
+
+	<br><p>
+	
+	<SPAN class="textsmallitalic">For Office Use Only</SPAN> - Cus No(s).:&nbsp;&nbsp;&nbsp;<img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle>&nbsp;&nbsp;&nbsp;<img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle>&nbsp;&nbsp;&nbsp;<img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle>&nbsp;&nbsp;&nbsp;<img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle><img src="office_use_only.gif" width=15 height=21 border=0 align=absmiddle>
+	
+
+
+	</td>
+	</table>
+	
+	<br><p>
+	<img src="/shared/single_line.gif" width=470 height=9>
+	<br><p>
+
+	<SPAN class="textsmall">(Back Page, applicable for both Annual Investment Statement and Remittance Statement)
+	<br>
+
+	<table width=470 cellpadding=0 cellspacing=0 background="/shared/paper.gif" border=0>
+	<td>
+		<table width=470 cellpadding=6 cellspacing=0 border=0>
+		<td align=left valign=top>
+		<b>NOTES</b>
+		<br>
+		<ol>
+			<li>If your interest is credited to your account, the passbook will be brought up to date when you carry out your next transaction or, if you request it earlier.
+			<li>	
+				<ol type="a">
+					<li>Income Tax at the rate of 20% on the interest shown above (with the exception of Expatriate Accounts, Charities, and Exempt Pension Funds) is deemed to have been paid by the Society under arrangements with the Commissioners of Inland Revenue, unless valid Inland Revenue form(s) R85 has/have been received from the account holder(s), and registered by the Society, in respect of their share of the interest which is being claimed on a gross basis (ie without tax deducted). 
+					<li>Individuals who are non-taxpayers, and who have not registered to receive their interest without tax deducted, can claim a repayment of tax from the Inland Revenue. Similarly, individuals with taxable income in the starting rate band of 10%, who are due to pay less tax than the amount deducted from their interest, can also claim a repayment of tax direct from the Inland Revenue.
+					<li>Please note that in the case of accounts held in more than one name, where all account holders have completed a form R85, interest has been paid without tax deducted. If not all named account holders have registered as non-tax payers, interest has been paid part net/part gross, in proportion to the number of account holders who have provided us with a completed R85 forms.
+					<li>Any interest shown above, whether or not tax has been deducted, should be included in your annual return of income to the Inland Revenue and this statement may be used for this purpose.
+					<li>IF YOU HAVE COMPLETED A FORM R85, YOU ARE REMINDED THAT YOU MUST TELL THE SOCIETY IMMEDIATELY IF YOU ARE NO LONGER ENTITLED TO RECEIVE INTEREST WITH NO TAX DEDUCTED.
+				</ol>
+			<li>
+				<ol type="a">
+					<li>Interest on Expatriate Accounts, where valid Inland Revenue form(s) R105 has/have been received from the account holder(s), and registered by the Society, has been paid without deduction of UK tax.
+					<li>YOU ARE REQUIRED TO NOTIFY THE SOCIETY WITHOUT DELAY IF ANY PERSON BENEFICIALLY ENTITLED TO THE INTEREST FROM THIS ACCOUNT BECOMES ORDINARILY RESIDENT IN THE UK.
+				</ol>
+			<li>This statement is NOT a statement for the purposes of Section 352 of the Income and Corporation Taxes Act 1988. If you require a Certificate of Deduction of Tax for that purpose one will be issued on request if you return the slip overleaf.
+			<li>Should you not agree with the balance shown on this statement please write enclosing your passbook, direct to Audit Services, PO Box 7, GPO, Skipton, North Yorkshire, BD23 1DN.
+			<li>If any details of your name or address are incorrect please advise your local branch or Investment Administration at The Bailey, Skipton, North Yorkshire, BD23 1DN by adding the correct information to the form overleaf. You may also use this form if changes occur during the year.
+			<li>If you have any queries about this statement, we have a Customer Service section on our website www.skipton.co.uk/customerservice which may be of help to you. Or you can ring our Statement Hotline on 01756 705034. To maintain service quality, some telephone calls with customers may be recorded and monitored.
+			<li><b>With effect from 2nd January 2002, the Paid Up Share Account was renamed Sovereign Shares. Any accounts with guarantees linked to the Paid Up Share rate will now have the guarantee linked to the rate payable for balances of £1 - £499 in the Sovereign Shares. This rate has always been at least the same as or greater than the Paid Up Share rate. Those customers affected will therefore continue to benefit from the guarantees which have applied.</b>
+			<li><b>NO MAILING REMINDER</b> 
+		</ol>
+		<br>
+		<b>From time to time, the Society and other Companies in the Skipton Group may bring to your attention additional services and products in writing, by telephone or other electronic media. You can request not to be contacted by writing to the Society at The Bailey, Skipton, North Yorkshire, BD23 1DN.</b>
+
+		<br><p>
+
+		<b>Additional Notes for TESSA Accounts</b>
+		<br>
+		<ol>
+			<li>If your interest is credited to your account, the passbook will be brought up to date when you carry out your next transaction or, if you request it, earlier.
+			<li>Interest on Tax Exempt Special Savings Accounts (TESSA) shown above is exempt from income tax provided the TESSA conditions remain satisfied until the end of the five year term of the investment. Income tax has not been deducted and the interest need not be included on your Income Tax Return.
+			<li>Should you not agree with the balance shown on this statement please write enclosing your passbook, direct to our Audit Services, PO Box 7, GPO, Skipton, North Yorkshire, BD23 1DN.
+			<li>If any details of your name or address are incorrect please advise your local branch or Investment Administration at The Bailey, Skipton, North Yorkshire, BD23 1DN by  adding the correct information to the form overleaf. You may also use this form if changes occur during the year.
+			<li>If you have any queries about this statement, we have a Customer Service section on our website www.skipton.co.uk/customerservice which may be of help to you. Or you can ring our Statement Hotline on 01756 705034. To maintain service quality, some telephone calls with customers may be recorded and monitored.
+			<li>TESSA contributions for the 2nd, 3rd, 4th and 5th years may be made on the anniversary of your account opening date or at any time during the year, prior to the subsequent anniversary date e.g. If your account was opened 1st February 1999 you can make the 2nd years contribution between 1st February 2000 and 31st January 2001.
+		</ol>
+
+		<br><p>
+		
+		<table bgcolor="#0000ff" cellpadding=1 cellspacing=0 border=0>
+		<td>
+			<table background="/shared/paper.gif" cellpadding=4 cellspacing=0 border=0>
+			<td align=left valign=top>
+				ADDITIONAL NOTES FOR ISA ACCOUNTS
+				<br>
+				We guarantee that the rates of interest on this product will never fall more than 1% below the Bank of England base rate (1.25% for the monthly income option) ('the minimum guaranteed rates'). If the minimum guaranteed rates are in force, any new interest rates will become effective 14 days from the day after a subsequent Bank of England base rate change.
+				<br><p>
+				The Terms and Conditions of these accounts allow withdrawals on receipt of 30 days written notice. The minimum operating balance of £3,000 still applies, but above this figure withdrawals may be made by cheque for a minimum of £500. Investors should note however, that in accordance with ISA rules, investments in any tax year are limited to the amount permitted by the Inland Revenue (£3,000 in 2001/2002) regardless of the level of withdrawals made.
+				<br><p>
+				If you have subscribed to your Skipton Mini Cash ISA in 2000/2001 you may continue to subscribe to the same ISA in 2001/2002. If you did not make a subscription to your Skipton Mini Cash ISA in 2000/2001 a new application form will be required if you would like to subscribe in 2001/2002. An application form can be obtained from your local branch or requested from our Statement Hotline 01756 705035. The tax year runs from 6 April to 5 April. If your passbook is up to date it will clarify what subscriptions you have made to your Skipton Mini Cash ISA, alternatively you may call our Statement Hotline.
+			</td>
+			</table>
+		</td>
+		</table>
+
+		</td>
+		</table></td>
+	</table>
+	
+	<br><p>
+
+	<SPAN class="text">
+	<SPAN class="textbold">Key: to Annual Statement of Investment Account</SPAN>
+	<br>
+	<ol>	
+		<li><a name="inv_1">Your name and address.</a>
+		<li><a name="inv_2">The name of the account or bond in which your funds have been held.</a>
+		<li><a name="inv_3">The balance of your account prior to receiving your interest.</a>
+		<li><a name="inv_4">Your account number. Please quote this in any contact with us.</a>
+		<li><a name="inv_5">The amount of gross interest which has been credited.</a>
+		<li><a name="inv_6">The amount of tax which has been deducted.</a>
+		<li><a name="inv_7">The amount of interest which has been credited to your account.</a>
+		<li><a name="inv_8">The current balance of your account (as at the date the statement was produced).  This includes the interest credited.</a>
+		<li><a name="inv_9">The interest rates which have applied to your account during 2001.</a>
+		<li><a name="inv_10">You can use the slip at the foot of your statement to request a Section 352 certificate.</a>
+		<li><a name="inv_11">You can use the slip at the foot of your statement to inform us of changes to your name or address.</a>
+	</ol>	
+
+	<br><p>
+
+	<SPAN class="text">
+	<SPAN class="textbold">Key: to Statement of Remitted Interest</SPAN>
+	<br>
+	<ol>	
+		<li><a name="inv_1">Your name and address.</a>
+		<li><a name="inv_2">The name of the account or bond in which your funds have been held.</a>
+		<li><a name="inv_3">The balance of your account prior to receiving your interest.</a>
+		<li><a name="inv_4">Your account number. Please quote this in any contact with us.</a>
+		<li><a name="inv_5">The amount of gross interest which has been credited.</a>
+		<li><a name="inv_6">The amount of tax which has been deducted.</a>
+		<li><a name="inv_7">The amount of interest which has been credited to your account.</a>
+		<li><a name="inv_8">The amount of interest which has been credited to your bank or alternative building society account.</a>
+		<li><a name="inv_9">The current balance of your account (as at the date the statement was produced).</a>
+		<li><a name="inv_10">You can use the slip at the foot of your statement to request a Section 352 certificate.</a>
+		<li><a name="inv_11">You can use the slip at the foot of your statement to inform us of changes to your name or address.</a>
+		<li><a name="inv_12">Details of the bank account to which the interest will be remitted.</a>
+	</ol>	
+	
+</td>
+</table>
+</table>
+<br><p>
+
+<table width=600 cellpadding=0 cellspacing=0 border=0>
+<td colspan=2><img src="/shared/legal_divider_row.gif" width=600 height=2 border=0></td>
+<tr>
+<td align=left valign=top>
+	<SPAN class="textlegal">&nbsp;&nbsp;Principal Office, The Bailey, Skipton, North Yorkshire, BD23 1DN.<img src="dot.gif" width="30" height="1" border="0" alt="spacer mage">Site intended for UK residents only.</SPAN></td>
+<td align=right valign=top>
+	<SPAN class="textlegal"><a class="utilitylink" href="/shared/legal_notice.asp">Legal Notice</a></SPAN></td>
+</table>
+
+
+</BODY>
+</HTML>

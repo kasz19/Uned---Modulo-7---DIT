@@ -1,0 +1,159 @@
+ID=B0080
+URL=http://www.theprogressive.com/locations/
+SIZE=18598
+DATE=28/06/2002
+TIME=12:47:18
+DATASET=Building Societies
+HTML=
+
+<!-- START HEADER -->
+<html>
+<head>
+	<title>Progressive Building Society Locations</title>
+  
+  <meta name="robots" content="index,follow">
+
+  <meta name="description" content="Progressive Building Society Locations">
+
+  <meta name="keywords" content="progressive, building, society, banks">
+
+<!-- ############  
+Graphic Designer - Rick Monro - The Internet Business Ltd
+Programmer - Michael Slevin - The Internet Business Ltd 
+############### -->  
+  
+<script language="JavaScript">
+<!-- 
+ {  
+    a1=new Image(75,22); a1.src="/images/but_about.gif";
+    a2=new Image(75,22); a2.src="/images/but_about_hi.gif";
+    
+    a3=new Image(74,22); a3.src="/images/but_investments.gif";
+    a4=new Image(74,22); a4.src="/images/but_investments_hi.gif";
+    
+    a5=new Image(74,22); a5.src="/images/but_mortgages.gif";
+    a6=new Image(74,22); a6.src="/images/but_mortgages_hi.gif";
+    
+    a7=new Image(74,22); a7.src="/images/but_locations.gif";
+    a8=new Image(74,22); a8.src="/images/but_locations_hi.gif";
+    
+    a9=new Image(75,22); a9.src="/images/but_other.gif";
+    a10=new Image(75,22); a10.src="/images/but_other_hi.gif";        
+  } 
+  function msOver(img,ref) {
+      document.images[img].src = ref;  
+  }
+  function open_window(URL,winName,features)
+  { 
+  window.open(URL,winName,features);
+  }
+  //-->
+</script>  
+  
+<link rel='stylesheet' type='text/css' href='/style.css'>
+
+</head>
+
+<body background="/images/background.gif" bgcolor="#ffffff" leftmargin=0 topmargin=0 marginwidth=0 marginheight=0>
+
+<!-- S -->
+<table width=600 cellpadding=0 cellspacing=0 border=0 align=center>
+  <tr>
+    <td rowspan=2><a href="/"><img src="/images/head1.gif" alt="Progressive Building Society" width=203 height=81 border=0></a></td>
+    <td rowspan=2><img src="/images/head2.gif" alt="Progressive Building Society" width=17 height=81 border=0></td>    
+    <td colspan=9><img src="/images/head3.jpg" alt="Progressive Building Society" width=380 height=59 border=0></td>    
+  </tr>
+  <tr>
+    <td><a onMouseOver="msOver('about', '/images/but_about_hi.gif'); window.status='About Us'; return true" onMouseOut="msOver('about', '/images/but_about.gif'); window.status=''; return true" href="/about/"><img src="/images/but_about.gif" alt="About Us" width=75 height=22 border=0 name=about></a></td>
+    <td><img src="/images/head_break1.gif" alt="About Us" width=2 height=22 border=0></td>
+    <td><a onMouseOver="msOver('investments', '/images/but_investments_hi.gif'); window.status='Investments'; return true" onMouseOut="msOver('investments', '/images/but_investments.gif'); window.status=''; return true" href="/investments/"><img src="/images/but_investments.gif" alt="Investments" width=74 height=22 border=0 name=investments></a></td>    
+    <td><img src="/images/head_break2.gif" alt="Investments" width=2 height=22 border=0></td>    
+    <td><a onMouseOver="msOver('mortgages', '/images/but_mortgages_hi.gif'); window.status='Mortgages'; return true" onMouseOut="msOver('mortgages', '/images/but_mortgages.gif'); window.status=''; return true" href="/mortgages/"><img src="/images/but_mortgages.gif" alt="Mortgages" width=74 height=22 border=0 name=mortgages></a></td>
+    <td><img src="/images/head_break3.gif" alt="Mortgages" width=2 height=22 border=0></td>            
+    <td><a onMouseOver="msOver('locations', '/images/but_locations_hi.gif'); window.status='Locations'; return true" onMouseOut="msOver('locations', '/images/but_locations.gif'); window.status=''; return true" href="/locations/"><img src="/images/but_locations.gif" alt="Locations" width=74 height=22 border=0 name=locations></a></td>    
+    <td><img src="/images/head_break4.gif" alt="Locations" width=2 height=22 border=0></td>                
+    <td><a onMouseOver="msOver('other', '/images/but_other_hi.gif'); window.status='Other Services'; return true" onMouseOut="msOver('other', '/images/but_other.gif'); window.status=''; return true" href="/other/"><img src="/images/but_other.gif" alt="Other Services" width=75 height=22 border=0 name=other></a></td>    
+  </tr>
+</table>
+<!-- E -->
+<br>
+<!-- S -->
+<table width=600 cellpadding=0 cellspacing=0 border=0 align=center>
+  <tr valign=top>
+    <td width=210>
+        <img src="/images/title_locations.jpg" alt="locations" width=210 height=209 border=0><br>
+        <ul><form name="result1" action="/locations/item.php3" method=GET><select name="loc_id"><option value="1"><b>Head Office</b><option value="3">Belfast <b>Branch</b><option value="5">Ballymena <b>Branch</b><option value="6">L/Derry <b>Branch</b><option value="7">Coleraine <b>Branch</b><option value="8">Bangor <b>Branch</b><option value="9">Newtownards <b>Branch</b><option value="10">Lisburn <b>Branch</b><option value="11">Portadown <b>Branch</b><option value="12">Enniskillen <b>Branch</b><option value="15">Omagh <b>Branch</b><option value="16">Portadown High Street Agency<option value="17">Portadown Hanover St Agency<option value="18">Portstewart Agency<option value="19">Randalstown Agency<option value="20">Rathfriland Agency<option value="21">Saintfield Agency<option value="22">Strabane Abercorn Square Agency<option value="23">Strabane Butcher St Agency<option value="24">Tandragee Agency<option value="25">Warrenpoint Agency<option value="26">Whitehead Agency<option value="27">Lurgan Agency<option value="28">Maghera Agency<option value="29">Magherafelt Agency<option value="30">Markethill Agency<option value="31">Moira Agency<option value="32">Moy Agency<option value="33">Newcastle Agency<option value="34">Newry Home Avenue Agency<option value="35">Newry Hill St Agency<option value="36">Newry Dromintee Rd Agency<option value="37">Newtownabbey Agency<option value="38">Newtownards Agency<option value="39">Newtownstewart Agency<option value="40">Omagh Agency<option value="41">Antrim Agency<option value="42">Armagh Agency<option value="43">Ballycastle Agency<option value="44">Ballyclare Agency<option value="45">Ballymena Agency<option value="46">Ballymena Agency<option value="47">Ballymoney Agency<option value="48">Ballynahinch Agency<option value="49">Ballywalter Agency<option value="50">Banbridge Agency<option value="51">Belfast (Ballyhackamore1) Agency<option value="52">Belfast (Belmont Rd) Agency<option value="53">Belfast (Castlereagh) Agency<option value="54">Belfast (Cavehill) Agency<option value="55">Belfast (Cregagh Rd) Agency<option value="56">Belfast (Ballyhackamore2) Agency<option value="57">Belfast (Dundonald) Agency<option value="58">Belfast (Dundonald Village) Agency<option value="59">Belfast (Dunmurry) Agency<option value="60">Belfast (Finaghy) Agency<option value="61">Belfast (Lisburn Road) Agency<option value="62">Belfast (N/Ards Road) Agency<option value="63">Belfast (Ormeau Road) Agency<option value="64">Belfast (Knockbreda) Agency<option value="65">Belfast (Saintfield Road) Agency<option value="66">Belfast (Shore Road) Agency<option value="67">Belfast (York Road) Agency<option value="68">Belleck Agency<option value="69">Bushmills Agency<option value="70">Carrickfergus Agency<option value="71">Carrickmore Agency<option value="72">Carryduff Agency<option value="73">Castlederg Agency<option value="74">Claudy Agency<option value="75">Clogher Agency<option value="76">Cloughmills Agency<option value="77">Coalisland Agency<option value="78">Coleraine Agency<option value="79">Comber Agency<option value="80">Cookstown Agency<option value="81">Crossgar Agency<option value="82">Crossmaglen Agency<option value="83">Crumlin Agency<option value="84">Downpatrick Agency<option value="85">Draperstown Agency<option value="86">Dromore Agency<option value="87">Dromore -  Agency<option value="88">Dungannon Agency<option value="89">Glengormley Agency<option value="90">Hillsborough Agency<option value="91">Holywood Agent<option value="92">Irvinestown Agency<option value="93">Irvinestown - Agency<option value="94">Keady Agency<option value="95">Kilkeel Agency<option value="96">Kilkeel - Agency<option value="97">Kilrea Agency<option value="98">Kircubbin Agency<option value="99">Larne Agency<option value="100">Limavady Aency<option value="101">Lisburn Agency<option value="102">Lisnaskea Agency<option value="103">Lisnaskea -  Agency<option value="104">Derry - Agency<option value="105">Londonderry - Agency<input type="submit" value="GO"></select></form> </ul>
+    </td>
+    <td width=390>
+    <!-- END HEADER -->
+    
+
+<table width=390 cellpadding=0 cellspacing=0 border=0>
+  <tr>
+    <td class=shadow>
+    <div class=title>Locations</div>
+   </td>
+ </tr>
+</table>
+<img src="/images/blank_red.gif" width=390 height=1 border=0>
+
+
+<p>Click on the map below to locate your nearest Progressive Building Society branch or alternatively select your nearest branch from the selection menu opposite</p>
+
+<p><img src="/images/location_map.gif" usemap="#location_map.gif" width=387 height=297 border=0 align=center></p>
+
+<MAP NAME="location_map.gif">
+<AREA SHAPE=RECT COORDS="63,184,107,221" HREF="/locations/item.php3?loc_id=12" ALT="Fermanagh">
+<AREA SHAPE=RECT COORDS="99,109,143,148" HREF="/locations/item.php3?loc_id=15" ALT="Omagh">
+<AREA SHAPE=RECT COORDS="117,34,164,72" HREF="/locations/item.php3?loc_id=6" ALT="Londonderry">
+<AREA SHAPE=RECT COORDS="176,7,223,42" HREF="/locations/item.php3?loc_id=7" ALT="Coleraine">
+<AREA SHAPE=RECT COORDS="266,78,309,114" HREF="/locations/item.php3?loc_id=5" ALT="Ballymena">
+<AREA SHAPE=RECT COORDS="282,121,324,153" HREF="/locations/item.php3?loc_id=4" ALT="Glengormley">
+<AREA SHAPE=RECT COORDS="284,153,328,181" HREF="/locations/item.php3?loc_id=1" ALT="Belfast">
+<AREA SHAPE=RECT COORDS="335,123,378,154" HREF="/locations/item.php3?loc_id=8" ALT="Bangor">
+<AREA SHAPE=RECT COORDS="330,156,371,187" HREF="/locations/item.php3?loc_id=9" ALT="Newtownards">
+<AREA SHAPE=RECT COORDS="258,181,299,211" HREF="/locations/item.php3?loc_id=10" ALT="Lisburn">
+<AREA SHAPE=RECT COORDS="217,193,255,225" HREF="/locations/item.php3?loc_id=11" ALT="Portadown">
+</MAP>
+<!--
+<ul><li><a href="/locations/item.php3?loc_id=1"><b>Head Office</b></a></ul><ul><li><a href="/locations/item.php3?loc_id=3">Belfast <b>Branch</b></a></ul><ul><li><a href="/locations/item.php3?loc_id=5">Ballymena <b>Branch</b></a></ul><ul><li><a href="/locations/item.php3?loc_id=6">L/Derry <b>Branch</b></a></ul><ul><li><a href="/locations/item.php3?loc_id=7">Coleraine <b>Branch</b></a></ul><ul><li><a href="/locations/item.php3?loc_id=8">Bangor <b>Branch</b></a></ul><ul><li><a href="/locations/item.php3?loc_id=9">Newtownards <b>Branch</b></a></ul><ul><li><a href="/locations/item.php3?loc_id=10">Lisburn <b>Branch</b></a></ul><ul><li><a href="/locations/item.php3?loc_id=11">Portadown <b>Branch</b></a></ul><ul><li><a href="/locations/item.php3?loc_id=12">Enniskillen <b>Branch</b></a></ul><ul><li><a href="/locations/item.php3?loc_id=15">Omagh <b>Branch</b></a></ul><ul><li><a href="/locations/item.php3?loc_id=16">Portadown High Street Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=17">Portadown Hanover St Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=18">Portstewart Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=19">Randalstown Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=20">Rathfriland Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=21">Saintfield Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=22">Strabane Abercorn Square Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=23">Strabane Butcher St Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=24">Tandragee Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=25">Warrenpoint Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=26">Whitehead Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=27">Lurgan Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=28">Maghera Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=29">Magherafelt Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=30">Markethill Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=31">Moira Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=32">Moy Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=33">Newcastle Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=34">Newry Home Avenue Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=35">Newry Hill St Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=36">Newry Dromintee Rd Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=37">Newtownabbey Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=38">Newtownards Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=39">Newtownstewart Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=40">Omagh Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=41">Antrim Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=42">Armagh Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=43">Ballycastle Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=44">Ballyclare Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=45">Ballymena Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=46">Ballymena Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=47">Ballymoney Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=48">Ballynahinch Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=49">Ballywalter Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=50">Banbridge Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=51">Belfast (Ballyhackamore1) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=52">Belfast (Belmont Rd) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=53">Belfast (Castlereagh) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=54">Belfast (Cavehill) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=55">Belfast (Cregagh Rd) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=56">Belfast (Ballyhackamore2) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=57">Belfast (Dundonald) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=58">Belfast (Dundonald Village) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=59">Belfast (Dunmurry) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=60">Belfast (Finaghy) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=61">Belfast (Lisburn Road) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=62">Belfast (N/Ards Road) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=63">Belfast (Ormeau Road) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=64">Belfast (Knockbreda) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=65">Belfast (Saintfield Road) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=66">Belfast (Shore Road) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=67">Belfast (York Road) Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=68">Belleck Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=69">Bushmills Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=70">Carrickfergus Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=71">Carrickmore Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=72">Carryduff Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=73">Castlederg Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=74">Claudy Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=75">Clogher Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=76">Cloughmills Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=77">Coalisland Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=78">Coleraine Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=79">Comber Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=80">Cookstown Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=81">Crossgar Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=82">Crossmaglen Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=83">Crumlin Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=84">Downpatrick Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=85">Draperstown Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=86">Dromore Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=87">Dromore -  Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=88">Dungannon Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=89">Glengormley Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=90">Hillsborough Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=91">Holywood Agent</a></ul><ul><li><a href="/locations/item.php3?loc_id=92">Irvinestown Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=93">Irvinestown - Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=94">Keady Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=95">Kilkeel Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=96">Kilkeel - Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=97">Kilrea Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=98">Kircubbin Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=99">Larne Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=100">Limavady Aency</a></ul><ul><li><a href="/locations/item.php3?loc_id=101">Lisburn Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=102">Lisnaskea Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=103">Lisnaskea -  Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=104">Derry - Agency</a></ul><ul><li><a href="/locations/item.php3?loc_id=105">Londonderry - Agency</a></ul>-->
+
+  
+    
+    <!-- START FOOTER -->
+        </td>
+  </tr>
+  <tr>
+    <td colspan=2 align=center>
+    <br>
+        <hr size=0 color="#000000">
+    <a href="/about/">About Us</a> | <a href="/investments/">Investments</a> | <a href="/mortgages/">Mortgages</a> | <a href="/locations/">Locations</a> | <a href="/other/">Other Services</a><br>
+    <a href="/news/">News</a> | <a href="/estimator/">Mortgage Estimator</a> | <a href="/application/">Mortgage Application</a> | <a onclick="open_window('/weather/','number3','width=600,height=520,toolbar=0,directories=0,menubar=0,status=0,resizable=1,location=0,scrollbars=1,top=10,left=10')"; href="/weather/" target="number3">Weather</a> | <a href="/">Home</a>
+   
+    <p>Created and Designed by <a href="http://www.tibus.net/" class=link target=window.open>The Internet Business</a></p>
+
+<table width="100%" cellspacing=0 border=0 bgcolor="#990000" align=center>
+  <tr valign=top>
+    <td>
+    <table width="100%" cellspacing=0 border=0 bgcolor="#990000" align=center>
+      <tr valign=top>
+        <td bgcolor="#ffffff" align=center class=tiny>
+        Representative only of the Legal & General marketing group, members of which are regulated by the Financial Services Authority, for the purposes of making introductions to other representatives for recommending, advising on and selling life assurance and investment products bearing Legal & General's name.
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+
+    </td>    
+  </tr>
+</table>
+<!-- E -->
+
+
+</body>
+</html>
+<!-- END FOOTER -->
+    
+    

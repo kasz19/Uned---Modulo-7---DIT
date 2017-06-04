@@ -1,0 +1,1001 @@
+ID=A0073
+URL=http://www.sainsburysbank.co.uk/credit_card/creditcard_terms.html
+SIZE=69097
+DATE=27/06/02
+TIME=16:51:45
+DATASET=Commercial Banks
+HTML=<!--
+CVS INFO
+Description of the template or HTML page
+Author : $Author: vastrom $
+Version : $Revision: 1.13 $
+Date : $Date: 2001/01/24 13:19:28 $
+-->
+<html><!-- #BeginTemplate "/Templates/cc_template_4_credit_card.dwt" -->
+<head>
+<!-- #BeginEditable "docheader" --> 
+<title>Sainsbury's Bank - Credit Card - Terms and Conditions</title>
+
+<meta name="keywords" content="Credit Card, Credit Cards, Visa, Visa cards, Reward Points, apply online">
+<meta name="Description" content="Welcome to Sainsbury's Bank. Our aim is to provide the best deals to make
+life easier. Find out about the benefits of a Sainsbury's Bank Visa card
+and apply on-line now.">
+<!-- #EndEditable --> 
+<script language="JavaScript" src="../css/credit_card.js"></script>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- #BeginLibraryItem "/Library/top_nav_credit.lbi" --><table width="100%" height="63" border="0" cellspacing="0" cellpadding="0" background="../assets/top_nav/living_orange_bar.gif">
+<tr width="100%">
+<td>
+<table width="770" height="63" border="0" cellspacing="0" cellpadding="0" background="../Library/null">
+  <tr valign="bottom"> 
+          <td width="24"><a href="#mainContent"><img src="../assets/spacer.gif" width="24" height="45" border="0" alt="skip to page content"></a></td>
+          <td valign="bottom" width="165"><a href="../index.html" target="_top"><img src="../assets/top_nav/logo_top.gif" width="165" height="21" border="0" alt="Sainsbury's Bank"></a></td>
+          <td width="266"><img src="../assets/spacer.gif" height="1" width="266" alt=" "></td>
+          <td width="86">&nbsp;</td>
+          <td width="15"><img src="../assets/spacer.gif" width="15" height="1" alt=" "></td>
+          <td width="50"><a href="../legal_regulatory/legal_regulatory.html" onMouseOver="imgOver('legal')" onMouseOut="imgOut('legal')" target="_top"><img src="../assets/top_nav/legal_and_reg_off.gif" width="86" height="10" alt="legal and regulatory" name="legal" border="0"></a></td>
+          <td width="15"><img src="../assets/spacer.gif" width="15" height="1" alt=" "></td>
+          <td width="40"><a href="/sainsburys/sbkcontact.nsf/contact?openform&classic" onMouseOver="imgOver('contact')" onMouseOut="imgOut('contact')" target="_top"><img src="../assets/top_nav/contact_us_off.gif" width="50" height="10" border="0" alt="contact us" name="contact"></a></td>
+          <td width="15"><img src="../assets/spacer.gif" width="15" height="1" alt=" "></td>
+          <td width="20"><a href="../site_map/site_map.html" onMouseOver="imgOver('site')" onMouseOut="imgOut('site')" target="_top"><img src="../assets/top_nav/site_map_off.gif" width="40" height="10" border="0" alt="site map" name="site"></a></td>
+          <td width="15"><img src="../assets/spacer.gif" width="15" height="1" alt=" "></td>
+          <td width="39"><a href="../tool_box/tool_box.html" onMouseOver="imgOver('tool_box')" onMouseOut="imgOut('tool_box')" target="_top"><img src="../assets/top_nav/tool_box_off.gif" width="39" height="10" border="0" alt="tool box" name="tool_box"></a></td>
+          <td width="20"><img src="../assets/spacer.gif" width="20" height="1" alt=" "></td>
+  </tr>
+  <tr valign="top"> 
+    <td width="24">&nbsp;</td>
+          <td valign="top" width="165"><a href="../index.html"><img src="../assets/top_nav/logo_bottom.gif" width="165" height="3" border="0" alt=" "></a></td>
+    <td colspan="11">&nbsp;</td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+<br>
+<img src="../assets/spacer.gif" width="770" height="40" border="0" alt=" " />
+
+<!-- #EndLibraryItem --><table width="770" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="25"><img src="../assets/spacer.gif" width="25" height="1" border="0" alt=" " /></td>
+          <td width="167" valign="top"> <!-- #BeginEditable "sideNav" -->
+  
+        <table border="0" cellpadding="0" cellspacing="0" width="167">
+          <tr> 
+            <td colspan="4"><a target="_top" href="../loans/loans.html"><img src="../assets/left_nav/loans_off.gif" width="167" height="28" border="0" alt="loans" /></a></td>
+          </tr>
+          <tr><!-- white spacer 3 --> 
+            <td colspan="4"><img src="../assets/spacer.gif" width="167" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="4"><a target="_top" href="../savings_investments/savings_homepage.html"><img src="../assets/left_nav/savings_investments_off.gif" width="167" height="28" border="0" alt="savings & investments" /></a></td>
+          </tr>
+          <tr><!-- white spacer 3 --> 
+            <td colspan="4"><img src="../assets/spacer.gif" width="167" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="4"><a target="_top" href="../credit_card/creditcard.html"><img src="../assets/left_nav/credit_card_on.gif" width="167" height="28" border="0" alt="credit card" /></a></td>
+          </tr>
+          <tr><!-- spacer 3 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="109"><img src="../assets/spacer.gif" width="109" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td rowspan="3" bgcolor="#FF0099" width="109" valign="center"><a target="_top" href="../credit_card/creditcard_apply.html" class="nav2levelOff">apply now</a></td>
+            <td rowspan="3" bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="23" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="2" height="19" background="../assets/left_nav/nav_magenta_bg.gif" colspan="2" width="48" valign="top"><a target="_top" href="../credit_card/creditcard_apply.html"><img src="../assets/left_nav/magenta_arrow_off.gif" width="48" height="19" border="0" alt=" " /></a></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="5" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 3 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="109"><img src="../assets/spacer.gif" width="109" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td rowspan="3" bgcolor="#FF0099" width="109" valign="center"><a target="_top" href="../credit_card/creditcard_features.html" class="nav2levelOff">card benefits</a></td>
+            <td rowspan="3" bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="23" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="2" height="19" background="../assets/left_nav/nav_magenta_bg.gif" colspan="2" width="48" valign="top"><a target="_top" href="../credit_card/creditcard_features.html"><img src="../assets/left_nav/magenta_arrow_off.gif" width="48" height="19" border="0" alt=" " /></a></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="5" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 3 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="109"><img src="../assets/spacer.gif" width="109" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td rowspan="3" bgcolor="#FF0099" width="109" valign="center"><a target="_top" href="../credit_card/creditcard_faq.html" class="nav2levelOff">any questions?</a></td>
+            <td rowspan="3" bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="23" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="2" height="19" background="../assets/left_nav/nav_magenta_bg.gif" colspan="2" width="48" valign="top"><a target="_top" href="../credit_card/creditcard_faq.html"><img src="../assets/left_nav/magenta_arrow_off.gif" width="48" height="19" border="0" alt=" " /></a></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="5" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 3 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="109"><img src="../assets/spacer.gif" width="109" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td rowspan="3" bgcolor="#FF0099" width="109" valign="center"><a target="_top" href="../credit_card/creditcard_steps.html" class="nav2levelOff">making the<br />most of it</a></td>
+            <td rowspan="3" bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="23" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="2" height="19" background="../assets/left_nav/nav_magenta_bg.gif" colspan="2" width="48" valign="top"><a target="_top" href="../credit_card/creditcard_steps.html"><img src="../assets/left_nav/magenta_arrow_off.gif" width="48" height="19" border="0" alt=" " /></a></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="5" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 3 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="109"><img src="../assets/spacer.gif" width="109" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td rowspan="3" bgcolor="#FF0099" width="109" valign="center"><a target="_top" href="../credit_card/creditcard_services.html" class="nav2levelOff">get in touch</a></td>
+            <td rowspan="3" bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="23" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="2" height="19" background="../assets/left_nav/nav_magenta_bg.gif" colspan="2" width="48" valign="top"><a target="_top" href="../credit_card/creditcard_services.html"><img src="../assets/left_nav/magenta_arrow_off.gif" width="48" height="19" border="0" alt=" " /></a></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="5" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 3 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="109"><img src="../assets/spacer.gif" width="109" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td rowspan="3" bgcolor="#FF0099" width="109" valign="center"><a target="_top" href="../credit_card/creditcard_terms.html" class="nav2levelMagentaOn">terms & conditions</a></td>
+            <td rowspan="3" bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="23" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="2" height="19" background="../assets/left_nav/nav_magenta_bg.gif" colspan="2" width="48" valign="top"><a target="_top" href="../credit_card/creditcard_terms.html"><img src="../assets/left_nav/magenta_arrow_on.gif" width="48" height="19" border="0" alt=" " /></a></td>
+          </tr>
+          <tr> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="5" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- spacer 3 --> 
+            <td width="32" valign="center"><img src="../assets/spacer.gif" width="32" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="16" valign="center"><img src="../assets/spacer.gif" width="16" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="109"><img src="../assets/spacer.gif" width="109" height="3" border="0" alt=" " /></td>
+            <td bgcolor="#FF0099" width="10"><img src="../assets/spacer.gif" width="10" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr><!-- white spacer 3 --> 
+            <td colspan="4"><img src="../assets/spacer.gif" width="167" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="4"><a target="_top" href="../insurance/insurance.html"><img src="../assets/left_nav/insurance_off.gif" width="167" height="28" border="0" alt="insurance" /></a></td>
+          </tr>
+          <tr><!-- white spacer 3 --> 
+            <td colspan="4"><img src="../assets/spacer.gif" width="167" height="3" border="0" alt=" " /></td>
+          </tr>
+          <tr> 
+            <td colspan="4"><a target="_top" href="../mortgages/mortgages.html"><img src="../assets/left_nav/mortgages_off.gif" width="167" height="28" border="0" alt="mortgages" /></a></td>
+          </tr>
+          <tr><!-- white spacer 3 --> 
+            <td colspan="4"><img src="../assets/spacer.gif" width="167" height="3" border="0" alt=" " /></td>
+          </tr>
+        </table>
+
+<!-- #EndEditable --> </td>
+          <td width="33" valign="top"><!-- spacer 1 --> <img src="../assets/spacer.gif" width="33" height="1" border="0" alt=" " /> 
+            <!-- #BeginEditable "Side%20Selection" --><!-- #EndEditable --></td>
+          
+    <td width="430" valign="top"> <!-- #BeginEditable "Header%20Images" --><img src="../assets/headers/credit_card/our_terms_conditions.gif" width="430" height="21" alt="terms &amp; conditions"> 
+      <!-- #EndEditable --><br>
+      <!-- #BeginEditable "Local%20Navigation" -->
+
+<!-- #EndEditable --> <!-- #BeginEditable "Main%20Text" --> 
+      <p ><span class="bodyBold">Credit Agreement regulated by the Consumer Credit 
+        Act 1974.<br>
+        1.INTRODUCTION</span><br>
+        In this Agreement 'we', 'us' and 'our' means Sainsbury's Bank and any 
+        company, firm or person which we transfer any or all of our rights and 
+        duties to under this Agreement and 'you' means the person signing this 
+        Agreement. Specific meanings for words which begin with a capital letter 
+        are set out in condition 16. If you need to report lost or stolen cards 
+        <span class="bodyBold">telephone 0845 300 0344</span> or write to <span class="bodyBold">Card 
+        Services, Pitreavie Business Park, Dunfermline, Fife KY99 4BS.</span> 
+        If you want to contact us about anything else to do with this Agreement 
+        write to us at the above address or telephone 08701 542 543. <br>
+      </p>
+      <p><span class="bodyBold">2.LIMITS</span><br>
+        Your Cash Limit is half your Credit Limit. We will review your Credit 
+        Limit from time to time and tell you what it is.</p>
+      <p ><span class="bodyBold">3.CREDIT CHARGES</span><br>
+        3.1 We will charge interest at the following rates: </p>
+      <p >&nbsp;</p>
+      <table width="430" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td colspan="3" bgcolor="#333399"><img src="../assets/generic/blue_header_arrow.gif" width="13" height="23"><br>
+            <img src="../assets/white_spacer.gif" width="6" height="45"></td>
+          <td width="77" bgcolor="#333399">&nbsp;</td>
+          <td width="1" bgcolor="#333399"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td width="2" bgcolor="#333399"><img src="../assets/spacer.gif" width="2" height="1"></td>
+          <td class="tableheader" colspan="4" bgcolor="#333399" valign="top">Special 
+            Promotion</td>
+          <td width="1" bgcolor="#333399" valign="top"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td width="2" bgcolor="#333399" valign="top"><img src="../assets/spacer.gif" width="2" height="1"></td>
+          <td class="tableheader" colspan="4" bgcolor="#333399" valign="top">Cash 
+            Advances<br> <span class="tableHeaderSmall">(and related Charges)</span></td>
+          <td width="1" bgcolor="#333399" valign="top"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td width="2" bgcolor="#333399" valign="top"><img src="../assets/spacer.gif" width="2" height="1"></td>
+          <td class="tableheader" colspan="4" bgcolor="#333399" valign="top">Purchases<br> 
+            <span class="tableHeaderSmall">(related Charges and all other Charges)</span></td>
+          <td width="1" bgcolor="#333399"><img src="../assets/spacer.gif" width="1" height="1"></td>
+        </tr>
+        <tr> 
+          <td rowspan="9" width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+          <td rowspan="9" width="1" bgcolor="#333399"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td rowspan="8" width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+          <td width="77"><img src="../assets/spacer.gif" width="67" height="1"></td>
+          <td rowspan="8" width="1" bgcolor="#333399"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td rowspan="8" width="2"><img src="../assets/spacer.gif" width="2" height="1"></td>
+          <td width="57"><img src="../assets/spacer.gif" width="47" height="1"></td>
+          <td rowspan="8" width="1" bgcolor="#333399"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td rowspan="8" width="2"><img src="../assets/spacer.gif" width="2" height="1"></td>
+          <td width="37"><img src="../assets/spacer.gif" width="57" height="1"></td>
+          <td rowspan="8" width="1" bgcolor="#333399"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td rowspan="8" width="2"><img src="../assets/spacer.gif" width="2" height="1"></td>
+          <td width="57"><img src="../assets/spacer.gif" width="57" height="1"></td>
+          <td rowspan="8" width="1" bgcolor="#333399"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td rowspan="8" width="2"><img src="../assets/spacer.gif" width="2" height="1"></td>
+          <td width="57"><img src="../assets/spacer.gif" width="57" height="1"></td>
+          <td rowspan="8" width="1" bgcolor="#333399"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td rowspan="8" width="2"><img src="../assets/spacer.gif" width="2" height="1"></td>
+          <td width="58"><img src="../assets/spacer.gif" width="57" height="1"></td>
+          <td rowspan="8" width="1" bgcolor="#333399"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td rowspan="8" width="2"><img src="../assets/spacer.gif" width="2" height="1"></td>
+          <td width="56"><img src="../assets/spacer.gif" width="56" height="1"></td>
+          <td rowspan="9" width="1" bgcolor="#333399"><img src="../assets/spacer.gif" width="1" height="1"></td>
+        </tr>
+        <tr> 
+          <td width="77">&nbsp;</td>
+          <td width="57" valign="top">Per month</td>
+          <td width="37" valign="top">&nbsp;</td>
+          <td width="57" valign="top">Per month</td>
+          <td width="57" valign="top">&nbsp;</td>
+          <td width="58" valign="top">Per month</td>
+          <td width="56" valign="top">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="77">&nbsp;</td>
+          <td width="57">&nbsp;</td>
+          <td width="37">&nbsp;</td>
+          <td width="57">&nbsp;</td>
+          <td width="57">&nbsp;</td>
+          <td width="58">&nbsp;</td>
+          <td width="56">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td rowspan="3" width="77">Special Promotion rate for the Special Promotion 
+            Period</td>
+          <td width="57" valign="top">0.480%</td>
+          <td width="37" valign="top">5.9%p.a.*</td>
+          <td width="57" valign="top">0.480%</td>
+          <td width="57" valign="top">5.9%p.a.*</td>
+          <td width="58" valign="top">0.480%</td>
+          <td width="56" valign="top">5.9%p.a.*</td>
+        </tr>
+        <tr> 
+          <td width="57">&nbsp;</td>
+          <td width="37" valign="top">&nbsp;</td>
+          <td width="57">&nbsp;</td>
+          <td width="57">&nbsp;</td>
+          <td width="58">&nbsp;</td>
+          <td width="56" valign="top">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="57">&nbsp;</td>
+          <td width="37">&nbsp;</td>
+          <td width="57">&nbsp;</td>
+          <td width="57">&nbsp;</td>
+          <td width="58">&nbsp;</td>
+          <td width="56">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="77" bgcolor="#FFFFFF">&nbsp;</td>
+          <td width="57" bgcolor="#FFFFFF">&nbsp;</td>
+          <td width="37" bgcolor="#FFFFFF">&nbsp;</td>
+          <td width="57" bgcolor="#FFFFFF">&nbsp;</td>
+          <td width="57" bgcolor="#FFFFFF">&nbsp;</td>
+          <td width="58" bgcolor="#FFFFFF">&nbsp;</td>
+          <td width="56" bgcolor="#FFFFFF">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="77" bgcolor="#FFFFFF">Standard rate</td>
+          <td width="57" bgcolor="#FFFFFF" valign="top">N/A</td>
+          <td width="37" bgcolor="#FFFFFF" valign="top">N/A</td>
+          <td width="57" bgcolor="#FFFFFF" valign="top">1.24%</td>
+          <td width="57" bgcolor="#FFFFFF" valign="top"><span class="bodyBold">17.7%APR</span></td>
+          <td width="58" bgcolor="#FFFFFF" valign="top">1.24%</td>
+          <td width="56" bgcolor="#FFFFFF" valign="top"><span class="bodyBold">15.9%APR</span></td>
+        </tr>
+        <tr> 
+          <td colspan="20" bgcolor="#0000CC"><img src="../assets/spacer.gif" width="1" height="1"></td>
+        </tr>
+      </table>
+      <p class="bodySmall">*p.a. rates do not include any cash handling fees or 
+        charges</p>
+      <p>3.2 We charge a handling fee of 1.5% of the amount of each Cash Advance 
+        (minimum fee &pound;1.50 ) 
+      <p> 3.3 In calculating the APRs we have not taken into account any changes 
+        which we may make to the interest rates, the handling [or annual] fee 
+        or any other charges which we may introduce or vary at any time by giving 
+        you notice under condition 11. The APRs are calculated on the basis of 
+        a Credit Limit of &pound;1,000. At the end of any Special Promotion Period, 
+        the standard rate will apply. </p>
+      <p> <span class="bodyBold">4.REPAYMENTS AND INTEREST CHARGING</span> 
+      <p> 4.1 Each month you must pay at least the minimum payment shown on your 
+        statement so that it reaches your Account on or before the Payment Date, 
+        which is 19 days after your statement date. The minimum payment will be 
+        the greater of &pound;5, or 3% of the Statement Balance or the full Statement 
+        Balance, if the Statement Balance is less than &pound; 5. 
+      <p> 4.2 If the full Statement Balance shown on your monthly statement reaches 
+        your Account on or before the Payment Date, no interest will be charged 
+        on that Statement Balance after the date of that statement. 
+      <p>If the full Statement Balance shown on your current monthly statement 
+        reaches your Account on or before the Payment Date <span class="bodyBold">AND</span> the full Statement 
+        Balance which was outstanding on the immediately preceding monthly statement 
+        reached your Account on or before the Payment Date shown on that statement, 
+        we will not charge interest on any Transactions and Charges shown on your 
+        current statement. 
+      <p>In all other cases, interest will be charged on a daily basis on the 
+        Account Balance on all Balance Transfers, Cheques and Charges from the 
+        Posting Date, and on all Cash Advances and Purchases (other than Cheques) 
+        from the Transaction Date, up to and including the next statement date 
+        when interest will be added to your Account until you have paid the amount 
+        you owe us in full. 
+      <p> 4.3 Any payment to us will only take effect and be treated as having 
+        reached your Account when we can use it to reduce the Account Balance. 
+        We will apply payments against the Account Balance in the following order: 
+      <p>(a) first against the amount you owe us for Charges; and then against<br>
+        (b) Cash Advances and Purchases (in that order) which have been charged 
+        to the Account and shown in a statement; followed by<br>
+        (c) Cash Advances and Purchases (in that order) which have been charged 
+        to the Account but have not yet been shown in a statement. 
+      <p>For these purposes, Special Promotions will be treated as:<br>
+      <ul>
+        (i) Cash Advances, if the interest rate which applied to any Special Promotion 
+        during the Special Promotion Period was the same as the rate applicable 
+        to Cash Advances; and<br>
+        (ii) Purchases, if the interest rate which applied to any Special Promotion 
+        during the Special Promotion Period was the same as the rate applicable 
+        to Purchases (even if the same rate applied to Cash Advances). <br>
+      </ul>
+      <p>4.4 We may at our discretion let you pay less than the minimum payment 
+        explained in condition 4.1 or make no minimum payment for a particular 
+        month or period. If we do this, we will continue to charge interest and 
+        add it to the Account as normal. 
+      <p>4.5 You must pay us straight away: 
+      <ul>
+        <li>the amount by which the Account Balance is over the Credit Limit; 
+        <li>the amount of any Transaction made in breach of this Agreement; and 
+        <li> the amount of any late payment. 
+      </ul>
+      <p>4.6 Depending on any legal requirements, we can ask for all amounts unpaid 
+        under this Agreement to be paid in full if you:<br>
+        (a) act fraudulently, frequently break this Agreement or break an important 
+        term; <br>
+        (b) become bankrupt, or an application for an interim order is made against 
+        you under section 253 of the Insolvency Act 1986; or<br>
+        (c) die.<br>
+      </p>
+      <p><span class="bodyBold">5.USING THE CARD AND CHEQUES</span></p>
+      <p>5.1 You must sign your Card as soon as you receive it and follow any 
+        reasonable instructions that we give about using Cards and keeping them 
+        safe. </p>
+      <p>5.2 You and any Additional Cardholder can use Cards and you can use Cheques 
+        up to the Credit Limit but the Cash Balance must not go over the Cash 
+        Limit. When deciding whether you have gone over the Credit Limit or the 
+        Cash Limit we take account of the amount of any Transaction we are aware 
+        of but have not yet put on the Account. If we authorise a Transaction 
+        which takes you over your Credit Limit you will still have to pay an over 
+        limit fee as set out in the Tariff.</p>
+      <p>5.3 If you ask us to make a Balance Transfer, you will still have to 
+        pay any amounts you owe to the lender before and, if necessary, after 
+        we add the Balance Transfer to your Account.</p>
+      <p>5.4 We will convert all Transactions in foreign currency into sterling 
+        using the exchange rate set by the Card Scheme and a conversion fee, set 
+        out in the Tariff, on the amount of the Transaction. As rates change, 
+        the exchange rate used may not be the same as the rate on the date when 
+        the Transaction was made.</p>
+      <p>5.5 We do not always issue Cheques or give them to all cardholders. If 
+        we send Cheques to you, you must not use them to pay off any amounts you 
+        owe us or to make payments in foreign currencies.</p>
+      <p>5.6 We will replace the Card from time to time. A replacement Card will 
+        either be the same as your existing Card or another Card that you then 
+        qualify for and which is covered by this Agreement. </p>
+      <p>5.7 Cards and Cheques belong to us. We can ask you and retailers (and 
+        others) who have the Card for the purpose of a Transaction to return it 
+        to us at any time.</p>
+      <p>5.8 After you have made a Purchase with a Card, we cannot stop payment 
+        to the retailer or the charging of that Purchase to the Account. If you 
+        dispute the Purchase, the retailer must be able to prove that you authorised 
+        the Purchase to be charged to the Account. You can ask us to stop a Purchase 
+        made by a Cheque as long as you do so before it has been processed by 
+        us and the Cheque was not guaranteed.<br>
+      </p>
+      <p><span class="bodyBold">6.STATEMENTS</span></p>
+      <p>We will normally send you a statement once a month. The statement will 
+        show the payments you have made and all amounts we have added to your 
+        Account since the last statement.</p>
+      <p><span class="bodyBold">7.SECURITY</span></p>
+      <p>7.1 You must do all that you reasonably can to keep the Card and Cheques 
+        safe and the PIN secret at all times. If the Card is a cheque guarantee 
+        card, you must keep the Card separate from any Sainsbury's Bank cheques.</p>
+      <p>7.2 You must never allow anyone else to use your Card.</p>
+      <p>7.3 You must never write the PIN on the Card or on anything you usually 
+        keep with it. You must make sure that any written record of your PIN is 
+        unrecognisable.</p>
+      <p>7.4 You must only reveal the Card number to make a Transaction or to 
+        tell us (or a card protection agency) about the loss or theft of the Card.</p>
+      <p>7.5 You can only give the PIN to an Additional Cardholder.</p>
+      <p><span class="bodyBold">8.NOTICES</span></p>
+      <p>8.1 You must give us notice as soon as you can if:</p>
+      <p>(a) the Card or Cheques are lost or stolen or you think that they may 
+        be misused, or that someone other than an Additional Cardholder may know 
+        the PIN;</p>
+      <p>(b)your statement includes an item which you think is wrong; or</p>
+      <p>(c) you change your address, or you or an Additional Cardholder change 
+        name.</p>
+      <p>You can contact us on the telephone number or at the address given in 
+        condition 1. We may ask you to confirm in writing within seven days any 
+        information, which you have not already given us in writing.</p>
+      <p>8.2 You must give us all the information you have about the loss, theft 
+        or misuse of a Card or Cheques or the PIN, and any other related information 
+        which we think will assist us. We may give the police any information 
+        we think will be useful. If you find Cards and Cheques which you have 
+        reported as lost, stolen or at risk of misuse, you must not use them. 
+        You must cut them in half and return them to us immediately at the address 
+        shown in condition 1.</p>
+      <p><span class="bodyBold">9.LIMITS OF LIABILITY</span></p>
+      <p>9.1 You will not be responsible for any Transaction not authorised by 
+        you or an Additional Cardholder if the Transaction is made using the Card 
+        number when you are not present (eg. by post, telephone, internet). In 
+        all other cases, you will be liable for up to &pound;50 for any use of 
+        the Card by someone other than you or an Additional Cardholder until you 
+        give us notice under clause 8.1(a). If someone uses a Card and they got 
+        it with your or an Additional Cardholder's permission, you will be liable 
+        for all the Transactions which take place before you tell us that it may 
+        be misused.</p>
+      <p>9.2 We will not be liable to you if we cannot carry out our responsibilities 
+        under this Agreement as a result of anything that we cannot reasonably 
+        control. This includes any machine failing to work and industrial disputes. 
+        If we cannot produce or send a statement we will use your normal monthly 
+        statement date to work out the Payment Date and interest you have to pay 
+        on the Account.</p>
+      <p><span class="bodyBold">10.REFUNDS AND CLAIMS</span></p>
+      <p>We will only credit your Account with a refund for a Transaction if the 
+        retailer tells us to. You cannot use a claim you may have against a retailer 
+        to make a claim against us or refuse to pay us, unless you have a legal 
+        right to do so. You cannot transfer any rights against us to anyone else.</p>
+      <p><span class="bodyBold">11.CHANGING THE TERMS OF THIS AGREEMENT</span></p>
+      <p>11.1 We may change the terms of this Agreement at any time by telling 
+        you about the change. We may make changes to take account of Special Promotions; 
+        market conditions; changes in the cost of providing this service to you; 
+        changes or anticipated changes in legal or other requirements affecting 
+        us; any systems or product development or the introduction of new products 
+        or services; or any other good reason.</p>
+      <p>We may also introduce a charge for any service provided under or in connection 
+        with this Agreement.</p>
+      <p>11.2 We will tell you about any changes in one or more of the following 
+        ways:</p>
+      <p>(a) advertising in the press;</p>
+      <p>(b) putting messages in your monthly statement; or</p>
+      <p>(c) sending you a separate written notice.</p>
+      <p>Changes will happen at least thirty days after we tell you about them, 
+        apart from changes in the interest rate and changes which are clearly 
+        to your advantage (such as changes for Special Promotions) which may apply 
+        immediately. All notices and notice periods will follow the Consumer Credit 
+        Act 1974.</p>
+      <p><span class="bodyBold">12.LIMITING YOUR RIGHT TO USE THE CARD AND CHEQUES</span></p>
+      <p>12.1 If we have a good reason, we may (without warning):</p>
+      <p>(a) refuse to authorise a Transaction;</p>
+      <p>(b) cancel or suspend your right, or an Additional Cardholder 's right, 
+        to use the Card or Cheques for any or all purposes; or</p>
+      <p>(c) refuse to replace any Card and Cheques.</p>
+      <p>This Agreement will continue even if we do any of these things.</p>
+      <p>12.2 We will not be liable:</p>
+      <p>(a) if we do not authorise a Transaction;</p>
+      <p>(b) if you or an Additional Cardholder cannot use the Card for a Transaction 
+        or a Cheque; or</p>
+      <p>(c) for any loss or damage you or any Additional Cardholder suffer as 
+        a result of the way you are told this.</p>
+      <p>12.3 You may not use your Card as payment for any illegal purchase.</p>
+      <p><span class="bodyBold">13.ENDING THIS AGREEMENT</span></p>
+      <p>This Agreement will end if you or we have given written notice to the 
+        other and you have returned all Cards and Cheques and made all payments 
+        due under this Agreement. Unless there are exceptional circumstances we 
+        will give you thirty days' notice before we end this Agreement. We will 
+        not refund any annual fees when the Agreement ends.</p>
+      <p><span class="bodyBold">14.ADDITIONAL CARDHOLDERS</span></p>
+      <p>14.1 14.1 You must make sure that any Additional Cardholder follows the 
+        instructions we give you about using Cards and keeping them safe. You 
+        are responsible for all use of the Card by an Additional Cardholder (even 
+        if the Additional Cardholder does something which makes you break this 
+        Agreement). If you wish to cancel any additional Card, you must return 
+        the Card to us. </p>
+      <p>14.2 We will give details about the Account to an Additional Cardholder 
+        as long as we have your consent to do so. </p>
+      <p><span class="bodyBold">15.GENERAL</span> 
+      <p>15.1 We do not promise that services and benefits which we provide outside 
+        the terms of this Agreement will always be available. We may withdraw 
+        or vary these services or benefits at any time without giving you notice. 
+      <p>15.2 We may record or monitor phone calls between us and you or an Additional 
+        Cardholder so that we can check instructions and make sure that we are 
+        meeting our service standards. 
+      <p>15.3 We may transfer to any other person any or all of:<br>
+      <ul>
+        <li>our rights under this Agreement at any time; 
+        <li>our duties (including, without limitation, our duty to lend to you). 
+      </ul>
+      <p>We may do this without telling you. Your rights under this Agreement 
+        and your legal rights (including under the Consumer Credit Act 1974) will 
+        not be affected.</p>
+      <p>15.4 To cover our additional costs, we may charge:</p>
+      <p>(a) a late payment charge, if you fail to make your minimum monthly payment 
+        by the Payment Date;</p>
+      <p>(b) a returned payment charge, if a payment you make to us by cheque 
+        or direct debit is returned to us unpaid;</p>
+      <p>(c) a returned Cheque charge, if we do not pay a Cheque because doing 
+        so would take you over the Credit Limit;</p>
+      <p>(d) a letter charge, for each letter we have to write to you if you break 
+        this Agreement;</p>
+      <p>(e) a copy charge if you ask for a copy, for example, of a statement 
+        or sales voucher;</p>
+      <p>(f) an over limit charge, if the Statement Balance is over the Credit 
+        Limit. <br>
+        <br>
+        The amount of each charge is set out in the Tariff.</p>
+      <p>We will also charge any other losses and reasonable costs which we incur 
+        as a result of your breach. These include (but are not limited to) costs 
+        of tracing you and enforcing payment of any amount due under this Agreement. 
+        <br>
+        <br>
+        15.5 We will continue to charge interest on any late payment both before 
+        and after any Court Judgement.</p>
+      <p><span class="bodyBold">16.DEFINITIONS</span></p>
+      <p>16.1 In this Agreement:</p>
+      <p><span class="bodyBold">Account</span> means the credit card account we 
+        open in your name;</p>
+      <p><span class="bodyBold">Account Balance</span> means the amount you owe 
+        us on the Account from time to time;</p>
+      <p><span class="bodyBold">Additional Cardholder</span> means a person you 
+        have asked us to give a Card to so that they can use the Account;</p>
+      <p><span class="bodyBold">Agreement</span> means these conditions as varied 
+        from time to time and the credit agreement signed by you and us;</p>
+      <p><span class="bodyBold">Balance Transfer</span> means a payment in sterling 
+        that you or an Additional Cardholder tell us to make to another person 
+        in the United Kingdom which has the effect of transferring the amount 
+        owed to that person to the Account;</p>
+      <p><span class="bodyBold">Card</span> means any Sainsbury's Bank credit 
+        card which we give you or an Additional Cardholder to use on the Account;</p>
+      <p><span class="bodyBold">Card Scheme</span> means the international payment 
+        organisation (whose logos and marks appear on the card)for example Visa 
+        or MasterCard;</p>
+      <p><span class="bodyBold">Cash Advance</span> means cash (including foreign 
+        currency) and cash substitutes such as a travellers cheque obtained by 
+        use of a Card or the Card number;</p>
+      <p><span class="bodyBold">Cash Balance</span> means the amount you owe us 
+        for Cash Advances (including the handling fee and any conversion fee);</p>
+      <p><span class="bodyBold">Cash Limit</span> means the limit we put on the 
+        amount of the Cash Balance on the Account;</p>
+      <p><span class="bodyBold">Charges</span> means Credit Charges and Non Credit 
+        Charges;</p>
+      <p><span class="bodyBold">Cheque</span> means a cheque we give you to use 
+        with the Account;</p>
+      <p><span class="bodyBold">Credit Charges</span> means the charges and interest 
+        you have to pay us under condition 3;</p>
+      <p><span class="bodyBold">Credit Limit</span> means the borrowing limit 
+        on the Account at any time;</p>
+      <p><span class="bodyBold">Non Credit Charges</span> means the charges set 
+        out in the Tariff and any other charges we may make under this Agreement 
+        other than Credit Charges;</p>
+      <p><span class="bodyBold">Payment Date</span> means the date shown on your 
+        statement by which your monthly payment must reach your Account or, if 
+        that day is not a working day, the previous working day;</p>
+      <p><span class="bodyBold">PIN</span> means the personal identification number 
+        we give you or any other number subsequently chosen by you;</p>
+      <p><span class="bodyBold">Posting Date</span> means the date on which an 
+        item is charged to the Account;</p>
+      <p><span class="bodyBold">Purchase</span> means any payment for goods or services made by a Card or the 
+        Card number or by Cheque;</p>
+      <p><span class="bodyBold">Special Promotion</span> means special terms (including 
+        a reduced interest rate) which may apply during a Special Promotion Period 
+        to some or all Transactions on the Account and which we may tell you about 
+        when you open the Account, or by giving you written notice at any later 
+        time;</p>
+      <p><span class="bodyBold">Special Promotion Period</span> means the duration 
+        of any Special Promotion which we will tell you when we give you details 
+        of the Special Promotion;</p>
+      <p><span class="bodyBold">Statement Balance</span> means the Account Balance 
+        shown on each monthly statement;</p>
+      <p><span class="bodyBold">Tariff</span> means our list of specific Non Credit 
+        Charges;</p>
+      <p><span class="bodyBold">Transaction</span> means a Balance Transfer, Cash 
+        Advance or Purchase;</p>
+      <p><span class="bodyBold">Transaction Date</span> means the date when you 
+        make a Purchase or take a Cash Advance.</p>
+      <p  ><div align="center"><span class="bodyBold">IMPORTANT -YOU SHOULD READ THIS 
+        CAREFULLY <br>YOUR RIGHTS</span></div>
+        The Consumer Credit Act 1974 covers this Agreement and lays 
+        down certain requirements for your protection which must be satisfied 
+        when the Agreement is made. If they are not, we cannot enforce the Agreement 
+        against you without a court order.<br>
+        The Act also gives you a number of rights. You have a right to settle 
+        this Agreement at any time by giving notice in writing and paying off 
+        all amounts payable under the Agreement. If you have obtained unsatisfactory 
+        goods or services under a transaction financed by this Agreement, apart 
+        from any purchased out of a cash loan, you may have a right to sue the 
+        supplier, us or both. Similarly, if the contract is not fulfilled, perhaps 
+        because the supplier has gone out of business, you may still be able to 
+        sue us.<br>
+        If you would like to know more about the protection and remedies provided 
+        under the Act, you should contact either your local Trading Standards 
+        Department or your nearest Citizens' Advice Bureau.<br>
+      <p><span class="bodyBold">LOSS OR MISUSE OF YOUR CARD</span><br>
+        If your Card is lost, stolen or misused by someone who obtained it without 
+        your consent, you may be liable for up to &pound;50 of any loss to us. 
+        If it is misused with your permission you will probably be liable for 
+        ALL losses. You will not be liable for losses to us which take place after 
+        you have told us of the theft, etc.</p>
+      <p>You will not be responsible for a Transaction not authorised by you or 
+        an Additional Cardholder if the Transaction is made using the Card number 
+        when you are not present (e.g. by post, telephone or internet).<br>
+      </p>
+      <p><span class="bodyBold">YOUR RIGHT TO CANCEL</span><br>
+        Once you have signed, you will have for a short time a right to cancel 
+        this Agreement. You can do this by sending or taking a WRITTEN notice 
+        of cancellation to: Sainsbury's Bank, Card Services, Pitreavie Business 
+        Park, Dunfermline, Fife KY99 4BS.<br>
+        If you cancel this Agreement, any money you have paid, goods given in 
+        part-exchange (or their value) and property given as security must be 
+        returned to you. You will still have to repay any money lent to you. But 
+        if you repay all of it before your first instalment is due - or, if you 
+        are not paying by instalments, within one month after cancellation - you 
+        will not have to pay interest or other charges.<br>
+        Any goods which you already have under the Agreement, apart from any purchased 
+        out of a cash loan, will have to be returned. Such goods should not be 
+        used and should be kept safe. (Legal action may be taken against you if 
+        you do not take proper care of them.) You can wait for them to be collected 
+        from you and you need not hand them over unless you receive a written 
+        request. If you wish, however, you may return the goods yourself.<br>
+        You will not, however, be required to hand back any goods supplied to 
+        meet an emergency or which have already been incorporated, for example 
+        in your home. But you will still be liable to pay for emergency goods 
+        or services or for any goods which have been incorporated by you or one 
+        of your relatives.</p>
+      <table width="430" cellspacing="0" cellpadding="0" border="0">
+        <tr> 
+          <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+          <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+          <td width="293"><img src="../assets/spacer.gif" width="293" height="1"></td>
+          <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+          <td width="116"><img src="../assets/spacer.gif" width="116" height="1"></td>
+          <td width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+        </tr>
+        <tr> 
+          <td colspan="3" height="23" valign="top" bgcolor="#333399"><img src="../assets/generic/blue_header_arrow.gif" width="13" height="23"></td>
+          <td height="23" class="tableHeader" bgcolor="#333399" colspan="5">Tariff</td>
+        </tr>
+        <tr> 
+          <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+          <td bgcolor="#333399" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+          <td colspan="5"><img src="../assets/spacer.gif" width="1" height="1"> 
+            <table width="420" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td align="center" width="7"><img src="../assets/generic/spacer.gif" width="7" height="10"></td>
+                <td align="center"> 
+                  <div align="left">Conversion fee Europe 1.75% </div>
+                </td>
+              </tr>
+              <tr> 
+                <td align="center" width="7"><img src="../assets/generic/spacer.gif" width="7" height="10"></td>
+                <td align="center"> 
+                  <div align="left">Late payment charge &pound;20</div>
+                </td>
+              </tr>
+              <tr> 
+                <td align="center" width="7"><img src="../assets/generic/spacer.gif" width="7" height="10"></td>
+                <td align="center"> 
+                  <div align="left">Returned payment charge &pound;20</div>
+                </td>
+              </tr>
+              <tr> 
+                <td align="center" width="7"><img src="../assets/generic/spacer.gif" width="7" height="10"></td>
+                <td align="center"> 
+                  <div align="left">Returned Cheque charge &pound;25 </div>
+                </td>
+              </tr>
+              <tr> 
+                <td align="center" width="7"><img src="../assets/generic/spacer.gif" width="7" height="10"></td>
+                <td align="center"> 
+                  <div align="left">Letter charge &pound;10 </div>
+                </td>
+              </tr>
+              <tr> 
+                <td align="center" width="7"><img src="../assets/generic/spacer.gif" width="7" height="10"></td>
+                <td align="center"> 
+                  <div align="left"></div>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td bgcolor="#333399" width="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+        </tr>
+        <tr> 
+          <td width="6"><img src="../assets/spacer.gif" width="6" height="1"></td>
+          <td bgcolor="#333399" colspan="7" height="1"><img src="../assets/spacer.gif" width="1" height="1"></td>
+        </tr>
+        <tr> 
+          <td colspan="8" height="10">&nbsp;</td>
+        </tr>
+      </table>
+      <p><span class="bodyBold">GENERAL INFORMATION ON INSURANCE CONTRACTS</span></p>
+      <p><span class="bodyBold">Credit Care</span><br>
+        Insurers<br>
+        St.Andrew's Life Insurance plc Or in respect of Life: St.Andrew's Assurance 
+        plc Head Office: St.Andrew 's House, Portsmouth Road, Esher, Surrey KT1O 
+        9SA</p>
+      <p><span class="bodyBold">Cover:</span> After you have been unable to work 
+        for 14 consecutive days or more due to illness, accident, injury or involuntary 
+        unemployment, subject to policy conditions, St.Andrew's Insurance plc 
+        will pay &pound;10 or 10%of the insured balance (whichever is greater) 
+        each month for up to 12 months thereafter. The insured balance on your 
+        account will be paid in full in the event of your death.</p>
+      <p><span class="bodyBold">Eligibility: </span>To be eligible for Credit 
+        Care, you must be aged between 18 and 64 and in employment or self-employment. 
+        If you are not entirely satisfied with the protection offered, you can 
+        cancel the policy within 30 days at no charge to you, provided you have 
+        not made a claim. Cover ends at age 65.</p>
+      <p><span class="bodyBold">Premium: </span>Credit Care is charged at the 
+        rate of 72p per &pound;100 outstanding on your balance each month, with 
+        a minimum premium payable of 72p. in the event of a nil balance being 
+        shown, no premium is charged. Premiums payable by Cardholders resident 
+        in the UK includes Insurance Premium Tax (IPT) at the current rate. This 
+        is charged at 5% from 1st July 1999. The IPT amount will be rounded to 
+        the nearest penny</p>
+      <p>Exclusions: As with other insurance policies there are some exclusions. 
+      <ul>
+        <li>Your Credit Care policy will not cover claims arising from:<br>
+        <li>disability for which there is no medical evidence.<br>
+        <li>normal pregnancy and childbirth related conditions.<br>
+        <li>attempted suicide or wilful exposure to danger.<br>
+        <li>the influence of alcohol or drugs.<br>
+        <li>any chronic or continuing medical condition which you knew of when 
+          the 
+        <li>insurance started, or any condition for which you have<br>
+        <li>received treatment or advice during the 12 months before that date.<br>
+        <li>voluntary redundancy or unemployment, or any wilful act.<br>
+        <li>unemployment which has not been certified by The Employment Service.<br>
+        <li> unemployment which is a normal seasonal occurrence of the occupation, 
+        <li>which occurs at the end of a fixed term contract or which you should 
+          reasonably 
+        <li>have known of at the start of the insurance<br>
+        <li>war or related risks.<br>
+      </ul>
+      <p><span class="bodyBold">A specimen policy is available on request from 
+        Sainsbury's Bank Card Services.</span></p>
+      <p> <span class="bodyBold">Purchase Care</span><br>
+        Insurers<br>
+        St.Andrew's Insurance plc, St.Andrew's House, Portsmouth Road ,Esher, 
+        Surrey KT10 9SA.</p>
+      <p><span class="bodyBold">Cover:</span> Purchases made on your Card (excluding 
+        articles specified in your Policy) are covered against loss, theft or 
+        accidental damage by purchase protection insurance, provided you are not 
+        already insured. Purchase Care protects goods up to a total limit of &pound;2,500 
+        per account each year, subject to a minimum claim of &pound;25,maximum 
+        &pound;500.The maximum amount payable in respect of any single insured 
+        article is &pound;500 and the first &pound;25 of every claim is excluded.</p>
+      <p><span class="bodyBold">Exclusions:</span><br>
+        As with other insurance policies there are some exclusions. Your Credit 
+        Care policy will not cover claims arising from:<br>
+      <ul>
+        <li>disability for which there is no medical evidence.<br>
+        <li>normal pregnancy and childbirth conditions.<br>
+        <li>attempted suicide or wilful exposure to danger.<br>
+        <li>the influence of alcohol or drugs.<br>
+        <li>any chronic or continuing medical condition which you knew of when 
+          the insurance started, or any condition for which you have received 
+          treatment or advice during the 12 months before that date.<br>
+        <li>voluntary redundancy or unemployment, or any wilful act. <br>
+        <li>unemployment which has not been certified by The Employment Service.<br>
+        <li>unemployment which is a normal seasonal occurrence of the occupation, 
+          which occurs at the end of a fixed term contract or which you should 
+          reasonably have known of at the start of the insurance.<br>
+        <li>war or related risks.<br>
+      </ul>
+      <p><span class="bodyBold">A specimen policy is available on request from 
+        Sainsbury's Bank Card Services.</span></p>
+      <p><span class="bodyBold">Purchase Care</span><br>
+        Insurers<br>
+        St. Andrew's Insurance plc, St. Andrew's House, Portsmouth Road, Esher, 
+        Surrey KT10 9SA.<br>
+      </p>
+      <p><span class="bodyBold">Cover:</span> Purchases made on your Card (excluding 
+        articles specified in your Policy) are covered against loss, theft or 
+        accidental damage by purchase protection insurance, provided you are not 
+        already insured. Purchase Care protects goods up to a total limit of &pound;2,500 
+        per account each year, subject to a minimum claim of &pound;25, maximum 
+        &pound;500. The maximum amount payable in respect of any single insured 
+        article is &pound;500 and the first &pound;25 of every claim is excluded.</p>
+      <p><span class="bodyBold">Exclusions:</span><br>
+        The Insurers must be notified of a claim within 45 days of the date that 
+        loss or damage occurs. Any loss, theft or damage caused by malicious persons 
+        must be notified to the Police within 24 hours of discovery.<br>
+        As with other insurance policies, there are some exclusions such as: 
+      <ul>
+        <li>flood and earthquake;<br>
+        <li>normal wear and tear;<br>
+        <li>damage arising from inherent product defects;<br>
+        <li>confiscation by order of any government or public authority;<br>
+        <li>where the article was procured through fraud;<br>
+        <li>direct physical abuse of the article;<br>
+        <li>electrical or mechanical breakdown;<br>
+          loss or damage to any mail order item or items delivered by courier 
+          until goods are received and accepted at the cardholder's home address; 
+          <br>
+        <li>where the article was being used for business purposes;<br>
+        <li>where the article was left unattended whilst not adequately secured 
+          or was left unattended in a vehicle;<br>
+        <li>loss or damage occurring outside the United Kingdom, Channel Islands 
+          or the Isle of Man. 
+      </ul>
+      <p class="bodyBold">A specimen policy is available on request from Sainsbury's 
+        Bank Card Services.</p>
+      <p><span class="bodyBold">Travel Accident Insurance<br>
+        Insurers</span><br>
+        Royal &amp; Sun Alliance Insurance Group, St. Mark's Court, Chart Way, 
+        Horsham, West Sussex RH12 1XL.</p>
+      <p><span class="bodyBold">Cover:</span> &pound;50,000 Travel Accident Insurance 
+        automatically covers you and your immediate family whenever you use your 
+        Sainsbury's Bank credit card to pay for all or part of your travel tickets. 
+      <p><span class="bodyBold">Exclusions</span><br>
+        Claims must be made in writing within 20 days after the occurrence or 
+        <br>
+        commencement of any loss or as soon thereafter as is reasonably possible.<br>
+        As with other insurance policies, there are some exclusions such as: 
+      <ul>
+        <li>death or disablement not resulting from bodily injury;<br>
+        <li>suicide or any wilful act;<br>
+        <li>drugs, unless taken in accordance with proper medical prescription;<br>
+        <li>flying other than as a passenger, motor cycling on any motor cycle 
+          <br>
+          with an engine capacity in excess of 50cc, racing on wheels;<br>
+        <li>war. 
+      </ul>
+      <p class="bodyBold">A specimen policy is available on request from Sainsbury's 
+        Bank Card Services.</p>
+      <p><span class = "bodyBold">Fraudulent Claim Prevention</span><br>
+        Information about you and your insurance cover will be held by the insurers 
+        in their records for the purpose of your insurance. This includes underwriting, 
+        processing, claims handling and fraud prevention. In the event of an insurance 
+        claim, you consent to any information which you provide whether on this 
+        form, the claim form or otherwise, will be put onto a Register of Claims 
+        through which insurers share such information to prevent fraudulent claims. 
+        A list of participators and the name and address of the operator are available 
+        from the Insurer.</p>
+      <p><div align=center>SAINSBURY'S BANK CUSTOMER SERVICE</div>
+        It is our aim with the Insurers to provide a high standard of service. 
+        However, there may be occasions when You feel that this has not been achieved. 
+        If You have any reason to complain or enquire about the insurance cover, 
+        You should initially contact Sainsbury's Bank Card Services at Pitreavie 
+        Business Park, Dunfermline, Fife KY99 4BS.<br>
+      If the matter is not then resolved to Your satisfaction, You can take the 
+      matter up with the Insurer concerned at the appropriate address. Please 
+      provide details of Your Card account number/claim number in order that Your 
+      enquiry may be dealt with speedily.
+<p>If You are still dissatisfied, You have the right to refer to the Insurance 
+        Ombudsman Bureau (IOB), which is authorised to consider most complaints, 
+        to review Your case. The address to write to is: Insurance Ombudsman Bureau, 
+        Financial Ombudsman's Service, South Quay Plaza, 183 Marsh Wall, Docklands, 
+        London, E14 9SR. Telephone 0845 600 6666<br>
+        If You contact the IOB in respect of any complaint, this will not affect 
+        any right of action which You may have against the Insurers.</p>
+      <p><div align=center>POLICYHOLDERS PROTECTION ACT 1975</div>
+        For your added security, should any of the Insurers become unable to meet 
+        their liabilities under the policy, you may be entitled to compensation 
+        under the Policyholders Protection Act 1975. Further details are available 
+        on request from the Insurers.<br>
+        <div align=center>CHOICE OF LAW</div>
+        Unless otherwise agreed, the law of the part of the UK in which you live 
+        will cover this contract <br>
+        <div align=center>GENERAL</div>
+        The insurance policies are arranged by Sainsbury's Bank acting as an agent 
+        for the underwriters listed above. St. Andrew's Life Assurance plc, St. 
+        Andrew's Insurance plc and Bank of Scotland are connected companies as 
+        the ultimate parent company of St. Andrew's Life and St. Andrew's Insurance 
+        also has shares in Sainsbury's Bank plc. Sainsbury's Bank markets certain 
+        insurance products which are branded in the name of the company ; each 
+        of these products is specially negotiated with a particular insurer. We 
+        have undertaken to comply with the Association of British Insurers' Code 
+        of Practice for the selling of General Insurance. A copy of the Code is 
+        available on request.<br>
+        .<br>
+        <div align=center>CARD CARE</div>
+        Sainsbury's Bank plc strongly recommends that all your cards are insured 
+      with Card Care. One FREE call at any time, from anywhere in the world, ensures 
+      any missing cards are cancelled and replacements ordered. With up to &pound;1000 
+      to cover your legal liabilities if your cards are used fraudulently. Your 
+      liability is normally limited to &pound;50 for most UK issued Credit Cards. 
+      Card Care offers peace of mind. Card Care is a service of Card Protection 
+      Plan Limited (CPP), arranged exclusively for Sainsbury's Bank Cardholders. 
+      If you are stranded without cards, CPP can send you an emergency cash advance 
+      of up to US $1,000 and if necessary, a travel ticket home. CPP also returns 
+      lost keys and advises your card issuers when you move home. Excellent value 
+      for just &pound;12 per person per year (premiums are inclusive of Insurance 
+      Premium Tax at the current rate). The insurance benefits comprised in the 
+      Card Care policy are provided through Card Protection Plan Limited (CPP), 
+      who arrange direct cover for you, as your agent, with an authorised insurance 
+      company. The Insurer has chosen English law to govern the policy. Further 
+      details and an insurance policy pack will be forwarded on acceptance of 
+      your proposal. The information that you give will be held by CPP, as an 
+      agent for the insurer, to administer the policy for which you apply. Your 
+      personal data will be processed in accordance with CPP's entry in the Data 
+      Protection Register. Any complaints should be addressed to Card Protection 
+      Plan Limited, P.O.Box 353, York YO24 4YS. <span class="bodyBold">Full details 
+      of all our cardholder Care services will be issued to you with your Card(s) 
+      including Certificates of Insurance for Purchase Care, Credit Care and Travel 
+      Accident Insurance.</span> 
+      <p>Registered Address:<br>
+        Card Protection Plan Limited,<br>
+        Holgate Park,<br>
+        York YO24 4GA</p>
+      <p><br>
+        Visa is a registered trademark of Visa International Inc. Sainsbury's 
+        Bank is a trademark of Sainsbury's Bank plc.<br>
+      </p>
+      <!-- #EndEditable --> 
+      <p>&nbsp;</p>
+    </td>
+          <td width="15" valign="top"><img src="../assets/spacer.gif" width="15" height="1"></td>
+          
+    <td width="80" valign="top" align="right"><!-- #BeginLibraryItem "/Library/credit_card_RHS.lbi" -->
+<p><a href="creditcard_apply.html" onMouseOver="imgOver('an')" onMouseOut="imgOut('an')" target="_top"><img src="../assets/generic/apply_now_off.gif" width="78" height="33" alt="apply" border="0" name="an"></a></p>
+
+            <!-- #EndLibraryItem --></td>
+          <td width="20" valign="top"><img src="../assets/spacer.gif" width="20" height="1"></td>
+        </tr>
+      </table>
+ </body>
+<!-- #EndTemplate --></html>
+

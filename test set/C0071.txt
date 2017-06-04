@@ -1,0 +1,526 @@
+ID=C0071
+URL=http://www.saveinsurance.co.uk/Travel.htm
+SIZE=51050
+DATE=10/07/2002
+TIME=13:17:48
+DATASET=Insurance Agencies
+HTML=<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<title>Buy Travel Cover</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="Microsoft Theme" content="copy-of-twc-table53flash 110, default">
+<meta name="Microsoft Border" content="none, default">
+</head>
+
+<body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0" bgcolor="#FFFFFF" text="#000000" link="#3399FF" vlink="#3366CC" alink="#FF9900"><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%" background="images/topr.jpg">
+  <tr>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><img border="0" src="images/Topal.JPG" width="500" height="85"><!--mstheme--></font></td>
+    <td background="images/topr.jpg" width="100%"><!--mstheme--><font face="arial, Arial, Helvetica"><img src="images/topr.jpg" width="40" height="85"><!--mstheme--></font></td>
+</table><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%" background="images/top2r.jpg">
+  <tr>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><img src="images/top2.jpg" width="410" height="40"><!--mstheme--></font></td>
+    <td background="images/top2r.jpg" width="100%" height="40"><!--mstheme--><font face="arial, Arial, Helvetica">
+      <p align="right"><b><font color="#000000"><!--webbot bot="Navigation"
+      S-Type="banner" S-Rendering="text" S-Orientation B-Include-Home
+      B-Include-Up U-Page S-Target startspan -->Buy Travel Cover<!--webbot bot="Navigation" endspan i-checksum="54933" -->
+      </font></b></p>
+    <!--mstheme--></font></td>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><img src="images/top2r.jpg" width="40" height="40"><!--mstheme--></font></td>
+  </tr>
+</table><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%" background="images/back.jpg">
+  <tr>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><img src="images/top3.jpg" width="160" height="28"><!--mstheme--></font></td>
+    <td background="images/back.jpg" width="100%"><!--mstheme--><font face="arial, Arial, Helvetica"><b><font size="1"> &nbsp;<font color="#000080">SAVEINSURANCE TRAVEL POLICIES UNDERWRITTEN BY</font></font> <font color="#000080">
+      </font> </b> <font size="1"><b>UKI
+      PART OF The Royal Bank of Scotland Group</b></font><!--mstheme--></font></td>
+  </tr>
+</table><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td background="images/leftbk.jpg" width="160" height="100%" valign="top"><!--mstheme--><font face="arial, Arial, Helvetica">
+      <div>
+        <!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="155" background="images/spacer.gif">
+          <tr>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="center"><!--webbot bot="Navigation" S-Type="global"
+              S-Orientation="horizontal" S-Rendering="graphics"
+              B-Include-Home="FALSE" B-Include-Up="FALSE" U-Page S-Target startspan --><a href="introduction.htm"><img src="_derived/introduction.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Introduction" align="middle"></a> <a href="search.htm"><img src="_derived/search.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Search this site" align="middle"></a> <img src="_derived/Travel.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Buy Travel Cover" align="middle"> <a href="Travel%20Cover%20Details.htm"><img src="_derived/Travel%20Cover%20Details.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Travel Policy Details" align="middle"></a> <a href="travel_insurance_policy.htm"><img src="_derived/travel_insurance_policy.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Travel  Wording" align="middle"></a> <a href="Travel%20Tips.htm"><img src="_derived/Travel%20Tips.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Travel Tips" align="middle"></a> <a href="home_insurance_guide.htm"><img src="_derived/home_insurance_guide.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Home Ins. Guide" align="middle"></a> <a href="http://www.iroute.co.uk/uki/UKGQuotes/UKGBranding/homesure.asp"><img src="_derived/ext1035_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Home Ins. Quotes" align="middle"></a> <a href="Homesure.htm"><img src="_derived/Homesure.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Home Insurance" align="middle"></a> <a href="index3.htm"><img src="_derived/index3.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Start Page" align="middle"></a> <a href="FastIndex.htm"><img src="_derived/FastIndex.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Fast Load Page" align="middle"></a> <a href="Legal.htm"><img src="_derived/Legal.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Legal" align="middle"></a> <a href="VC.htm"><img src="_derived/VC.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Venture Capital" align="middle"></a> <a href="linkrequest.htm"><img src="_derived/linkrequest.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Link Request" align="middle"></a> <a href="LTCfeed.htm"><img src="_derived/LTCfeed.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Long Term Care" align="middle"></a> <a href="uslinks.htm"><img src="_derived/uslinks.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="USA Links pages" align="middle"></a> <a href="customercare.htm"><img src="_derived/customercare.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Customer Care" align="middle"></a> <a href="Bupafeed.htm"><img src="_derived/Bupafeed.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Bupa Quotes" align="middle"></a> <a href="Intro%20to%20Wills.htm"><img src="_derived/Intro%20to%20Wills.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Intro to Wills" align="middle"></a> <a href="Fianancial%20Calculators.htm"><img src="_derived/Fianancial%20Calculators.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Financial Calculators" align="middle"></a> <a href="about_us.htm"><img src="_derived/about_us.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="About Us" align="middle"></a> <a href="Bupa.htm"><img src="_derived/Bupa.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Bupa Healthcare" align="middle"></a> <a href="BUPAdetails.htm"><img src="_derived/BUPAdetails.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Bupa Details" align="middle"></a> <a href="custom_work.htm"><img src="_derived/custom_work.htm_cmp_copy-of-twc-table53flash110_gbtn.gif" width="100" height="20" border="0" alt="Bespoke Policies" align="middle"></a><!--webbot bot="Navigation" endspan i-checksum="56766" -->
+              </p>
+            <!--mstheme--></font></td>
+          </tr>
+        </table><!--mstheme--><font face="arial, Arial, Helvetica">
+      </div>
+    <!--mstheme--></font></td>
+    <td background="images/back.jpg" height="100%" width="100%" valign="top"><!--mstheme--><font face="arial, Arial, Helvetica">
+
+      <center>
+      <p><font size="4">TRAVEL INSURANCE </font><font size="4" color="#FF0000">BEST EVER
+      </font><font size="4"><font color="#FF0000">PRICING</font> SPECIAL</font><b><font color="#0000FF"><br>
+      </font><font color="#000000">
+      WE BELIEVE THESE ARE EXCELLENT PRICES FOR QUALITY
+      INSURANCE FROM A GLOBAL REACH UNDERWRITER.</font><br>
+      <a href="Travel%20Cover%20Details.htm"><font size="3">
+      FOR
+      DETAILS OF POLICY BENEFITS CLICK HERE<br>
+      <font color="#FF0000"><br>
+      Security Encrypted Secure Payments&nbsp;</font><br>
+      <img border="0" src="images/guarantee_animated.gif" width="175" height="50"><br>
+      <br>
+      <font size="2" color="#BC9B72"><img border="0" src="4news-ss.gif" width="39" height="21"></font><font color="#0000FF">FREE
+      WINTER SPORTS COVER<img border="0" src="4news-ss.gif" width="39" height="21"><br>
+      ON </font></font> </a><font color="#0000FF" size="3"><a href="Travel.htm">ANNUAL
+      TRAVEL</a> POLICIES.</font><font size="2" color="#BC9B72"><br>
+      </font><font color="#FF0000" size="3"><br>
+      </font><font size="2"><font color="#0000FF"> PLEASE ALLOW <u>UPTO 5
+      WORKING DAYS<br>
+      </u>FOR POSTAL CONFIRMATION OF DOCUMENTATION.<br>
+      </font><font color="#FF0000" size="3"><br>
+      KINDLY NOTE THAT COVER CAN ONLY COMMENCE<br>
+      &nbsp;ONCE YOU HAVE RECEIVED YOUR WRITTEN POLICY BY POST.</font></font><font size="4" color="#FF0000"><br>
+      <br>
+      TO BUY
+      ONLINE CLICK ON THE RED PRICE ABOVE<br>
+      </font><font size="3">Prices are based on <font color="#0000FF"> Max Age</font>
+      <font color="#0000FF"> 64</font> for <font color="#0000FF"> 65 to 70
+      Year olds 'double rates' apply.</font><br>
+      </font><font color="#000080" size="1">All Prices include 17.5% Sales Tax -&nbsp; No Charge To Pay By Credit / Debit Card
+      </font></b></p>
+      <!--mstheme--></font><table height="149" width="97%" border="1" bordercolordark="#CC9966" bordercolorlight="#FFCC66">
+        <tbody>
+          <tr>
+            <td width="20%" bgColor="#ffff00" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left">&nbsp;</p>
+              <p align="left"><font color="#000080" size="4">Location</font></p>
+              <p align="left">&nbsp;</p>
+            <!--mstheme--></font></td>
+            <td width="20%" bgColor="#ffff00" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font color="#000080" size="4">Duration</font><!--mstheme--></font></td>
+            <td width="20%" bgColor="#ffff00" height="18" align="center"><!--mstheme--><font face="arial, Arial, Helvetica"><font color="#000080" size="4">Price
+              Per Couple</font><!--mstheme--></font></td>
+            <td width="20%" bgColor="#ffff00" height="18" align="center"><!--mstheme--><font face="arial, Arial, Helvetica"><font color="#000080" size="4">Price
+              Per Individual</font><!--mstheme--></font></td>
+            <td width="20%" bgColor="#ffff00" height="18" align="center"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="center"><font color="#000080" size="4">Price Per Family</font><font color="#000080" size="2"><br>
+              </font><b><font color="#000080" size="1">2 Adults 2 Children<br>
+              (Up to age 16)</font></b></p>
+            <!--mstheme--></font></td>
+            <td width="20%" bgColor="#ffff00" height="18" align="center"><!--mstheme--><font face="arial, Arial, Helvetica"><font color="#000080" size="4">Free
+              Additions</font><!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=5">Europe</a></font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4">Up To 5 Days</font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=14&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=9"><font color="#FF0000" size="4">£16.00</font><font size="4"><br>
+              was£25.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=8&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=11"><font size="4"><font color="#FF0000">£8.00</font><br>
+              was£10.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=15&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=10"><font size="4"><font color="#FF0000">£17.00</font><br>
+              was£25.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="center"><font size="4">-</font></p>
+            <!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=5">Europe</a></font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4">Up To 10 Days</font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=17&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=9"><font size="4"><font color="#FF0000">£20.00</font><br>
+              was£45.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=21&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=11"><font size="4"><font color="#FF0000">£13.00<br>
+              </font>was£20.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=25&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=10"><font size="4"><font color="#FF0000">£22.00</font><br>
+              was£45.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="center"><font size="4">-</font></p>
+            <!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=5">Europe</a></font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4">Up To 17 Days</font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=18&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=9"><font color="#FF0000" size="4">£23.00</font></a><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=18&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=9"><br>
+              was£55.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=22&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=11"><font size="4"><font color="#FF0000">£15.00</font><br>
+              was£25.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=26&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=10"><font size="4"><font color="#FF0000">£25.00</font><br>
+              was£55.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="center"><font size="4">-</font></p>
+            <!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=5">Europe</a></font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4">Up To 24 Days</font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=19&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=9"><font size="4"><font color="#FF0000">£25.00</font><br>
+              was£57.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=23&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=11"><font size="4"><font color="#FF0000">£18.00</font><br>
+              was£27.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=27&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=10"><font size="4"><font color="#FF0000">£28.00</font><br>
+              was£57.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="center"><b>-</b><!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=5">Europe</a></font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4">Up To 31<br>
+              Days</font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=20&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=9"><font color="#FF0000">£27.00</font><br>
+              was£60.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=24&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=11"><font color="#FF0000">£20.00</font><br>
+              was£30.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=28&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=10"><font color="#FF0000">£30.00</font><br>
+              was£60.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="center"><b>-</b><!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" bgColor="#ffff00" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left">&nbsp;</p>
+              <p align="left"><font color="#000080" size="4">Location</font></p>
+              <p align="left">&nbsp;</p>
+            <!--mstheme--></font></td>
+            <td width="20%" bgColor="#ffff00" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font color="#000080" size="4">Duration</font><!--mstheme--></font></td>
+            <td width="20%" bgColor="#ffff00" height="18" align="center"><!--mstheme--><font face="arial, Arial, Helvetica"><font color="#000080" size="4">Price
+              Per Couple</font><!--mstheme--></font></td>
+            <td width="20%" bgColor="#ffff00" height="18" align="center"><!--mstheme--><font face="arial, Arial, Helvetica"><font color="#000080" size="4">Price
+              Per Individual</font><!--mstheme--></font></td>
+            <td width="20%" bgColor="#ffff00" height="18" align="center"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="center"><font color="#000080" size="4">Price Per Family</font><font color="#000080" size="2"><br>
+              </font><b><font color="#000080" size="1">2 Adults 2 Children<br>
+              (Up to age 16)</font></b></p>
+            <!--mstheme--></font></td>
+            <td width="20%" bgColor="#ffff00" height="18" align="center"><!--mstheme--><font face="arial, Arial, Helvetica"><font color="#000080" size="4">Free
+              Additions</font><!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" height="7"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=6">Worldwide</a></font><!--mstheme--></font></td>
+            <td width="20%" height="7"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4">Up To 5 Days</font><!--mstheme--></font></td>
+            <td width="20%" height="7"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=29&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=12"><font size="4"><font color="#FF0000">£29.00</font><br>
+              was£ 65.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="7"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=34&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=14"><font size="4"><font color="#FF0000">£18.00</font><br>
+              was£30.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="7"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=39&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=13"><font size="4"><font color="#FF0000">£31.00</font><br>
+              was £65.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="7"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="center"><font size="4">-</font></p>
+            <!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=6">Worldwide</a></font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4">Up To 10 Days</font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=30&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=12"><font size="4"><font color="#FF0000">£37.00</font><br>
+              was£ 68.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=35&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=14"><font size="4"><font color="#FF0000">£21.00</font><br>
+              was£32.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=40&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=13"><font size="4"><font color="#FF0000">£40.00</font><br>
+              was £68.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="center"><font size="4">-</font><!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=6">Worldwide</a></font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4">Up To 17<br>
+              Days</font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=31&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=12"><font color="#FF0000">£42.00</font><br>
+              was£70.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=36&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=14"><font color="#FF0000">£24.00</font><br>
+              was£35.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=41&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=13"><font color="#FF0000">£45.00</font><br>
+              was £70.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="13"><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" height="10"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=6">Worldwide</a></font><!--mstheme--></font></td>
+            <td width="20%" height="10"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4">Up To 24<br>
+              Days</font><!--mstheme--></font></td>
+            <td width="20%" height="10"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=32&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=12"><font color="#FF0000">£49.00</font><br>
+              was£75.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="10"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=37&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=14"><font color="#FF0000">£27.00</font><br>
+              was£45.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="10"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=42&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=13"><font color="#FF0000">£53.00</font><br>
+              was £75.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="10"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="center"><b><font size="4">-</font></b><!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" height="10"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=6">Worldwide</a></font><!--mstheme--></font></td>
+            <td width="20%" height="10"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4">Up To 31 Days</font><!--mstheme--></font></td>
+            <td width="20%" height="10"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=33&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=12"><font size="4"><font color="#FF0000">£52.00</font><br>
+              was£75.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="10"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=38&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=14"><font size="4"><font color="#FF0000">£29.00</font><br>
+              was£45.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="10"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=43&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=13"><font size="4"><font color="#FF0000">£56.00</font><br>
+              was £75.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="10"><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="center"><b>-</b></p>
+            <!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=6">Worldwide</a></font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=6">Annual*</a></font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=11&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=6"><font size="4"><font color="#FF0000">£75.00</font><br>
+              was£135.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=10&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=6"><font size="4"><font color="#FF0000">£60.00</font><br>
+              was£85.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=12&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=6"><font size="4"><font color="#FF0000">£95.00</font><br>
+              was£135.00</font></a><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font color="#000080" size="4">Free
+              Winter Sports Inc.<br>
+              17 Days inc.</font><!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=4">Europe</a></font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;op=catalogue-products-null&amp;prodCategoryID=4">Annual*</a></font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=6&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=4"><font color="#FF0000">£53.00</font><br>
+              was£90.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=4&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=4"><font color="#FF0000">£30.00</font><br>
+              was£60.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="4"><a href="http://www.clickandbuild.com/cnb/shop/travelinsurance?listPos=&amp;productID=5&amp;search=&amp;op=catalogue-product_info-null&amp;prodCategoryID=4"><font color="#FF0000">£55.00</font><br>
+              was£95.00</a></font><!--mstheme--></font></td>
+            <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><font color="#000080" size="4">Free
+              Winter Sports Inc.<br>
+              17 Days inc.</font><!--mstheme--></font></td>
+          </tr>
+        </tbody>
+      </table><!--mstheme--><font face="arial, Arial, Helvetica">
+      <p align="center"><b><font size="4"><font size="4" color="#FF0000">TO BUY
+      ONLINE CLICK ON THE RED PRICE ABOVE<br>
+      </font></font><font size="3">Prices are based on <font color="#0000FF"> Max Age 64</font> for
+      <font color="#0000FF"> 65 to 70
+      Year olds 'double rates' apply.</font></font><font size="4"><font size="4" color="#FF0000"><br>
+      <br>
+      </font><font size="4" color="#000080">COMPETITOR COMPARISON TABLE<br>
+      <font size="1">All prices are correct on24/01/2001 and are subject to
+      change.&nbsp;<br>
+      All previous prices were advertised for three months in the last six
+      months.<br>
+      Levels of Cover and Benefits vary from provider to provider<br>
+      *</font></font></font><font color="#000080" size="1">For refunds certificate must be returned within 14 days of purchase<br>
+      &nbsp;and at
+      least 2 days prior to travel.</font></b></p>
+      <!--mstheme--></font><table height="155" width="76%" border="1" bordercolordark="#CC9966" bordercolorlight="#FFCC66">
+        <tr>
+          <td width="20%" bgColor="#ffff00" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><p align="center"><font color="#000080" size="2"><b>Destination</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" bgColor="#ffff00" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font color="#000080" size="2"><b>Duration</b></font></p>
+          <!--mstheme--></font></td>
+        </center>
+          <td width="20%" bgColor="#ffff00" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font color="#000080" size="2"><b>SAVEINSURANCE<br>
+            Individual/Family</b></font><!--mstheme--></font></td>
+
+      <center>
+          <td width="20%" bgColor="#ffff00" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font color="#000080" size="2"><b>Post Office<br>
+            Individual/Family</b></font><!--mstheme--></font></td>
+          <td width="20%" bgColor="#ffff00" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center">&nbsp;
+            <p align="center"><font color="#000080" size="2"><b>Co-Op Travel<br>
+            Individual/Family</b></font></p>
+            <p align="center">&nbsp;</p>
+          <!--mstheme--></font></td>
+          <td width="20%" bgColor="#ffff00" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font color="#000080" size="2"><b>Thomas&nbsp;Cook<br>
+            Individual/Family</b></font><!--mstheme--></font></td>
+        </tr>
+        <tr>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>Worldwide</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>Annual</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>£60.00 / £95.00</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18" align="center"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>£95.00/£152.50</b></font><!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>£90.00/£190.00</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>£119.00/ £236.00</b></font></p>
+          <!--mstheme--></font></td>
+        </tr>
+        <tr>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>Europe</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>Annual</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>£30.00 / £55.00</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18" align="center"><!--mstheme--><font face="arial, Arial, Helvetica"><p align="center"><font size="2" color="#000080"><b>£54.00/£94.50</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>-</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>-</b></font></p>
+          <!--mstheme--></font></td>
+        </tr>
+        <tr>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>Europe</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>Up To 10 Days</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>£13.00 /
+            £22.00</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>£17.00/£42.50&nbsp;</b></font>
+            <p align="center"><font size="2" color="#000080"><b>Max 9 Days</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>£33.50/£100.50</b></font>
+            <p align="center"><font size="2" color="#000080"><b>Max 8 Days</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>£31.00 / £104.00</b></font>
+            <p align="center"><font size="2" color="#000080"><b>Max 8 Days</b></font></p>
+          <!--mstheme--></font></td>
+        </tr>
+        <tr>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>Europe</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>Up To 17 Days</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>£15.00 / £25.00</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica"><p align="center"><font size="2" color="#000080"><b>£23.00/£57.50</b></font>
+            <p align="center"><font size="2" color="#000080"><b>Max 17 Days</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>£37.80/£113.40</b></font>
+            <p align="center"><font size="2" color="#000080"><b>Max 15 Days</b></font></p>
+          <!--mstheme--></font></td>
+          <td width="20%" height="18"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><font size="2" color="#000080"><b>£38.00 / £144.00</b></font>
+            <p align="center"><font size="2" color="#000080"><b>Max 15 Days</b></font></p>
+          <!--mstheme--></font></td>
+        </tr>
+      </table><!--mstheme--><font face="arial, Arial, Helvetica"></center>
+      <!--mstheme--></font><table border="1" width="100%" bordercolordark="#CC9966" bordercolorlight="#FFCC66">
+        <tr>
+          <td width="100%"><!--mstheme--><font face="arial, Arial, Helvetica">
+            <p align="center"><b><font color="#FF0000">TOP TEN TRAVELLERS TIPS
+            FROM THE FOREIGN OFFICE (UK)<br>
+            <br>
+            </font><font color="#0000FF">1. Check the Web site <a href="http://www.fco.gov.uk/knowbeforeyougo/">www.fco.gov.uk/knowbeforeyougo</a>&nbsp;<br>
+            2. Get <a href="file:///C:/My%20Documents/My%20Webs/SInew/Travel.htm">Travel
+            Insurance</a> and check the cover is adequate<br>
+            3. Research and learn about local laws and customs<br>
+            4. Ensure you have a valid passport and necessary visas<br>
+            5. Get vaccinations at least six weeks prior to departure<br>
+            6. Check <a href="http://www.doh.gov.uk/traveladvice">http://www.doh.gov.uk/traveladvice</a>
+            for health tips<br>
+            7. Make sure your holiday is ABTA or ATOL bonded<br>
+            8. Leave copies of your passport, insurance etc with family/friends<br>
+            9. Take enough money, plus emergency travellers' cheques or dollars<br>
+            10. Give a copy of your itinerary &amp; contact details to
+            friends/family<br>
+            <a href="http://www.xe.com/"><br>
+            CLICK HERE FOR WORLDWIDE CURRENCY CONVERSIONS</a>
+            </font></b><!--mstheme--></font></td>
+        </tr>
+      </table><!--mstheme--><font face="arial, Arial, Helvetica">
+      <p align="left"><b><font color="#FF0000">Please Note! </font>You and your
+      fellow travellers.....</b>
+      <!--mstheme--></font><table style="WIDTH: 85%" cellSpacing="3" cellPadding="3" width="85%" border="0">
+        <tbody>
+          <tr>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left"><font face="Arial"><img alt src="images/check.gif" align="middle" width="44" height="32"></font></p>
+            <!--mstheme--></font></td>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left"><font face="Arial"><b>Must live in the United
+              Kingdom or Channel Islands and have not spent more than six months
+              abroad during the last year.</b></font></p>
+            <!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left"><font face="Arial"><img alt src="images/check.gif" align="middle" width="44" height="32"></font></p>
+            <!--mstheme--></font></td>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left"><font face="Arial"><b>Are all under 65 years of
+              age for standard rates, 65-70 double rates apply.&nbsp;</b></font></p>
+            <!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left"><font face="Arial"><img alt src="images/check.gif" align="middle" width="44" height="32"></font></p>
+            <!--mstheme--></font></td>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left"><font face="Arial"><b>Do not require cover for any
+              pre-existing medical conditions.</b>&nbsp;<br>
+              <font size="2">(If you have medical problems please indicate in
+              the box below. We still provide cover generally but exclude cover
+              relating to the particular medical condition)</font></font></p>
+            <!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left"><font face="Arial"><img alt src="images/check.gif" align="middle" width="44" height="32"></font></p>
+            <!--mstheme--></font></td>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left"><font face="Arial"><b>This policy is only valid
+              for trips commencing in and returning to the United Kingdom.</b></font></p>
+            <!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left"><font face="Arial"><img alt src="images/check.gif" align="middle" width="44" height="32"></font></p>
+            <!--mstheme--></font></td>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left"><font face="Arial"><b>Cover is only available for
+              the whole duration of the booked trip and cannot be effected once
+              a&nbsp;journey has commenced.</b></font></p>
+            <!--mstheme--></font></td>
+          </tr>
+          <tr>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left"><font face="Arial"><img alt src="images/check.gif" align="middle" width="44" height="32"></font></p>
+            <!--mstheme--></font></td>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica">
+              <p align="left"><font face="Arial"><b>Cover is only available for
+              periods of up to one year in total.&nbsp;</b></font></p>
+            <!--mstheme--></font></td>
+          </tr>
+        </tbody>
+      </table><!--mstheme--><font face="arial, Arial, Helvetica">
+      <p align="center"><b><applet code="fphover.class" codebase="file:///C:/My%20Documents/My%20Webs/SInew/" width="484" height="20">
+        <param name="textcolor" value="#FFFFFF">
+        <param name="font" value="Dialog">
+        <param name="fontstyle" value="bold">
+        <param name="fontsize" value="14">
+        <param name="hovercolor" value="#0000FF">
+        <param name="effect" value="bevelOut">
+        <param name="color" value="#BC9B72">
+        <param name="url" valuetype="ref" value="http://www.clickandbuild.com/cnb/shop/travelinsurance?op=order-shopOrder-null">
+        <param name="text" value="CHECK THE STATUS OF YOUR TRAVEL COVER ORDER">
+      </applet>
+      </b></p>
+      <p align="center"><b><font size="4" color="#0000FF"><a href="Travel%20Cover%20Details.htm">FOR
+      DETAILS OF POLICY BENEFITS CLICK HERE<br>
+      </a>
+      <a href="http://www.qksrv.net/click-621319-43198" target="_top"><img src="http://www.qksrv.net/image-621319-43198" width="100" height="100" alt="Visit La Conciergerie!" border="0"></a>
+      </font></b></p>
+      <p align="center"><font size="1"><a href="http://www.qksrv.net/click-621319-1610858" target="_blank"><img src="http://www.qksrv.net/image-621319-1610858" alt="International Health Insurance" border="0" width="120" height="60"><br>
+      <b><font color="#000000">Bupa Health Insurance for Non UK/US Residents</font></b></a><br>
+      This theme Copyright © 2000 <a href="http://attwc.com" target="_blank">TWC
+      Graphics Design</a> and its respective artists.</font></p>
+      <p>&nbsp;</p>
+    <!--mstheme--></font></td>
+  </tr>
+</table><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font></body>
+

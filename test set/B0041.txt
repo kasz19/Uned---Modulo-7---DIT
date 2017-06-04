@@ -1,0 +1,1122 @@
+ID=B0041
+URL=http://www.teachersbs.co.uk/dec(b).html
+SIZE=67104
+DATE=28/06/2002
+TIME=12:46:52
+DATASET=Building Societies
+HTML=<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" onLoad="MM_preloadImages('images/VERTICAL3a.jpg','images/VERTICAL33a.jpg','images/VERTICAL333a.jpg','images/arrow1.jpg')" text="#330000" link="#330000" vlink="#330000" alink="#330000">
+<div align="center"></div>
+<table width="556" border="0" cellpadding="0" align="center" height="12299">
+  <tr valign="top" align="left">
+    <td colspan="3">
+      <table width="493" border="0" cellpadding="0" cellspacing="0" name="3" align="left" height="1000">
+        <tr>
+          <td height="40"><font color="#330000"><font color="#330000"><font face="Arial, Helvetica, sans-serif" size="2"><font size="2" face="Arial, Helvetica, sans-serif" color="#660000">
+          <b><u>TEACHERS BUILDING SOCIETY DECISION IN PRINCIPLE FORM</u></b>
+<BR><BR>If you would like to receive a mortgage decision in principle, you can either:
+<BR><OL>
+<LI>Complete and print-off the form below.  Once completed and signed, please send the form to:<BR>
+<BR>
+<B>Teachers Building Society<BR>
+FREEPOST<BR>
+Allenview House<BR>
+Hanham Road<BR>
+Wimborne<BR>
+Dorset<BR>
+BH21 1BR</B><BR>
+<BR>
+<LI>Telephone our Mortgage Helpdesk on freephone 0800 378669</OL>
+<HR>
+</font></font></font></font></td>
+        </tr>
+<!--    <tr>
+          <td height="40"><font color="#330000"><b><font color="#330000"><b></b></font><font face="Arial, Helvetica, sans-serif" size="2">
+            <a href="mortgage_appform.pdf" target="_blank"><font color="#CC3300"><i>Download
+            pdf version to print</i></font></a></font></b></font></td>
+        </tr>
+        <tr valign="top">
+-->       <td>
+<BR>
+            <div align="left">
+              <form method="post" action="http://webbox2.noveos.net/utilities/TeachersFormProcessor.cfm">
+                <input type="hidden" name="formemail" value="teachers@teachersbs.co.uk">
+                <input type="hidden" name="formsubject" value="Mortgage Application Enquiry Form">
+                <input type="hidden" name="formresult" value="http://www.teachersbs.co.uk/cgi-bin/formmail/thankyou.html">
+                <div align="left">
+                  <p class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><u><b>FIRST
+                    APPLICANT</b></u> </span> </font></p>
+                  </div>
+                <h3 class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000">Personal
+                  Details</font></h3>
+                <input type="hidden" name="FIRST_APPLICANT" value="">
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" name="PERSONAL_DETAILS" value="">
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><b><span class="unnamed1">
+                1</span></b>. </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_1">
+                <table width="387" class="unnamed1">
+                  <tr>
+                    <td width="45"><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <font size="2">TITLE</font> </font>
+                    <td width="18"><font face="Arial, Helvetica, sans-serif" color="#660000">Mr
+                      </font>
+                    <td width="33"> <font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <input type = "checkbox" name = "Title" value = "Mr">
+                      </font>
+                    <td width="25"><font face="Arial, Helvetica, sans-serif" color="#660000">Mrs
+                      </font>
+                    <td width="32"> <font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <input type = "checkbox" name = "Title" value = "Mrs">
+                      </font>
+                    <td width="34"><font face="Arial, Helvetica, sans-serif" color="#660000">Miss
+                      </font>
+                    <td width="35"> <font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <input type = "checkbox" name = "Title" value = "Miss">
+                      </font>
+                    <td width="37"><font face="Arial, Helvetica, sans-serif" color="#660000">Other
+                      </font>
+                    <td width="110">
+                      <input type = "text" name = "Other_Title" size = "10">
+                </table>
+                <table class="unnamed1">
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <font size="2">SURNAME </font></font>
+                    <td>
+                      <input type = "text" name = "Surname" size = "50">
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <font size="2">FORENAMES</font> </font>
+                    <td>
+                      <input type = "text" name = "Forenames" size = "50">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><b><span class="unnamed1">
+                2.</span></b> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_2">
+                <table class="unnamed1">
+                  <tr>
+                    <td valign="top"> <font face="Arial, Helvetica, sans-serif" color="#660000" size="2">CURRENT
+                      ADDRESS</font>
+                    <td>
+                      <textarea cols = "50" rows = "5" name = "Current_Address" class="unnamed1"></textarea>
+                </table>
+                <table class="unnamed1" width="382">
+                  <tr>
+                    <td width="114"><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <font size="2">HOME TEL NO</font> </font>
+                    <td width="256">
+                      <input type = "text" name = "Home_Tel_No" size = "20">
+                  <tr>
+                    <td width="114"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">
+                      DAYTIME TEL NO </font>
+                    <td width="256">
+                      <input type = "text" name = "Daytime_Tel_No" size = "20">
+                  <tr>
+                    <td width="114"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">
+                      E MAIL ADDRESS </font>
+                    <td width="256">
+                      <input type = "text" name = "Email_Address" size = "45">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><b><span class="unnamed1">3.</span></b>
+                </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_3">
+                <table class="unnamed1">
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">
+                      DATE OF BIRTH </font>
+                    <td>
+                      <input type = "text" name = "DOB" size = "10">
+                    <td>
+                      <p><em><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">dd/mm/yy</font></em></p>
+                    </td>
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">
+                      NATIONALITY </font>
+                    <td>
+                      <input type = "text" name = "Nationality" size = "45">
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">
+                      NATIONAL INSURANCE NO. </font>
+                    <td>
+                      <input type = "text" name = "NatInsNumber" size = "15">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><b><span class="unnamed1">4.</span></b>
+                </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_4">
+                <table class="unnamed1">
+                  <tr>
+                    <td> <font color="#660000" face="Arial, Helvetica, sans-serif" size="2">STATUS</font>
+                    <td>
+                      <select name = "Status">
+                        <option value="Single">Single</option>
+                        <option value="Engaged">Engaged</option>
+                        <option value="Married">Married</option>
+                        <option value="Seperated">Separated</option>
+                        <option value="Divorced">Divorced</option>
+                        <option value="Widowed">Widowed</option>
+                      </select>
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"></span></font><font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>5.</b></span>
+                </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_5">
+                <table width="85%" border="0">
+                  <tr>
+                    <td><font size="1"><span class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">HAVE
+                      YOU EVER MADE ARRANGEMENTS WITH CREDITORS OR BEEN MADE BANKRUPT?</font></span></font>
+                    </td>
+                  </tr>
+                </table>
+                <table class="unnamed1" width="139">
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Yes</font><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      </font>
+                      <input type = "checkbox" name = "Creditors_or_Bankrupt" value = "Yes">
+                    <td><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">No</font>
+                      <input type = "checkbox" name = "Creditors_or_Bankrupt" value = "No">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>6.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_6">
+                <table width="75%" border="0">
+                  <tr>
+                    <td class="unnamed1"><font size="2" class="unnamed1" face="Arial, Helvetica, sans-serif" color="#660000">HAVE
+                      YOU EVER HAD ANY COURT JUDGEMENTS RECORDED AGAINST YOU?</font>
+                    </td>
+                  </tr>
+                </table>
+                <table class="unnamed1" width="140">
+                  <tr>
+                    <td><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">Yes</font>
+                      <input type = "checkbox" name = "Judgements_Against_You" value = "Yes">
+                    <td><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">No</font><font color="#660000" face="Arial, Helvetica, sans-serif">
+                      </font>
+                      <input type = "checkbox" name = "Judgements_Against_You" value = "No">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>7.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_7">
+                <table width="75%" border="0">
+                  <tr>
+                    <td><font size="2" class="unnamed1" face="Arial, Helvetica, sans-serif" color="#660000">HAVE
+                      YOU EVER BEEN IN ARREARS WITH ANY EXISTING/PREVIOUS LOAN,
+                      MORTGAGE OR RENTAL PAYMENTS?</font> </td>
+                  </tr>
+                </table>
+                <table class="unnamed1" width="141">
+                  <tr>
+                    <td><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">Yes</font><font color="#660000" face="Arial, Helvetica, sans-serif">
+                      </font>
+                      <input type = "checkbox" name = "Arrears" value = "Yes">
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">No</font><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      </font>
+                      <input type = "checkbox" name = "Arrears" value = "No">
+                </table>
+                <br>
+                <hr>
+                <h3 class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000">Present
+                  Housing</font></h3>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="PRESENT_HOUSING">
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>8.</b></span>
+                </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_8">
+                <table width="75%" border="0">
+                  <tr>
+                    <td><span class="unnamed1"><font size="2" class="unnamed1" color="#660000" face="Arial, Helvetica, sans-serif">HAVE
+                      YOU EVER HAD A MORTGAGE?</font> </span> </td>
+                  </tr>
+                </table>
+                <table class="unnamed1">
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Yes</font>
+                    <td>
+                      <input type = "checkbox" name = "Previous_Mortgage" value = "Yes">
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">No</font>
+                    <td>
+                      <input type = "checkbox" name = "Previous_Mortgage" value = "No">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>9.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_9">
+                <table class="unnamed1" width="380">
+                  <tr>
+                    <td width="29"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Owner</font><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      </font>
+                    <td width="24"> <font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <input type = "checkbox" name = "Housing" value = "Owner">
+                      </font>
+                    <td width="31"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Tenant</font><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      </font>
+                    <td width="24"> <font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <input type = "checkbox" name = "Housing" value = "Tenant">
+                      </font>
+                    <td width="84"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Living
+                      with parents</font><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      </font>
+                    <td width="24"> <font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <input type = "checkbox" name = "Housing" value = "Parents">
+                      </font>
+                    <td width="26"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Other</font><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      </font>
+                    <td width="102">
+                      <input type = "text" name = "Housing_Other" size = "15">
+                </table>
+                <p><font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><font size="2">IF
+                  APPLICABLE </font></span> </font> </p>
+                <table class="unnamed1">
+                  <tr>
+                    <td><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">Loan
+                      Outstanding</font>
+                    <td>
+                      <input type = "text" name = "Loan_Outstanding" size = "15">
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Selling
+                      Price</font>
+                    <td>
+                      <input type = "text" name = "Selling_Price" size = "15">
+                </table>
+                <hr>
+                <h3 class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000">Employment
+                  Details</font></h3>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>10.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="EMPLOYMENT_DETAILS">
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_10">
+                <table width="45%" class="unnamed1">
+                  <tr>
+                    <td width="31%"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Employee</font></td>
+                    <td width="16%">
+                      <input type="checkbox" name="Employee" value="Yes">
+                    </td>
+                    <td width="39%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">Self
+                      Employed</font></td>
+                    <td width="14%">
+                      <input type="checkbox" name="Self_Employed" value="Yes">
+                    </td>
+                  </tr>
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><font size="1" class="unnamed1">I<font size="2">F
+                EMPLOYED ARE YOU ON A PERMANENT CONTRACT?</font></font> </span>
+                </font>
+                <table width="14%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="16%"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Yes</font></td>
+                    <td width="22%">
+                      <input type="checkbox" name="Permanent_Contract" value="Yes">
+                    </td>
+                    <td width="19%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">No</font></td>
+                    <td width="43%">
+                      <input type="checkbox" name="Permanent_Contract" value="No">
+                    </td>
+                  </tr>
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000" size="2"><span class="unnamed1">ARE
+                YOU THE DIRECTOR OF A COMPANY? </span></font>
+                <table width="14%" border="0">
+                  <tr>
+                    <td width="16%" class="unnamed1"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">Yes</font></td>
+                    <td width="22%">
+                      <input type="checkbox" name="Director" value="Yes">
+                    </td>
+                    <td width="19%" class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">No</font></td>
+                    <td width="43%">
+                      <input type="checkbox" name="Director" value="No">
+                    </td>
+                  </tr>
+                </table>
+                <table width="47%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="15%"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">OCCUPATION</font></td>
+                    <td width="85%">
+                      <input type="text" name="Occupation" size="50">
+                    </td>
+                  </tr>
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><font size="2">IF
+                A TEACHER, ARE YOU A MEMBER OF THE NUT OR ONE OF ITS AFFILIATED
+                BODIES? </font></span> </font>
+                <table width="14%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="16%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">Yes</font></td>
+                    <td width="22%">
+                      <input type="checkbox" name="NUT_Member_Status" value="yes">
+                    </td>
+                    <td width="19%"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">No</font></td>
+                    <td width="43%">
+                      <input type="checkbox" name="NUT_Member_Status" value="no">
+                    </td>
+                  </tr>
+                </table>
+                <hr>
+                <h3 align="left" class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000">Income</font></h3>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="INCOME">
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>11.</b>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_11">
+                </span> </font>
+                <table width="41%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="38%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">BASIC
+                      GROSS SALARY OR NET INCOME</font></td>
+                    <td width="2%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="11%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Gross_Salary_or_Net_Income" size="10">
+                      </font></td>
+                    <td width="49%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                  <tr>
+                    <td width="38%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">REGULAR
+                      BONUS</font></td>
+                    <td width="2%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="11%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Regular_Bonus" size="10">
+                      </font></td>
+                    <td width="49%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                  <tr>
+                    <td width="38%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">REGULAR
+                      OVERTIME</font></td>
+                    <td width="2%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="11%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Regular_Overtime" size="10">
+                      </font></td>
+                    <td width="49%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                  <tr>
+                    <td width="38%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">OTHER
+                      INCOME</font></td>
+                    <td width="2%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="11%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Other_Income" size="10">
+                      </font></td>
+                    <td width="49%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                  <tr>
+                    <td width="38%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">MORTGAGE/RENT
+                      SUBSIDY</font></td>
+                    <td width="2%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="11%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Mortgage_or_Rent_Subsidy" size="10">
+                      </font></td>
+                    <td width="49%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                  <tr>
+                    <td width="38%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">TOTAL</font></td>
+                    <td width="2%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="11%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Total" size="10">
+                      </font></td>
+                    <td width="49%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                </table>
+                <p class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000"><b>NOTE:
+                  IF SELF-EMPLOYED THE SOCIETY WILL NORMALLY REQUIRE 2 YEARS AUDITED
+                  ACCOUNTS </b></font></p>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>12.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_12">
+                <table width="75%" border="0">
+                  <tr>
+                    <td>
+                      <p class="unnamed1"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">SOURCE
+                        OF OTHER INCOME</font>
+                        <input type="text" name="Source_of_Other_Income" size="40" class="unnamed1">
+                      </p>
+                    </td>
+                  </tr>
+                </table>
+                <p>&nbsp;</p>
+                <hr>
+                <h3 class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000">Outgoings</font></h3>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>13.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="OUTGOINGS">
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_13">
+                <table width="57%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="40%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">MAINTENANCE
+                      TO PREVIOUS PARTNER</font></td>
+                    <td width="3%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="21%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Maintenance_to_Prev_Partner" size="10">
+                      </font></td>
+                    <td width="36%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                </table>
+                <h3 class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>14.</b>
+                  </span></font><br>
+                </h3>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_14">
+                <table width="75%" border="0">
+                  <tr>
+                    <td><span class="unnamed1"><font size="2" class="unnamed1" color="#660000" face="Arial, Helvetica, sans-serif">OTHER
+                      LOAN COMMITMENTS</font></span> </td>
+                  </tr>
+                </table>
+                <table width="48%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="57%" height="11"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">MONTHLY
+                      PAYMENT</font></td>
+                    <td width="5%" height="11">&pound;</td>
+                    <td width="38%" height="11" align="left">
+                      <input type="text" name="Monthly_Payment" size="12">
+                    </td>
+                  </tr>
+                </table>
+                <table width="48%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="71%" height="11"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">FINAL
+                      PAYMENT DUE</font></td>
+                    <td width="29%" height="11">
+                      <input type="text" name="Final_Payment_Due" size="12">
+                    </td>
+                  </tr>
+                </table>
+                <h3 class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1">
+                  </span> </font></h3>
+                <hr>
+                <div align="left">
+                  <p><font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><u><b>SECOND
+                    APPLICANT</b></u> </span> </font></p>
+                </div>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="SECOND_APPLICANT">
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" name="PERSONAL_DETAILS" value="">
+                <h3 class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000">Personal
+                  Details</font></h3>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><b><span class="unnamed1">
+                1</span></b>. </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_1">
+                <table width="387" class="unnamed1">
+                  <tr>
+                    <td width="45"><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <font size="2">TITLE</font> </font>
+                    <td width="18"><font face="Arial, Helvetica, sans-serif" color="#660000">Mr
+                      </font>
+                    <td width="33"> <font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <input type = "checkbox" name = "Title2" value = "Mr">
+                      </font>
+                    <td width="25"><font face="Arial, Helvetica, sans-serif" color="#660000">Mrs
+                      </font>
+                    <td width="32"> <font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <input type = "checkbox" name = "Title2" value = "Mrs">
+                      </font>
+                    <td width="34"><font face="Arial, Helvetica, sans-serif" color="#660000">Miss
+                      </font>
+                    <td width="35"> <font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <input type = "checkbox" name = "Title2" value = "Miss">
+                      </font>
+                    <td width="37"><font face="Arial, Helvetica, sans-serif" color="#660000">Other
+                      </font>
+                    <td width="110">
+                      <input type = "text" name = "Other_Title2" size = "10">
+                </table>
+                <table class="unnamed1">
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <font size="2">SURNAME </font></font>
+                    <td>
+                      <input type = "text" name = "Surname2" size = "50">
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <font size="2">FORENAMES</font> </font>
+                    <td>
+                      <input type = "text" name = "Forenames2" size = "50">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><b><span class="unnamed1">
+                2.</span></b> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_2">
+                <table class="unnamed1">
+                  <tr>
+                    <td valign="top"> <font face="Arial, Helvetica, sans-serif" color="#660000" size="2">CURRENT
+                      ADDRESS</font>
+                    <td>
+                      <textarea cols = "50" rows = "10" name = "Current_Address2" class="unnamed1"></textarea>
+                </table>
+                <table class="unnamed1" width="382">
+                  <tr>
+                    <td width="114"><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <font size="2">HOME TEL NO</font> </font>
+                    <td width="256">
+                      <input type = "text" name = "Home_Tel_No2" size = "20">
+                  <tr>
+                    <td width="114"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">
+                      DAYTIME TEL NO </font>
+                    <td width="256">
+                      <input type = "text" name = "Daytime_Tel_No2" size = "20">
+                  <tr>
+                    <td width="114"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">
+                      E MAIL ADDRESS </font>
+                    <td width="256">
+                      <input type = "text" name = "Email_Address2" size = "45">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><b><span class="unnamed1">3.</span></b>
+                </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_3">
+                <table class="unnamed1">
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">
+                      DATE OF BIRTH </font>
+                    <td>
+                      <input type = "text" name = "DOB2" size = "10">
+                    <td>
+                      <p><em><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">dd/mm/yy</font></em></p>
+                    </td>
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">
+                      NATIONALITY </font>
+                    <td>
+                      <input type = "text" name = "Nationality2" size = "45">
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">
+                      NATIONAL INSURANCE NO. </font>
+                    <td>
+                      <input type = "text" name = "NatInsNumber2" size = "15">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><b><span class="unnamed1">4.</span></b>
+                </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_4">
+                <table class="unnamed1">
+                  <tr>
+                    <td> <font color="#660000" face="Arial, Helvetica, sans-serif" size="2">STATUS</font>
+                    <td>
+                      <select name = "Status2">
+                        <option value="Single">Single </option>
+                        <option value="Engaged">Engaged </option>
+                        <option value="Married">Married</option>
+                        <option value="Seperated">Separated </option>
+                        <option value="Divorced">Divorced </option>
+                        <option value="Widowed">Widowed </option>
+                      </select>
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>5.</b></span>
+                </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_5">
+                <table width="85%" border="0">
+                  <tr>
+                    <td><font size="1"><span class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">HAVE
+                      YOU EVER MADE ARRANGEMENTS WITH CREDITORS OR BEEN MADE BANKRUPT?</font></span></font>
+                    </td>
+                  </tr>
+                </table>
+                <table class="unnamed1" width="139">
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Yes</font><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      </font>
+                      <input type = "checkbox" name = "Creditors2" value = "Yes">
+                    <td><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">No</font>
+                      <input type = "checkbox" name = "Creditors2" value = "No">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>6.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_6">
+                <table width="75%" border="0">
+                  <tr>
+                    <td class="unnamed1"><font size="2" class="unnamed1" face="Arial, Helvetica, sans-serif" color="#660000">HAVE
+                      YOU EVER HAD ANY COURT JUDGEMENTS RECORDED AGAINST YOU?</font>
+                    </td>
+                  </tr>
+                </table>
+                <table class="unnamed1" width="140">
+                  <tr>
+                    <td><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">Yes</font>
+                      <input type = "checkbox" name = "Judgements2" value = "Yes">
+                    <td><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">No</font><font color="#660000" face="Arial, Helvetica, sans-serif">
+                      </font>
+                      <input type = "checkbox" name = "Judgements2" value = "No">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>7.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_7">
+                <table width="75%" border="0">
+                  <tr>
+                    <td><font size="2" class="unnamed1" face="Arial, Helvetica, sans-serif" color="#660000">HAVE
+                      YOU EVER BEEN IN ARREARS WITH ANY EXISTING/PREVIOUS LOAN,
+                      MORTGAGE OR RENTAL PAYMENTS?</font> </td>
+                  </tr>
+                </table>
+                <table class="unnamed1" width="141">
+                  <tr>
+                    <td><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">Yes</font><font color="#660000" face="Arial, Helvetica, sans-serif">
+                      </font>
+                      <input type = "checkbox" name = "Arrears2" value = "Yes">
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">No</font><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      </font>
+                      <input type = "checkbox" name = "Arrears2" value = "No">
+                </table>
+                <br>
+                <hr>
+                <h3 class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000">Present
+                  Housing</font></h3>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="PRESENT_HOUSING">
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>8.</b></span>
+                </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_8">
+                <table width="75%" border="0">
+                  <tr>
+                    <td><span class="unnamed1"><font size="2" class="unnamed1" color="#660000" face="Arial, Helvetica, sans-serif">HAVE
+                      YOU EVER HAD A MORTGAGE?</font> </span> </td>
+                  </tr>
+                </table>
+                <table class="unnamed1">
+                  <tr>
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Yes</font>
+                    <td>
+                      <input type = "checkbox" name = "Previous_Mortgage2" value = "Yes">
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">No</font>
+                    <td>
+                      <input type = "checkbox" name = "Previous_Mortgage2" value = "No">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>9.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_9">
+                <table class="unnamed1" width="380">
+                  <tr>
+                    <td width="29"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Owner</font><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      </font>
+                    <td width="24"> <font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <input type = "checkbox" name = "Housing2" value = "Owner">
+                      </font>
+                    <td width="31"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Tenant</font><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      </font>
+                    <td width="24"> <font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <input type = "checkbox" name = "Housing2" value = "Tenant">
+                      </font>
+                    <td width="84"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Living
+                      with parents</font><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      </font>
+                    <td width="24"> <font face="Arial, Helvetica, sans-serif" color="#660000">
+                      <input type = "checkbox" name = "Housing2" value = "Parents">
+                      </font>
+                    <td width="26"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Other</font><font face="Arial, Helvetica, sans-serif" color="#660000">
+                      </font>
+                    <td width="102">
+                      <input type = "text" name = "Housing_Other2" size = "15">
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><font size="2">IF
+                APPLICABLE </font></span> </font>
+                <table class="unnamed1">
+                  <tr>
+                    <td><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">Loan
+                      Outstanding</font>
+                    <td>
+                      <input type = "text" name = "Loan_Outstanding2" size = "15">
+                    <td><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Selling
+                      Price</font>
+                    <td>
+                      <input type = "text" name = "Selling_Price2" size = "15">
+                </table>
+                <hr>
+                <h3 class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000">Employment
+                  Details</font></h3>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="EMPLOYMENT_DETAILS">
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>10.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_10">
+                <table width="46%" class="unnamed1">
+                  <tr>
+                    <td width="34%"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Employee</font></td>
+                    <td width="14%">
+                      <input type="checkbox" name="Employee2" value="yes">
+                    </td>
+                    <td width="42%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">Self
+                      Employed</font></td>
+                    <td width="10%">
+                      <input type="checkbox" name="Self_Employed2" value="yes">
+                    </td>
+                  </tr>
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><font size="1" class="unnamed1">I<font size="2">F
+                EMPLOYED ARE YOU ON A PERMANENT CONTRACT?</font></font> </span>
+                </font>
+                <table width="14%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="16%"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">Yes</font></td>
+                    <td width="22%">
+                      <input type="checkbox" name="Permanent_Contract2" value="yes">
+                    </td>
+                    <td width="19%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">No</font></td>
+                    <td width="43%">
+                      <input type="checkbox" name="Permanent_Contract2" value="no">
+                    </td>
+                  </tr>
+                </table>
+                <font face="Arial, Helvetica, sans-serif" color="#660000" size="2"><span class="unnamed1">ARE
+                YOU THE DIRECTOR OF A COMPANY? </span></font>
+                <table width="14%" border="0">
+                  <tr>
+                    <td width="16%" class="unnamed1"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">Yes</font></td>
+                    <td width="22%">
+                      <input type="checkbox" name="Director2" value="Yes">
+                    </td>
+                    <td width="19%" class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">No</font></td>
+                    <td width="43%">
+                      <input type="checkbox" name="Director2" value="No">
+                    </td>
+                  </tr>
+                </table>
+                <table width="47%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="15%"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">OCCUPATION</font></td>
+                    <td width="85%">
+                      <input type="text" name="Occupation2" size="50">
+                    </td>
+                  </tr>
+                </table>
+                <hr>
+                <h3 align="left" class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000">Income</font></h3>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="INCOME">
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>11.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_11">
+                <table width="41%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="38%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">BASIC
+                      GROSS SALARY OR NET INCOME</font></td>
+                    <td width="2%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="11%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Gross_Salary_or_Net_Income2" size="10">
+                      </font></td>
+                    <td width="49%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                  <tr>
+                    <td width="38%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">REGULAR
+                      BONUS</font></td>
+                    <td width="2%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="11%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Regular_Bonus2" size="10">
+                      </font></td>
+                    <td width="49%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                  <tr>
+                    <td width="38%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">REGULAR
+                      OVERTIME</font></td>
+                    <td width="2%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="11%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Regular_Overtime2" size="10">
+                      </font></td>
+                    <td width="49%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                  <tr>
+                    <td width="38%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">OTHER
+                      INCOME</font></td>
+                    <td width="2%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="11%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Other_Income2" size="10">
+                      </font></td>
+                    <td width="49%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                  <tr>
+                    <td width="38%" height="29"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">MORTGAGE/RENT
+                      SUBSIDY</font></td>
+                    <td width="2%" height="29"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="11%" height="29"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Mortgage_or_Rent_Subsidy2" size="10">
+                      </font></td>
+                    <td width="49%" height="29"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                  <tr>
+                    <td width="38%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">TOTAL</font></td>
+                    <td width="2%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="11%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Total2" size="10">
+                      </font></td>
+                    <td width="49%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                </table>
+                <p class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000"><b>NOTE:
+                  IF SELF-EMPLOYED THE SOCIETY WILL NORMALLY REQUIRE 2 YEARS AUDITED
+                  ACCOUNTS </b></font></p>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>12.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_12">
+                <table width="75%" border="0">
+                  <tr>
+                    <td>
+                      <p class="unnamed1"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">SOURCE
+                        OF OTHER INCOME</font>
+                        <input type="text" name="Source_of_Other_Income2" size="40" class="unnamed1">
+                      </p>
+                    </td>
+                  </tr>
+                </table>
+                <p>&nbsp;</p>
+                <hr>
+                <h3 class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000">Outgoings</font></h3>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="OUTGOINGS">
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>13.</b>
+                </span> </font>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_13">
+                <table width="57%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="40%"><font color="#660000" face="Arial, Helvetica, sans-serif" size="2">MAINTENANCE
+                      TO PREVIOUS PARTNER</font></td>
+                    <td width="3%"><font color="#660000" face="Arial, Helvetica, sans-serif">&pound;</font></td>
+                    <td width="21%"> <font color="#660000" face="Arial, Helvetica, sans-serif">
+                      <input type="text" name="Maintenance_to_Prev_Partner2" size="10">
+                      </font></td>
+                    <td width="36%"><font color="#660000" face="Arial, Helvetica, sans-serif">pa</font></td>
+                  </tr>
+                </table>
+                <br>
+                <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><b>14.</b>
+                </span></font><br>
+                <input type="hidden" name="NoveosFormSpacer" value="">
+                <input type="hidden" value="" name="Section_14">
+                <table width="75%" border="0">
+                  <tr>
+                    <td><span class="unnamed1"><font size="2" class="unnamed1" color="#660000" face="Arial, Helvetica, sans-serif">OTHER
+                      LOAN COMMITMENTS</font></span> </td>
+                  </tr>
+                </table>
+                <table width="48%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="57%" height="11"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">MONTHLY
+                      PAYMENT</font></td>
+                    <td width="5%" height="11">&pound;</td>
+                    <td width="38%" height="11" align="left">
+                      <input type="text" name="Monthly_Payment2" size="12">
+                    </td>
+                  </tr>
+                </table>
+                <table width="48%" border="0" class="unnamed1">
+                  <tr>
+                    <td width="71%" height="11"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2">FINAL
+                      PAYMENT DUE</font></td>
+                    <td width="29%" height="11">
+                      <input type="text" name="Final_Payment_Due2" size="12">
+                    </td>
+                  </tr>
+                </table>
+                <h3 class="unnamed1"><font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1">
+                  </span></font></h3>
+                <hr>
+                <p>&nbsp;</p>
+                <h3><font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1">DECLARATION
+                  </span> </font></h3>
+                <input type="hidden" value="" name="FINAL_DECLARATION">
+                <pre><font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1"><font size="2">I am/We are 18 years of age or over and the foregoing particulars are true to
+the best of my/our belief and knowledge.
+
+<!-- 2. I/We authorise the Society to apply for such references and to make such
+enquiries (including enquiries of a credit reference agency) as may be deemed
+neccessary for the proper consideration of this application and to disclose
+information provided by me/us on this application form to other mortgage lenders
+where this is done in the interest of fraud prevention.
+3. In connection with this application the Society will carry out a credit check
+with one or more licensed credit reference agencies which will retain a record
+of that search. In the event of this account going into default, relevant details
+will be recorded with an agency. This information may be used by other lenders
+in assessing applications for credit by you and members of your household, and
+for occassional debt tracing and fraud prevention purposes. --></font></span></font></pre>
+                <center>
+<!--              <p><font face="Arial, Helvetica, sans-serif" color="#660000" size="2"><span class="unnamed1">ACCEPT
+                    <input type="checkbox" name="Declaration" value="Accept">
+                    DECLINE
+                    <input type="checkbox" name="Declaration" value="Decline">
+                    </span></font></p>
+-->                  <p align="left"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2"><span class="unnamed1">You
+                    have the right of access to your personal records held by
+                    credit and fraud agencies. We will supply their names and
+                    addresses upon request to the Society at the Head Office address.
+                    </span></font></p>
+                  <p align="left"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2"><span class="unnamed1">Under
+                    the Data Protection Act 1998 you
+                    are entitled to know what information the Society holds about
+                    you and to ask for any inaccurate details to be amended. A
+                    fee will be payable to see this information.
+                    </span></font></p>
+                  <p align="left"><font face="Arial, Helvetica, sans-serif" color="#660000" size="2"><span class="unnamed1"><BR>
+Signed: ................................................... ...................................................<BR>
+<BR>
+Date: ...................................................... ...................................................
+                    </span></font></p>
+                  <hr>
+<!--              <font face="Arial, Helvetica, sans-serif" color="#660000"><span class="unnamed1">
+                  <input type = "submit" value = "Send" name="submit">
+                  <input type = "reset" name="reset">
+                  </span></font>
+-->             </center>
+              </form>
+              <pre></pre>
+            </div>
+          </td>
+        </tr>
+      </table>
+      <table width="186" border="0" cellpadding="2" height="180" cellspacing="2" align="left">
+        <tr>
+          <td rowspan="3" width="42" height="32">
+            <div align="center"><a href="m-mortselector.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image111','','images/VERTICAL3a.jpg',1)" target="_parent"><img src="images/VERTICAL3.jpg" width="28" height="28" border="0" name="Image111" align="top"></a></div>
+          </td>
+          <td rowspan="3" width="138" height="32">
+            <pre><font size="2" color="#00CCCC" face="Arial, Helvetica, sans-serif"><a href="m-mortselector.html" target="_parent"><font color="#CC3300"><i>Mortgage Selector</i></font></a></font></pre>
+          </td>
+        </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr>
+          <td width="42" height="2">&nbsp;</td>
+          <td width="138" height="2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td rowspan="3" width="42" height="32">
+            <div align="center"><a href="m-mortgagerates.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image21','','images/VERTICAL33a.jpg',1)" target="_parent"><img src="images/VERTICAL33.jpg" width="28" height="28" border="0" name="Image21" align="top"></a></div>
+          </td>
+          <td rowspan="3" width="138" height="32">
+            <pre><font size="2" color="#CC3300" face="Arial, Helvetica, sans-serif"><i><font color="#33CCFF"><a href="m-mortgagerates.html" target="_parent"><font color="#CC3300">Mortgage Rates</font></a></font></i></font></pre>
+          </td>
+        </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr>
+          <td width="42" height="2">&nbsp;</td>
+          <td width="138" height="2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td rowspan="3" width="42" height="32">
+            <div align="center"><a href="m-buying1sthome.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image83','','images/VERTICAL333a.jpg',1)" target="_parent"><img src="images/VERTICAL333.jpg" width="28" height="28" border="0" name="Image83" align="top"></a></div>
+          </td>
+          <td rowspan="3" width="138" height="32">
+            <pre><font size="2" color="#CC3300" face="Arial, Helvetica, sans-serif"><i><font color="#6666FF"><a href="m-buying1sthome.html" target="_parent"><font color="#CC3300">Buying your 1st home</font></a></font></i></font></pre>
+          </td>
+        </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr>
+          <td width="42" height="2">&nbsp;</td>
+          <td width="138" height="2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td rowspan="3" width="42" height="32">
+            <div align="center"><a href="m-calculator.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image831','','images/VERTICAL333a.jpg',1)" target="_parent"><img src="images/VERTICAL333.jpg" width="28" height="28" border="0" name="Image831" align="top"></a></div>
+          </td>
+          <td rowspan="3" width="138" height="32">
+            <pre><font size="2" color="#CC3300" face="Arial, Helvetica, sans-serif"><i><font color="#6666FF"><a href="m-calculator.html" target="_parent"><font color="#CC3300">Calculator</font></a></font></i></font></pre>
+          </td>
+        </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr>
+          <td width="42" height="2">&nbsp;</td>
+          <td width="138" height="2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="42" height="32">
+            <div align="center"><a href="m-mortgagecode.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image832','','images/VERTICAL333a.jpg',1)" target="_parent"><img src="images/VERTICAL333.jpg" width="28" height="28" border="0" name="Image832" align="top"></a></div>
+          </td>
+          <td width="138" height="32">
+            <pre><font size="2" color="#CC3300" face="Arial, Helvetica, sans-serif"><i><font color="#6666FF"><a href="m-mortgagecode.html" target="_parent"><font color="#CC3300">The  Mortgage Code</font></a></font></i></font></pre>
+          </td>
+        </tr>
+        <tr>
+          <td width="42" height="2">&nbsp;</td>
+          <td width="138" height="2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="42" height="32">
+            <div align="center"><a href="m-index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','images/arrow1.jpg',1)" target="_parent"><img src="images/arrow.jpg" width="28" height="28" border="0" name="Image1" align="top"></a></div>
+          </td>
+          <td width="138" height="32">
+            <pre><font size="2" color="#CC3300" face="Arial, Helvetica, sans-serif"><i><font color="#33CCFF"><a href="m-index.html" target="_parent"><font color="#CC3300">Back  to Mortgages</font></a></font></i></font></pre>
+          </td>
+        </tr>
+        <tr>
+          <td width="42" height="2">&nbsp;</td>
+          <td width="138" height="2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="42" height="32">
+            <div align="center"><a href="m-moreinfo.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image311','','images/VERTICAL333a.jpg',1)" target="_parent"><img src="images/VERTICAL333.jpg" width="28" height="28" border="0" name="Image311"></a></div>
+          </td>
+          <td width="138" height="32">
+            <pre><font size="2" color="#CC3300" face="Arial, Helvetica, sans-serif"><i><font color="#6666FF"><a href="m-moreinfo.html" target="_parent"><font color="#CC3300">More Information?</font></a></font></i></font></pre>
+          </td>
+        </tr>
+        <tr>
+          <td width="42">&nbsp;</td>
+          <td width="138" height="12000">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td height="14" colspan="3">
+      <table width="702" border="0" cellpadding="0" align="center" cellspacing="0" name="4">
+        <tr>
+          <td height="28">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<p align="center" class="font2">&nbsp;</p>
+</body>
+</html>
+
+

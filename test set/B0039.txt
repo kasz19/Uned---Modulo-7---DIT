@@ -1,0 +1,2221 @@
+ID=B0039
+URL=http://www.staffordshirebuildingsociety.co.uk/SavingsPages/SaviProds/menus/savaag.htm
+SIZE=98569
+DATE=28/06/2002
+TIME=12:46:50
+DATASET=Building Societies
+HTML=<!DOCTYPE HTML PUBLIC "-/W3C/DTD HTML 3.2/EN">
+<HTML>
+<HEAD>
+<TITLE>Staffordshire Building Society - Savings at a glance</TITLE>
+<META NAME="Author" CONTENT="Darren Cox">
+<META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (Win95; I; 16bit) [Netscape]">
+<LINK REL="STYLESHEET" TYPE="text/css" HREF="../../../bothbrowsers.css">
+<LINK REL="STYLESHEET" TYPE="text/css" HREF="../../../navigator.css" DISABLED>
+<SCRIPT LANGUAGE="JavaScript1.2" TYPE="text/javascript">
+<!--
+    //if (document.all) document.createStyleSheet("../../../explorer.css");
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript1.2" TYPE="text/javascript">
+<!--
+function AreaPopup()
+
+{
+ window.open("../../../otherDocs/PostCodeCheck_Popup.htm","","width=320,height=190,location=no,toolbar=no,menubar=no,scrollbars=no,resizable=no");
+}
+
+//-->
+</SCRIPT>
+
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" topmargin="3" leftmargin="0" marginwidth="0" marginheight="0">
+<span class="SavingsTitle"></span> <span class="SavingsTitle"></span> 
+<table width="600" border="0" cellspacing="0" cellpadding="0" align="left">
+  <tr> 
+    <td>
+      <CENTER>
+        <P><FONT class="SavingsTitle">SAVINGS RATES - 'At A Glance'<br>
+          <br>
+          <span class="bb2"><a href="javascript:AreaPopup();">Accounts are only 
+          available to local applicants or<br>
+          Staffordshire Direct customers - <u>click here...</u></a></span></FONT></P>
+        <center>
+          <center>
+            <center>
+              <p><span class="prodbodorange">RATES EFFECTIVE FROM: 1 MAY 2002<font color="#008000" class="prodbodorange"><span class="bb2"> 
+                </span></font></span> </p>
+            </center>
+            <center>
+              <table border=1 cellspacing=0 width =98% cellpadding="0" >
+                <tr> 
+                  <td valign="top" width="242" height="17" class="bb2"> 
+                    <p align="center">ACCOUNT</p>
+                  </td>
+                  <td valign="top" width="94" height="17" class="bb2"> 
+                    <p align="center">AMOUNT</p>
+                  </td>
+                  <td valign="top" width="91" height="17" class="bb2"> 
+                    <p align="center">GROSS/AER</p>
+                  </td>
+                  <td valign=top width="65" height="17" class="bb2"> 
+                    <p align="center">NET</p>
+                  </td>
+                  <td valign=top width="85" height="17" class="bb2"> 
+                    <p align="center">UNTIL</p>
+                  </td>
+                </tr>
+                <tr bgcolor="#0099FF"> 
+                  <td align=CENTER valign=top width="242" height="23" class="bb2"> 
+                    <dt><a href="../1YrFixBond10thISSUE.htm">The Staffordshire 
+                      1 Year Fixed Rate Bond 10th ISSUE</a></dt>
+                  </td>
+                  <td valign=top align="center" width="94" height="23" class="bb2"> 
+                    <dt> 
+                      <div align="center">£2,500+</div>
+                    </dt>
+                  </td>
+                  <td valign=top align="center" width="91" height="23" class="bb2"> 
+                    <dt> 
+                      <div align="center"><b>4.70%</b></div>
+                    </dt>
+                  </td>
+                  <td valign="top" align="center" width="65" height="23" class="bb2"> 
+                    <dt> 
+                      <div align="center"><b>3.76%</b></div>
+                    </dt>
+                  </td>
+                  <td valign="top" align="center" width="85" height="23" class="bb2"> 
+                    <dt> 
+                      <div align="center"><b>30 Apr 2003</b></div>
+                    </dt>
+                  </td>
+                </tr>
+              </table>
+            </center>
+            <table width="98%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="546"> 
+                  <div align="left" class="b2"></div>
+                </td>
+                <td width="546"> 
+                  <div align="right"><a href="../1YrFixBond10thISSUE.htm" target="_self" class="b2">more 
+                    info...</a></div>
+                </td>
+              </tr>
+            </table>
+            <p><span class="prodbodorange"><br>
+              <br>
+              RATES EFFECTIVE FROM: 1 MAY 2002<font color="#008000" class="prodbodorange"><span class="bb2"> 
+              </span></font></span> </p>
+          </center>
+          <center>
+            <table border=1 cellspacing=0 width =98% cellpadding="0" >
+              <tr> 
+                <td valign="top" width="212" height="17" class="bb2"> 
+                  <p align="center">ACCOUNT</p>
+                </td>
+                <td valign="top" width="74" height="17" class="bb2"> 
+                  <p align="center">AMOUNT</p>
+                </td>
+                <td valign="top" width="78" height="17" class="bb2"> 
+                  <p align="center">GROSS</p>
+                </td>
+                <td valign=top width="77" height="17" class="bb2"> 
+                  <p align="center">NET</p>
+                </td>
+                <td valign=top width="55" height="17" class="bb2"> 
+                  <div align="center">AER</div>
+                </td>
+                <td valign=top width="79" height="17" class="bb2"> 
+                  <p align="center">UNTIL</p>
+                </td>
+              </tr>
+              <tr bgcolor="#0099FF"> 
+                <td align=CENTER valign=top width="212" height="23" class="bb2"> 
+                  <dt><a href="../1YrFixBond10thISSUEM.htm">The Staffordshire 
+                    1 Year Fixed Rate Bond 10th ISSUE<br>
+                    Monthly Income Option</a></dt>
+                </td>
+                <td valign=top align="center" width="74" height="23" class="bb2"> 
+                  <dt> 
+                    <div align="center">£2,500+</div>
+                  </dt>
+                </td>
+                <td valign=top align="center" width="78" height="23" class="bb2"> 
+                  <dt> 
+                    <div align="center"><b>4.60%</b></div>
+                  </dt>
+                </td>
+                <td valign="top" align="center" width="77" height="23" class="bb2"> 
+                  <dt> 
+                    <div align="center"><b>3.68%</b></div>
+                  </dt>
+                </td>
+                <td valign="top" align="center" width="55" height="23" class="bb2">4.70%</td>
+                <td valign="top" align="center" width="79" height="23" class="bb2"> 
+                  <dt> 
+                    <div align="center"><b>30 Apr 2003</b></div>
+                  </dt>
+                </td>
+              </tr>
+            </table>
+          </center>
+          <table width="98%" border="0" cellspacing="0" cellpadding="0">
+            <tr> 
+              <td width="546"> 
+                <div align="left" class="b2"></div>
+              </td>
+              <td width="546"> 
+                <div align="right"><a href="../1YrFixBond10thISSUEM.htm" target="_self" class="b2">more 
+                  info...</a></div>
+              </td>
+            </tr>
+          </table>
+          <p><span class="prodbodorange"><br>
+            <br>
+            RATES EFFECTIVE FROM: 1 MAY 2002<font color="#008000" class="prodbodorange"><span class="bb2"> 
+            </span></font></span> </p>
+        </center>
+        <center>
+          <table border=1 cellspacing=0 width =98% cellpadding="0" >
+            <tr> 
+              <td valign="top" width="120" height="17" class="bb2"> 
+                <p align="center">ACCOUNT</p>
+              </td>
+              <td valign="top" width="80" height="17" class="bb2"> 
+                <p align="center">AMOUNT</p>
+              </td>
+              <td valign="top" width="79" height="17" class="bb2"> 
+                <p align="center">GROSS</p>
+              </td>
+              <td valign=top width="73" height="17" class="bb2"> 
+                <p align="center">NET</p>
+              </td>
+              <td valign="top" width="90" height="17" class="bb2"> 
+                <p align="center">AER</p>
+              </td>
+              <td valign=top width="133" height="17" class="bb2"> 
+                <p align="center">UNTIL</p>
+              </td>
+            </tr>
+            <tr bgcolor="#0099FF"> 
+              <td align=CENTER valign=middle rowspan="4" height="92" class="bb2" width="120"> 
+                <dt><a href="../2yrescbond.htm">2 Year Fixed Rate<br>
+                  Escalator Bond </a></dt>
+                <dt>&nbsp;</dt>
+              </td>
+              <td valign=middle align="center" rowspan="4" height="92" class="bb2" width="80"> 
+                <dt>&pound;1,000+</dt>
+                <dt>&nbsp;</dt>
+                <dt>&nbsp;</dt>
+              </td>
+              <td valign=top align="center" width="79" height="23" class="bb2"> 
+                <dt> 
+                  <div align="center"><b>4.25%</b></div>
+                </dt>
+              </td>
+              <td valign="top" align="center" width="73" height="23" class="bb2"> 
+                <dt> 
+                  <div align="center"><b>3.40%</b></div>
+                </dt>
+              </td>
+              <td valign=middle align="center" rowspan="4" height="92" class="bb2"> 
+                <dt><b>5.25%</b></dt>
+                <dt><br>
+                </dt>
+              </td>
+              <td valign="top" align="center" width="133" height="23" class="bb2">30 
+                Nov 2002</td>
+            </tr>
+            <tr bgcolor="#0099FF"> 
+              <td valign=top align="center" width="79" height="23" class="bb2"> 
+                <dt> 
+                  <div align="center"><b>4.75%</b></div>
+                </dt>
+              </td>
+              <td valign="top" align="center" width="73" height="23" class="bb2"> 
+                <dt> 
+                  <div align="center"><b>3.80%</b></div>
+                </dt>
+              </td>
+              <td valign="top" align="center" width="133" height="23" class="bb2">31 
+                May 2003</td>
+            </tr>
+            <tr bgcolor="#0099FF"> 
+              <td valign=top align="center" width="79" height="23" class="bb2"> 
+                <dt> 
+                  <div align="center"><b>5.50%</b></div>
+                </dt>
+              </td>
+              <td valign="top" align="center" width="73" height="23" class="bb2"> 
+                <dt> 
+                  <div align="center"><b>4.40%</b></div>
+                </dt>
+              </td>
+              <td valign="top" align="center" width="133" height="23" class="bb2">30 
+                Nov 2003</td>
+            </tr>
+            <tr bgcolor="#0099FF"> 
+              <td valign=top align="center" width="79" height="23" class="bb2"> 
+                <dt> 
+                  <div align="center"><b>6.50%</b></div>
+                </dt>
+              </td>
+              <td valign="top" align="center" width="73" height="23" class="bb2"> 
+                <dt> 
+                  <div align="center"><b>5.20%</b></div>
+                </dt>
+              </td>
+              <td valign="top" align="center" width="133" height="23" class="bb2">31 
+                May 2004</td>
+            </tr>
+          </table>
+        </center>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"></div>
+            </td>
+            <td width="546"> 
+              <div align="right"><a href="../2yrescbond.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <P><span class="prodbodorange"><br>
+          <br>
+          RATES EFFECTIVE FROM: 2 DECEMBER 2001<B><font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></B></span> </P>
+        </CENTER>
+      <CENTER>
+        <table border=1 cellspacing=0 width =98% cellpadding="0" >
+          <tr> 
+            <td valign="top" width="263" height="17" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="70" height="17" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="105" height="17" class="bb2"> 
+              <p align="center"><b>GROSS/AER</b></p>
+            </td>
+            <td valign=top width="48" height="17" class="bb2"> 
+              <p align="center"><b>NET</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=CENTER valign=top width="263" height="23" class="bb2"> 
+              <dt><b><a href="../varratebond123.htm">Variable Rate Bond 
+                1 Year </a></b></dt>
+            </td>
+            <td valign=top align="center" width="70" height="23" class="bb2"> 
+              <dt> 
+                <div align="center"><b>£2,500+</b></div>
+              </dt>
+            </td>
+            <td valign=top align="center" width="105" height="23" class="bb2"> 
+              <dt> 
+                <div align="center"><b>3.84%</b></div>
+              </dt>
+            </td>
+            <td valign="top" align="center" width="48" height="23" class="bb2"> 
+              <dt> 
+                <div align="center"><b>3.07%</b></div>
+              </dt>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=CENTER valign=top width="263" height="24" class="bb2"> 
+              <dt><b><a href="../varratebond123.htm">Variable Rate Bond 
+                2 Year</a></b></dt>
+            </td>
+            <td valign=top align="center" width="70" height="24" class="bb2"> 
+              <div align="center"><b>£2,500+</b></div>
+            </td>
+            <td valign=top align="center" width="105" height="24" class="bb2"> 
+              <div align="center"><b>4.24%</b></div>
+            </td>
+            <td valign="top" align="center" width="48" height="24" class="bb2"> 
+              <div align="center"><b>3.39%</b></div>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=CENTER valign=top width="263" height="24" class="bb2"> 
+              <dt><b><a href="../varratebond123.htm">Variable Rate Bond 
+                3 Year</a></b></dt>
+            </td>
+            <td valign=top align="center" width="70" height="24" class="bb2"> 
+              <div align="center"><b>£2,500+</b></div>
+            </td>
+            <td valign=top align="center" width="105" height="24" class="bb2"> 
+              <div align="center"><b>4.64%</b></div>
+            </td>
+            <td valign="top" align="center" width="48" height="24" class="bb2"> 
+              <div align="center"><b>3.71%</b></div>
+            </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#3VBR" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../varratebond123.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><b><span class="prodbodorange">RATES EFFECTIVE FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></p>
+        <table border=1 cellspacing=0 width="98%" class="bb2" cellpadding="0" >
+          <tr> 
+            <td valign="top" width="146" height="17" class="bb2"> 
+              <div align="center"><b>ACCOUNT</b></div>
+            </td>
+            <td valign="top" width="138" height="17" class="bb2"> 
+              <div align="center"><b>AMOUNT</b></div>
+            </td>
+            <td valign="top" width="108" height="17" class="bb2"> 
+              <div align="center"><b>GROSS/AER</b></div>
+            </td>
+            <td valign=top width="144" height="17" class="bb2"> 
+              <div align="center"><b>NET</b></div>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td  valign=top width="146" height="31" class="bb2"> 
+              <dt> 
+                <div align="center"><b><a href="../monthlysaver.htm">Monthly Saver</a></b></div>
+              </dt>
+            </td>
+            <td valign=top  width="138" height="31" class="bb2"> 
+              <dt> 
+                <div align="center"><b>£10 +</b></div>
+              </dt>
+            </td>
+            <td valign=top  width="108" height="31" class="bb2"> 
+              <dt> 
+                <div align="center"><b>3.49%</b></div>
+              </dt>
+            </td>
+            <td valign="top"  width="144" height="31" class="bb2"> 
+              <dt> 
+                <div align="center"><b>2.79%</b></div>
+              </dt>
+            </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#MONS" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../monthlysaver.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><span class="prodbodorange">RATES EFFECTIVE 
+          FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span><font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></b></span></p>
+        <table border cellspacing=0 cellpadding=0 width="98%" class="bb2" >
+          <tr> 
+            <td valign=middle width="23%" height="20" class="bb2"> 
+              <div align="center"><b>ACCOUNT</b></div>
+            </td>
+            <td valign=middle width="23%" height="20" class="bb2"> 
+              <dt> 
+                <div align="center"><b>AMOUNT</b></div>
+              </dt>
+            </td>
+            <td valign=middle width="16%" height="20" class="bb2"> 
+              <dt> 
+                <div align="center"><b>GROSS/AER</b></div>
+              </dt>
+            </td>
+            <td valign=middle width="14%" height="20" class="bb2"> 
+              <div align="center"><b>NET</b></div>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td valign=TOP width="23%" height="40" rowspan="2" class="bb2"> 
+              <p align="center"><b><a href="../7DAYPOSTA.htm">7 Day Postal</a></b></p>
+            </td>
+            <td valign=TOP width="23%" height="16" class="bb2"> 
+              <dt> 
+                <div align="center"><b>&pound;1000-&pound;9,999</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="16%" height="16" class="bb2"> 
+              <dt> 
+                <div align="center"><b>3.69%</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="14%" height="16" class="bb2"> 
+              <div align="center"><b>2.95%</b></div>
+            </td>
+          </tr>
+          <tr bgcolor="#80FFFF"> 
+            <td valign=TOP width="23%" bgcolor="#0099FF" height="11" class="bb2"> 
+              <div align="center"><b>&pound;10,000+</b></div>
+            </td>
+            <td valign=TOP width="16%" bgcolor="#0099FF" height="11" class="bb2"> 
+              <div align="center"><b>3.99%</b></div>
+            </td>
+            <td valign=TOP width="14%" bgcolor="#0099FF" height="11" class="bb2"> 
+              <div align="center"><b>3.19%</b></div>
+            </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#7DAY" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../7DAYPOSTA.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><span class="prodbodorange">RATES EFFECTIVE 
+          FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span><font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></b></span></p>
+        <table border cellspacing=0 cellpadding=0 width="98%" class="bb2" >
+          <tr> 
+            <td valign=middle width="23%" height="20" class="bb2"> 
+              <div align="center"><b>ACCOUNT</b></div>
+            </td>
+            <td valign=middle width="23%" height="20" class="bb2"> 
+              <dt> 
+                <div align="center"><b>AMOUNT</b></div>
+              </dt>
+            </td>
+            <td valign=middle width="16%" height="20" class="bb2"> 
+              <dt> 
+                <div align="center"><b> GROSS</b></div>
+              </dt>
+            </td>
+            <td valign=middle width="14%" height="20" class="bb2"> 
+              <dt> 
+                <div align="center"><b>AER</b></div>
+              </dt>
+            </td>
+            <td valign=middle width="14%" height="20" class="bb2"> 
+              <div align="center"><b> NET</b></div>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td valign=TOP width="23%" height="40" rowspan="2" class="bb2"> 
+              <p align="center"><b><a href="../7DAYPOST.htm">7 Day Postal Monthly 
+                Income Option</a></b></p>
+            </td>
+            <td valign=TOP width="23%" height="24" class="bb2"> 
+              <dt> 
+                <div align="center"><b>&pound;2000-&pound;9,999</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="16%" height="24" class="bb2"> 
+              <dt> 
+                <div align="center"><b>3.63%</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="14%" height="24" class="bb2"> 
+              <dt> 
+                <div align="center"><b>3.69%</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="14%" height="24" class="bb2"> 
+              <div align="center"><b>2.90%</b></div>
+            </td>
+          </tr>
+          <tr bgcolor="#80FFFF"> 
+            <td valign=TOP width="23%" bgcolor="#0099FF" height="19" class="bb2"> 
+              <div align="center"><b>&pound;10,000+</b></div>
+            </td>
+            <td valign=TOP width="16%" bgcolor="#0099FF" height="19" class="bb2"> 
+              <div align="center"><b>3.92%</b></div>
+            </td>
+            <td valign=TOP width="14%" bgcolor="#0099FF" height="19" class="bb2"> 
+              <div align="center"><b>3.99%</b></div>
+            </td>
+            <td valign=TOP width="14%" bgcolor="#0099FF" height="19" class="bb2"> 
+              <div align="center"><b>3.14%</b></div>
+            </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#7DAYM" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../7DAYPOST.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><span class="prodbodorange">RATES EFFECTIVE 
+          FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span></p>
+      </CENTER>
+      <CENTER>
+        <table border=1 cellspacing=0 width=98% class="bb2" cellpadding="0" >
+          <tr> 
+            <td valign="top" width="143" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="201" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="127" class="bb2"> 
+              <p align="center"><b>GROSS/AER</b></p>
+            </td>
+            <td valign=top width="69" class="bb2"> 
+              <p align="center"><b>NET</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=CENTER valign=top width="143" class="bb2" height="112"> 
+              <dt><b><a href="../harvest1.htm"> 60 day notice</a><br>
+                (formerly known as Extra Interest) </b></dt>
+            </td>
+            <td valign=top align="center" width="201" class="bb2" height="112"> 
+              <dt><b>&pound;100,000+</b></dt>
+              <dt><b>£50,000 - &pound;99,999</b></dt>
+              <dt><b>£25,000 - £49,999</b></dt>
+              <dt><b>£10,000 - £24,999</b></dt>
+              <dt><b>£5,000 - £9,999</b></dt>
+              <dt><b>£2,500 - £4,999</b></dt>
+              <dt><b>£2,000 - £2,499</b></dt>
+              </td>
+            <td valign=top align="center" width="127" class="bb2" height="112"> 
+              <dt>3.54%<br>
+                3.54%<br>
+                3.29%<br>
+                2.79%<br>
+                2.04%<br>
+                1.54%<br>
+                1.04%</dt>
+              </td>
+            <td valign="top" align="center" width="69" class="bb2" height="112"> 
+              <dt>2.83%<br>
+                2.83%<br>
+                2.63%<br>
+                2.23%<br>
+                1.63%<br>
+                1.23%<br>
+                0.83%</dt>
+              </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#60DAY" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../harvest1.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span><span class="bb2"> </span></font></b></span></p>
+        <table border=1 cellspacing=0 width=98% class="bb2" cellpadding="0" >
+          <tr> 
+            <td valign="top" width="134" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="159" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="110" class="bb2"> 
+              <div align="center"><b>GROSS</b></div>
+            </td>
+            <td valign="top" width="72" class="bb2"> 
+              <p align="center"><b>AER</b></p>
+            </td>
+            <td valign=top width="63" class="bb2"> 
+              <p align="center"><b>NET</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=CENTER valign=top width="134" class="bb2" height="77"> 
+              <dt><b><a href="../harvest2.htm"> 60 day notice</a></b></dt>
+              <dt><a href="../harvest2.htm"><b>Monthly Income Option </b></a><br>
+                (formerly known as Extra Interest) </dt>
+            </td>
+            <td valign=top align="center" width="159" class="bb2" height="77"> 
+              <dt><b>&pound;100,000+</b></dt>
+              <dt><b>£50,000 - &pound;99,999</b></dt>
+              <dt><b>£25,000 - £49,999</b></dt>
+              <dt><b>£10,000 - £24,999</b></dt>
+              <dt><b>£5,000 - £9,999</b></dt>
+              <dt><b>£2,500 - £4,999</b></dt>
+              <dt><b>£2,000 - £2,499</b></dt>
+            </td>
+            <td valign=top align="center" width="110" height="77" class="bb2"> 
+              <dt>3.48%<br>
+                3.48%</dt>
+              <dt>3.24%<br>
+                2.75%<br>
+                2.02%<br>
+                1.53%<br>
+                1.04%</dt>
+            </td>
+            <td valign=top align="center" width="72" class="bb2" height="77"> 
+              <dl> 
+                <dt>3.54%<br>
+                  3.54%<br>
+                  3.29%<br>
+                  2.79%<br>
+                  2.04%<br>
+                  1.54%<br>
+                  1.04%</dt>
+              </dl>
+            </td>
+            <td valign="top" align="center" width="63" class="bb2" height="77"> 
+              <dt>2.79%<br>
+                2.79%<br>
+                2.59%<br>
+                2.20%<br>
+                1.62%<br>
+                1.22%<br>
+                0.83% </dt>
+            </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#60DAYM" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../harvest2.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><span class="prodbodorange">RATES EFFECTIVE 
+          FROM: <b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">2 DECEMBER 2001</span></b></span></font></b><font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span></p>
+        <table border=1 cellspacing=0 width = 98% class="bb2" cellpadding="0" >
+          <tr> 
+            <td valign="top" width="164" height="17" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="166" height="17" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="144" height="17" class="bb2"> 
+              <p align="center"><b>GROSS/AER</b></p>
+            </td>
+            <td valign=top width="66" height="17" class="bb2"> 
+              <p align="center"><b>NET</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=CENTER valign=top width="164" height="31" class="bb2"> 
+              <dt><b><a href="../extrainterest.htm">Easy Access<br>
+                (formerly known as Extra Interest) </a></b></dt>
+            </td>
+            <td valign=top align="center" width="166" height="31" class="bb2"> 
+              <dt><b>&pound;100,000+</b></dt>
+              <dt><b>£50,000-&pound;99,999</b></dt>
+              <dt><b>£25,000- £49,999</b></dt>
+              <dt><b>£10,000 - £24,999</b></dt>
+              <dt><b>£5,000 - £9,999</b></dt>
+              <dt><b>£2,500 - £4,999</b></dt>
+              <dt><b>£500 - £2,499</b></dt>
+              <dt><b>&pound;0-&pound;500</b></dt>
+            </td>
+            <td valign=top align="center" width="144" height="31" class="bb2"> 
+              <dt>2.24%<br>
+                2.24%<br>
+                1.74%<br>
+                1.24%<br>
+                0.99%<br>
+                0.70%<br>
+                0.50%<br>
+                0.25% </dt>
+              </td>
+            <td valign="top" align="center" width="66" height="31" class="bb2"> 
+              <dt>1.79%<br>
+                1.79%<br>
+                1.39%<br>
+                0.99%<br>
+                0.79%<br>
+                0.56%<br>
+                0.40%<br>
+                0.20%</dt>
+              </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#EXTRA" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../extrainterest.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM:<b><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange"> 
+          2 DECEMBER 2001</span></b></span></font></b></span></b><font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span><span class="bb2"> </span></font></b></span></p>
+        <table border=1 cellspacing=0 width="98%" class="bb2" cellpadding="0" >
+          <tr> 
+            <td valign="top" width="66" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="64" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="89" class="bb2"> 
+              <p align="center"><b>GROSS/AER</b></p>
+            </td>
+            <td valign=top width="53" class="bb2"> 
+              <p align="center"><b>NET</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=CENTER valign=top height="31" width="66" class="bb2"> 
+              <dt><b><a href="../start.htm">.st@rt</a></b></dt>
+            </td>
+            <td valign=top align="center" height="31" width="64" class="bb2"> 
+              <dt><b>&pound;10 +</b> </dt>
+            </td>
+            <td valign=top align="center" height="31" width="89" class="bb2"> 
+              <dt><b>3.69%</b></dt>
+            </td>
+            <td valign="top" align="center" height="31" width="53" class="bb2"> 
+              <dt><b>2.95%</b> </dt>
+            </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#START" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../start.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: <b><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">2 DECEMBER 2001</span></b></span></font></b></span></b><font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span><span class="bb2"> </span></font></b></span><span class="bb2"> 
+          </span></font></b></span></p>
+        <table border=1 cellspacing=0 width=98% cellpadding="0">
+          <tr class="bb2"> 
+            <td valign=top width=153 class="bb2"> 
+              <p align="center">ACCOUNT</p>
+            </td>
+            <td valign=top width=172 class="bb2"> 
+              <p align="center">AMOUNT</p>
+            </td>
+            <td valign=top width=118 class="bb2"> 
+              <p align="center">GROSS/AER</p>
+            </td>
+            <td valign=top width=61 class="bb2"> 
+              <p align="center">NET</p>
+            </td>
+          </tr>
+          <tr> 
+            <td align=middle height=131 valign=top width=153 bgcolor="#FF9900" class="bb2"> 
+              <dt> 
+                <div align="center"><b><a href="../../../wolves/index.html" target="_blank">Wolves 
+                  Premier Gold</a></b></div>
+              </dt>
+            </td>
+            <td align=middle height=131 valign=top width=172 bgcolor="#FF9900" class="bb2"> 
+              <dt> 
+                <div align="center">£100,000+ </div>
+              <dt> 
+                <div align="center">£50,000-£99,999 </div>
+              <dt> 
+                <div align="center">£25,000- £49,999 </div>
+              <dt> 
+                <div align="center">£10,000 - £24,999 </div>
+              <dt> 
+                <div align="center">£5,000 - £9,999 </div>
+              <dt> 
+                <div align="center">£2,500 - £4,999 </div>
+              <dt> 
+                <div align="center">£500 - £2,499 </div>
+              <dt> 
+                <div align="center">£0-£499 </div>
+              </dt>
+            </td>
+            <td align=middle height=131 valign=top width=118 bgcolor="#FF9900" class="bb2"> 
+              <div align="center"> 
+                <dl> 
+                  <dt> 2.24%<br>
+                    2.24%<br>
+                    1.74%<br>
+                    1.24%<br>
+                    0.99%<br>
+                    0.70%<br>
+                    0.50%<br>
+                    0.25%<br>
+                  </dt>
+                </dl>
+              </div>
+            </td>
+            <td align=middle height=131 valign=top width=61 bgcolor="#FF9900" class="bb2"> 
+              <div align="center"> 
+                <dl> 
+                  <dt> 1.79%<br>
+                    1.79%<br>
+                    1.39%<br>
+                    0.99%<br>
+                    0.79%<br>
+                    0.56%<br>
+                    0.40%<br>
+                    0.20% </dt>
+                </dl>
+              </div>
+            </td>
+          </tr>
+        </table>
+	    <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#WOLVES" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../../../wolves/index.html" target="_blank" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: <b><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">2 DECEMBER 2001</span></b></span></font></b></span></b><font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span><span class="bb2"> </span></font></b></span><span class="bb2"> 
+          </span></font></b></span></p>
+        <table border=1 cellspacing=0 width=98% class="bb2" cellpadding="0">
+          <tbody> 
+          <tr> 
+            <td valign=top width=155 class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign=top width=171 class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign=top width=121 class="bb2"> 
+              <p align="center"><b>GROSS/AER </b></p>
+            </td>
+            <td valign=top width=57 class="bb2"> 
+              <p align="center"><b>NET </b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=middle height=21 valign=top width=155 bgcolor="#0099FF" class="bb2"> 
+              <dt> 
+                <div align="center"><b><a href="../FriendsMulti.htm">Friends (Multiplier)</a></b></div>
+              </dt>
+            </td>
+            <td align=middle height=21 valign=top width=171 class="bb2"> 
+              <dt> 
+                <div align="center"><b>&pound;500+</b></div>
+            </td>
+            <td align=middle height=21 valign=top width=121 class="bb2"> 
+              <div align="center"> 
+                <dl> 
+                  <dt> 2.74%</dt>
+                </dl>
+              </div>
+            </td>
+            <td align=middle height=21 valign=top width=57 class="bb2"> 
+              <div align="center"> 
+                <dl> 
+                  <dt> <b>2.19%</b></dt>
+                </dl>
+              </div>
+            </td>
+          </tr>
+          </tbody> 
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr class="b2"> 
+            <td width="560"> 
+              <div align="left" class="b2"><a href="OldRates.htm#FRIENDS" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="560">
+              <div align="right"><a href="../FriendsMulti.htm" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: <b><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">2 DECEMBER 2001</span></b></span></font></b></span></b><font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span><span class="bb2"> </span></font></b></span></p>
+        <table border=1 cellspacing=0 width=98% class="bb2" cellpadding="0">
+          <tbody> 
+          <tr> 
+            <td valign=top width=155 class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign=top width=171 class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign=top width=121 class="bb2"> 
+              <div align="center"><b>GROSS/ AER</b></div>
+            </td>
+            <td valign=top width=57 class="bb2"> 
+              <p align="center"><b>NET</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=middle height=63 valign=top width=155 bgcolor="#0099FF" class="bb2"> 
+              <dt> 
+                <div align="center"><b><a href="../30DayNoticeMultiA.htm">30 Day 
+                  Notice (Multiplier) </a></b></div>
+              </dt>
+            </td>
+            <td align=middle height=63 valign=top width=171 class="bb2"> 
+              <dt> 
+                <div align="center"><b>£25,000+</b> </div>
+              <dt> 
+                <div align="center"><b>£10,000 - £24,999</b> </div>
+              <dt> 
+                <div align="center"><b>£500 - £9,999</b> </div>
+              <dt> 
+                <div align="center"><b>£250 - £499</b> </div>
+              </dt>
+            </td>
+            <td align=middle height=63 valign=top width=121 class="bb2"> 
+              <div align="center"> 
+                <dl> 
+                  <dt>3.24%<br>
+                    2.59%<br>
+                    1.99%<br>
+                    0.25%<br>
+                  </dt>
+                </dl>
+              </div>
+            </td>
+            <td align=middle height=63 valign=top width=57 class="bb2"> 
+              <div align="center"> 
+                <dl> 
+                  <dt> 2.59%<br>
+                    2.07%<br>
+                    1.59%<br>
+                    0.20%<br>
+                  </dt>
+                </dl>
+              </div>
+            </td>
+          </tr>
+          </tbody> 
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="560"> 
+              <div align="left" class="b2"><a href="OldRates.htm#30DAY" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="560">
+              <div align="right"><a href="../30DayNoticeMultiA.htm" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span></font></b></span><span class="bb2"> 
+          </span></font></b></span></p>
+        <table border=1 cellspacing=0 width=98% class="bb2" cellpadding="0">
+          <tbody> 
+          <tr> 
+            <td valign=top width=127 class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign=top width=141 class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign=top width=84 class="bb2"> 
+              <div align="center"><b>GROSS</b></div>
+            </td>
+            <td valign=top width=94 class="bb2"> 
+              <p align="center"><b>AER</b></p>
+            </td>
+            <td valign=top width=87 class="bb2"> 
+              <p align="center"><b>NET</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=middle height=74 valign=top width=127 class="bb2"> 
+              <dt> 
+                <div align="center"><b><a href="../30DayNoticeMultiM.htm">30 Day 
+                  Notice (Multiplier) - Monthly</a></b></div>
+              </dt>
+            </td>
+            <td align=middle height=74 valign=top width=141 class="bb2"> 
+              <dt> 
+                <div align="center"><b>£25,000+</b> </div>
+              <dt> 
+                <div align="center"><b>£10,000 - £24,999</b> </div>
+              <dt> 
+                <div align="center"><b>£500 - £9,999</b> </div>
+              <dt> 
+                <div align="center"><b>£250 - £499</b> </div>
+              </dt>
+            </td>
+            <td align=middle height=74 valign=top width=84 class="bb2"> 
+              <div align="center"> 
+                <dl> 
+                  <dt>3.19%<br>
+                    2.56%<br>
+                    1.97%<br>
+                    0.25%<br>
+                  </dt>
+                </dl>
+              </div>
+            </td>
+            <td align=middle height=74 valign=top width=94 class="bb2"> 
+              <div align="center"> 
+                <dl> 
+                  <dt>3.24%<br>
+                    2.59%<br>
+                    1.99%<br>
+                    0.25%</dt>
+                </dl>
+              </div>
+            </td>
+            <td align=middle height=74 valign=top width=87 class="bb2"> 
+              <div align="center"> 
+                <dl> 
+                  <dt> 2.55%<br>
+                    2.05%<br>
+                    1.58%<br>
+                    0.20% </dt>
+                </dl>
+              </div>
+            </td>
+          </tr>
+          </tbody> 
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="560"> 
+              <div align="left" class="b2"><a href="OldRates.htm#30DAYM" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="560">
+              <div align="right"><a href="../30DayNoticeMultiM.htm" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: <b><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">2 DECEMBER 2001</span></b></span></font></b></span></b><font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span></font></b></span><span class="bb2"> 
+          </span></font></b></span></p>
+        <table border=1 cellspacing=0 class="bb2" cellpadding="0" width="98%" >
+          <tr> 
+            <td valign="top" width="240" height="19" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="100" height="19" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" colspan="2" class="bb2"> 
+              <p align="center"><b>GROSS / AER</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF" valign="middle"> 
+            <td valign=top align="center"  width="240" height="31" class="bb2"> 
+              <dt><b><a href="../isapages/MembersISAAccount.htm">Members' ISA 
+                Account</a></b></dt>
+            </td>
+            <td valign=top align="center" width="100" height="31" class="bb2"> 
+              <dt><b>£1 +</b></dt>
+            </td>
+            <td valign=top align="center" colspan="2" height="31" class="bb2"> 
+              <dt> 
+                <div align="center"><b>4.50%</b></div>
+              </dt>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF" valign="middle"> 
+            <td valign=top align="center" colspan="4" height="27" class="bb2"><b>Rate 
+              shown includes 0.5% bonus Effective from 1 July 2001</b></td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#MEMBISA" target="_self" class="b2">Previous 
+                Rates...</a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../isapages/MembersISAAccount.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span></font></b></span><span class="bb2"> 
+          </span></font></b></span></p>
+        <table border=1 cellspacing=0 class="bb2" cellpadding="0" width="98%" >
+          <tr> 
+            <td valign="top" width="207" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="97" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="132" class="bb2"> 
+              <p align="center"><b>GROSS/AER</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td valign=top align="center"  width="207" height="31" class="bb2"> 
+              <dt> 
+                <div align="center"><b><a href="../isapages/ISAmonthlysaver.htm">ISA 
+                  Monthly Saver</a></b></div>
+              </dt>
+            </td>
+            <td valign=top align="center" width="97" height="31" class="bb2"> 
+              <dt> 
+                <div align="center"><b>£10 +</b></div>
+              </dt>
+            </td>
+            <td valign=top align="center" width="132" height="31" class="bb2"> 
+              <dt> 
+                <div align="center">
+                  <p><b>3.49%</b></p>
+                  </div>
+              </dt>
+            </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#ISAM" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../isapages/ISAmonthlysaver.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span></font></b></span><span class="bb2"> 
+          </span></font></b></span></p>
+        <table border=1 cellspacing=0 class="bb2" cellpadding="0" width="98%" >
+          <tr> 
+            <td valign="top" width="182" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="105" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="149" class="bb2"> 
+              <p align="center"><b>GROSS/AER</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=CENTER valign=top width="182" height="31" class="bb2"> 
+              <dt> 
+                <div align="center"><b><a href="../isapages/ISA60DAY.htm">ISA 
+                  60</a></b></div>
+              </dt>
+            </td>
+            <td valign=top align="center" width="105" height="31" class="bb2"> 
+              <dt> 
+                <div align="center"><b>£500 +</b></div>
+              </dt>
+            </td>
+            <td valign=top align="center" width="149" height="31" class="bb2"> 
+              <dt> 
+                <div align="center"><b>3.34%</b></div>
+              </dt>
+            </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#ISA60" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../isapages/ISA60DAY.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span></font></b></span><span class="bb2"> 
+          </span></font></b></span></p>
+        <table border=1 cellspacing=0 width="98%" class="bb2" cellpadding="0">
+          <tr> 
+            <td valign="top" width="230" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="111" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="171" class="bb2"> 
+              <p align="center"><b>GROSS/AER</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=CENTER valign=top width="230" height="31" class="bb2"> 
+              <div align="center"><b><a href="../isapages/ISAvarbond123.htm">ISA 
+                Variable Rate Bond 1 Year</a></b> </div>
+            </td>
+            <td valign=top align="center" width="111" height="31" class="bb2"> 
+              <dt> 
+                <div align="center"><b>£2,500+</b></div>
+              </dt>
+            </td>
+            <td valign=top align="center" width="171" height="31" class="bb2"> 
+              <dt> 
+                <div align="center"><b>3.84%</b></div>
+              </dt>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=CENTER valign=top width="230" height="31" class="bb2"> 
+              <div align="center"><b><a href="../isapages/ISAvarbond123.htm">ISA 
+                Variable Rate Bond 2 Year</a></b></div>
+            </td>
+            <td valign=top align="center" width="111" height="31" class="bb2"> 
+              <div align="center"><b>£2,500+</b></div>
+            </td>
+            <td valign=top align="center" width="171" height="31" class="bb2"> 
+              <div align="center"><b>4.24%</b></div>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td align=CENTER valign=top width="230" height="31" class="bb2"> 
+              <div align="center"><b><a href="../isapages/ISAvarbond123.htm">ISA 
+                Variable Rate Bond 3 Year</a></b></div>
+            </td>
+            <td valign=top align="center" width="111" height="31" class="bb2"> 
+              <div align="center"><b>£2,500+</b></div>
+            </td>
+            <td valign=top align="center" width="171" height="31" class="bb2"> 
+              <div align="center"><b>4.64%</b></div>
+            </td>
+          </tr>
+        </table>
+            
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#ISAVBR" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">
+              <div align="right"><a href="../isapages/ISAvarbond123.htm" target="_self" class="b2">more 
+                info...</a></div>
+            </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><a href="../../../index.htm" target="_top"><img src="../../../CommonPics/homebut.gif" border="0" width="143" height="36" alt="Homepage" ></a></p>
+        <p>&nbsp;</p>
+        <p><b><i><span class="tfclassredItalic">The 
+          following accounts are no longer available to new investors</span></i></b></p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span></font></b></span></p>
+        <table border=1 cellspacing=0 width =98% class="bb2" cellpadding="0" >
+          <tr> 
+            <td valign="top" width="128" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="176" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="86" class="bb2"> 
+              <p align="center"><b>GROSS</b></p>
+            </td>
+            <td valign="top" width="80" class="bb2"> 
+              <div align="center"><b>AER</b></div>
+            </td>
+            <td valign=top width="68" class="bb2"> 
+              <p align="center"><b>NET</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td align=CENTER valign=top width="128" height="103" class="bb2white"> 
+              <dt><b class="bb2white">Easy Access<br>
+                (formerly known as Extra Interest) - Monthly Income Option</b></dt>
+            </td>
+            <td valign=top align="center" width="176" height="103" class="bb2white"> 
+              <dt><span class="bb2white">&pound;100,000 +</span></dt>
+              <dt><span class="bb2white"><span class="bb2white"><span class="bb2white">&pound;50,000 
+                - &pound;99,999</span></span></span></dt>
+              <dt><span class="bb2white"><span class="bb2white">&pound;25,000 
+                - &pound;49,999</span></span></dt>
+              <dt><span class="bb2white"><span class="bb2white">&pound;10,000 
+                - &pound;24,999</span></span></dt>
+              <dt><span class="bb2white"><span class="bb2white">&pound;5,000 - 
+                &pound;9,999</span></span></dt>
+              <dt><span class="bb2white"><span class="bb2white">&pound;2,500 - 
+                &pound;4,999</span></span></dt>
+              <dt><span class="bb2white"><span class="bb2white">&pound;2,000 - 
+                &pound;2,499</span></span></dt>
+            </td>
+            <td valign=top align="center" width="86" height="103" class="bb2white"> 
+              <dt><font color="#FFFFFF">2.22%<br>
+                2.22%<br>
+                1.73%<br>
+                1.23%<br>
+                0.99%<br>
+                0.70%<br>
+                0.50% </font></dt>
+            </td>
+            <td valign=top align="center" width="80" height="103" class="bb2white"> 
+              <dl> 
+                <dt><font color="#FFFFFF">2.24%<br>
+                  2.24%<br>
+                  1.74%<br>
+                  1.24%<br>
+                  0.99%<br>
+                  0.70%<br>
+                  0.50% </font></dt>
+              </dl>
+            </td>
+            <td valign="top" align="center" width="68" height="103" class="bb2white"> 
+              <dt><font color="#FFFFFF">1.77%<br>
+                1.77%<br>
+                1.38%<br>
+                0.99%<br>
+                0.79%<br>
+                0.56%<br>
+                0.40% </font></dt>
+            </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="546"> 
+              <div align="left" class="b2"><a href="OldRates.htm#EXTRAM" target="_self" class="b2">Previous 
+                Rates... </a></div>
+            </td>
+            <td width="546">&nbsp; </td>
+          </tr>
+        </table>
+        <p><b><i><span class="prodred2">This account is no longer available to 
+          new investors.</span></i></b></p>
+        <p>&nbsp;</p>
+        <p><b><span class="prodbodorange">RATES EFFECTIVE FROM: <font color="#008000" class="prodbodorange">1 
+          OCTOBER 2001</font></span></b></p>
+        <table border cellspacing=0 cellpadding=0 width="98%" >
+          <tr> 
+            <td valign=TOP width="25%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b>ACCOUNT</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="31%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b>AMOUNT</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="17%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b>GROSS/AER</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="9%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b> NET</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="18%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b>UNTIL</b></div>
+              </dt>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td valign=TOP width="25%" height="40" class="bb2white" rowspan="2"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>The Staffordshire 
+                  Bond 9th ISSUE</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="31%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>&pound;1,000-&pound;9,999.99</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="17%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>5.05%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="9%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>4.04%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="18%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>30 Sept 2002</b></font></div>
+              </dt>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td valign=TOP width="31%" height="4" class="bb2white" bgcolor="#000000"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>&pound;10,000+</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="17%" height="4" class="bb2white" bgcolor="#000000"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>5.15%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="9%" height="4" class="bb2white" bgcolor="#000000"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>4.12%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="18%" height="4" class="bb2white" bgcolor="#000000"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>30 Sept 2002</b></font></div>
+              </dt>
+            </td>
+          </tr>
+        </table>
+        <p><b><i><span class="prodred2">This account is no longer available to 
+          new investors.</span></i></b></p>
+        <p>&nbsp;</p><p><b><span class="prodbodorange">RATES EFFECTIVE FROM: <font color="#008000" class="prodbodorange">9 
+          OCTOBER 2000</font></span></b></p>
+        <table border=1 cellspacing=0 width =98% class="bb2" cellpadding="0" >
+          <tr> 
+            <td valign="top" width="201" height="17" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="70" height="17" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="109" height="17" class="bb2"> 
+              <p align="center"><b>GROSS/AER %</b></p>
+            </td>
+            <td valign=top width="66" height="17" class="bb2"> 
+              <div align="center"><b>NET % </b></div>
+            </td>
+            <td valign=top width="92" height="17" class="bb2"> 
+              <p align="center"><b>UNTIL </b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td align=CENTER valign=top width="201" height="23" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>The Staffordshire 5 Year Fixed Rate 
+                Bond 1st ISSUE </b></font></dt>
+            </td>
+            <td valign=top align="center" width="70" height="23" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>£25,000+</b></font></dt>
+            </td>
+            <td valign=top align="center" width="109" height="23" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>7.15%</b></font></dt>
+            </td>
+            <td valign="top" align="center" width="66" height="23" class="bb2white"><font color="#FFFFFF"><b>5.72%</b></font></td>
+            <td valign="top" align="center" width="92" height="23" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>31 Oct 2005</b></font></dt>
+            </td>
+          </tr>
+        </table>
+        <p><b><i><span class="prodred2">This account is no longer available to 
+          new investors.</span></i></b></p>
+        <p>&nbsp;</p>
+        <p><b><span class="prodbodorange">RATES EFFECTIVE FROM: <font color="#008000" class="prodbodorange">9 
+          OCTOBER 2000</font></span></b></p>
+        <table border=1 cellspacing=0 width =98% class="bb2" cellpadding="0" >
+          <tr> 
+            <td valign="top" width="202" height="17" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="76" height="17" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="73" height="17" class="bb2"> 
+              <p align="center"><b>GROSS %</b></p>
+            </td>
+            <td valign="top" width="77" height="17" class="bb2"> 
+              <p align="center"><b>AER %</b></p>
+            </td>
+            <td valign=top width="51" height="17" class="bb2"> 
+              <div align="center"><b>NET %</b></div>
+            </td>
+            <td valign=top width="57" height="17" class="bb2"> 
+              <p align="center"><b>UNTIL </b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td align=CENTER valign=top width="202" height="23" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>The Staffordshire 5 Year Fixed Rate 
+                Bond 1st ISSUE - Monthly Option</b></font></dt>
+            </td>
+            <td valign=top align="center" width="76" height="23" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>£25,000+</b></font></dt>
+            </td>
+            <td valign=top align="center" width="73" height="23" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>6.93%</b></font></dt>
+            </td>
+            <td valign=top align="center" width="77" height="23" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>7.15%</b></font></dt>
+            </td>
+            <td valign="top" align="center" width="51" height="23" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>5.54%</b></font></div>
+            </td>
+            <td valign="top" align="center" width="57" height="23" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>31 Oct 2005</b></font></dt>
+            </td>
+          </tr>
+        </table>
+        <p><b><i><span class="prodred2">This account is no longer available to 
+          new investors.</span></i></b></p>
+        <p>&nbsp;</p>
+        <p><b><span class="prodbodorange">RATES EFFECTIVE FROM: <font color="#008000" class="prodbodorange">9 
+          OCTOBER 2000</font></span></b></p>
+        <table border cellspacing=0 cellpadding=0 width="98%" >
+          <tr> 
+            <td valign=TOP width="30%" height="26" class="bb2"> 
+              <div align="center"><b>ACCOUNT</b></div>
+            </td>
+            <td valign=TOP width="11%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b>AMOUNT</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="12%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b>YEAR</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="16%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b>GROSS/AER</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="11%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b> NET</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="20%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b>UNTIL</b></div>
+              </dt>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td valign=TOP width="30%" height="60" class="bb2white" rowspan="3"> 
+              <dl> 
+                <dt> 
+                  <div align="center"><font color="#FFFFFF">The Staffordshire 
+                    3 Year Fixed Rate </font></div>
+                </dt>
+                <dt> 
+                  <div align="center"><font color="#FFFFFF"><b>Escalator Bond 
+                    2nd ISSUE</b></font></div>
+                </dt>
+              </dl>
+            </td>
+            <td valign=TOP width="11%" height="60" class="bb2white" rowspan="3"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>&pound;5,000+</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="12%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>Year 1</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="16%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>6.05%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="11%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>4.84%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="20%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>31 Oct 2001</b></font></div>
+              </dt>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td valign=TOP width="12%" height="20" class="bb2white" bgcolor="#000000"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>Year 2</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="16%" height="20" class="bb2white" bgcolor="#000000"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF">7.05%</font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="11%" height="20" class="bb2white" bgcolor="#000000"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>5.64%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="20%" height="20" class="bb2white" bgcolor="#000000"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>31 Oct 2002</b></font></div>
+              </dt>
+            </td>
+          </tr>
+          <tr bgcolor="#0099FF"> 
+            <td valign=TOP width="12%" height="7" class="bb2white" bgcolor="#000000"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>Year 3</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="16%" height="7" class="bb2white" bgcolor="#000000"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>8.05%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="11%" height="7" class="bb2white" bgcolor="#000000"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>6.44%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="20%" height="7" class="bb2white" bgcolor="#000000"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>31 Oct 2003</b></font></div>
+              </dt>
+            </td>
+          </tr>
+        </table>
+        <p><b><i><span class="prodred2">This account is no longer available to 
+          new investors.</span></i></b></p>
+        <p>&nbsp;</p>
+        <p><b><font color="#008000"><span class="prodbodorange">RATES EFFECTIVE FROM: 
+          </span></font><span class="prodbodorange"><font color="#008000" class="prodbodorange">1 
+          SEPTEMBER 2000</font></span></b></p>
+        <table border cellspacing=0 cellpadding=0 width="98%" >
+          <tr> 
+            <td valign=TOP width="30%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b>ACCOUNT</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="17%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b>AMOUNT</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="18%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b>GROSS/AER</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="12%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b> NET</b></div>
+              </dt>
+            </td>
+            <td valign=TOP width="23%" height="26" class="bb2"> 
+              <dt> 
+                <div align="center"><b>UNTIL</b></div>
+              </dt>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td valign=TOP width="30%" height="20" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>Escalator Bond Year 1</b></font></dt>
+            </td>
+            <td valign=TOP width="17%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>&pound;2,500+</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="18%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>5.75%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="12%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>4.60%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="23%" height="20" class="bb2white"> 
+              <dt> <font color="#FFFFFF"><b>31 August 2000</b></font></dt>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td valign=TOP width="30%" height="20" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>Escalator Bond Year 2</b></font></dt>
+            </td>
+            <td valign=TOP width="17%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>&pound;2,500+</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="18%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>6.50%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="12%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>5.20%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="23%" height="20" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>31 August 2001</b></font></dt>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td valign=TOP width="30%" height="20" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>Escalator Bond Year 3</b></font></dt>
+            </td>
+            <td valign=TOP width="17%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>&pound;2,500+</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="18%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>7.25%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="12%" height="20" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>5.80%</b></font></div>
+              </dt>
+            </td>
+            <td valign=TOP width="23%" height="20" class="bb2white"> 
+              <dt><font color="#FFFFFF"><b>31 August 2002</b></font></dt>
+            </td>
+          </tr>
+        </table>
+        <p><b><i><span class="prodred2">This account 
+          is no longer available to new investors.</span></i></b></p>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span></font></b></span></p>
+        <table border=1 cellspacing=0 width="98%" class="bb2" cellpadding="0" >
+          <tr> 
+            <td class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td class="bb2"> 
+              <p align="center"><b>GROSS/AER</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td valign=TOP class="bb2white"> 
+              <dt> 
+                <div align="center"><b><font color="#FFFFFF">TESSA ( 2nd or follow 
+                  on )</font></b></div>
+              </dt>
+            </td>
+            <td class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>£9,000+ </b></font></div>
+              </dt>
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>£3,000 - £8,999 </b></font></div>
+              </dt>
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>£500 - £2,999 </b></font></div>
+              </dt>
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>&pound;0 - &pound;499</b></font></div>
+              </dt>
+            </td>
+            <td class="bb2white"> 
+              <dt> 
+                <div align="center"> <font color="#FFFFFF">4.69%<br>
+                  4.10%<br>
+                  4.10%<br>
+                  4.00% </font></div>
+              </dt>
+            </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><a href="OldRates.htm#TESSA" target="_self" class="b2">Previous 
+              Rates... </a></td>
+          </tr>
+        </table>
+        <p><b><i><span class="prodred2">This account is no longer available to 
+          new investors.</span></i></b> </p>
+        <p>&nbsp;</p>
+        <p class="prodbodorange">RATES EFFECTIVE FROM: 1 SEPTEMBER 2000</p>
+        <table border=1 cellspacing=0 width =98% class="bb2" cellpadding="0" >
+          <tr> 
+            <td valign="top" width="263" height="17" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="70" height="17" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="105" height="17" class="bb2"> 
+              <p align="center"><b>GROSS/AER</b></p>
+            </td>
+            <td valign=top width="48" height="17" class="bb2"> 
+              <p align="center"><b>NET</b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td align=CENTER valign=top width="263" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><b><font color="#FFFFFF">Staffordshire Fixed 
+                  Rate 3 Year Bond </font></b></div>
+              </dt>
+            </td>
+            <td valign=top align="center" width="70" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>£5,000+</b></font></div>
+              </dt>
+            </td>
+            <td valign=top align="center" width="105" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>6.10%</b></font></div>
+              </dt>
+            </td>
+            <td valign="top" align="center" width="48" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>4.88%</b></font></div>
+              </dt>
+            </td>
+          </tr>
+        </table>
+        <p><b><i><span class="prodred2">This account 
+          is no longer available to new investors.</span></i></b></p>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span></font></b></span><span class="bb2"> 
+          </span></font></b></span></p>
+        <table border=1 cellspacing=0 width="98%" class="bb2" cellpadding="0" >
+          <td width="31%" class="bb2"> 
+            <div align="center"><b>ACCOUNT</b></div>
+          </td>
+          <td width="23%" class="bb2"> 
+            <div align="center"><b>AMOUNT</b></div>
+          </td>
+          <td width="27%" class="bb2"> 
+            <div align="center"><b>GROSS/AER</b></div>
+          </td>
+          <td width="19%" class="bb2"> 
+            <div align="center"><b>NET</b></div>
+          </td>
+          <tr bgcolor="#000000"> 
+            <td rowspan="4" height="76" bgcolor="#000000" class="bb2white"> 
+              <div align="center"> 
+                <p><b><font color="#FFFFFF">5 Day Postal</font></b></p>
+                <p>&nbsp;</p>
+              </div>
+            </td>
+            <td width="23%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>&pound;50,000+</b></font></div>
+            </td>
+            <td width="13%" valign="TOP" class="bb2white"> 
+              <p align="center">4.39% 
+            </td>
+            <td width="13%" valign="TOP" class="bb2white"> 
+              <div align="center">3.51%</div>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td width="23%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>&pound;10,000+</b></font></div>
+            </td>
+            <td width="13%" valign="TOP" class="bb2white"> 
+              <p align="center">4.39% 
+            </td>
+            <td width="13%" valign="TOP" class="bb2white"> 
+              <div align="center">3.51%</div>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td width="23%" height="19" class="bb2white"> 
+              <div align="center"> <font color="#FFFFFF"><b>&pound;1,000+</b></font></div>
+            </td>
+            <td width="13%" valign="TOP" class="bb2white"> 
+              <p align="center">3.69% 
+            </td>
+            <td width="13%" valign="TOP" class="bb2white"> 
+              <div align="center">2.95%</div>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td width="23%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>&pound;0 - &pound;999</b></font></div>
+            </td>
+            <td width="27%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>0.25%</b></font></div>
+            </td>
+            <td width="19%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>0.20%</b></font></div>
+            </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><a href="OldRates.htm#5DAY" target="_self" class="b2">Previous 
+              Rates... </a></td>
+          </tr>
+        </table>
+        <p><b><i><span class="prodred2">This account is no longer available to 
+          new investors.</span></i></b></p>
+        <p>&nbsp;</p>
+        <p><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><font color="#008000" class="prodbodorange"><span class="prodbodorange"><b><span class="prodbodorange">RATES 
+          EFFECTIVE FROM: 2 DECEMBER 2001<font color="#008000" class="prodbodorange"><span class="bb2"> 
+          </span></font></span></b></span></font></b></span><span class="bb2"> 
+          </span></font></b></span></p>
+        <table border=1 cellspacing=0 width="98%" class="bb2" cellpadding="0" >
+          <tr> 
+            <td width="44%" class="bb2"> 
+              <div align="center"><b>ACCOUNT</b></div>
+            </td>
+            <td width="17%" class="bb2"> 
+              <div align="center"><b>AMOUNT</b></div>
+            </td>
+            <td width="14%" class="bb2"> 
+              <div align="center"><b>GROSS</b></div>
+            </td>
+            <td width="12%" class="bb2"> 
+              <div align="center"><b>AER</b></div>
+            </td>
+            <td width="13%" class="bb2"> 
+              <div align="center"><b>NET</b></div>
+            </td>
+          <tr bgcolor="#000000"> 
+            <td rowspan="4" height="76" bgcolor="#000000" class="bb2white"> 
+              <div align="center"> 
+                <p><b><font color="#FFFFFF">5 Day Postal (Monthly Interest)</font></b></p>
+                <p>&nbsp;</p>
+              </div>
+            </td>
+            <td width="17%" height="19" class="bb2white"> 
+              <div align="center"> <font color="#FFFFFF"><b>&pound;50,000+</b></font></div>
+            </td>
+            <td width="14%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>4.30%</b></font></div>
+            </td>
+            <td width="12%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>4.39%</b></font></div>
+            </td>
+            <td width="13%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>3.44%</b></font></div>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td width="17%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>&pound;10,000+</b></font></div>
+            </td>
+            <td width="14%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>4.30%</b></font></div>
+            </td>
+            <td width="12%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>4.39%</b></font></div>
+            </td>
+            <td width="13%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>3.44%</b></font></div>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td width="17%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>&pound;1,000+</b></font></div>
+            </td>
+            <td width="14%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>3.63%</b></font></div>
+            </td>
+            <td width="12%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>3.69%</b></font></div>
+            </td>
+            <td width="13%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>2.90%</b></font></div>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td width="17%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>&pound;0 - &pound;999</b></font></div>
+            </td>
+            <td width="14%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>0.25%</b></font></div>
+            </td>
+            <td width="12%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>0.25%</b></font></div>
+            </td>
+            <td width="13%" height="19" class="bb2white"> 
+              <div align="center"><font color="#FFFFFF"><b>0.20%</b></font></div>
+            </td>
+          </tr>
+        </table>
+        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><a href="OldRates.htm#5DAYM" target="_self" class="b2">Previous 
+              Rates... </a></td>
+          </tr>
+        </table>
+        <p><b><i><span class="prodred2">This account is no longer available to 
+          new investors.</span></i></b></p>
+        <p>&nbsp;</p>
+        <p><b><font color="#008000"><span class="prodbodorange">RATES EFFECTIVE 
+          FROM: </span></font><span class="prodbodorange"><font color="#008000" class="prodbodorange">1 
+          SEPTEMBER 2000</font></span></b></p>
+        <table border=1 cellspacing=00 width =98% cellpadding="0" >
+          <tr> 
+            <td valign="top" width="263" height="17" class="bb2"> 
+              <div align="center"><b>ACCOUNT</b></div>
+            </td>
+            <td valign="top" width="70" height="17" class="bb2"> 
+              <div align="center"><b>AMOUNT</b></div>
+            </td>
+            <td valign="top" width="105" height="17" class="bb2"> 
+              <div align="center"><b>GROSS/AER</b></div>
+            </td>
+            <td valign=top width="48" height="17" class="bb2"> 
+              <div align="center"><b>NET</b></div>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td valign=top width="263" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>Staffordshire 3 Year 
+                  Fixed Rate Bond </b></font></div>
+              </dt>
+            </td>
+            <td valign=top width="70" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>£2,500+</b></font></div>
+              </dt>
+            </td>
+            <td valign=top width="105" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>7.05%</b></font></div>
+              </dt>
+            </td>
+            <td valign="top" width="48" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>5.64%</b></font></div>
+              </dt>
+            </td>
+          </tr>
+        </table>
+        <p><b><i><span class="prodred2">This account 
+          is no longer available to new investors.</span></i></b></p>
+        <p>&nbsp;</p>
+        <p><b><font color="#008000"><span class="prodbodorange">RATES EFFECTIVE FROM: 
+          </span></font><span class="prodbodorange"><font color="#008000" class="prodbodorange">1 
+          SEPTEMBER 2000</font></span></b></p>
+        <table border=1 cellspacing=0 width =98% cellpadding="0" >
+          <tr> 
+            <td valign="top" width="263" height="17" class="bb2"> 
+              <p align="center"><b>ACCOUNT</b></p>
+            </td>
+            <td valign="top" width="70" height="17" class="bb2"> 
+              <p align="center"><b>AMOUNT</b></p>
+            </td>
+            <td valign="top" width="105" height="17" class="bb2"> 
+              <p align="center"><b>GROSS</b></p>
+            </td>
+            <td valign=top width="48" height="17" class="bb2"> 
+              <p align="center"><b>AER</b></p>
+            </td>
+            <td valign=top width="48" height="17" class="bb2"> 
+              <p align="center"><b>NET </b></p>
+            </td>
+          </tr>
+          <tr bgcolor="#000000"> 
+            <td align=CENTER valign=top width="263" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>Staffordshire 3 Year 
+                  Fixed Rate Bond monthly option</b></font></div>
+              </dt>
+            </td>
+            <td valign=top align="center" width="70" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>£2,500+</b></font></div>
+              </dt>
+            </td>
+            <td valign=top align="center" width="105" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>6.80%</b></font></div>
+              </dt>
+            </td>
+            <td valign="top" align="center" width="48" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><b>7.05%</b></div>
+              </dt>
+            </td>
+            <td valign="top" align="center" width="48" height="23" class="bb2white"> 
+              <dt> 
+                <div align="center"><font color="#FFFFFF"><b>5.44%</b></font></div>
+              </dt>
+            </td>
+          </tr>
+        </table>
+        <p><b><i><span class="prodred2">This account 
+          is no longer available to new investors.</span></i></b></p>
+        <p><b><u><font color="#008000"><span class="prodbodorange"></span></font></u></b></p>
+        <p><a href="../../../index.htm" target="_top"><img src="../../../CommonPics/homebut.gif" border="0" width="143" height="36" alt="Homepage" ></a></p>
+        <p>&nbsp;</p>
+      </CENTER>
+      
+    </td>
+  </tr>
+</table>
+
+</BODY>
+</HTML>
+

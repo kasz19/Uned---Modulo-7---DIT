@@ -1,0 +1,1163 @@
+ID=A0020
+URL=http://www.rbs.co.uk/personal/mortgages/equity_release.htm
+SIZE=49009
+DATE=27/06/02
+TIME=16:50:16
+DATASET=Commercial Banks
+HTML=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="javascript">
+<!--hide 
+if ((navigator.appVersion.indexOf("Mac") != -1)) {
+ document.write("<LINK REL=stylesheet HREF=\"/includes/personal_mac.css\" TYPE=\"text/css\">"); }
+ else {
+ document.write("<LINK REL=stylesheet HREF=\"/includes/personal.css\" TYPE=\"text/css\">"); }
+
+ function popwin(strURL) {
+         window.open(strURL,'popwin','width=448,height=350,resizable=no,scrollbars=yes,top=0,menubar=no,status=no,toolbar=no,location=no');}//stop hiding--></script>
+
+<title>Personal Finances - Mortgages &amp; Remortages</title>
+<script language="JavaScript" src="/includes/script.js"></script>
+</head>
+
+<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" vlink="#0000FF">
+<!--webbot bot="Include" U-Include="/includes/header.htm" TAG="BODY" startspan -->
+
+<p><script language="JavaScript"><!--
+function changePage(form1)
+{
+num= form1.strSelect.selectedIndex;
+
+if (num==2) {
+	site = "/personal/default.htm";
+	}
+if (num==3) {
+	site = "/small_business/default.htm";
+	}
+if (num==4) {
+	site = "/cbfm/default.htm";
+	}
+if (num==5) {
+	site = "/group_info/default.htm";
+	}
+if (num==6) {
+	site = "/online/default.htm";
+	}
+if (num==7) {
+	site = "/economics/default.htm";
+	}
+top.location.href=site;
+}
+
+function printfriendly(strURL) {
+
+		if (strURL != null) {
+			strURL = "/utilities/printfriendly.asp?Loc=" + strURL
+		} else {
+			var strURL = (window.location) + " "
+			strURL = strURL.substring(0, strURL.length-5);
+			strURL = strURL + "_content.htm"
+			strURL = "/utilities/printfriendly.asp?Loc=" + strURL
+		}
+      		window.open(strURL,'popprintfriendly','width=580,height=350,resizable=yes,scrollbars=yes,top=0,menubar=yes,status=no,toolbar=yes,location=no');
+}
+// --></script></p>
+
+<form method="POST" action="/search/results.asp" name="form1">
+  <table border="0" cellPadding="0" cellSpacing="0" width="100%" height="0%" Summary="Layout: Page Header">
+
+    <tr bgColor="#000033">
+      <td height="4" width="0%"><table border="0" cellspacing="0" width="0%" height="0%" cellpadding="0">
+        <tr>
+          <td width="0%" align="left"></td>
+          <td width="33%" valign="top"></td>
+          <td width="0%" align="right"></td>
+        </tr>
+        <tr>
+          <td width="0%" align="left"><img src="../../images/curvetl.gif" alt="*" WIDTH="8" HEIGHT="8"></td>
+          <td width="33%" valign="top" background="../../images/header_top.gif" alt="*"><img src="../../images/spacer/spacer.gif" alt="*" width="2" height="8"></td>
+          <td width="0%" align="left"><img src="../../images/curvetr.gif" alt="*" WIDTH="8" HEIGHT="8"></td>
+        </tr>
+        <tr>
+          <td width="0%" align="left" rowspan="3"><img src="../../images/vertline.gif" alt="*" WIDTH="2" HEIGHT="60"></td>
+          <td width="33%"><img src="../../images/search.gif" alt="Search the Site" border="0" WIDTH="77" HEIGHT="10"></td>
+          <td width="0%" align="left" rowspan="3"><img src="../../images/header/right_vertline.gif" alt="*" WIDTH="8" HEIGHT="60"></td>
+        </tr>
+        <tr>
+          <td width="33%" nowrap><input type="text" name="SearchString" size="20" style="font-family: Arial; font-size: 8pt">&nbsp; <input type="image" src="../../images/go.gif" alt="Do Search" name="I2" align="middle" border="0" WIDTH="33" HEIGHT="19"><select name="strSelect" size="1" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,255,255)" onchange="changePage(this.form)">
+            <option value="Links to other sections">Links to other sections</option>
+            <option value="_____________________________">_____________________________</option>
+            <option value="Personal Finances">Personal Finances</option>
+            <option value="Small Business">Small Business</option>
+            <option value="Corporate Banking &amp; Financial Markets">Corporate Banking &amp; Financial Markets</option>
+            <option value="Group Information">Group Information</option>
+            <option value="Online">Online</option>
+            <option value="Economics">Economics</option>
+          </select></td>
+        </tr>
+        <tr align="center">
+          <td width="33%"><div align="left"><p><a href="javascript: popwin(&quot;/search/tips.htm&quot;)"><img src="../../images/searchtips.gif" alt="New Window: Search Tips" border="0" WIDTH="89" HEIGHT="22"></a><img src="../../images/spacer/spacer.gif" alt="*" width="57" height="15"><a href="javascript: popwin(&quot;/help/default.htm&quot;)"><img src="../../images/help.gif" alt="New Window: Site Help" border="0" WIDTH="79" HEIGHT="22"></a><img src="../../images/spacer/spacer.gif" alt="*" width="1" height="4"><a href="javascript: popwin(&quot;/find_us/default.htm&quot;)"><img src="../../images/findus.gif" alt="New Window: Branch/Office Locator" border="0" WIDTH="79" HEIGHT="22"></a><img src="../../images/spacer/spacer.gif" alt="*" width="1" height="4"><a href="javascript: popwin(&quot;/contact_us/default.htm&quot;)"><img src="../../images/contactus.gif" alt="New Window: Enquiry/Feedback Forms" border="0" WIDTH="79" HEIGHT="22"></a></td>
+        </tr>
+        <tr align="center">
+          <td width="0%" align="left"><img src="../../images/curvebl.gif" alt="*" WIDTH="8" HEIGHT="8"></td>
+          <td width="33%" valign="bottom" background="../../images/header_bottom.gif" alt="*"><img src="../../images/spacer/spacer.gif" alt="*" width="2" height="8"></td>
+          <td width="0%" align="left"><img src="../../images/curvebr.gif" alt="*" WIDTH="8" HEIGHT="8"></td>
+        </tr>
+        <tr align="center">
+          <td width="0%" align="left"></td>
+          <td width="33%" valign="bottom"></td>
+          <td width="0%" align="right"></td>
+        </tr>
+        <tr align="center">
+          <td width="0%" align="left"></td>
+          <td width="33%" valign="bottom"></td>
+          <td width="0%" align="right"></td>
+        </tr>
+      </table>
+      </td>
+      <td height="4" width="100%" align="center"><a href="/default.asp" target="_top"><img align="right" border="0" src="/images/rbslogo.gif" alt="Logo: The Royal Bank of Scotland" WIDTH="174" HEIGHT="32"></a></td>
+    </tr>
+</form>
+  </table>
+
+<!--webbot bot="Include" endspan i-checksum="51259" -->
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<table border="0" cellPadding="0" cellSpacing="0" height="100%" width="100%">
+  <tr>
+    <td align="left" bgColor="#0099ff" colSpan="2" height="21" vAlign="top" width="0"><a href="javascript: popwin(&quot;/imp_info/personal/mortgages/equity.htm&quot;)">
+    <img border="0" name="importantinformation" src="/images/importantInformation0099ff.gif" alt="New Window: Important Information" WIDTH="170" HEIGHT="21"></a></td>
+    <td bgColor="#0099ff" width="0"><p class="navs"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="6"></font><font face="Arial" size="1"><a href="/" class="history">Home</a><font class="history"> &gt; </font><a class="history" href="../default.htm">Personal Finances</a></font><font class="history" face="Arial" size="1"> &gt; <a href="default.htm" class="history">Mortgages &amp; Remortgages</a> &gt;
+    Equity Release Loan</font></td>
+  </tr>
+  <tr bgColor="#ffffff">
+    <td align="middle" bgColor="#000033" height="100%" vAlign="top" width="165"><img border="0" height="4" src="/images/spacer/spacer.gif" alt="*" width="2"><br>
+    <!--webbot bot="Include" U-Include="includes/nav.htm" TAG="BODY" startspan -->
+
+<table border="0" borderColor="#ffffff" cellPadding="0" cellSpacing="0" width="156">
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="cam/default.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Current Account Mortgages</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="flexible.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Flexible Choice Mortgage</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="fixed.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Fixed Rate Mortgages</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="discounted.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Discounted Variable Rate Mortgages</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="remortgage.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Remortgage Offers</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="cat_mortgage.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Variable CAT Mortgage</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="equity_release.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Equity Release Loan</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="buy_to_let.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Buy to Let Mortgages</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="specialist.htm" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Specialist Mortgage Products</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#000033" colSpan="4"><img alt height="2" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+  <tr>
+    <td bgColor="#004d99" width="0%"><img align="absMiddle" border="0" src="/images/arrowRight.gif" alt="*" WIDTH="18" HEIGHT="19"></td>
+    <td bgColor="#004d99" width="100%"><a class="navs" href="loanguard.asp" target="_top"><font face="Arial,Helvetica" size="1" color="#FFFFFF">Mortgage Loanguard</font></a></td>
+    <td width="0%"><img border="0" height="1" src="/images/spacer/spacer.gif" alt="*" width="1"></td>
+    <td bgColor="#0099ff" width="0%"><img border="0" height="18" src="/images/spacer/spacer.gif" alt="*" width="4"></td>
+  </tr>
+</table>
+<!--webbot bot="Include" endspan i-checksum="20109" -->
+
+</td>
+    <td align="right" bgColor="#0099ff" height="39" vAlign="top" width="7">
+    <img border="0" src="/images/curveLeft0099ff.gif" alt="*" WIDTH="7" HEIGHT="39"></td>
+    <td align="left" height="100%" rowSpan="1" vAlign="top" width="100%"><table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tbody>
+      <tr>
+        <td vAlign="top" width="100%"><table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tbody>
+          <tr>
+            <td bgColor="#66ccff" vAlign="top">
+            <img border="0" src="/images/curveTop0099ffsol.gif" alt="*" WIDTH="41" HEIGHT="17"></td>
+            <td align="right" bgColor="#66ccff" rowSpan="2" vAlign="top">
+            <!--webbot bot="Include" U-Include="includes/sol_bar.htm" TAG="BODY" startspan -->
+
+<table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tbody>
+  <tr>
+    <td align="right" bgColor="#66ccff" vAlign="top"><table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tbody>
+      <tr>
+        <td align="right" width="100%" rowspan="2" valign="bottom">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+        &nbsp;&nbsp; </td>
+        <td align="right" vAlign="top" width="100%" rowspan="2"><a href="/personal/mortgages/guides/default.htm" target="_top"><img src="images/house_clinic.gif" alt="House Clinic" border="0" WIDTH="66" HEIGHT="40"></a></td>
+        <td align="right" vAlign="top" width="100%"><a href="p_finder/default.htm" target="_top"><img alt="Product Finder" border="0" src="../images/sol_bar/p_finder.gif" WIDTH="87" HEIGHT="20"></a></td>
+        <td align="right" vAlign="top" width="100%"><a href="comparison.htm" target="_top"><img src="images/interest.gif" alt="Interest Rates" border="0" WIDTH="87" HEIGHT="20"></a></td>
+        <td align="right" rowSpan="2" vAlign="top" width="100%"><a href="/personal/online/holding_page/default.asp" target="_top"><img border="0" src="/personal/images/sol_bar/bankOnline.gif" WIDTH="66" HEIGHT="40"></a></td>
+      </tr>
+      <tr>
+        <td align="right" vAlign="top" width="100%"><a href="calculator/default.htm" target="_top"><img src="images/calculators.gif" alt="Calculators" border="0" WIDTH="87" HEIGHT="20"></a></td>
+        <td align="right" vAlign="top" width="100%"><a href="jargon.htm" target="_top"><img alt="Jargon Buster" border="0" src="../images/sol_bar/jargon.gif" WIDTH="87" HEIGHT="20"></a></td>
+      </tr>
+</tbody>
+    </table>
+    </td>
+  </tr>
+</tbody>
+</table>
+<!--webbot bot="Include" endspan i-checksum="28325" -->
+
+</td>
+          </tr>
+          <tr>
+            <td bgColor="#66ccff" vAlign="top">
+            <img border="0" src="/images/curveBottom0099ffsol.gif" alt="*" WIDTH="7" HEIGHT="22"></td>
+          </tr>
+</tbody>
+        </table>
+        </td>
+      </tr>
+</tbody>
+    </table>
+    <table border="0" cellPadding="4" cellSpacing="0" width="100%">
+<tbody>
+      <tr>
+        <td width="100%"><span><font face="Arial" size="2" color="#0099ff"><br>
+        <strong>Personal Finances<br>
+        </font><font face="Arial" size="3">Equity Release Loan</font></strong></span><font color="#000000" face="Arial,Helvetica" size="2"><p><!--Start Content--></p>
+        </font><font FACE="Arial" SIZE="2"><b><p>With a Royal Bank Equity Release Loan, we've made
+        it easy to tap in to the equity in your home. </p>
+        <p></b>Equity Release Loans are available to existing Royal Bank of Scotland Mortgage
+        customers and people who own their home outright, with no outstanding mortgage.<b></p>
+        <p>Features:</b><ul>
+          <li>You can borrow from £5,000 to £500,000*</li>
+          <li>You can use the money for anything you want</li>
+          <li>All our <a href="fixed.htm">fixed rates</a> are available for loans above £25,000</li>
+        </ul>
+        <p>*subject to a maximum of 95% of the value of your home (or purchase price if lower)</p>
+        <b><p>Plus:</b><ul>
+          <li>3 months free Mortgage Loanguard premiums</li>
+          <li>No Maximum Advance Premium if you have a 10% deposit</li>
+          <li>Choose how to repay - Capital Repayment, Endowment, Pension Plan or Individual Savings
+            Account</li>
+          <li>Mortgage term can range from 3 years to retirement or age 70, whichever is earlier</font></li>
+        </ul>
+        <p><font FACE="Arial" SIZE="2">Typical example: based on a £25,000 Equity Release Loan
+        repayable on a capital and interest basis, on a property valued at £50,000. There are 180
+        monthly repayments. See important information.</font></p>
+        <table BORDER="0" CELLSPACING="1" CELLPADDING="2" WIDTH="100%">
+          <tr>
+            <td WIDTH="13%" VALIGN="top" class="dark"><font size="1"><p ALIGN="CENTER"><font FACE="Arial"><b>Mortgage Type</b></font></font></td>
+            <td WIDTH="13%" VALIGN="top" class="dark"><font face="Arial" size="1"><strong>% Loan to
+            value</strong></font></td>
+            <td WIDTH="9%" VALIGN="top" class="dark"><font face="Arial" size="1"><strong>Interest Rate
+            % APR</strong></font></td>
+            <td WIDTH="14%" VALIGN="top" class="dark"><font face="Arial" size="1"><strong>Monthly
+            Payment</strong></font></td>
+            <td WIDTH="12%" VALIGN="top" class="dark"><font face="Arial" size="1"><b>Monthly payment
+            at current Mortgage Rate</b></font></td>
+            <td WIDTH="11%" VALIGN="top" class="dark"><font face="Arial" size="1"><strong>Total amount
+            payable</strong></font></td>
+            <td WIDTH="12%" VALIGN="top" class="dark"><font face="Arial" size="1"><strong>Fixed rate
+            expiry date</strong></font></td>
+            <td WIDTH="31%" VALIGN="top" class="dark"><font face="Arial" size="1"><strong>Early
+            repayment charge</strong></font></td>
+          </tr>
+          <tr>
+            <td WIDTH="13%" VALIGN="top" class="dark"><font face="Arial" size="1"><b>Variable Rate</b></font></td>
+            <td WIDTH="13%" VALIGN="top" class="light"><strong><font face="Arial" size="1">Up to 95%</font></strong></td>
+            <td WIDTH="9%" VALIGN="top" class="light"><font face="Verdana" size="1">5.95%<br>
+            <strong>6.8%<br>
+            APR</strong></font></td>
+            <td WIDTH="14%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £210.29</font></td>
+            <td WIDTH="12%" VALIGN="top" class="light"><font face="Arial" size="1">N/A</font></td>
+            <td WIDTH="11%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £39,507.82</font></td>
+            <td WIDTH="12%" VALIGN="top" class="light"><font face="Arial" size="1">N/A</font></td>
+            <td WIDTH="31%" VALIGN="top" class="light"><font face="Arial" size="1">None</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="13%" VALIGN="top" rowspan="2" class="dark"><font face="Arial" size="1"><b>2
+            Year Fixed </b></font></td>
+            <td WIDTH="13%" VALIGN="top" class="light"><font face="Arial" size="1"><b>Up to 75% </b></font></td>
+            <td WIDTH="9%" VALIGN="top" class="light"><font face="Verdana" size="1">
+            5.65%<br>
+              <strong>6.9% </strong></font></td>
+            <td WIDTH="14%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £206.27</font></td>
+            <td WIDTH="12%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £209.84</font></td>
+            <td WIDTH="11%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £39,632.81</font></td>
+            <td WIDTH="12%" VALIGN="top" class="light" rowspan="2"><font face="Arial" size="1">
+            <strong style="font-weight: 400">01/08/2004</strong></font></td>
+            <td WIDTH="31%" VALIGN="top" rowspan="2" class="light"><font face="Arial" size="1">2%
+            until 1/08/03<br>
+            1% until 1/08/04</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="13%" VALIGN="top" class="light"><font face="Arial" size="1"><b>75.01% - 95%</b></font></td>
+            <td WIDTH="9%" VALIGN="top" class="light"><font face="Verdana" size="1">
+            5.85%<br>
+              <strong>7.0%<br>
+            APR</strong></font></td>
+            <td WIDTH="14%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £208.94</font></td>
+            <td WIDTH="12%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £210.15</font></td>
+            <td WIDTH="11%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £39,745.69</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="13%" VALIGN="top" rowspan="2" class="dark"><font face="Arial" size="1"><b>2
+            Year Fixed (with no early repayment charge)</b></font></td>
+            <td WIDTH="13%" VALIGN="top" class="light"><font face="Arial" size="1"><b>Up to 75% </b></font></td>
+            <td WIDTH="9%" VALIGN="top" class="light"><font face="Verdana" size="1">
+            5.85%<br>
+              <b>7.0%<br>
+            </b><strong>APR</strong></font></td>
+            <td WIDTH="14%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £208.94</font></td>
+            <td WIDTH="12%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £210.1</font></font><font face="Arial" size="1" color="#000000">5</td>
+            </font>
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+            <td WIDTH="11%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £39,</font></font><font face="Arial" size="1" color="#000000">745.69</td>
+            </font>
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+            <td WIDTH="12%" VALIGN="top" class="light" rowspan="2"><font face="Arial" size="1">
+            <strong style="font-weight: 400">1/08/2004</strong></font></td>
+            <td WIDTH="31%" VALIGN="top" rowspan="2" class="light"><font face="Arial" size="1">None</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="13%" VALIGN="top" class="light"><font face="Arial" size="1"><b>75.01% - 95% </b></font></td>
+            </font>
+            <td WIDTH="9%" VALIGN="top" class="light">
+            <font face="Arial" size="1">6.05</font><font face="Arial,Helvetica" size="2" color="#000000"><font face="Verdana" size="1">%<br>
+              <b>7.0%<br>
+            </b><strong>APR</strong></font></td>
+            <td WIDTH="14%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £2</font></font><font face="Arial" size="1" color="#000000">11.64</td>
+            </font>
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+            <td WIDTH="12%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £210.</font></font></font><font face="Arial" size="1" color="#000000">4</font></font></font></font></font><font face="Arial" size="1" color="#000000">6</td>
+            </font>
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+            <td WIDTH="11%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £39,</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><font face="Arial" size="1" color="#000000">857.94</td>
+          </tr>
+          </font>
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+          <tr>
+            <td WIDTH="13%" VALIGN="top" rowspan="2" class="dark"><font face="Arial" size="1"><b>3
+            Year Fixed</b></font></td>
+            <td WIDTH="13%" VALIGN="top" class="light"><font face="Arial" size="1"><b>Up to 75%</b></font></td>
+            <td WIDTH="9%" VALIGN="top" class="light"><font face="Verdana" size="1">
+            5.85%<br>
+              <strong>7.0%<br>
+            APR</strong></font></td>
+            <td WIDTH="14%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £208.94</font></td>
+            <td WIDTH="12%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £210.06</font></td>
+            <td WIDTH="11%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £39,</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><font face="Arial" size="1" color="#000000">720.88</td>
+            </font>
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+            <td WIDTH="12%" VALIGN="top" class="light" rowspan="2"><font face="Arial" size="1">
+            <strong style="font-weight: 400">01/08/2005</strong></font></td>
+            <td WIDTH="31%" VALIGN="top" rowspan="2" class="light"><font face="Arial" size="1">3%
+            until 1/08/03<br>
+            2% until 1/08/04 <br>
+            1% until 1/08/05</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="13%" VALIGN="top" class="light"><font face="Arial" size="1"><b>75.01% - 95%</b></font></td>
+            </font>
+
+            </font></font></font></font></font></font></font></font>
+
+            </font>
+
+            </font></font></font></font></font></font></font></font>
+
+            </font>
+
+            </font>
+
+            <td WIDTH="9%" VALIGN="top" class="light">
+
+<font face="Arial" size="1">6.25</font><font face="Arial,Helvetica" size="2" color="#000000"><font face="Verdana" size="1" color="#000000"><font face="Verdana" size="1">%</font><br>
+              <strong>7.1%<br>
+            APR</strong></font></td>
+            <td WIDTH="14%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £214.36</font></td>
+            <td WIDTH="12%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £210.98</font></td>
+            <td WIDTH="11%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><font face="Arial" size="1" color="#000000">40,049.05</td>
+          </tr>
+            </font>
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+          <tr>
+            <td WIDTH="13%" VALIGN="top" rowspan="2" class="dark"><font face="Arial" size="1"><b>5
+            Year Fixed</b></font></td>
+            <td WIDTH="13%" VALIGN="top" class="light"><font face="Arial" size="1"><b>Up to 75% </b></font></td>
+            <td WIDTH="9%" VALIGN="top" class="light"><font face="Verdana" size="1">
+            5.95%<br>
+              <strong>7.0%<br>
+            APR</strong></font></td>
+            <td WIDTH="14%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £210.29</font></td>
+            <td WIDTH="12%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £210.29</font></td>
+            <td WIDTH="11%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £39,</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><font face="Arial" size="1" color="#000000">802.82</td>
+            </font>
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+            <td WIDTH="12%" VALIGN="top" class="light" rowspan="2"><font face="Arial" size="1">
+            <strong style="font-weight: 400">01/08/2007</strong></font></td>
+            <td WIDTH="31%" VALIGN="top" rowspan="2" class="light"><font face="Arial" size="1">5%
+            until 1/08/03<br>
+            4% until 1/08/04<br>
+            3% until 1/08/05<br>
+            2% until 1/08/06<br>
+            1% until 1/08/07</font></td>
+          </tr>
+          <tr>
+            <td WIDTH="13%" VALIGN="top" class="light"><font face="Arial" size="1"><b>75.01-95%</b></font></td>
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            </font>
+
+            <td WIDTH="9%" VALIGN="top" class="light">
+
+<font face="Arial" size="1">6.25</font><font face="Arial,Helvetica" size="2" color="#000000"><font face="Verdana" size="1" color="#000000"><font face="Verdana" size="1">%</font><br>
+            <strong>7.2%<br>
+            APR</strong></font></td>
+            <td WIDTH="14%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £214.36</font></td>
+            <td WIDTH="12%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £211.47</font></td>
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Arial,Helvetica" size="2" color="#000000">
+
+<font face="Verdana" size="1" color="#000000">
+
+            <td WIDTH="11%" VALIGN="top" class="light"><font face="Arial" size="1">
+            £40,188.97</font></td>
+          </tr>
+        </table>
+      <p><font face="Arial">Fixed rate mortgages are subject to
+      availability of funds. We would advise that, where a fixed rate is chosen,
+      funds are booked as soon as possible. The maximum amount for a fixed rate
+      mortgage is normally £500,000, however, applications in excess of this
+      amount will be considered on an individual basis.</font></p>
+        <p><strong><font FACE="Arial" SIZE="2">For further details contact a Customer Adviser in
+        one of our branches or FREEPHONE 0800 917 3025. </font></strong></p>
+        <p><!--End Content--></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td width="100%" colspan="2"><table border="1" width="100%" bordercolor="#C0C0C0" cellspacing="0">
+          <tr>
+            <td width="100%"><table border="0" cellPadding="4" cellSpacing="0" width="100%">
+<tbody>
+              <tr>
+                <td align="left" width="100%">&nbsp;&nbsp;&nbsp;<a href="javascript: popwin(&quot;/imp_info/personal/mortgages/equity.htm&quot;)"><img border="0" src="/images/up.gif" alt="#" WIDTH="9" HEIGHT="5"><font color="#000033" face="Arial, Helvetica" size="1">&nbsp;Please see Important Information</font> </a></td>
+                <td width="0%">
+                <img src="/images/rbs_blueonwhitesmall.gif" alt="Logo: The Royal Bank of Scotland" WIDTH="112" HEIGHT="26"></td>
+                <td width="0%"><img border="0" height="10" src="/images/spacer/spacer.gif" alt="*" width="26"> </td>
+              </tr>
+</tbody>
+            </table>
+            </td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

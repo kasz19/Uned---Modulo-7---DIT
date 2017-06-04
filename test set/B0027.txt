@@ -1,0 +1,1296 @@
+ID=B0027
+URL=http://www.newcastle.co.uk/invest/summary_prev.htm
+SIZE=178758
+DATE=28/06/2002
+TIME=12:46:32
+DATASET=Building Societies
+HTML=<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Welcome to Newcastle Building Society</title>
+	</head>
+
+	
+<body bgcolor="white" link="white" vlink="#FFFFFF">
+<table cool width="100%" border="0" cellpadding="0" cellspacing="0" gridx="5" showgridx usegridx gridy="5" showgridy usegridy> 
+<tr height="1" cntrlrow> <td width="1" height="1"></td><td height="1"><spacer type="block" height="1"></td></tr> 
+<tr height="5"> <td width="1" height="5"><spacer type="block" width="1" height="5"></td><td height="5"></td></tr> 
+<tr height="376"> <td width="1" height="376"><spacer type="block" width="1" height="376"></td><td height="376" colspan="1" rowspan="1" valign="top" align="left" xpos="0" content csheight="376"> 
+<center> <table border="1"  cellpadding="5" cellspacing="0" width="88%"
+		 bgcolor="White"> <tr> <td colspan="7" align="center" valign="middle" height="37" bgcolor="#3362A7"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"><font
+				  color="#FFFFFF"><font size="4">CURRENT ISSUES 
+- Previous Rates</font></font> <font color="#FFFFFF"> </font></font> </center></td></tr> 
+<tr> <td colspan="7" bgcolor="#FFFFFF" align="CENTER"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><b><font color="#000000">INTEREST 
+RATES AT 1 November 2001 (unless indicated)</font></b></font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="      0 "> <tr> <td width="21%">&nbsp;</td><td width="55%"> 
+<div align="center"><font size="2"><b><font face="Arial,helvetica" color="#FFFFFF"><a name="nsc(2)"></a><a href="../online/index.htm" target="_top">NEWCASTLENET 
+SAVINGS ACCOUNT (Issue 2)</a> </font></b></font></div></td><td width="24%"> <div align="right"><font size="2"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#nsc2">View 
+Current Rates</a></font><font face="Arial, Helvetica, sans-serif" size="2"></font></font></div></td></tr> 
+</table></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="118"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+/ AER % </b> </font> </center></td><td width="122"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+% </b> </font> </center></td><td width="124"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="131" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="123"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"> 
+&pound;1,000 - &pound;9,999</font></td><td width="118" align="center"> <center> 
+<font face="Arial, Helvetica, sans-serif" size="2">4.10 </font> </center></td><td width="122" align="center"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2">3.28</font> </center></td><td width="124" align="center"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2">3.95</font></center></td><td width="131" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.02</font></td><td width="123" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.16</font></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;10,000 
+- &pound;49,999</font></td><td width="118" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.50</font></td><td width="122" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.60</font></td><td width="124" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.35</font></td><td width="131" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.44</font></td><td width="123" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.48</font></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;50,000 
+- &pound;99,999</font></td><td width="118" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.50</font></td><td width="122" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.60</font></td><td width="124" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.35</font></td><td width="131" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.44</font></td><td width="123" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.48</font></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;100,000 
+- &pound;199,999</font></td><td width="118" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.35</font></td><td width="122" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.48</font></td><td width="124" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.20</font></td><td width="131" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.28</font></td><td width="123" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.36</font></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;200,000 
+- &pound;500,000</font></td><td width="118" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.25</font></td><td width="122" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.40</font></td><td width="124" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.10</font></td><td width="131" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.18</font></td><td width="123" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.28</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial, Helvetica, sans-serif" size="1">FROM 01 
+December 2001 - 01 April 2002</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> 
+<center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="31%">&nbsp;</td><td width="35%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="novaplusspecialaccount"></a><a href="novaplus.htm">NOVA 
+PLUS SPECIAL ACCOUNT</a></font></b></font></div></td><td width="34%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novaplusspecialaccount">View 
+Current Rates</a></font></div></td></tr> </table><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"></font></b><a href="novaplus.htm"><font color="#FFFFFF"> 
+</font></a></font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+/ AER % </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;200,000 
+- &pound;300,000 </font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+2.50</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+2.00</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+- </font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="17%">&nbsp;</td><td width="63%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="novaplus(issue3)"></a><a href="novaplus.htm" target="main">NOVA 
+PLUS (ISSUE 3) ACCOUNT</a></font> </b><font color="#FFFFFF">(INCLUDING CLOSED 
+ISSUES TRANSFERRED ON MATURITY)</font><br> <b><font color="#FFFFFF">NOVA GROSS 
+(ISSUE 3) ACCOUNT</font> </b><font color="#FFFFFF">(NET RATES DO NOT APPLY TO 
+NOVA GROSS (ISSUE 3) </font></font> </div></td><td width="20%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novaplus(issue3)">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+/ AER % </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;50,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+2.30</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.84</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+2.30</font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">2.32</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 1.84</font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;10,000 
+- &pound;49,999</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.70</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.36</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.70</font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">1.71</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 1.36</font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;5,000 
+- &pound;9,999</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.30</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.04</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.30</font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">1.31</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 1.04</font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;500 
+- &pound;4,999</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.30</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.24</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+- </font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;1 
+- &pound;4,999</font></td><td width="15%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">0.05</font></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">0.04</font></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td></tr> 
+<tr> <td colspan="7"><sup><font face="Arial,helvetica"
+				size="1">&#134;</font></sup><font face="Arial,helvetica" size="1">REFER 
+TO NOTES<br> Monthly interest available on balances of &pound;5,000 or more</font></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="novastar"></a><a href="Nova_str.htm">NOVA 
+STAR (ISSUE 10)</a></font></b> </font></div></td><td width="33%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novastar">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;10,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.65</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+2.92</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.40</font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.45</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 2.72</font> </center></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;5,000 
+- &pound;9,999</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+1.50</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+1.20</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+1.25</font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">1.26</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 1.00</font> </center></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1,000 
+- &pound;4,999</font></td><td width="15%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">1.15</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">0.92</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">(UP TO 4% GROSS ABOVE 
+NEWCASTLE BASE PREFERENCE SHARE RATE) MONTHLY INTEREST AVAILABLE ON BALANCES OF 
+&pound;5,000 OR MORE</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7" height="32"> 
+<center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="novaselect3agent"></a><a href="Nova_sel.htm">NOVA 
+SELECT III (AGENTS)</a></font></b> </font></div></td><td width="33%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novaselect3agent">View 
+Current Rates</a></font></div></td></tr> </table><div align="left"> <font face="Arial,helvetica" size="1" color="#FFFFFF"> 
+</font></div></center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;25,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.95</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.16</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.70</font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.76</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 2.96</font> </center></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1,000 
+- &pound;24,999</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.85</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.08</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.60</font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.66</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 2.88</font> </center></td></tr> 
+<tr> <td colspan="7">&nbsp;</td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> <center> 
+<table width="100%" border="0" cellspacing="0" cellpadding="      0 "> <tr> <td width="33%">&nbsp;</td><td width="35%"> 
+<div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="nova18"></a><a href="Nova18.htm">NOVA 
+18 SAVINGS ACCOUNT</a></font></b><font color="#FFFFFF"><a
+				  href="nova_18.htm"> </a></font></font></div></td><td width="32%"> 
+<div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#nova18">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"></font> 
+</center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1 
+- &pound;10,000</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+2.95</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+2.36</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+- </font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> - </font> </center></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">ACCOUNT HOLDER MUST 
+BE UNDER 18 YEARS OF AGE AT THE TIME OF OPENING A NOVA 18 SAVINGS ACCOUNT</font></td></tr> 
+<tr> <td bgcolor="#3362A7" colspan="7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="28%">&nbsp;</td><td width="44%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="portfolio"></a><a href="portfolio.htm">PORTFOLIO 
+PLUS - NO NOTICE ACCOUNT</a></font></b> </font></div></td><td width="28%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#portfolio">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;10,000 
+- &pound;120,000</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+4.45</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+3.56</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+4.20</font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.28</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 3.36</font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;1,000 
+- &pound;9,999</font></td><td width="15%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.95</font></div></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">3.16</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 3.70</font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">3.76</font></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">2.96</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">NO NOTICE RATES ARE 
+ONLY AVAILABLE AS PART OF PORTFOLIO PLUS. MINIMUM INVESTMENT IN PORTFOLIO PLUS 
+IS &pound;10,000. SEE BROCHURE FOR FULL TERMS AND CONDITIONS.</font></td></tr> 
+<tr> <td bgcolor="#3362A7" colspan="7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="35%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="ncd"></a><a href="Nova_acd.htm">NOVA 
+ACCESS DIRECT</a></font></b></font></div></td><td width="32%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#ncd">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"></font></b> 
+</font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;50,000 
+- &pound;100,000</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.75</font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.80</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.50</font></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.59</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.60</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;25,000 
+- &pound;49,999</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.55</font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.64</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 4.30</font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.39</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.44</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;10,000 
+- &pound;24,999</font></td><td width="15%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.40</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.52</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.15</font></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.23</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.32</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">THIS PRODUCT IS ONLY 
+AVAILABLE THROUGH NEWCASTLE DIRECT. 0.85% RATE REDUCTION FOR MORE THAN 2 WITHDRAWALS 
+BETWEEN 1 DECEMBER AND 30 NOVEMBER EACH YEAR. </font><font
+				face="Arial,helvetica" size="2">#</font><font face="Arial,helvetica"
+				size="1">REFER TO NOTES.</font></td></tr> <tr> 
+<td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="nid"></a><a href="Nova_isadir.htm">NOVA 
+ISA DIRECT</a></font></b></font></div></td><td width="33%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#nid">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"><b></b></font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&pound;100 
+- &pound;12,000</font></td><td align="CENTER" width="15%"><font face="Arial, Helvetica, sans-serif" size="2">4.55</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial" size="1">THIS ACCOUNT IS ONLY AVAILABLE 
+THROUGH NEWCASTLE DIRECT. 0.85% RATE REDUCTION FOR MORE THAN 2 WITHDRAWALS PER 
+YEAR. REFER TO NOTES ***.</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7" align="CENTER"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="      0 "> <tr> <td width="33%">&nbsp;</td><td width="34%"> 
+<div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="toi"></a><a href="tessaisa.htm">TESSA 
+ONLY ISA</a></font></b></font> </div></td><td width="33%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#toi">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"><b></b></font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&pound;1 
+- &pound;9,000</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">4.65</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial" size="1">THIS ACCOUNT IS ONLY AVAILABLE 
+TO CUSTOMERS WITH A MATURED TESSA ACCOUNT. 0.85% RATE REDUCTION FOR MORE THAN 
+2 WITHDRAWALS PER YEAR.</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7" align="CENTER"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="      0 "> <tr> <td width="33%">&nbsp;</td><td width="35%"> 
+<div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><a name="novaisa"></a><a href="Nova_isa.htm" target="middle">NOVA 
+ISA</a></b>&nbsp;</font></div></td><td width="32%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novaisa">View 
+Current Rates</a></font></div></td></tr> </table></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="17%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&pound;1 
+- &pound;12,000</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">4.40</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial" size="1">REFER TO NOTES ***.</font></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7" align="CENTER"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="key"></a><a href="key_home.htm">KEY 
+ACCOUNT</a></font></b></font></div></td><td width="33%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#key">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"><b></b></font></td></tr> 
+<tr> <td colspan="2" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td align="CENTER" width="15%"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER" width="16%"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b></font></td><td align="CENTER" width="16%"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b></font></td><td align="CENTER" width="17%"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER" width="16%"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b></font></td></tr> <tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1 
+- &pound;499</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">0.35</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">0.28</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;500 
+- &pound;4,999</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">2.75</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.20</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;5,000 
+- &pound;9,999</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">2.75</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.20</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.50</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">2.53</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.00</font></td></tr> 
+<tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;10,000 
+- &pound;49,999</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">3.10</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.48</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.85</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">2.89</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.28</font></td></tr> 
+<tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;50,000 
+- &pound;300,000</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">3.85</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">3.08</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">3.70</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">3.76</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.96</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">WITHDRAWALS SUBJECT 
+TO 30 DAYS NOTICE OR LOSS OF INTEREST. OFFERED IN CONNECTION WITH SHELTER, THE 
+NATIONAL HOMELESSNESS CHARITY. FOR EVERY POUND INVESTED, NEWCASTLE BUILDING SOCIETY 
+WILL MAKE A DONATION TO SHELTER. REFER TO NOTES **.</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7" align="CENTER"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="      0 "> <tr> <td width="29%">&nbsp;</td><td width="43%"> 
+<div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="nottingham"></a><a href="forestinfo.htm">NOTTINGHAM 
+FOREST ACCOUNT</a></font></b></font></div></td><td width="28%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#nottingham">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"><b></b></font></td></tr> 
+<tr> <td colspan="2" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td align="CENTER" width="15%"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER" width="16%"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b></font></td><td align="CENTER" width="16%"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b></font></td><td align="CENTER" width="17%"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER" width="16%"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b></font></td></tr> <tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1 
+- &pound;499</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">0.35</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">0.28</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;500 
+- &pound;4,999</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">2.75</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.20</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;5,000 
+- &pound;9,999</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">2.75</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.20</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.50</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">2.53</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.00</font></td></tr> 
+<tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;10,000 
+- &pound;49,999</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">3.10</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.48</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.85</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">2.89</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.28</font></td></tr> 
+<tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;50,000 
+- &pound;300,000</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">3.85</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">3.08</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">3.70</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">3.76</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.96</font></td></tr> 
+<tr> <td colspan="7" align="LEFT">&nbsp;<font face="Arial"
+				size="-2">WITHDRAWALS SUBJECT TO 30 DAYS NOTICE 
+OR LOSS OF INTEREST. OFFERED IN CONNECTION WITH NOTTINGHAM FOREST FC. FOR EVERY 
+POUND INVESTED, NEWCASTLE BUILDING SOCIETY WILL MAKE A DONATION TO NOTTINGHAM 
+FOREST FC. REFER TO NOTES ****.</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7" align="CENTER"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="      0 "> <tr> <td width="33%">&nbsp;</td><td width="34%"> 
+<div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="save&care"></a><a href="savecare.htm">SAVE 
+&amp; CARE ACCOUNT</a></font></b></font></div></td><td width="33%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#save&care">View 
+Current Rates</a></font></div></td></tr> </table><font face="Arial, Helvetica, sans-serif" size="2"><b></b></font></td></tr> 
+<tr> <td colspan="2" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td align="CENTER" width="15%"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER" width="16%"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b></font></td><td align="CENTER" width="16%"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b></font></td><td align="CENTER" width="17%"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER" width="16%"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b></font></td></tr> </table><table border="1"  cellpadding="5" cellspacing="0" width="88%"
+		 bgcolor="White"> <tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1 
+- &pound;499</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">0.35</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">0.28</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;500 
+- &pound;4,999</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">2.75</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.20</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;5,000 
+- &pound;9,999</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">2.75</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.20</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.50</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">2.53</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.00</font></td></tr> 
+<tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;10,000 
+- &pound;49,999</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">3.10</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.48</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.85</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">2.89</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.28</font></td></tr> 
+<tr> <td colspan="2" align="LEFT"><font size="2" face="Arial, Helvetica, sans-serif">&pound;50,000 
+- &pound;300,000</font></td><td align="CENTER" width="15%"><font size="2" face="Arial, Helvetica, sans-serif">3.85</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">3.08</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">3.70</font></td><td align="CENTER" width="17%"><font size="2" face="Arial, Helvetica, sans-serif">3.76</font></td><td align="CENTER" width="16%"><font size="2" face="Arial, Helvetica, sans-serif">2.96</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial" size="-2">WITHDRAWALS SUBJECT TO 30 DAYS 
+NOTICE OR LOSS OF INTEREST. OFFERED IN CONNECTION WITH THE NOTTINGHAMSHIRE HOSPICE. 
+FOR EVERY POUND INVESTED, NEWCASTLE BUILDING SOCIETY WILL MAKE A DONATION TO THE 
+NOTTINGHAMSHIRE HOSPICE. REFER TO NOTES *****.</font><font face="Arial,helvetica" size="1"></font></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7" align="CENTER"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="35%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><a name="client"></a><font color="#FFFFFF">NEWCASTLENET 
+CLIENT SAVINGS</font></b>&nbsp;</font></div></td><td width="32%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#client">View 
+Current Rates</a></font></div></td></tr> </table></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested </b></font></td><td colspan="5"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Annual 
+Gross AER % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&pound;1+</font></td><td align="CENTER" colspan="5"><font size="2" face="Arial, Helvetica, sans-serif">4.00</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial" size="1">Rates shown were effective from 
+5 October 2001 - 8 November 2001</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> 
+<div align="center"><font size="2"><b><font face="Arial,helvetica" color="#FFFFFF"><a name="lpb"></a>LOYALTY 
+PLUS BOND<br> </font></b><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><font face="Arial, Helvetica, sans-serif, Humanst521 BT">There 
+are no previous rates for this product.</font></font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif" size="2"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#lpb">Click here</a> </font></b></font></b><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font><font face="Arial,helvetica" color="#FFFFFF"> 
+</font><font face="Arial,helvetica" color="#000000"> </font></font></div></td></tr> 
+<tr> <td colspan="7"><font face="Arial, Helvetica, sans-serif" size="2"></font></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b><font
+				  color="#FFFFFF">CLOSED ISSUES<br> ACCOUNTS NO 
+LONGER AVAILABLE</font></b> </font> </center></td></tr> <tr> <td colspan="7" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>INTEREST 
+RATES AT 1 November 2001 (unless indicated)</b></font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> 
+<div align="center"><font size="2"><b><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="loybond3"></a>LOYALTY 
+BOND (ISSUE 3)</font></b></font><font face="Arial,helvetica" color="#FFFFFF"><br> 
+</font></b><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><font face="Arial, Helvetica, sans-serif, Humanst521 BT">There 
+are no previous rates for this product.</font></font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif" size="2"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#loybond3">Click here</a> </font></b></font></b><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font><font face="Arial,helvetica" color="#FFFFFF"> 
+</font><font face="Arial,helvetica" color="#000000"> </font></font></div></td></tr> 
+<tr> <td colspan="7">&nbsp;</td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> <div align="center"><font size="2"><b><font face="Arial,helvetica" color="#FFFFFF"><a name="newcastlebond5"></a>NEWCASTLE 
+BOND (Issue 5)<br> </font></b><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><font face="Arial, Helvetica, sans-serif, Humanst521 BT">There 
+are no previous rates for this product.</font></font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif" size="2"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#newcastlebond5">Click here</a> </font></b></font></b><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font><font face="Arial,helvetica" color="#FFFFFF"> 
+</font><font face="Arial,helvetica" color="#000000"> </font></font></div></td></tr> 
+<tr> <td colspan="7">&nbsp;</td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2" link="black" vlink="black"><b><font color="#FFFFFF"><a  name="beqb2"></a>BALANCED 
+EQUITY BOND </font><font face="Arial, Helvetica, sans-serif" size="2" link="black" vlink="black"><b><font color="#FFFFFF">(Issue 
+2)</font></b></font><font color="#FFFFFF"> <br> (fixed rate element) </font><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2" color="#FFFFFF"><br> 
+</font></b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2" color="#FFFFFF">There 
+are no previous rates for this product.</font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#beqb2">Click here</a> </font></b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font></div></td></tr> <tr> <td colspan="7" bgcolor="#FFFFFF" align="CENTER"> 
+<div align="left"><font
+				color="#FFFFFF"></font></div>&nbsp; </td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2" link="black" vlink="black"><b><font color="#FFFFFF"><a  name="beqb"></a>BALANCED 
+EQUITY BOND (Issue 1)<br> (fixed rate element) </font><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2" color="#FFFFFF"><br> 
+</font></b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2" color="#FFFFFF">There 
+are no previous rates for this product.</font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#beqb">Click here</a> </font></b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font></div></td></tr> <tr> <td colspan="7" bgcolor="#FFFFFF" align="CENTER"> 
+<div align="left"><font
+				color="#FFFFFF"></font></div>&nbsp; </td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <div align="center"><font size="2"><b><font face="Arial,helvetica" color="#FFFFFF"><a name="newcastlebond4"></a>NEWCASTLE 
+BOND (Issue 4)<br> </font></b><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><font face="Arial, Helvetica, sans-serif, Humanst521 BT">There 
+are no previous rates for this product.</font></font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif" size="2"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#newcastlebond4">Click here</a> </font></b></font></b><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font><font face="Arial,helvetica" color="#FFFFFF"> 
+</font><font face="Arial,helvetica" color="#000000"> </font></font></div></td></tr> 
+<tr> <td colspan="7"><font face="Arial, Helvetica, sans-serif" size="2"></font></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <div align="center"><font size="2"><b><font face="Arial,helvetica" color="#FFFFFF"><a name="newcastlebond2"></a>NEWCASTLE 
+BOND (Issue 2)<br> </font></b><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><font face="Arial, Helvetica, sans-serif, Humanst521 BT">There 
+are no previous rates for this product.</font></font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif" size="2"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#newcastlebond2">Click here</a> </font></b></font></b><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font><font face="Arial,helvetica" color="#FFFFFF"> 
+</font><font face="Arial,helvetica" color="#000000"> </font></font></div></td></tr> 
+<tr> <td colspan="7">&nbsp;</td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> <div align="center"><font size="2"><b><font size="2"><b><font face="Arial,helvetica" color="#FFFFFF"><a name="newcastlebond3"></a>NEWCASTLE 
+BOND (Issue 3)<br> </font></b></font></b><font size="2"><font face="Arial, Helvetica, sans-serif" color="#FFFFFF">There 
+are no previous rates for this product.</font><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"> 
+<a href="summary.htm#newcastlebond3"><b>Click here</b></a> to return to current 
+rates. </font></font></font></div></td></tr> <tr> <td colspan="7" >&nbsp;</td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2" link="black" vlink="black"><b><font color="#FFFFFF"><a  name="newcastlebond"></a>NEWCASTLE 
+BOND </font><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2" color="#FFFFFF"><br> 
+</font></b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2" color="#FFFFFF">There 
+are no previous rates for this product.</font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#newcastlebond">Click here</a> </font></b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font></div></td></tr> <tr> <td colspan="7" bgcolor="#FFFFFF" align="CENTER"> 
+<div align="left"><font
+				color="#FFFFFF"></font></div>&nbsp; </td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="novaselect3mat"></a>NOVA 
+SELECT III (MATURITY)</font></b></font> </div></td><td width="33%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novaselect3mat">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;25,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+4.45</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+3.56</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+4.20</font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.28</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 3.36</font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;1,000 
+- &pound;24,999</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+4.35</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+3.48</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+4.10</font> </center></td><td width="17%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.18</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 3.28</font> </center></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">AVAILABLE TO HOLDERS 
+OF NOVA SELECT II, BONUS BOOSTER BOND (ISSUE 1 AND 2), TRIPLE BOND, PORTLAND BOND 
+(ISSUE 2)</font><font face="Arial" size="-2"> AND NOVA II (ISSUE 2). RATE GUARANTEED 
+NOT TO DROP BELOW 4% GROSS.</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7" height="54"> 
+<div align="center"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="23%">&nbsp;</td><td width="51%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="new"></a>NEWCASTLENET 
+SAVINGS ACCOUNT (Issue 1)</font></b></font> </div></td><td width="26%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#new">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF"> 
+</font></font></div></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="118"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+/ AER % </b> </font> </center></td><td width="122"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+% </b> </font> </center></td><td width="124"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="131" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="123"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"> 
+&pound;1,000 - &pound;9,999</font></td><td width="118" align="center"> <center> 
+<font face="Arial, Helvetica, sans-serif" size="2">4.10 </font> </center></td><td width="122" align="center"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2">3.28</font> </center></td><td width="124" align="center"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2">3.95</font> </center></td><td width="131" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.02</font></td><td width="123" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.16</font></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;10,000 
+- &pound;49,999</font></td><td width="118" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.50</font></td><td width="122" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.60</font></td><td width="124" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.35</font></td><td width="131" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.44</font></td><td width="123" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.48</font></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;50,000 
+- &pound;99,999</font></td><td width="118" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.50</font></td><td width="122" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.60</font></td><td width="124" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.35</font></td><td width="131" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.44</font></td><td width="123" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.48</font></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;100,000 
+- &pound;199,999</font></td><td width="118" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.35</font></td><td width="122" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.48</font></td><td width="124" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.20</font></td><td width="131" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.28</font></td><td width="123" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.36</font></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;200,000 
+- &pound;500,000</font></td><td width="118" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.25</font></td><td width="122" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.40</font></td><td width="124" align="center"><font face="Arial, Helvetica, sans-serif" size="2">4.10</font></td><td width="131" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.18</font></td><td width="123" align="center"><font face="Arial, Helvetica, sans-serif" size="2">3.28</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial, Helvetica, sans-serif" size="1">FROM 01 
+December 2001 - 01 April 2002</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> 
+<div align="center"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="dir50"></a>DIRECT 
+50</font></b></font></div></td><td width="33%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#dir50">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"><b></b></font></div></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+/ AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;100,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.70</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.76</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.45</font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.54</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 3.56</font> </center></td></tr> 
+<tr> <td colspan="7" bgcolor="#FFFFFF">&nbsp;</td></tr> <tr> <td colspan="7" bgcolor="#3362A7" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b><a name="novaii"></a><a><font color="#FFFFFF">NOVA 
+II (ISSUE 6)</font></a></b><font color="#FFFFFF">&nbsp;<br> </font><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF">There 
+are no previous rates for this product.</font></font><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF"> 
+<a href="summary.htm#novaii">Click here</a> </font></font></b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF">to 
+return to current rates.</font></font></font><font color="#FFFFFF"> </font></font></td></tr> 
+<tr> <td colspan="7" height="25">&nbsp;</td></tr> <tr> <td colspan="7" bgcolor="#3362A7" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b><a name="fix"></a><a><font color="#FFFFFF">FIXED 
+RATE ISA</font></a></b><font color="#FFFFFF">&nbsp;<br> </font><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF">There 
+are no previous rates for this product.</font></font><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF"> 
+<a href="summary.htm#fix">Click here</a> </font></font></b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF">to 
+return to current rates.</font></font></font><font color="#FFFFFF"> </font></font></td></tr> 
+<tr> <td colspan="7" align="CENTER">&nbsp;</td></tr> <tr> <td colspan="7" bgcolor="#3362A7" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b><a name="loy"></a><a><font color="#FFFFFF">LOYALTY 
+BOND </font></a></b><font color="#FFFFFF"><br> </font><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF">There 
+are no previous rates for this product.</font></font><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF"> 
+<a href="summary.htm#loy">Click here</a> </font></font></b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF">to 
+return to current rates.</font></font></font><font color="#FFFFFF"> </font></font></td></tr> 
+<tr> <td colspan="7" align="CENTER">&nbsp;</td></tr> <tr> <td colspan="7" bgcolor="#3362A7" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b><a name="loy2"></a><a><font color="#FFFFFF">LOYALTY 
+BOND (ISSUE 2)</font></a></b><font color="#FFFFFF"><br> </font><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF">There 
+are no previous rates for this product.</font></font><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF"> 
+<a href="summary.htm#loy2">Click here</a> </font></font></b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF">to 
+return to current rates.</font></font></font><font color="#FFFFFF"> </font></font></td></tr> 
+<tr> <td colspan="7" align="CENTER">&nbsp;</td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> 
+<center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><a name="dir60"></a><a><b><font color="#FFFFFF">DIRECT 
+60</font></b></a><font color="#FFFFFF"> </font></font></div></td><td width="33%"> 
+<div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#dir60">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"></font> 
+</center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;200,000 
+- &pound;500,000</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+5.10</font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.08</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 4.85</font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.96</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 3.88</font> </center></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;100,000 
+- &pound;199,999</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.95</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.96</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.70</font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.80</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 3.76</font> </center></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;75,000 
+- &pound;99,999</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.85</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.88</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.60</font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.70</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 3.68</font> </center></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">THIS PRODUCT IS ONLY 
+AVAILABLE THROUGH NEWCASTLE DIRECT. </font><font
+				face="Arial,helvetica" size="2">^</font><font face="Arial,helvetica"
+				size="1">REFER TO NOTES.</font></td></tr> <tr> 
+<td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="nova50"></a>NOVA 
+50</font></b></font></div></td><td width="33%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#nova50">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"> 
+</font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;50,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.55</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.64</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.30</font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.39</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.44</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">*REFER TO NOTES.</font></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7" height="44"> <center> <p><font size="2"><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="gro"></a>GROWTH 
+BOND TESSA<br> </font></b></font></font></font><font size="2"><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><font face="Arial, Helvetica, sans-serif, Humanst521 BT">There 
+are no previous rates for this product.</font></font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif" size="2"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#gro">Click here</a> </font></b></font></b><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font><font face="Arial,helvetica" color="#FFFFFF"> 
+</font></font> </center></td></tr> <tr> <td colspan="7">&nbsp;</td></tr> <tr> <td colspan="7" bgcolor="#3362A7" height="48"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="gua"></a>GUARANTEED 
+GROWTH TESSA</font></b> <br> </font><font size="2"><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><font face="Arial, Helvetica, sans-serif, Humanst521 BT">There 
+are no previous rates for this product.</font></font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif" size="2"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#gua">Click here</a> </font></b></font></b><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font><font face="Arial,helvetica" color="#FFFFFF"> 
+</font></font><font size="2" face="Arial, Helvetica, sans-serif"> </font> </center></td></tr> 
+<tr> <td colspan="7">&nbsp;</td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> <center> 
+<table width="100%" border="0" cellspacing="0" cellpadding="      0 "> <tr> <td width="28%">&nbsp;</td><td width="42%"> 
+<div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="novgro"></a>NOVA 
+GROSS SPECIAL ACCOUNT</font></b> </font></div></td><td width="30%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novgro">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;200,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+2.50</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+2.00</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+- </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> - </font> </center></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="27%">&nbsp;</td><td width="47%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="hig"></a>HIGH 
+/ EXTRA HIGH INTEREST ACCOUNTS</font></b> </font></div></td><td width="26%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#hig">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;250 
+- &pound;49,999</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.00</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+2.40</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.00</font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.04</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 2.34</font> </center></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;50,000 
+- &pound;300,000</font></td><td width="15%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.95</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.38</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.98</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.02</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.36</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">MONTHLY INTEREST AVAILABLE 
+ON BALANCES OF &pound;5,000 OR MORE</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> 
+<center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="35%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="sup"></a>SUPER 
+90 ACCOUNT</font></b></font></div></td><td width="32%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#sup">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"> 
+</font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;500 
+- &pound;300,000</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.60</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.68</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.28</font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.36</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 3.42</font> </center></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">MONTHLY INTEREST AVAILABLE 
+ON BALANCES OF &pound;5,000 OR MORE</font> </td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> 
+<center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="35%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="pre"></a>PREFERENCE 
+SHARES</font></b> </font></div></td><td width="32%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#pre">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;10,001 
+- &pound;300,000</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.74</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.55</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+- </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;1 
+- &pound;10,000</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.10</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.08</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+- </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7" height="54"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="novgro9"></a></font></b></font><font color="#FFFFFF">NOVA 
+GROWTH BOND </font></b><font color="#FFFFFF">(Issue 9)</font></font> <br> <font size="2"><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><font face="Arial, Helvetica, sans-serif, Humanst521 BT">There 
+are no previous rates for this product.</font></font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif" size="2"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#novgro9">Click here</a> </font></b></font></b><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font><font face="Arial,helvetica" color="#FFFFFF"> 
+</font></font> </center></td></tr> <tr> <td colspan="7" height="13"> </td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="26%">&nbsp;</td><td width="47%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="novastar1-5"></a>NOVA 
+STAR</font></b><font color="#FFFFFF"> <br> </font></font><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">FIRST 
+- FIFTH ISSUES INC. NOVA SUPERSTAR</font> </div></td><td width="27%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novastar1-5">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+7.00 </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+5.60 </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+7.00 </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">7.23</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 5.60 </font> </center></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">MONTHLY INTEREST AVAILABLE 
+ON BALANCES OF &pound;5,000 OR MORE</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> 
+<center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="28%">&nbsp;</td><td width="44%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="novastar6"></a>NOVA 
+STAR</font></b><font color="#FFFFFF"> </font></font><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">SIXTH 
+- SEVENTH ISSUES</font> </div></td><td width="28%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novastar6">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;1,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+6.00 </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+4.80 </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+6.00 </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">6.17</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 4.80 </font> </center></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">MONTHLY INTEREST AVAILABLE 
+ON BALANCES OF &pound;5,000 OR MORE</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> 
+<center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="35%"> <div align="center"><font size="2"><b><font color="#FFFFFF" face="Arial, Helvetica, sans-serif"><a name="novastar8"></a>NOVA 
+STAR</font></b><font color="#FFFFFF" face="Arial, Helvetica, sans-serif"> </font></font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">EIGHTH 
+ISSUE</font> </div></td><td width="32%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novastar8">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.35</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+3.48</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+4.10</font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.18</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 3.28</font> </center></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">(GUARANTEED 4% GROSS 
+ABOVE NEWCASTLE BASE PREFERENCE SHARE RATE) MONTHLY INTEREST AVAILABLE ON BALANCES 
+OF &pound;5,000 OR MORE.</font> </td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> 
+<center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="36%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="novastar9"></a>NOVA 
+STAR </font></b><font color="#FFFFFF">(NINTH ISSUE)</font></font> </div></td><td width="31%"> 
+<div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novastar9">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;10,000 
+- &pound;300,000</font></td><td width="15%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.35</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.48</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.05</font></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">4.18</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.28</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;5,000 
+- &pound;9,999</font></td><td width="15%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.20</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">1.76</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.05</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.12</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">1.68</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1,000 
+- &pound;4,999</font></td><td width="15%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.10</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">1.68</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="35%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="say"></a>S.A.Y.E.</font></b> 
+</font></div></td><td width="32%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#say">View 
+Current Rates</a></font></div></td></tr> </table><font face="Arial, Helvetica, sans-serif" size="2"> 
+</font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %<br> </b>Equivalent to </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">5 
+YEAR</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+11.07 </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+- </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+- </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">7 YEAR</font></td><td width="15%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 11.49 </font> </center></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="22%">&nbsp;</td><td width="56%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="novasup"></a>NOVA 
+SUPER FEEDER </font></b><font color="#FFFFFF">(S.A.Y.E. FEEDER ACCOUNT)</font></font> 
+</div></td><td width="22%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novasup">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;5,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+2.90</font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">2.32</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="26%">&nbsp;</td><td width="46%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="novafee"></a>NOVA 
+FEEDER </font></b><font color="#FFFFFF">(S.A.Y.E. FEEDER ACCOUNT)</font></font> 
+</div></td><td width="28%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novafee">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER % </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+% </b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly % </b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;1,200</font></td><td width="15%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 1.90</font> </center></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 1.52</font> </center></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7" height="39"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="esc"></a>ESCALATE 
+DIRECT </font></b><font color="#FFFFFF">(ISSUE 2)</font></font> <br> <font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF">There 
+are no previous rates for this product.</font></font><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF"> 
+<a href="summary.htm#esc">Click here</a> </font></font></b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF">to 
+return to current rates.</font></font></font> </center></td></tr> <tr> <td colspan="7">&nbsp;</td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7" height="48"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="escdir"></a>ESCALATE 
+DIRECT </font></b><font color="#FFFFFF">(ISSUE 3)</font></font> <br> <font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF">There 
+are no previous rates for this product.</font></font><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF"> 
+<a href="summary.htm#escdir">Click here</a> </font></font></b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font color="#FFFFFF">to 
+return to current rates.</font></font></font> </center></td></tr> <tr> <td colspan="7">&nbsp;</td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="13%">&nbsp;</td><td width="68%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="novaplusacc"></a>NOVA 
+PLUS ACCOUNT / NO NOTICE DEPOSIT ACCOUNT<br> </font></b><font color="#FFFFFF">(INCLUDING 
+CLOSED ISSUES TRANSFERRED ON MATURITY)</font></font> <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><b>NOVA 
+GROSS ACCOUNT </b>(NET RATES DO NOT APPLY TO NOVA GROSS)</font> </div></td><td width="19%"> 
+<div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novaplusacc">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;50,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+2.30</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.84</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+2.30</font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">2.32</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 1.84</font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;10,000 
+- &pound;49,999</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.70</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.36</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.70</font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">1.71</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 136</font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;5,000 
+- &pound;9,999</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.30</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.04</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.30</font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">1.31</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 1.04</font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;500 
+- &pound;4,999</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.30</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.24</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+- </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;1 
+- &pound;499</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.05</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.04</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+- </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="13%">&nbsp;</td><td width="68%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="novaplus2"></a>NOVA 
+PLUS ACCOUNT (Issue 2) <br> </font></b><font color="#FFFFFF">(INCLUDING CLOSED 
+ISSUES TRANSFERRED ON MATURITY)</font></font> <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><b>NOVA 
+GROSS ACCOUNT </b>(NET RATES DO NOT APPLY TO NOVA GROSS)</font> </div></td><td width="19%"> 
+<div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novaplus2">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;50,000 
+- &pound;300,000</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+2.30</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.84</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+2.30</font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">2.32</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 1.84</font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;10,000 
+- &pound;49,999</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.70</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.36</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.70</font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">1.71</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 136</font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;5,000 
+- &pound;9,999</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.30</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.04</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+1.30</font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">1.31</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> 1.04</font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;500 
+- &pound;4,999</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.30</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.24</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+- </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;1 
+- &pound;499</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.05</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+0.04</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+- </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7" height="50"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="nova3"></a>NOVA 
+III</font></b><font color="#FFFFFF"> </font></font> <br> <font size="2"><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><font face="Arial, Helvetica, sans-serif, Humanst521 BT">There 
+are no previous rates for this product.</font></font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif" size="2"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#nova3">Click here</a> </font></b></font></b><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font><font face="Arial,helvetica" color="#FFFFFF"> 
+</font></font> </center></td></tr> <tr> <td colspan="7"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+</font> </center><center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+</font> </center><center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+</font> </center><center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+</font> </center></td></tr> <tr> <td colspan="7" bgcolor="#3362A7" height="51"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="novaiii2"></a>NOVA 
+III </font></b><font color="#FFFFFF">(Issue 2)</font></font> <br> <font size="2"><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><font face="Arial, Helvetica, sans-serif, Humanst521 BT">There 
+are no previous rates for this product.</font></font><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif" size="2"><b><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"> 
+<a href="summary.htm#novaiii2">Click here</a> </font></b></font></b><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">to 
+return to current rates.</font></font></font><font face="Arial,helvetica" color="#FFFFFF"> 
+</font></font> </center></td></tr> <tr> <td colspan="7" height="25"> <center> 
+</center></td></tr> <tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="35%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="3tessas"></a>TESSA 
+, TESSA 2</font></b> <font color="#FFFFFF"><b>&amp; TESSA 3</b> </font></font></div></td><td width="32%"> 
+<div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#3tessas">View 
+Current Rates</a></font></div></td></tr> </table><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"> 
+</font></font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font> </center></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;1 
+- &pound;9,000</font></td><td width="15%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+4.65</font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+- </font> </center></td><td width="16%"> <center> <font face="Arial, Helvetica, sans-serif" size="2"> 
+- </font> </center></td><td width="16%" align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">-</font></td><td width="16%"> 
+<center> <font face="Arial, Helvetica, sans-serif" size="2"> - </font> </center></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">(SUBJECT TO YEARLY 
+LIMITS)</font><font size="1" face="Arial"> MINIMUM BALANCE ON TESSA 3 IS &pound;1,000</font></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="16%">&nbsp;</td><td width="64%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="sma"></a>SMALL 
+SAVERS ACCOUNT / SMALL SAVERS DEPOSIT ACCOUNT</font></b> </font></div></td><td width="20%"> 
+<div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#sma">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER %</b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+%</b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly %</b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1 
+- &pound;999</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+1.65</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+1.32</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+- </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> - </font> </center></td></tr> 
+<tr> <td colspan="7" bgcolor="#3362A7"> <center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="26%">&nbsp;</td><td width="51%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="clu"></a>CLUB 
+ACCOUNT / CLUB DEPOSIT ACCOUNT</font></b> </font></div></td><td width="23%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#clu">View 
+Current Rates</a></font></div></td></tr> </table></center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER %</b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+%</b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly %</b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;50,000 
+- &pound;99,999</font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+1.80</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+1.44</font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+1.55</font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">1.56</font></td><td width="16%"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 1.24</font> </center></td></tr> 
+<tr> <td colspan="2" height="35"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1 
+- &pound;49,999</font></td><td width="15%" height="35"> <center> <font size="2" face="Arial, Helvetica, sans-serif">1.05</font> 
+</center></td><td width="16%" height="35"> <center> <font size="2" face="Arial, Helvetica, sans-serif">0.84</font> 
+</center></td><td width="16%" height="35"> <center> <font size="2" face="Arial, Helvetica, sans-serif"> 
+0.80</font> </center></td><td width="16%" align="CENTER" height="35"><font size="2" face="Arial, Helvetica, sans-serif">0.80</font></td><td width="16%" height="35"> 
+<center> <font size="2" face="Arial, Helvetica, sans-serif"> 0.64</font> </center></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">MONTHLY INTEREST AVAILABLE 
+ON BALANCES OF &pound;5,000 OR MORE. THIS PRODUCT WAS ONLY AVAILABLE TO CHARITIES, 
+CLUBS AND ASSOCIATIONS.</font></td></tr> <tr> <td colspan="7" bgcolor="#3362A7" align="CENTER"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="      0 "> <tr> <td width="33%">&nbsp;</td><td width="35%"> 
+<div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="novachoice"></a>NOVA 
+CHOICE</font></b></font></div></td><td width="32%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#novachoice">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"><b></b></font></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+%</b> </font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;50,000 
+- &pound;100,000</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.75</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.80</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.50</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.59</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.60</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;25,000 
+- &pound;49,999</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.55</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.64</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.30</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.39</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.44</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1,000 
+- &pound;24,999</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.40</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.52</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.15</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.23</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.32</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial,helvetica" size="1">THIS ACCOUNT IS ONLY 
+AVAILABLE TO CUSTOMERS WITH MATURING ACCOUNTS 0.85% RATE REDUCTION FOR MORE THAN 
+2 WITHDRAWALS BETWEEN 1 DECEMBER AND 30 NOVEMBER EACH YEAR.</font></td></tr> <tr> 
+<td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="35%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="nova55"></a>NOVA 
+55 PLUS</font></b></font></div></td><td width="32%"> <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#nova55">View 
+Current Rates</a></font></div></td></tr> </table><font size="2" face="Arial, Helvetica, sans-serif"><b></b></font></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1 
+- &pound;300,000</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.70</font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2">3.76</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.45</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.54</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.56</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial, Helvetica, sans-serif" size="1">Rates 
+shown were effective from 5 October 2001 - 8 November 2001</font></td></tr> <tr> 
+<td colspan="7" height="24">&nbsp;</td></tr> <tr> <td colspan="7" bgcolor="#3362A7" height="32"> 
+<center> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="23%">&nbsp;</td><td width="50%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="bas"></a>BASE 
+RATE PLUS BOND </font></b><font color="#FFFFFF">(Issue 1)</font></font> </div></td><td width="27%"> 
+<div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="summary.htm#bas">View 
+Current Rates</a></font></div></td></tr> </table><font size="2"><font face="Arial,helvetica" color="#FFFFFF"> 
+</font></font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><b>Amount 
+Invested</b></font></td><td width="15%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+AER %</b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+%</b> </font> </center></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Gross 
+Monthly %</b> </font> </center></td><td width="16%" align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>AER 
+Monthly %</b></font></td><td width="16%"> <center> <font size="2" face="Arial, Helvetica, sans-serif"><b>Net 
+Monthly %</b> </font> </center></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;10,000 
+- &pound;500,000</font></td><td width="15%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif">4.71</font></div></td><td width="16%"> 
+<div align="center"><font size="2" face="Arial, Helvetica, sans-serif">3.77</font></div></td><td width="16%"> 
+<div align="center"><font size="2" face="Arial, Helvetica, sans-serif">4.71</font></div></td><td width="16%" align="CENTER"> 
+<div align="center"><font size="2" face="Arial, Helvetica, sans-serif">4.81</font></div></td><td width="16%"> 
+<div align="center"><font size="2" face="Arial, Helvetica, sans-serif">3.77</font></div></td></tr> 
+<tr> <td colspan="7" height="23"> <div align="left"><font face="Arial, Helvetica, sans-serif" size="1">Rates 
+shown were effective from 5 October 2001 - 8 November 2001</font><font size="2" face="Arial, Helvetica, sans-serif"> 
+</font> </div></td></tr> <tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="      0 "> <tr> <td width="33%">&nbsp;</td><td width="34%"> 
+<div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF"><a name="impins"></a>IMPERIAL 
+INSTANT ACCESS </font></b></font></div></td><td width="33%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary.htm#impins">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;20,000 
++</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.75</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.20</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;10,000 
+- &pound;19,999</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.50</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.00</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;5 
+- &pound;9,999</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.25</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">1.80</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="gol"></a>GOLDEN 
+IMPERIAL </font></b></font></div></td><td width="33%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary.htm#gol">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"></font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.90</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.32</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.90</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.94</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.32</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="35%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF">IMPS 
+</font></b></font></div></td><td width="32%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary_prev.htm#imps">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"></font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.25</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.40</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="35%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="cashmini"></a>ISA 
+(CASH MINI)</font></b></font></div></td><td width="32%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary.htm#cashmini">View 
+Current Rates</a></font></font></font></div></td></tr> </table><font face="Arial, Helvetica, sans-serif" size="2"><b></b></font></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1000 
++</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.90</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2">&pound;1 
+- &pound;999</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">0.90</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%" height="22">&nbsp;</td><td width="34%" height="22"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="366"></a>DEPOSIT 
+366 </font></b></font></div></td><td width="33%" height="22"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary_prev.htm#366">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"></font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.00</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.40</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="imp90111"></a>IMPERIAL 
+90 (111)</font></b></font></div></td><td width="33%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary.htm#imp90111">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;25,000</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.50</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.80</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;5,000 
+- &pound;24,999</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.25</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.60</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;25 
+- &pound;9,999</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.00</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.40</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1 
+- &pound;24.99</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">0.25</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">0.20</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="impann"></a>IMPERIAL 
+ANNUM </font></b></font></div></td><td width="33%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary_prev.htm#impann">View 
+Current Rates</a></font></font></font><a href="summary_prev.htm#impann"><font color="#FFFFFF"></font></a></font></font></div></td></tr> 
+</table></td></tr> <tr> <td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount 
+Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;40,000 
+- &pound;100,000</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.50</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.80</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;25 
+- &pound;39,999</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">0.75</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">0.60</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="impbonplus"></a>IMPERIAL 
+BOND PLUS</font></b></font></div></td><td width="33%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary.htm#impbonplus">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"></font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.50</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.60</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="impbon2a"></a>IMPERIAL 
+BOND 2000/2000/2 / 2000 /2A</font></b></font></div></td><td width="33%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary_prev.htm#impbon2a">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"></font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.50</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.60</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="savcar"></a>SAVE 
+&amp; CARE (NOTTS HOSPICE)</font></b></font></div></td><td width="33%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary.htm#savcar">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">ISSUE 
+1</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.85</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.28</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">ISSUE 
+2</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.10</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.48</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="saye1"></a>SAYE</font></b></font></div></td><td width="33%"> 
+<div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary.htm#saye1">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"></font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">11.07 
+- 11.49</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7">&nbsp;</td></tr> <tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="      0 "> <tr> <td width="33%">&nbsp;</td><td width="34%"> 
+<div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="depins"></a>DEPOSIT 
+INSTANT </font></b></font></div></td><td width="33%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary_prev.htm#depins">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"></font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.25</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">1.80</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="366i"></a>IMPERIAL 
+366 I </font></b></font></div></td><td width="33%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary_prev.htm#366i">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1,000 
+- &pound;100,000</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.25</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">1.80</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="366ii"></a>IMPERIAL 
+366 II </font></b></font></div></td><td width="33%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary.htm#366ii">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">&pound;1,000 
+- &pound;100,000</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.00</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">2.40</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="imptra"></a>IMPERIAL 
+TRACKER </font></b></font></div></td><td width="33%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary.htm#366ii">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2">&nbsp;</td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.50</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.60</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="miltra"></a>MILLENNIUM 
+TRACKER </font></b></font></div></td><td width="33%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary.htm#miltra">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2">&nbsp;</td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.50</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">3.60</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7" align="CENTER" bgcolor="#3362A7"> <table width="100%" border="0" cellspacing="0" cellpadding="      0 "> 
+<tr> <td width="33%">&nbsp;</td><td width="34%"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FFFFFF"><a name="tes2nd"></a>TESSA 
+(Special) </font></b></font></div></td><td width="33%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="2"><font color="#FFFFFF"><a href="summary.htm#tes2nd">View 
+Current Rates</a></font></font></font></div></td></tr> </table></td></tr> <tr> 
+<td colspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><b>Amount Invested</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+AER %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+%</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Gross 
+Monthly %</b> </font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>AER 
+Monthly %</b></font></td><td align="CENTER"><font face="Arial, Helvetica, sans-serif" size="2"><b>Net 
+Monthly %</b> </font></td></tr> <tr> <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"></font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">4.65</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td><td align="CENTER"><font size="2" face="Arial, Helvetica, sans-serif">-</font></td></tr> 
+<tr> <td colspan="7"><font face="Arial, Helvetica, sans-serif" size="1">INCLUDES 
+FINAL BONUS OF 0.5%</font></td></tr> </table><p align="left"><font size="2" face="Arial, Helvetica, sans-serif">The 
+following accounts have the same terms and conditions as Imperial Instant Access:</font></p><div align="left"> 
+<table width="88%" border="0" cellspacing="0" cellpadding="0" align="center"> 
+<tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">FAMILY FIRST LIMITED</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+MONTHLY</font></b></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">GROSS 
+SHARES </font></b><font face="Arial, Helvetica, sans-serif" size="2">(RETAIL)</font></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+POST</font></b></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">HOLIDAY 
+PLAN</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+POST II</font></b></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+14</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+SAVER 90</font></b></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+14 SPECIAL</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+SEVEN</font></b></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+30</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+SHARE</font></b></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+30 DAY</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">INSTANT 
+ACCESS - </font></b><font face="Arial, Helvetica, sans-serif" size="2">MATURED 
+TESSA</font></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+30 DAY </font></b><font face="Arial, Helvetica, sans-serif" size="2">(ISSUE 11)</font></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">LOYAL 
+IMPERIAL</font></b></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+365</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">MATURED 
+BOND </font></b><font face="Arial, Helvetica, sans-serif" size="2">9/99 INSTANT 
+ACCESS</font></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+90 II</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">MATURED 
+BOND </font></b><font face="Arial, Helvetica, sans-serif" size="2">XI INSTANT 
+ACCESS</font></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+BOND</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">MATURED 
+BOND </font></b><font face="Arial, Helvetica, sans-serif" size="2">XIII INSTANT 
+ACCESS</font></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+BOND III</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">MATURED 
+INSTANT ACCESS</font></b></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+BOND IV</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">NOTICE 
+IMPERIAL 25</font></b></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+BOND IX</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">ORDINARY 
+SHARES</font></b></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+BOND X</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">REGULAR 
+SAVINGS</font></b></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+CLIENT</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2">STAR 
+SHARES</font></b></td></tr> <tr> <td><b><font face="Arial, Helvetica, sans-serif" size="2">IMPERIAL 
+GROSS</font></b></td><td><b><font face="Arial, Helvetica, sans-serif" size="2"></font></b></td></tr> 
+</table></div><p align="left"><font face="Arial, Helvetica, sans-serif" size="2" color="#3362A7">NOTES:</font><font face="Arial, Helvetica, sans-serif" size="2"><br> 
+Interest is payable net of the prevailing rate of tax (which may be reclaimed 
+by non-taxpayers) or subject to the required certification, gross. The net rates 
+quoted are illustrative only and assume a current rate of income tax of 20%. Where 
+the tax deducted exceeds an investor&#146;s tax liability (if any) a claim may 
+be made to the Inland Revenue for repayment of tax. For individuals whose income 
+falls within the lower or basic rate bands, the tax deducted will match their 
+liability to tax on the interest and they will have no more tax to pay on it. 
+Individuals who are liable at the higher rate of income tax (currently 40%) will 
+have to pay additional tax on the interest to cover the difference between the 
+tax deducted and the higher rate tax due.<br> </font></p><p align="left"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font size="4" color="#3362A7">Alternative 
+Format</font></font> </p><p align="left"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">We 
+are committed to providing a full range of products and services for all our customers, 
+including those with a visual impairment. With this in mind we are able to provide 
+information about our products in large print or in audio cassette format.</font></p><p align="left"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">If 
+you would like more details, or would like to register to receive correspondence 
+in an alternative format please contact us on <b><font color="#3362A7">08457 344 
+345</font></b> or <a href="../ClicktoCall/index.htm" target="_top"><font color="#000000">click 
+here</font></a> and let us call you back. Alternatively, <a href="../enquiry/enquiry.htm"><font color="#000000">click 
+here</font></a> and complete our e-mail contact form.</font></p><p align="left"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2"><font size="4" color="#3362A7">Availability 
+of Funds at Branches</font></font></p><p align="left"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">Withdrawals 
+from investment accounts are available by cash or cheque from our branches, subject 
+to cleared funds being available in your account, a passbook being produced and 
+suitable identification being provided. Cleared funds are defined as cash investments 
+or cheques, which have been paid into your account ten days previously. Withdrawals 
+are available as follows: </font></p><div align="left"> <ul> <li><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">A 
+maximum of £500 cash from any account in any one day</font></li><li><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">Cheques 
+totalling £50,000 from any account in any one day</font></li></ul></div><p align="left"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">Cheques 
+in excess of this amount are available by post within 3 working days from our 
+Principal Office, Portland House, New Bridge Street, Newcastle upon Tyne, NE1 
+8AL. Alternatively telegraphic transfers can be arranged with suitable notice 
+and payment of the necessary fee. Please note: Details of withdrawal terms at 
+our network of agents can be obtained from your <a href="../contact/index.htm" target="_top"><font color="#000000">local 
+branch</font></a> or Principal Office.</font></p><p align="left"><font size="2" face="Arial, Helvetica, sans-serif, Humanst521 BT"><font size="4" color="#3362A7">Handling 
+Customer Complaints</font></font></p><p align="left"><font face="Arial, Helvetica, sans-serif, Humanst521 BT" size="2">Unfortunately, 
+mistakes are occasionally made by us and when this happens, we want to hear about 
+it so we can explain things and put them right. A leaflet entitled 'Customer Complaints' 
+provides full details of our complaints procedure and is available by contacting 
+us on <b><font color="#3362A7">08457 344 345</font></b> or <a href="../ClicktoCall/index.htm" target="_top"><font color="#000000">click 
+here</font></a> and let us call you back. Alternatively, <a href="../FAQ/index.htm" target="_top"><font color="#000000">click 
+here</font></a> to view a copy of the leaflet. </font></p><p align="left"><font face="Arial, Helvetica, sans-serif" size="2"><br> 
+AER stands for Annual Equivalent Rate and is a notional rate which illustrates 
+what the interest would be if interest was paid and compounded on an annual basis. 
+It excludes any bonus interest which might be payable. Gross means the contractual 
+rate of interest payable before deduction of income tax at the rate specified 
+by law i.e. the rate of interest payable without UK income tax being deducted. 
+Net is the rate of interest which would be payable after allowing for the deduction 
+of income at the specified rate.<br> <br> &#134; If the account falls below &pound;1,000 
+it will be closed and a cheque made payable to the account holder(s) will be sent 
+to the address held on our records at that time.</font> <font face="Arial, Helvetica, sans-serif" size="2"><br> 
+*Nova 50 - If the account falls below &pound;50,000 it will be closed immediately 
+subject to 50 days loss of interest.</font> <font face="Arial, Helvetica, sans-serif" size="2"><br> 
+**Key Account - Newcastle Building Society will make an annual donation to Shelter, 
+equivalent to 1% of the average total balance of your Key account.<br> ***Maximum 
+subscription in tax year 2000/2001 is &pound;3,000 in addition up to &pound;9,000 
+of maturing TESSA capital (ie without interest) can be transferred into an ISA 
+without affecting the subscription limit.<br> ^ Direct 60 - If the account falls 
+below &pound;75,000 it will be closed immediately subject to 60 days loss of interest.</font> 
+<font face="Arial, Helvetica, sans-serif" size="2"><br> ****Nottingham Forest 
+Account - Newcastle Building Society will make an annual donation to Nottingham 
+Forest FC, equivalent to 1% of the average total balance of your Nottingham Forest 
+Account.<br> *****Save &amp; Care Account - Newcastle Building Society will make 
+an annual donation to the Nottinghamshire Hospice, equivalent to 1% of the average 
+total balance of your Save &amp; Care Account.<br> </font><font face="Arial, Helvetica, sans-serif" size="2"># 
+Nova Access Direct - If the account falls below &pound;10,000 the account will 
+transfer to a Nova Plus No Notice account and Nova Plus terms and conditions will 
+apply.</font> <font face="Arial, Helvetica, sans-serif" size="2">Cheques invested 
+will earn interest from the fourth working day (inclusive) after receipt (working 
+days exclude Saturdays, Sundays and English Bank Holidays), until the day prior 
+to withdrawal. All interest rates are variable (except where indicated) and are 
+correct at the time of going to print. Further details are available on request.</font> 
+<font face="Arial, Helvetica, sans-serif" size="2">Cash invested will earn interest 
+from the day of receipt.</font></p><p align="left">&nbsp;</p><p align="left">&nbsp;</p></center></table>

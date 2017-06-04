@@ -1,0 +1,1659 @@
+ID=A0075
+URL=http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html
+SIZE=65489
+DATE=27/06/02
+TIME=16:51:48
+DATASET=Commercial Banks
+HTML=<!-- Vignette StoryServer 5.0 Wed Jun 26 15:58:45 2002 -->
+
+				<HTML><HEAD><TITLE>Lloyds TSB - Saving & Investing important information</TITLE><!-- version 5.11.1 -->
+				<LINK REL=STYLESHEET HREF="/stylesheet/0,904,,FF.txt" TYPE="text/css">
+			
+				</HEAD>
+
+				<BODY BGCOLOR=#FFFFFF MARGINHEIGHT=0 MARGINWIDTH=0
+				TOPMARGIN=0 BOTTOMMARGIN=0 LEFTMARGIN=0 RIGHTMARGIN=0  >
+
+				<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+
+				<!-- BEGIN Header -->
+				<TR>
+				<TD ALIGN=LEFT VALIGN=TOP WIDTH=100%>
+				
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+
+			<TR>
+			<TD COLSPAN=3 ALIGN=LEFT VALIGN=TOP WIDTH=100%><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+			</TR>
+
+			<TR>
+
+			<TD VALIGN=TOP ALIGN=LEFT><IMG SRC="/images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=" "></TD>
+
+			<TD VALIGN=TOP ALIGN=LEFT WIDTH=100%>
+
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+
+			<!-- Begin Banner -->
+			<TR>
+			<TD>
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+			<TR>
+			<TD ALIGN=LEFT><IMG SRC="/image/0,902,361000,00.gif" ALT="Lloyds TSB" WIDTH=217 HEIGHT=52 BORDER=0 ></TD>
+			<TD ALIGN=RIGHT><IMG SRC="/image/0,902,361001,00.gif" ALT="Your Life" WIDTH=321 HEIGHT=28 BORDER=0 ></TD>
+			</TR>
+			</TABLE>
+			</TD>
+			</TR>
+			<!-- End Banner -->
+
+			<!-- Begin Segment Menu -->
+			<TR>
+			<TD ALIGN=LEFT>
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+			<TR>
+			<TD BGCOLOR=#339966><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=" "></TD>
+		
+					<TD><IMG SRC="/image/0,902,15,00.gif" ALT="Title General (selected)" WIDTH=64 HEIGHT=18 BORDER=0 ></TD>
+				
+					<TD><A HREF="http://www.student.lloydstsb.com/legal/saving_investing_legal/0,1005,student,00.html" TARGET="_top" ONMOUSEOVER="
+				document.images['segment_2'].src = '/image/0,902,12,00.gif';
+			" ONMOUSEOUT="
+				document.images['segment_2'].src = '/image/0,902,10,00.gif';
+			"><IMG SRC="/image/0,902,10,00.gif" ALT="Student" WIDTH=64 HEIGHT=18 BORDER=0 NAME=segment_2></A></TD>
+					
+					<TD><A HREF="http://www.select.lloydstsb.com/legal/saving_investing_legal/0,1005,select,00.html" TARGET="_top" ONMOUSEOVER="
+				document.images['segment_310002'].src = '/image/0,902,310004,00.gif';
+			" ONMOUSEOUT="
+				document.images['segment_310002'].src = '/image/0,902,310003,00.gif';
+			"><IMG SRC="/image/0,902,310003,00.gif" ALT="Select" WIDTH=53 HEIGHT=18 BORDER=0 NAME=segment_310002></A></TD>
+					
+					<TD><A HREF="http://www.gold.lloydstsb.com/legal/saving_investing_legal/0,1005,gold,00.html" TARGET="_top" ONMOUSEOVER="
+				document.images['segment_1'].src = '/image/0,902,11,00.gif';
+			" ONMOUSEOUT="
+				document.images['segment_1'].src = '/image/0,902,13,00.gif';
+			"><IMG SRC="/image/0,902,13,00.gif" ALT="Gold Service" WIDTH=81 HEIGHT=18 BORDER=0 NAME=segment_1></A></TD>
+					
+					<TD><A HREF="http://www.platinum.lloydstsb.com/legal/saving_investing_legal/0,1005,platinum,00.html" TARGET="_top" ONMOUSEOVER="
+				document.images['segment_310001'].src = '/image/0,902,310002,00.gif';
+			" ONMOUSEOUT="
+				document.images['segment_310001'].src = '/image/0,902,310001,00.gif';
+			"><IMG SRC="/image/0,902,310001,00.gif" ALT="Platinum" WIDTH=67 HEIGHT=18 BORDER=0 NAME=segment_310001></A></TD>
+					
+			</TR>
+			</TABLE>
+			</TD>
+			</TR>
+			<!-- End Segment Menu -->
+
+			<TR>
+			<TD BGCOLOR=#339966><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=" "></TD>
+			</TR>
+		
+			<!-- Begin Header Navigation Menu -->
+			<TR>
+			<TD ALIGN=RIGHT>
+
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+
+			<TR>
+			<TD BGCOLOR=#339966><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=" "></TD>
+			<TD CLASS="small">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/homepage/0,1001,general,00.html" TARGET="_top" CLASS="plain"  >Home</A>&nbsp;&nbsp;<IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT="bullet">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/legal/0,1000,general,00.html" TARGET="_top" CLASS="plain"  ><SPAN CLASS="highlighted">Legal</SPAN></A>&nbsp;&nbsp;<IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT="bullet">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/about_us/0,1009,general,00.html" TARGET="_top" CLASS="plain"  >About us</A>&nbsp;&nbsp;<IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT="bullet">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/services/0,1011,general,00.html" TARGET="_top" CLASS="plain"  >Our Services</A>&nbsp;&nbsp;<IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT="bullet">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/security/0,1011,general,00.html" TARGET="_top" CLASS="plain"  >Security</A>&nbsp;&nbsp;<IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT="bullet">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/accessibility/0,1007,general,00.html" TARGET="_top" CLASS="plain"  >Accessibility</A>&nbsp;&nbsp;<IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT="bullet">&nbsp;&nbsp;<A HREF="http://www.lloydstsb.com/contacts/0,1006,general,00.html" TARGET="_top" CLASS="plain"  >Contact us</A>&nbsp;&nbsp;</TD>
+			<TD BGCOLOR=#339966><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=" "></TD>
+			</TR>
+
+			<TR><TD COLSPAN=3 BGCOLOR=#339966><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=" "></TD></TR>
+
+			</TABLE>
+
+			</TD>
+			</TR>
+			<!-- End Header Navigation Menu -->
+
+			</TABLE>
+
+			</TD>
+
+			<TD VALIGN=TOP ALIGN=RIGHT><IMG SRC="/images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=" "></TD>
+
+			</TR>
+
+			<TR>
+			<TD COLSPAN=3 ALIGN=LEFT VALIGN=BOTTOM WIDTH=100%><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=10 ALT=" "></TD>
+			</TR>
+
+			</TABLE>
+		
+				</TD>
+				</TR>
+				<!-- END Header -->
+
+				<TR>
+
+				<TD ALIGN=LEFT VALIGN=TOP WIDTH=100%>
+
+				<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+
+				<TR>
+
+				<!-- BEGIN Left Nav -->
+				<TD ROWSPAN=2 VALIGN=TOP ALIGN=LEFT WIDTH=179>
+				
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+			<TR>
+
+			<TD VALIGN=TOP ALIGN=LEFT><TD VALIGN=TOP ALIGN=LEFT><IMG SRC="/images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=" "></TD></TD>
+
+			<TD VALIGN=TOP ALIGN=LEFT>
+
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+		<TR><TD><!-- IMG SRC="/images/leftnav/top.gif" WIDTH=139 HEIGHT=26 ALT="" --></TD></TR>
+			<!-- BEGIN Internet Banking -->
+			<TR><TD><IMG SRC="/images/leftnav/internetbanking.gif" WIDTH="139" HEIGHT="26" ALT="Internet banking"></TD></TR>
+			<TR><TD><A HREF="http://www.lloydstsb.com/services/internet/0,1011,general,00.html" TARGET="_top" ONMOUSEOVER="
+				document.images['register'].src = '/images/leftnav/internetbanking_register.gif';
+			" ONMOUSEOUT="
+				document.images['register'].src = '/images/leftnav/internetbanking_register.gif';
+			"><IMG SRC="/images/leftnav/internetbanking_register.gif" ALT="Register here for internet banking" WIDTH=139 HEIGHT=41 BORDER=0 NAME="register"></A></TD></TR>
+			<TR><TD><A HREF="http://www.lloydstsb.com/services/internet/moreinfo/0,1001,general,00.html" TARGET="_top" ONMOUSEOVER="
+				document.images['help'].src = '/images/leftnav/help_and_info.gif';
+			" ONMOUSEOUT="
+				document.images['help'].src = '/images/leftnav/help_and_info.gif';
+			"><IMG SRC="/images/leftnav/help_and_info.gif" ALT="Help and information" WIDTH=139 HEIGHT=31 BORDER=0 NAME="help"></A></TD></TR>
+			<TR><TD><IMG SRC="/images/leftnav/registered_users_log_on.gif" WIDTH="139" HEIGHT="14" ALT="Registered users log on"></TD></TR>
+			<TR><TD><A HREF="/exturl?URL=https%3A%2F%2Fonline%2Elloydstsb%2Eco%2Euk%2Fcustomer%2Eibc" TARGET="_top" ONMOUSEOVER="
+				document.images['personal'].src = '/images/leftnav/internetbanking_personal.gif';
+			" ONMOUSEOUT="
+				document.images['personal'].src = '/images/leftnav/internetbanking_personal.gif';
+			"><IMG SRC="/images/leftnav/internetbanking_personal.gif" ALT="Log on to Personal banking" WIDTH=139 HEIGHT=20 BORDER=0 NAME="personal"></A></TD></TR>
+			<TR><TD><A HREF="/exturl?URL=https%3A%2F%2Fonline%2Dbusiness%2Elloydstsb%2Eco%2Euk%2Fcustomer%2Eibc" TARGET="_top" ONMOUSEOVER="
+				document.images['business'].src = '/images/leftnav/internetbanking_business.gif';
+			" ONMOUSEOUT="
+				document.images['business'].src = '/images/leftnav/internetbanking_business.gif';
+			"><IMG SRC="/images/leftnav/internetbanking_business.gif" ALT="Log on to Business banking" WIDTH=139 HEIGHT=20 BORDER=0 NAME="business"></A></TD></TR>
+			<TR><TD><IMG SRC="/images/leftnav/ib_box_bottom.gif" WIDTH="139" HEIGHT="3" Alt=" "></TD></TR>
+			<!-- END Internet Banking -->
+
+			<TR>
+			<TD>
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+		
+				<TR><TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=3 ALT=" "></TD></TR>
+				<TR>
+				<TD VALIGN="MIDDLE"><IMG SRC="/images/leftnav/menuitem_side.gif" ALT="" WIDTH=1 HEIGHT=32></TD>
+				<TD><A HREF="http://www.lloydstsb.com/products/0,1007,general,00.html" TARGET="_top"   ><IMG SRC="/image/0,902,20,00.gif" ALT="Products" WIDTH=137 HEIGHT=32 BORDER=0 ></A></TD>
+				<TD><IMG SRC="/images/leftnav/menuitem_side.gif" ALT="" WIDTH=1 HEIGHT=32></TD>
+				</TR>
+			
+			</TABLE>
+			</TD>
+			</TR>
+		
+				    <TR><TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=3 ALT=" "></TD></TR>
+					<TR>
+					<TD><A HREF="http://www.lloydstsb.com/contacts/branch_locator/0,1006,general,00.html" TARGET="_top"   ><IMG SRC="/image/0,902,613,00.gif" ALT="Branch locator" WIDTH=139 HEIGHT=21 BORDER=0 ></A></TD>
+					</TR>
+				
+				    <TR><TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=3 ALT=" "></TD></TR>
+					<TR>
+					<TD><A HREF="http://www.lloydstsb.com/rates/0,1006,general,00.html" TARGET="_top"   ><IMG SRC="/image/0,902,617,00.gif" ALT="Our rates & charges" WIDTH=139 HEIGHT=21 BORDER=0 ></A></TD>
+					</TR>
+				
+				<TR>
+				<TD><!-- IMG SRC="/images/leftnav/bottom.gif" WIDTH=139 HEIGHT=19 ALT="" --></TD>
+				</TR>
+			
+			</TABLE>
+
+			</TD>
+		
+				<TD VALIGN=TOP ALIGN=RIGHT><TD VALIGN=TOP ALIGN=LEFT><IMG SRC="/images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=" "></TD></TD>
+			
+			</TR>
+			</TABLE>
+		
+				</TD>
+				<!-- END Left Nav -->
+
+				<TD ALIGN=LEFT VALIGN=TOP WIDTH=100% HEIGHT=100%>
+				<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+			
+					<!-- BEGIN Submenu -->
+					<TR>
+					<TD ALIGN=LEFT VALIGN=TOP WIDTH=100%>
+					
+					<IMG SRC="/images/submenu/arrow.gif" WIDTH=8 HEIGHT=9 ALT="">
+					<A HREF="http://www.lloydstsb.com/legal/0,1000,general,00.html" TARGET="_top" CLASS="plain"  ><SPAN CLASS="highlighted">Legal</SPAN></A><BR>
+				
+					<SPAN CLASS="small"><A HREF="http://www.lloydstsb.com/legal/site_terms_conditions/0,1011,general,00.html" TARGET="_top" CLASS="subnav"  >site&nbsp;terms&nbsp;and&nbsp;conditions</A> <IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT=""> <A HREF="http://www.lloydstsb.com/legal/information_about_us/0,997,general,00.html" TARGET="_top" CLASS="subnav"  >Information&nbsp;about&nbsp;us</A> <IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT=""> <A HREF="http://www.lloydstsb.com/legal/banking_legal/0,1009,general,00.html" TARGET="_top" CLASS="subnav"  >Banking&nbsp;important&nbsp;information</A> <IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT=""> <A HREF="http://www.lloydstsb.com/legal/borrowing_legal/0,1004,general,00.html" TARGET="_top" CLASS="subnav"  >Borrowing&nbsp;important&nbsp;information</A> <IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT=""> <SPAN CLASS="highlighted">Saving&nbsp;&&nbsp;Investing&nbsp;important&nbsp;information</SPAN> <IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT=""> <A HREF="http://www.lloydstsb.com/legal/our_services_legal/0,1004,general,00.html" TARGET="_top" CLASS="subnav"  >Our&nbsp;services&nbsp;important&nbsp;information</A> <IMG SRC="/images/blackdot.gif" WIDTH=3 HEIGHT=3 ALIGN=ABSMIDDLE ALT=""> <A HREF="http://www.lloydstsb.com/legal/supplier_terms_conditions/0,997,general,00.html" TARGET="_top" CLASS="subnav"  >Supplier&nbsp;terms&nbsp;&&nbsp;conditions</A><BR></SPAN>
+				<BR>
+					</TD>
+					</TR>
+					<!-- END Submenu -->
+				
+				
+					<TR>
+					<TH VALIGN=TOP><IMG SRC="/image/0,902,360039,00.gif" ALT="saving and investing important information" WIDTH=333 HEIGHT=65 BORDER=0 ></TH>
+					</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360481></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360402"  >90 Day Notice account</A>  &#149; <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360398"  >Flexible Savings account</A>  &#149; <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360349"  >Gold Saver</A>  &#149; <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360400"  >Instant Gold Savings account</A>  &#149; <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360408"  >Mini Cash ISA</A>  &#149; <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360808"  >Online Saver </A>&#149; <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360395"  >Platinum Saver</A>  &#149; <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360344"  >Regular Savings account</A>  &#149; <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360674"  >Reward Savings account</A> &#149; <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360417"  >Scottish Widows Investments</A>  &#149; <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360425"  >Scottish Widows Pensions</A> &#149;  <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360346"  >Select Saver</A>  &#149; <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360412"  >Sharedeal Direct</A> &#149; 
+<A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360404"  >Term Deposit</A> &#149; <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360410"  >TESSA ISA</A>  &#149; 
+ <A  href="http://www.lloydstsb.com/legal/saving_investing_legal/0,1005,general,00.html#360406"  >Young Savers account</A>
+</TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360402></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">90 Day Notice account</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. Most deposits, including those made by individuals and small firms are protected by the scheme. Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700. The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike. Further details of the scheme are available on request.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/90_day_notice_account/0,1006,general,00.html"  ><u>information about 90 Day Notice account</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361872></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360398></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Flexible Savings account</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. Most deposits, including those made by individuals and small firms are protected by the scheme. Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700. The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike. Further details of the scheme are available on request.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/flexible_savings_account/0,1012,general,00.html"  ><u>information about Flexible Savings account</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361873></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360349></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Gold Saver</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>In order to open a Gold Saver you must hold a Gold Service current account. Your salary must fall within the minimum entry criteria applicable in order to hold a Gold Service current account. For more details, please call into your local branch</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. Most deposits, including those made by individuals and small firms are protected by the scheme. Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700. The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike. Further details of the scheme are available on request.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/Gold_Saver/0,1005,general,00.html"  ><u>information about Gold Saver </u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361874></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360400></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Instant Gold Savings account</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. Most deposits, including those made by individuals and small firms are protected by the scheme. Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700. The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike. Further details of the scheme are available on request.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/instant_gold_savings_account/0,1015,general,00.html"  ><u>information about Instant Gold Savings account</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361875></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360408></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Mini Cash ISA</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>To apply you must be 16 or over, be resident and ordinarily resident in the UK for tax purposes and the account must be held in sole name. You cannot open a Mini Cash ISA where you have opened or contributed to a Maxi ISA (held either with us or another provider) in the same tax year, or you have already opened or contributed to a Mini Cash ISA (held either with us or another provider) in the same tax year. The Lloyds TSB Mini Cash ISA is provided by Lloyds TSB Bank plc, an approved ISA Manager.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. Most deposits, including those made by individuals and small firms are protected by the scheme. Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700. The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike. Further details of the scheme are available on request.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>All references made to tax and tax relief in this website are based on our understanding of current legislation and Inland Revenue practice as of 1st February 2002. The law relating to taxation is always liable to change in the future and such changes cannot be foreseen. The level of tax applicable will depend on the individual investor's personal circumstances.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/minicash_isa/0,1003,general,00.html"  ><u>information about Mini Cash ISA</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361876></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360808></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Online Saver Terms</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>These terms apply to the Lloyds TSB Online Saver (Account), and explain our obligations to you and your obligations to us (Lloyds TSB Bank plc or Lloyds TSB Scotland plc, whichever you hold your current account with). </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>These terms are in addition to: 
+<br>Conditions which are implied or included in the contract between us by law, even though they do not appear here; 
+<br>Our Online Banking and Lloydstsb.com site terms (if you contact us online) which you can find on www.lloydstsb.com or 
+<br>Our Phonebank and Phonebank Express terms (if you phone us) - let us know if you want another copy. 
+ 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Who can open an Account 
+<br>You must be a Lloyds TSB personal customer (16 or over), resident in the U.K., and signed up to Internet Banking or Phonebank/Phonebank Express. 
+<br>We can refuse to open an Account or to accept a deposit without giving any reason. 
+ 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Joint Accounts 
+<br>The account is not available for joint customers where both wish to authorise instructions to us. 
+<br>We will act on instructions (by phone, internet, other electronic means, or in writing) given by any one of the joint customers - this means that one joint customer could withdraw the entire balance of the Account without the other knowing. You should contact us if you would like this to change. 
+ 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Deposits 
+<br>You can add money to your Account: 
+at one of our branches (cash or cheque); 
+<br>By standing order; 
+<br>By post – you can send cheques etc (not cash) by post, but we are not responsible if we do not get the payment or if there is a difference between what you say you sent and what we receive; 
+<br>By instructing us to transfer money from another of your accounts with us in writing, by phone, or electronically - this must be in accordance with the authorities to operate that account.  
+ 
+ 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Withdrawals 
+<br>You can request withdrawals in writing, by phone, or electronically. All withdrawals will be transferred to another of your accounts with us. 
+<br>The maximum sum you can take out of your Account at any one time is limited. Contact us to find out what the current limits are, especially if you plan to make a large withdrawal.  
+ 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Interest 
+<br>We calculate interest on a daily basis on cleared credit balances. 
+<br>We will pay you interest after deducting tax at the appropriate rate unless you are eligible for and register to receive interest without tax deduction. Details are included in your welcome pack. 
+<br>We will pay interest once a year unless you choose to receive it monthly when you complete the Account application. Yearly interest is paid on the anniversary of Account opening, and monthly interest on the same day of each month as the date of Account opening. If the interest payment date is not a working day, we will pay it on the next working day. 
+<br>We will pay interest by crediting it to your Account. 
+<br>You will find our current interest rates for the Account in our UK branches, on our website or by phoning us on 0845 300 0032. 
+<br>We can vary interest rates at any time, and we will tell you by letter, email or other personal notice when we do. 
+ 
+ 
+ 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Closing your Account  
+<br>We can require you to close the Account at any time. We can do this without giving any reason, but we will give you reasonable notice. 
+<br>You may close the Account at any time. 
+ 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Changes to Terms 
+<br>We can change any of these terms and here are some examples of when we might do so: 
+<br>If the change does not disadvantage you; 
+<br>To comply with legal, fiscal or regulatory requirements; 
+<br>To correct errors, omissions, inaccuracies or ambiguities; 
+<br>For any reorganisation within the group of companies which we are a part of, as long as the Account remains under the supervision of the UK’s Financial Services Authority; or 
+<br>To cover service differences when we change computer systems or other processes, or having regard to market practice and overall customer demand. 
+<p>We will give you notice in a newspaper, branch, on line or by letter if we make a change you need to know about.  
+ 
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Financial Services Compensation Scheme
+<br>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000.  Most deposits, including those made by individuals and small firms are protected by the scheme.  Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700.  The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike.  Further details of the scheme are available on request.
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/onlinesaver/0,998,general,00.html"  ><u>information about Online Saver</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361877></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360395></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Platinum Saver</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>In order to open a Platinum Saver you must hold a Platinum current account.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. Most deposits, including those made by individuals and small firms are protected by the scheme. Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700. The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike. Further details of the scheme are available on request.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/platsaver/0,1005,general,00.html"  ><u>information about Platinum Saver</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361878></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360344></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Regular Savings account</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. Most deposits, including those made by individuals and small firms are protected by the scheme. Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700. The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike. Further details of the scheme are available on request.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>To qualify for free accidental Death Benefit Insurance you must pay a minimum of £20 each month by standing order from any Lloyds TSB current account at the time of registration and at the time of claim. You must be aged between 18 and 64 years inclusive and resident in the UK, Channel Islands or Isle of Man.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>General Insurance advice is provided by Lloyds TSB Insurance Services Limited Registered in England No. 968406. 71 Lombard Street, London EC3P 3BS. Member of the General Insurance Standards Council.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/regular_savings_account/0,1003,general,00.html"  ><u>information about Regular Savings account</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361879></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360674></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Reward Savings account</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. Most deposits, including those made by individuals and small firms are protected by the scheme. Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700. The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike. Further details of the scheme are available on request.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/reward_savings_account/0,1014,general,00.html"  ><u>information about Reward Savings account</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361880></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360417></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Scottish Widows Investments</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Unit Trusts and Unit Trust ISAs are provided by Scottish Widows Unit Trust Managers Limited, full details can be obtained from: 15 Dalkeith Road, Edinburgh, EH16 5BU. Telephone: 0845 3002244.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Guaranteed Investment Bonds and Flexible Investment Bonds are provided by Scottish Widows plc. Full details can be obtained from: Head Office, 69 Morrison Street, Edinburgh, EH3 8YF. Telephone 0131 655 6000.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Scottish Widows plc and Scottish Widows Unit Trust Managers Limited provide investment products to the customers of the Scottish Widows and Lloyds TSB marketing group. Some products are unit linked. The value of units and any income from them may go down as well as up and you may not get back the full amount invested. Except where amounts are guaranteed, the benefits payable under the Flexible Investment Bond will reflect the market value of the underlying investments, which may fall as well as rise.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Scottish Widows plc, Company No. 199549. Registered Office in the United Kingdom at 69 Morrison Street, Edinburgh, EH3 8YF. Tel: 0131 655 6000. Scottish Widows Unit Trust Managers Ltd, Company No.  1629925. Registered Office in the United Kingdom at Charlton Place, Andover, Hampshire, SP10 1RE. Tel : 0845 300 2244.
+<p>Scottish Widows plc and Scottish Widows Unit Trust Managers Ltd are members of the Scottish Widows and Lloyds TSB Marketing Group, members of which carry on the business and services associated with life assurance, pensions and investments.
+Scottish Widows plc acts as the processing and paying agent for Scottish Widows Annuities Limited.
+Scottish Widows plc and Scottish Widows Unit Trust Managers Ltd are regulated by the Financial Services Authority.
+</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>To find out more about Scottish Widows products contact your local Lloyds TSB branch or select the link to Scottish Widows. </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/investment/0,1008,general,00.html"  ><u>information about Scottish Widows Investments</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361881></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360425></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Scottish Widows Pensions</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Scottish Widows plc provides life assurance and pension products to the customers of the Scottish Widows and Lloyds TSB marketing group. Some products are unit-linked. The value of units, and any income from them may go down as well as up and you may not get back the full amount invested. To find out more about Scottish Widows products contact your local Lloyds TSB branch or select the link to Scottish Widows. Scottish Widows plc is regulated by the Financial Services Authority for investment business. Lloyds TSB Bank plc is regulated by the Financial Services Authority only for Life Assurance, Pensions and Unit Trusts. </TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>All references made to tax and tax relief in this website are based on our understanding of current legislation and Inland Revenue practice as of 1st February 2002. The law relating to taxation is always liable to change in the future and such changes cannot be foreseen. The level of tax applicable will depend on the individual investor's personal circumstances.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/pensions/0,1006,general,00.html"  ><u>information about Scottish Widows Pensions</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361882></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360346></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Select Saver</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>You can only open a Select Saver if you hold a Select current account, applicants must be 18 years or over.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Minimum deposit to open a Select Saver is £250.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. Most deposits, including those made by individuals and small firms are protected by the scheme. Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700. The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike. Further details of the scheme are available on request.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/Select_Saver/0,1003,general,00.html"  ><u>information about Select Saver</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361883></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360412></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Sharedeal Direct</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Stockbrokers Limited is a member of the London Stock Exchange and regulated by the Financial Services Authority. Registered in England and Wales no. 2029332.  Registered office: 48 Chiswell Street, London EC1Y 4XX.  Telephone no. 020 7562 6000.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>When you speak to us on the phone, some calls may be monitored or recorded in case we need to check we have carried out your instructions correctly and to help improve our quality of service.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/stock_broking/0,997,general,00.html"  ><u>information about Sharedeal Direct</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361884></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360404></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Term Deposit</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. Most deposits, including those made by individuals and small firms are protected by the scheme. Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700. The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike. Further details of the scheme are available on request.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>All references made to tax and tax relief in this website are based on our understanding of current legislation and Inland Revenue practice as of 1st February 2002. The law relating to taxation is always liable to change in the future and such changes cannot be foreseen. The level of tax applicable will depend on the individual investor’s personal circumstances.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/term_deposit/0,1002,general,00.html"  ><u>information about Term Deposit</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361885></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360410></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">TESSA ISA</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>To apply you must be 16 or over, be resident and ordinarily resident in the UK for tax purposes and the account must be held in sole name. You can only open a TESSA ISA with the capital from a matured TESSA within 6 months of the maturity date. The Lloyds TSB TESSA is provided by Lloyds TSB Bank plc, an approved ISA manager.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. Most deposits, including those made by individuals and small firms are protected by the scheme. Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700. The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike. Further details of the scheme are available on request.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>All references made to tax and tax relief in this website are based on our understanding of current legislation and Inland Revenue practice as of 1st February 2002. The law relating to taxation is always liable to change in the future and such changes cannot be foreseen. The level of tax applicable will depend on the individual investor's personal circumstances.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/tessa_isa/0,1003,general,00.html"  ><u>information about Tessa ISA</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=361886></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360406></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+				<TR>
+				<TH VALIGN=TOP WIDTH=100% CLASS="subheading">Young Savers account</TH>
+				</TR>
+			
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. Most deposits, including those made by individuals and small firms are protected by the scheme. Where you make a deposit to us in the UK, payments under the scheme are limited to 100% of the first £2,000 of your total deposits with us and 90% of the next £33,000, resulting in a maximum payment of £31,700. The scheme also covers deposits made with our offices elsewhere in the European Economic Area, and deposits in all currencies are treated alike. Further details of the scheme are available on request.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Interest on the Young Savers Account is calculated on a daily basis and credited monthly (on the 10th of each month or the following working day). In most cases, children will be eligible for payment of interest tax-free. Normally the parent or guardian may sign the Inland Revenue registration form R85 in order for a child to receive gross interest. The Inland Revenue brochure IR110 contains further information.</TD>
+							</TR>
+						
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+			
+							<TR>
+							<TD>Click here for <A  href="http://www.lloydstsb.com/products/saving_investing/young_savers_account/0,1008,general,00.html"  ><u>information about Young Savers account</u></A> </TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=20 ALT=" "></TD>
+				</TR>
+		
+					<TR><TD>
+					<A NAME=360804></A>
+					</TD></TR>
+					 
+				<TR>
+				<TD><!--_section_begin_-->
+				
+			<TABLE SUMMARY="" BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+			
+							<TR>
+							<TD><A HREF="#top"><u>> back to top</u></A></TD>
+							</TR>
+						
+			</TABLE>
+		
+				</TD><!--_section_end_-->
+			
+				</TR>
+				
+
+				</TABLE>
+				</TD>
+
+				<!-- BEGIN Right Nav -->
+				<TD ROWSPAN=2 VALIGN=TOP ALIGN=RIGHT WIDTH=179>
+				
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+			<TR>
+
+			<TD VALIGN=TOP ALIGN=LEFT><IMG SRC="/images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=" "></TD>
+
+			<TD VALIGN=TOP ALIGN=LEFT>
+
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+
+			<TR>
+			<TD><!-- IMG SRC="/images/rightnav/top.gif" WIDTH=139 HEIGHT=26 ALT="" --></TD>
+			</TR>
+		
+					<TR>
+					<TD><A HREF="/exturl?URL=http%3A%2F%2Fwww%2Einsurance%2Eco%2Euk%2Fcc%2Fmc041%2Easp" TARGET="insquicklink"   ONCLICK="window.open('/exturl?URL=http%3A%2F%2Fwww%2Einsurance%2Eco%2Euk%2Fcc%2Fmc041%2Easp', 'insquicklink', 'resizable,scrollbars,menubar,status,toolbar,width=640,height=480'); return false;" ><IMG SRC="/image/0,902,31,00.gif" ALT="Online Insurance" WIDTH=139 HEIGHT=36 BORDER=0 ></A></TD>
+					</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=14 ALT=" "></TD>
+				</TR>
+			
+					<TR>
+					<TD><A HREF="/exturl?URL=http%3A%2F%2Fwww%2Emotordirect%2Elloydstsb%2Ecom%2F" TARGET="qqbysglop"   ONCLICK="window.open('/exturl?URL=http%3A%2F%2Fwww%2Emotordirect%2Elloydstsb%2Ecom%2F', 'qqbysglop', 'resizable,scrollbars,menubar,status,toolbar,width=640,height=480'); return false;" ><IMG SRC="/image/0,902,100011,00.gif" ALT="Motor Direct" WIDTH=139 HEIGHT=36 BORDER=0 ></A></TD>
+					</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=14 ALT=" "></TD>
+				</TR>
+			
+					<TR>
+					<TD><A HREF="http://www.lloydstsb.com/loans/0,1004,general,00.html" TARGET="_top"   ><IMG SRC="/image/0,902,200098,00.gif" ALT="Online Loans " WIDTH=139 HEIGHT=36 BORDER=0 ></A></TD>
+					</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=14 ALT=" "></TD>
+				</TR>
+			
+					<TR>
+					<TD><A HREF="http://www.lloydstsb.com/creditcards/0,1003,general,00.html" TARGET="_top"   ><IMG SRC="/image/0,902,360047,00.gif" ALT="Online Credit Cards" WIDTH=139 HEIGHT=36 BORDER=0 ></A></TD>
+					</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=14 ALT=" "></TD>
+				</TR>
+			
+					<TR>
+					<TD><A HREF="/exturl?URL=http%3A%2F%2Fwww%2Echeltenhamandgloucester%2Eco%2Euk%2F" TARGET="Cheltenham_and_Gloucester"   ONCLICK="window.open('/exturl?URL=http%3A%2F%2Fwww%2Echeltenhamandgloucester%2Eco%2Euk%2F', 'Cheltenham_and_Gloucester', 'resizable,scrollbars,menubar,status,toolbar,width=640,height=480'); return false;" ><IMG SRC="/image/0,902,32,00.gif" ALT="Cheltenham & Gloucester mortgages" WIDTH=139 HEIGHT=36 BORDER=0 ></A></TD>
+					</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=14 ALT=" "></TD>
+				</TR>
+			
+					<TR>
+					<TD><A HREF="/exturl?URL=http%3A%2F%2Fwww%2Escottishwidows%2Eco%2Euk%2F" TARGET="bbbuddrtg"   ONCLICK="window.open('/exturl?URL=http%3A%2F%2Fwww%2Escottishwidows%2Eco%2Euk%2F', 'bbbuddrtg', 'resizable,scrollbars,menubar,status,toolbar,width=640,height=480'); return false;" ><IMG SRC="/image/0,902,60,00.gif" ALT="Scottish Widows" WIDTH=139 HEIGHT=36 BORDER=0 ></A></TD>
+					</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=14 ALT=" "></TD>
+				</TR>
+			
+					<TR>
+					<TD><A HREF="/exturl?URL=http%3A%2F%2Fwww%2Esuccess4business%2Ecom%2F" TARGET="nhwpgero"   ONCLICK="window.open('/exturl?URL=http%3A%2F%2Fwww%2Esuccess4business%2Ecom%2F', 'nhwpgero', 'resizable,scrollbars,menubar,status,toolbar,width=640,height=480'); return false;" ><IMG SRC="/image/0,902,360042,00.gif" ALT="www.success4business.com" WIDTH=139 HEIGHT=36 BORDER=0 ></A></TD>
+					</TR>
+				
+				<TR>
+				<TD><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=14 ALT=" "></TD>
+				</TR>
+			
+					<TR>
+					<TD><A HREF="/exturl?URL=http%3A%2F%2Fwww%2Elloydstsb%2Ecom%2Finvestorrelations%2FRH" TARGET="bbbbbrfggtfew"   ONCLICK="window.open('/exturl?URL=http%3A%2F%2Fwww%2Elloydstsb%2Ecom%2Finvestorrelations%2FRH', 'bbbbbrfggtfew', 'resizable,scrollbars,menubar,status,toolbar,width=640,height=480'); return false;" ><IMG SRC="/image/0,902,514,00.gif" ALT="Investor Relations" WIDTH=139 HEIGHT=36 BORDER=0 ></A></TD>
+					</TR>
+				
+			<TR>
+			<TD><!-- IMG SRC="/images/rightnav/bottom.gif" WIDTH=139 HEIGHT=26 ALT=""  --></TD>
+			</TR>
+
+			</TABLE>
+
+			</TD>
+		
+				<TD VALIGN=TOP ALIGN=RIGHT><IMG SRC="/images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=" "></TD>
+			
+			</TR>
+			</TABLE>
+		
+				</TD>
+				<!-- END Right Nav -->
+
+				</TR>
+
+				<!-- BEGIN Bottom Menu -->
+				<TR>
+				<TD VALIGN=BOTTOM>
+				
+			<TABLE SUMMARY="" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+
+			<TR>
+			<TD ALIGN=LEFT WIDTH=100%><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=12 ALT=" "></TD>
+			</TR>
+
+			<TR>
+			<TD VALIGN=BOTTOM ALIGN=CENTER WIDTH=100% CLASS="small"></TD>
+			</TR>
+
+			</TABLE>
+		
+				</TD>
+				</TR>
+				<!-- END Bottom Menu -->
+
+				</TABLE>
+
+				</TD>
+
+				</TR>
+
+				<TR>
+				<TD ALIGN=LEFT><IMG SRC="/images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=" "></TD>
+				</TR>
+
+				</TABLE>
+
+				</BODY>
+				</HTML>
+			

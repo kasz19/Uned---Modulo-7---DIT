@@ -1,0 +1,1576 @@
+ID=B0054
+URL=http://www.cheshirebs.co.uk/InvestmentProduct/rates.asp
+SIZE=108001
+DATE=28/06/2002
+TIME=12:47:03
+DATASET=Building Societies
+HTML=
+<html>
+<!-- #BeginTemplate "/Templates/nonav_content.dwt" --> 
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>TheCheshire provides mortgages, investments and financial services</title>
+<!-- #EndEditable --> 
+<meta name="Description" content="The Cheshire Building Society is the largest based in North West England and provides competitive mortgages, savings and investments nationwide.  Apply online.">
+<meta name="keywords" content="Cheshire Building Society, Cheshirebs, CBS, thecheshire, mortgages, savings, investments, uk, UK, home loans, home improvements, calculator, quote, credit cards, travel money, advice, remortgages, re-mortgages, insurances, valuation, further advance, estate agency, rented properties, buy to let, mortages, morgages, property, loans, interest rate, apply online, offshore, guernsey, society, societies, soceity, soceities, lenders, building, first time buyer, fixed rate mortgage, discount mortgage, tracker, flexible, cashback, buy to let, investment property, capped rate, instant access, premium access,regular saver,black cat saver,mini cash ISA, Tessa ISA, bonds, loyalty bonds, tempo">
+<meta name="index" content="Macclesfield, Leyland, Accrington, Chorley, Wigan, Bolton, Leigh, Culcheth, Ashton under Lyne, Droylsden, Romiley, Stockport, Edgeley, Marple,Hazel Grove, Cheadle Hulme, Bramhall, Handforth, Poynton,Wilmslow, Knutsford, Alderley Edge, Bollington, Buxton, Holmes Chapel, Congleton, Biddulph, Alsager, Nantwich, Crewe, Sandbach, Middlewich,Winsford, Northwich, Frodsham, Chester, Queensferry, Mold, Shotton, Flint, Little Sutton, Neston, Heswall, Runcorn, Bromborough, Bebington,Warrington, Stockton Heath, financial services, APR, AER, bulding, top, best, minimum, maximum, membership, financial services, black cat, cheshire cat, cheshire chat">
+
+<!-- #BeginEditable "headercontent" --> 
+<!-- #EndEditable --> 
+<link rel="stylesheet" href="../stylesheets/exp3.css">
+<script LANGUAGE="JavaScript1.2" SRC="../stylesheets/displaystyles2.js"></script>
+<script type="text/javascript" language="JavaScript">
+function OpenNewWin(url){
+
+ var attribs = "height=400,width=700,locationbar=yes,menubar=yes,scrollbars=yes,status=yes,resizable=yes,toolbar=yes";
+
+ if(typeof(new_win) == "undefined"){
+  new_win = window.open(url,"",attribs);
+ }else{
+ 	if(new_win.closed){
+		new_win = window.open(url,"",attribs);
+	}else{
+	  new_win.location.href = url;
+	}
+ }
+ if (navigator.appName == "Netscape" || navigator.appVersion >= 5)
+ new_win.focus();
+}
+
+
+// Open the window at the right of the screen more or less
+// Check the screen size and sutract the help window width to
+// get the left position
+
+var screenWid = 600;
+// The following line errors in IE3.01
+//if (parseInt(navigator.appVersion) >= 4 ) { screenWid = screen.width };
+
+var WinWidth = 380;
+WinLeft = screenWid - WinWidth - 30;
+
+// Force number into string 
+var strHelpLeft = "";
+strHelpLeft = WinLeft; 
+
+// Build up the window parameters
+var strHelpOptions = "location=no";
+
+strHelpOptions += ",toolbar=no";
+
+strHelpOptions += ",menubar=no";
+
+strHelpOptions += ",status=no";
+
+strHelpOptions += ",scrollbars=yes";
+
+strHelpOptions += ",resizable=yes";
+
+strHelpOptions += ",width="+WinWidth;
+
+strHelpOptions += ",height=200";
+
+// IE positioning params
+strHelpOptions += ",top=50";
+strHelpOptions += ",left="+strHelpLeft;
+
+// Netscape positioning params
+strHelpOptions += ",screenY=40";
+strHelpOptions += ",screenX="+strHelpLeft;
+
+
+function HelpOpen(strUrl)
+
+{
+	var popUrl = strUrl;
+	window.open(popUrl, "PopupWin", strHelpOptions);
+}
+
+function PloanWinOpen(ref)
+		{
+			window.open(ref, "affinity" , "toolbar=no,width=645,height=320,directories=no,status=no,scrollbars=yes,resize=yes,menubar=no");
+		}
+
+</script>
+ 
+</head>
+<body bgcolor="#FFFFFF" topmargin="0">
+<div align="center"><a name="top"></a> 
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      
+    <td rowspan="2" width="21" height="75"><img name="header3_r1_c1" src="../images/header3_r1_c1.gif" width="20" height="75" border="0"></td>
+      
+    <td bgcolor="#0033CC" height="24" background="../images/bg.gif" width="341"><img src="../images/arrow.gif" width="5" height="11" border="0"> 
+      <a href="../index.asp" class="topnav">Home</a>&nbsp; &nbsp;<img src="../images/arrow.gif" width="5" height="11" border="0"> 
+      <a href="../search/index.asp" class="topnav">Search</a> &nbsp;<img src="../images/arrow.gif" width="5" height="11" border="0"> 
+      <a href="../help/sitemap.asp" class="topnav">Site Map</a>&nbsp; <img src="../images/arrow.gif" width="5" height="11" border="0"> 
+      <a href="../contact/index.asp" class="topnav">Contact Us</a>&nbsp; <img src="../images/arrow.gif" width="5" height="11" border="0"> 
+      <a href="../help/index.asp" class="help">Help&nbsp;</a></td>
+      
+    <td rowspan="2" width="238" height="75"><a href="../index.asp"><img name="header3_r1_c3" src="../images/header3_r1_c3.gif" width="238" height="75" border="0"></a></td>
+    </tr>
+    <tr> 
+      
+    <td width="341" height="51"><img name="header3_r2_c2" src="../images/header3_r2_c2.gif" width="342" height="51" border="0"></td>
+    </tr>
+  </table> 
+  <br><table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="600" valign="top"> <!-- #BeginEditable "banner_ad" --><!-- #EndEditable --> 
+      </td>
+    </tr>
+    <tr> 
+      <td width="600"> <!-- #BeginEditable "content" --> 
+        <p></p>
+       
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><h1>Rates at a Glance</h1></td><td align="RIGHT"><a href="index.asp"><img src="../images/back.gif" width=110 height=18 border=0 alt="Back to Investments Home Page"></a> </td></tr></table>
+        <h2><a name="notice"></a>Notice Accounts</h2>
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="monthly_income.asp"><h3>Monthly Income</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>If you have a lump sum to invest and would like it to provide you with a regular income, then Monthly Income could be the account for you. </p>
+        <table width="100%" border="1">
+          <tr> 
+            <th>
+            <p>Rates from 01 December 2001</p>
+            </th>
+            <th><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Monthly Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£100,000</p></th><td align="center" width="50%"><p>3.88</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50,000</p></th><td align="center" width="50%"><p>3.78</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£25,000</p></th><td align="center" width="50%"><p>3.69</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.64</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.54</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.10</p></td></tr><tr><td width="100%" align="center"><p>3.02</p></td></tr><tr><td width="100%" align="center"><p>2.95</p></td></tr><tr><td width="100%" align="center"><p>2.91</p></td></tr><tr><td width="100%" align="center"><p>2.83</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.95</p></td></tr><tr><td width="100%" align="center"><p>3.85</p></td></tr><tr><td width="100%" align="center"><p>3.75</p></td></tr><tr><td width="100%" align="center"><p>3.70</p></td></tr><tr><td width="100%" align="center"><p>3.60</p></td></tr></table></div></td>
+  </tr>
+</table> <!--outer table end --></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Monthly Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£100,000</p></th><td align="center" width="50%"><p>4.31</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50,000</p></th><td align="center" width="50%"><p>4.22</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£25,000</p></th><td align="center" width="50%"><p>4.12</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>4.07</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.98</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.45</p></td></tr><tr><td width="100%" align="center"><p>3.38</p></td></tr><tr><td width="100%" align="center"><p>3.30</p></td></tr><tr><td width="100%" align="center"><p>3.26</p></td></tr><tr><td width="100%" align="center"><p>3.18</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.40</p></td></tr><tr><td width="100%" align="center"><p>4.30</p></td></tr><tr><td width="100%" align="center"><p>4.20</p></td></tr><tr><td width="100%" align="center"><p>4.15</p></td></tr><tr><td width="100%" align="center"><p>4.05</p></td></tr></table></div></td>
+  </tr>
+</table> <!--outer table end -->
+
+</td>
+          </tr>
+        </table>
+
+<!--next table here -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="premium_100.asp"><h3>Premium 100</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>Premium 100 can offer you a good rate of interest, paid to you either monthly or annually. And, provided you keep £10,000 or more in your account, you have the freedom of instant access as well.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th><p>Rates from 01 December 2001</p></th>
+            <th><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£100,000</p></th><td align="center" width="50%"><p>3.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50,000</p></th><td align="center" width="50%"><p>3.35</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£25,000</p></th><td align="center" width="50%"><p>3.25</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.20</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.15</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>3.10</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>2.72</p></td></tr><tr><td width="100%" align="center"><p>2.68</p></td></tr><tr><td width="100%" align="center"><p>2.60</p></td></tr><tr><td width="100%" align="center"><p>2.56</p></td></tr><tr><td width="100%" align="center"><p>2.52</p></td></tr><tr><td width="100%" align="center"><p>2.48</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.40</p></td></tr><tr><td width="100%" align="center"><p>3.35</p></td></tr><tr><td width="100%" align="center"><p>3.25</p></td></tr><tr><td width="100%" align="center"><p>3.20</p></td></tr><tr><td width="100%" align="center"><p>3.15</p></td></tr><tr><td width="100%" align="center"><p>3.10</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£100,000</p></th><td align="center" width="50%"><p>3.90</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50,000</p></th><td align="center" width="50%"><p>3.80</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£25,000</p></th><td align="center" width="50%"><p>3.70</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.65</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.60</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>3.55</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.12</p></td></tr><tr><td width="100%" align="center"><p>3.04</p></td></tr><tr><td width="100%" align="center"><p>2.96</p></td></tr><tr><td width="100%" align="center"><p>2.92</p></td></tr><tr><td width="100%" align="center"><p>2.88</p></td></tr><tr><td width="100%" align="center"><p>2.84</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.90</p></td></tr><tr><td width="100%" align="center"><p>3.80</p></td></tr><tr><td width="100%" align="center"><p>3.70</p></td></tr><tr><td width="100%" align="center"><p>3.65</p></td></tr><tr><td width="100%" align="center"><p>3.60</p></td></tr><tr><td width="100%" align="center"><p>3.55</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+<!--next table here -->        
+        
+        <table width="100%" border="1">
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Monthly Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£100,000</p></th><td align="center" width="50%"><p>3.35</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50,000</p></th><td align="center" width="50%"><p>3.30</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£25,000</p></th><td align="center" width="50%"><p>3.20</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.15</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.11</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>3.06</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>2.68</p></td></tr><tr><td width="100%" align="center"><p>2.64</p></td></tr><tr><td width="100%" align="center"><p>2.56</p></td></tr><tr><td width="100%" align="center"><p>2.52</p></td></tr><tr><td width="100%" align="center"><p>2.49</p></td></tr><tr><td width="100%" align="center"><p>2.45</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.40</p></td></tr><tr><td width="100%" align="center"><p>3.35</p></td></tr><tr><td width="100%" align="center"><p>3.25</p></td></tr><tr><td width="100%" align="center"><p>3.20</p></td></tr><tr><td width="100%" align="center"><p>3.15</p></td></tr><tr><td width="100%" align="center"><p>3.10</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Monthly Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£100,000</p></th><td align="center" width="50%"><p>3.83</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50,000</p></th><td align="center" width="50%"><p>3.74</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£25,000</p></th><td align="center" width="50%"><p>3.64</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.59</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.54</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>3.49</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.06</p></td></tr><tr><td width="100%" align="center"><p>2.99</p></td></tr><tr><td width="100%" align="center"><p>2.91</p></td></tr><tr><td width="100%" align="center"><p>2.87</p></td></tr><tr><td width="100%" align="center"><p>2.83</p></td></tr><tr><td width="100%" align="center"><p>2.79</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.90</p></td></tr><tr><td width="100%" align="center"><p>3.80</p></td></tr><tr><td width="100%" align="center"><p>3.70</p></td></tr><tr><td width="100%" align="center"><p>3.65</p></td></tr><tr><td width="100%" align="center"><p>3.60</p></td></tr><tr><td width="100%" align="center"><p>3.55</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>       
+<!--next table here -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="premium_30.asp"><h3>Premium 30</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>If you know when you're going to need access to your money, then with Premium 30 we can offer you outstanding rates of interest in return for 30 days notice of your withdrawal.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th><p>Rates from 01 December 2001</p></th>
+            <th><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£100,000</p></th><td align="center" width="50%"><p>4.05</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50,000</p></th><td align="center" width="50%"><p>3.95</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£25,000</p></th><td align="center" width="50%"><p>3.65</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.45</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.10</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>3.05</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>3.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.24</p></td></tr><tr><td width="100%" align="center"><p>3.16</p></td></tr><tr><td width="100%" align="center"><p>2.92</p></td></tr><tr><td width="100%" align="center"><p>2.76</p></td></tr><tr><td width="100%" align="center"><p>2.48</p></td></tr><tr><td width="100%" align="center"><p>2.44</p></td></tr><tr><td width="100%" align="center"><p>2.40</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.05</p></td></tr><tr><td width="100%" align="center"><p>3.95</p></td></tr><tr><td width="100%" align="center"><p>3.65</p></td></tr><tr><td width="100%" align="center"><p>3.45</p></td></tr><tr><td width="100%" align="center"><p>3.10</p></td></tr><tr><td width="100%" align="center"><p>3.05</p></td></tr><tr><td width="100%" align="center"><p>3.00</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£100,000</p></th><td align="center" width="50%"><p>4.55</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50,000</p></th><td align="center" width="50%"><p>4.45</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£25,000</p></th><td align="center" width="50%"><p>4.15</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.95</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.55</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>3.50</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>3.45</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.64</p></td></tr><tr><td width="100%" align="center"><p>3.56</p></td></tr><tr><td width="100%" align="center"><p>3.32</p></td></tr><tr><td width="100%" align="center"><p>3.16</p></td></tr><tr><td width="100%" align="center"><p>2.84</p></td></tr><tr><td width="100%" align="center"><p>2.80</p></td></tr><tr><td width="100%" align="center"><p>2.76</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.55</p></td></tr><tr><td width="100%" align="center"><p>4.45</p></td></tr><tr><td width="100%" align="center"><p>4.15</p></td></tr><tr><td width="100%" align="center"><p>3.95</p></td></tr><tr><td width="100%" align="center"><p>3.55</p></td></tr><tr><td width="100%" align="center"><p>3.50</p></td></tr><tr><td width="100%" align="center"><p>3.45</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+<!--next account -->
+
+
+
+<!--next account -->
+
+
+
+   
+        <h2>&nbsp;</h2>
+        <h2><a name="instant"></a>Instant Access Accounts</h2>
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="instant_50.asp"><h3>Instant 50</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>Earn a high rate of interest and benefit from the flexibility to make up to four penalty free instant access withdrawals each calendar year, pro rata for the first year.
+</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th width="50%"><p>Rates from 01 December 2001</p></th>
+            <th width="50%"><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£100,000</p></th><td align="center" width="50%"><p>3.85</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50,000</p></th><td align="center" width="50%"><p>3.65</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£25,000</p></th><td align="center" width="50%"><p>3.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.25</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.05</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>2.80</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50</p></th><td align="center" width="50%"><p>2.65</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.08</p></td></tr><tr><td width="100%" align="center"><p>2.92</p></td></tr><tr><td width="100%" align="center"><p>2.72</p></td></tr><tr><td width="100%" align="center"><p>2.60</p></td></tr><tr><td width="100%" align="center"><p>2.44</p></td></tr><tr><td width="100%" align="center"><p>2.24</p></td></tr><tr><td width="100%" align="center"><p>2.12</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.85</p></td></tr><tr><td width="100%" align="center"><p>3.65</p></td></tr><tr><td width="100%" align="center"><p>3.40</p></td></tr><tr><td width="100%" align="center"><p>3.25</p></td></tr><tr><td width="100%" align="center"><p>3.05</p></td></tr><tr><td width="100%" align="center"><p>2.80</p></td></tr><tr><td width="100%" align="center"><p>2.65</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£100,000</p></th><td align="center" width="50%"><p>4.35</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50,000</p></th><td align="center" width="50%"><p>4.15</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£25,000</p></th><td align="center" width="50%"><p>3.85</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.70</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.50</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>3.25</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50</p></th><td align="center" width="50%"><p>3.10</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.48</p></td></tr><tr><td width="100%" align="center"><p>3.32</p></td></tr><tr><td width="100%" align="center"><p>3.08</p></td></tr><tr><td width="100%" align="center"><p>2.96</p></td></tr><tr><td width="100%" align="center"><p>2.80</p></td></tr><tr><td width="100%" align="center"><p>2.60</p></td></tr><tr><td width="100%" align="center"><p>2.48</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.35</p></td></tr><tr><td width="100%" align="center"><p>4.15</p></td></tr><tr><td width="100%" align="center"><p>3.85</p></td></tr><tr><td width="100%" align="center"><p>3.70</p></td></tr><tr><td width="100%" align="center"><p>3.50</p></td></tr><tr><td width="100%" align="center"><p>3.25</p></td></tr><tr><td width="100%" align="center"><p>3.10</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+        
+<!--next account -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="premium_access.asp"><h3>Premium Access</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>Our most flexible account, Premium Access lets you save as much as you want, when you want and with the benefit of instant access you can make withdrawals whenever you need to.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th><p>Rates from 01 December 2001</p></th>
+            <th><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>1.15</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>1.10</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>1.05</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>1.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.92</p></td></tr><tr><td width="100%" align="center"><p>0.88</p></td></tr><tr><td width="100%" align="center"><p>0.84</p></td></tr><tr><td width="100%" align="center"><p>0.80</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>1.15</p></td></tr><tr><td width="100%" align="center"><p>1.10</p></td></tr><tr><td width="100%" align="center"><p>1.05</p></td></tr><tr><td width="100%" align="center"><p>1.00</p></td></tr></table></div></td>
+  </tr>
+</table>
+</td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>1.55</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>1.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>1.35</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>1.30</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>1.24</p></td></tr><tr><td width="100%" align="center"><p>1.12</p></td></tr><tr><td width="100%" align="center"><p>1.08</p></td></tr><tr><td width="100%" align="center"><p>1.04</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>1.55</p></td></tr><tr><td width="100%" align="center"><p>1.40</p></td></tr><tr><td width="100%" align="center"><p>1.35</p></td></tr><tr><td width="100%" align="center"><p>1.30</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+<!--next account -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="regular_saver.asp"><h3>Regular Saver</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>If you're the kind of person who likes to put a little money aside each month, then we'll reward that commitment to save with the great rates in our Regular Saver account.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th height="22">
+            <p>Rates from 01 December 2001</p>
+            </th>
+            <th height="22"><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10 minimum per month £250 maximum per month</p></th><td align="center" width="50%"><p>4.10</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.28</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.10</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10 minimum per month £250 maximum per month</p></th><td align="center" width="50%"><p>4.50</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.60</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.50</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+        
+<!--next account -->        
+
+
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="black_cat_saver.asp"><h3>Black Cat Saver</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>The account for the next generation of savers! You can save as much or as little as you like and, because you've got instant access, you can withdraw your money when you need it.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th height="22">
+            <p>Rates from 01 December 2001</p>
+            </th>
+            <th height="22"><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate  %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+    <td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>Minimum £1 - Maximum £5,000</p></th><td align="center" width="50%"><p>4.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.20</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.00</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>Minimum £1 - Maximum £5,000</p></th><td align="center" width="50%"><p>4.25</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.40</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.25</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+
+</td>
+          </tr>
+        </table>
+
+<!--next account -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="wanderers_saver.asp"><h3>Wanderers Saver</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>Whether you are a fan of Bolton Wanderers or simply a fan of great interest rates you can now enjoy the benefit of a savings account that lets you make up to six penalty free withdrawals per year, pro rata for the first year. In addition, your savings will earn the club a cash sum each year.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th><p>Rates from 01 December 2001</p></th>
+            <th><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>2.90</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>2.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>2.15</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>2.72</p></td></tr><tr><td width="100%" align="center"><p>2.32</p></td></tr><tr><td width="100%" align="center"><p>1.92</p></td></tr><tr><td width="100%" align="center"><p>1.72</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.40</p></td></tr><tr><td width="100%" align="center"><p>2.90</p></td></tr><tr><td width="100%" align="center"><p>2.40</p></td></tr><tr><td width="100%" align="center"><p>2.15</p></td></tr></table></div></td>
+  </tr>
+</table>
+</td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.75</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.25</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>2.75</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>2.50</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.00</p></td></tr><tr><td width="100%" align="center"><p>2.60</p></td></tr><tr><td width="100%" align="center"><p>2.20</p></td></tr><tr><td width="100%" align="center"><p>2.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.75</p></td></tr><tr><td width="100%" align="center"><p>3.25</p></td></tr><tr><td width="100%" align="center"><p>2.75</p></td></tr><tr><td width="100%" align="center"><p>2.50</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+<!--next account -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="silkmen_saver.asp"><h3>Silkmen Saver</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>Whether you are a fan of Macclesfield Town or simply a fan of great interest rates you can now enjoy the benefit of a savings account that lets you make up to six penalty free withdrawals per year, pro rata for the first year. In addition, your savings will earn the club a cash sum each year.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th><p>Rates from 01 December 2001</p></th>
+            <th><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>2.90</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>2.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>2.15</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>2.72</p></td></tr><tr><td width="100%" align="center"><p>2.32</p></td></tr><tr><td width="100%" align="center"><p>1.92</p></td></tr><tr><td width="100%" align="center"><p>1.72</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.40</p></td></tr><tr><td width="100%" align="center"><p>2.90</p></td></tr><tr><td width="100%" align="center"><p>2.40</p></td></tr><tr><td width="100%" align="center"><p>2.15</p></td></tr></table></div></td>
+  </tr>
+</table>
+</td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.75</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.25</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>2.75</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>2.50</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.00</p></td></tr><tr><td width="100%" align="center"><p>2.60</p></td></tr><tr><td width="100%" align="center"><p>2.20</p></td></tr><tr><td width="100%" align="center"><p>2.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.75</p></td></tr><tr><td width="100%" align="center"><p>3.25</p></td></tr><tr><td width="100%" align="center"><p>2.75</p></td></tr><tr><td width="100%" align="center"><p>2.50</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+        
+<!--next account -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="caring_for_children.asp"><h3>Caring For Children</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>This savings account provides good rates of interest plus you can make up to six penalty free withdrawals per year, pro rata for the first year. What's more, the Society will provide a cash sum to NCH based on your savings.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th><p>Rates from 01 December 2001</p></th>
+            <th><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>2.90</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>2.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>2.15</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>2.72</p></td></tr><tr><td width="100%" align="center"><p>2.32</p></td></tr><tr><td width="100%" align="center"><p>1.92</p></td></tr><tr><td width="100%" align="center"><p>1.72</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.40</p></td></tr><tr><td width="100%" align="center"><p>2.90</p></td></tr><tr><td width="100%" align="center"><p>2.40</p></td></tr><tr><td width="100%" align="center"><p>2.15</p></td></tr></table></div></td>
+  </tr>
+</table>
+</td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.75</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.25</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>2.75</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>2.50</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.00</p></td></tr><tr><td width="100%" align="center"><p>2.60</p></td></tr><tr><td width="100%" align="center"><p>2.20</p></td></tr><tr><td width="100%" align="center"><p>2.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.75</p></td></tr><tr><td width="100%" align="center"><p>3.25</p></td></tr><tr><td width="100%" align="center"><p>2.75</p></td></tr><tr><td width="100%" align="center"><p>2.50</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+        
+<!--next account -->        
+        
+        <p></p>
+        
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="city_saver.asp"><h3>City Saver</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>Special Promotion Year Bonus!</p>
+        <p>Whether you are a fan of Manchester City or simply a fan of great interest rates you'll be 'over the moon' with our savings account that lets you make up to six penalty free withdrawals per year, pro rata for the first year. Plus, your savings will earn the club a cash sum each year. In addition to the rates below City saver's also receive an extra 1.08% bonus from 1 May 2002 to 31 July 2002, based on the number of league goals scored during the fantastic 2001/2002 season!</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th><p>Rates from 01 December 2001</p></th>
+            <th><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>2.90</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>2.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>2.15</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>2.72</p></td></tr><tr><td width="100%" align="center"><p>2.32</p></td></tr><tr><td width="100%" align="center"><p>1.92</p></td></tr><tr><td width="100%" align="center"><p>1.72</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.40</p></td></tr><tr><td width="100%" align="center"><p>2.90</p></td></tr><tr><td width="100%" align="center"><p>2.40</p></td></tr><tr><td width="100%" align="center"><p>2.15</p></td></tr></table></div></td>
+  </tr>
+</table>
+</td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.75</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>3.25</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>2.75</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>2.50</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.00</p></td></tr><tr><td width="100%" align="center"><p>2.60</p></td></tr><tr><td width="100%" align="center"><p>2.20</p></td></tr><tr><td width="100%" align="center"><p>2.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.75</p></td></tr><tr><td width="100%" align="center"><p>3.25</p></td></tr><tr><td width="100%" align="center"><p>2.75</p></td></tr><tr><td width="100%" align="center"><p>2.50</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+                
+<!--next account -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="crewe_alexandra_academy_account.asp"><h3>Crewe Alexandra<br>Academy Account</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>Whether you are a fan of Crewe Alexandra or simply a fan of great interest rates you can now enjoy the benefit of a savings account that lets you make up to six penalty free withdrawals per year, pro rata for the first year. In addition, your savings will earn the club a cash sum each year.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th><p>Rates from 02 April 2002</p></th>
+            <th><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>2.90</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>2.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>2.15</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>2.72</p></td></tr><tr><td width="100%" align="center"><p>2.32</p></td></tr><tr><td width="100%" align="center"><p>1.92</p></td></tr><tr><td width="100%" align="center"><p>1.72</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.40</p></td></tr><tr><td width="100%" align="center"><p>2.90</p></td></tr><tr><td width="100%" align="center"><p>2.40</p></td></tr><tr><td width="100%" align="center"><p>2.15</p></td></tr></table></div></td>
+  </tr>
+</table>
+</td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>0.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>0.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>0.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+
+<!--next account -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="super_wolves_saver.asp"><h3>Super Wolves Saver</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>Whether you are a fan of Warrington Wolves RLFC or simply a fan of great interest rates you can now enjoy the benefit of a savings account that lets you make up to six penalty free withdrawals per year, pro rata for the first year. In addition, your savings will earn the club a cash sum each year.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th><p>Rates from 13 May 2002</p></th>
+            <th><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>3.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>2.90</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>2.40</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>2.15</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>2.72</p></td></tr><tr><td width="100%" align="center"><p>2.32</p></td></tr><tr><td width="100%" align="center"><p>1.92</p></td></tr><tr><td width="100%" align="center"><p>1.72</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.40</p></td></tr><tr><td width="100%" align="center"><p>2.90</p></td></tr><tr><td width="100%" align="center"><p>2.40</p></td></tr><tr><td width="100%" align="center"><p>2.15</p></td></tr></table></div></td>
+  </tr>
+</table>
+</td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>0.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>0.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>0.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+        
+
+<!--next account -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="wolf_pack_account.asp"><h3>Wolf Pack Account</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>Young Warrington Wolves RLFC fans can take advantage of our Wolf Pack Account. With instant access and an attractive rate of interest, what better way to support the club!</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th><p>Rates from 13 May 2002</p></th>
+            <th><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>Minimum £1 - Maximum £5,000</p></th><td align="center" width="50%"><p>4.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.20</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.00</p></td></tr></table></div></td>
+  </tr>
+</table>
+</td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>Minimum £1 - Maximum £5,000</p></th><td align="center" width="50%"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+       
+<!-- next account -->
+
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="mini_cash_isa_3rd_issue.asp"><h3>Mini Cash ISA (3rd Issue)</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>ISA stands for Individual Savings Account, a means of investing that allows you to earn interest without paying tax. With the Cheshire's CAT standard Mini Cash ISA (3rd Issue) you can enjoy instant access and an attractive rate of interest.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th height="22"><p>Rates from 01 December 2001</p></th>
+            <th height="22"><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Tax Free Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£1+</p></th><td align="center" width="50%"><p>4.30</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>-</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.30</p></td></tr></table></div></td>
+  </tr>
+</table>
+</td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Tax Free Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£1+</p></th><td align="center" width="50%"><p>4.80</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>-</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.80</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+
+</td>
+          </tr>
+        </table>
+        
+<!--next account -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="tessa_only_isa_2nd_issue.asp"><h3>Tessa Only ISA (2nd Issue)</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>This special tax-free account offers a competitive rate of interest for the capital invested in a TESSA, allowing you to keep your tax free benefits further into the future. Our CAT standard TESSA only ISA (2nd Issue) allows you to enjoy instant access if you need it and an attractive rate of interest.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th height="22"><p>Rates from 01 December 2001</p></th>
+            <th height="22"><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Tax Free Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£1+ Maximum of £9,000</p></th><td align="center" width="50%"><p>4.30</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>-</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.30</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Tax Free Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£1+ Maximum of £9,000</p></th><td align="center" width="50%"><p>4.80</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>-</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.80</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+
+</td>
+          </tr>
+        </table>
+        
+<!--next account -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="club_class.asp"><h3>Club Class</h3></a></td></tr></table>
+        <p>Club Class is the Cheshire's investment service designed specifically for people investing on behalf of a club, charity, company, or similar organisation. The account offers easy access to funds at competitive rates of interest.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th height="22"><p>Rates from 01 May 2002</p></th>
+            <th height="22"><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Tax Free Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£100,000</p></th><td align="center" width="50%"><p>3.80</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50,000</p></th><td align="center" width="50%"><p>3.50</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£25,000</p></th><td align="center" width="50%"><p>3.15</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>2.70</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>2.25</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>1.75</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>1.20</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.04</p></td></tr><tr><td width="100%" align="center"><p>2.80</p></td></tr><tr><td width="100%" align="center"><p>2.52</p></td></tr><tr><td width="100%" align="center"><p>2.16</p></td></tr><tr><td width="100%" align="center"><p>1.80</p></td></tr><tr><td width="100%" align="center"><p>1.40</p></td></tr><tr><td width="100%" align="center"><p>0.96</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.80</p></td></tr><tr><td width="100%" align="center"><p>3.50</p></td></tr><tr><td width="100%" align="center"><p>3.15</p></td></tr><tr><td width="100%" align="center"><p>2.70</p></td></tr><tr><td width="100%" align="center"><p>2.25</p></td></tr><tr><td width="100%" align="center"><p>1.75</p></td></tr><tr><td width="100%" align="center"><p>1.20</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Tax Free Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£100,000</p></th><td align="center" width="50%"><p>1.15</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£50,000</p></th><td align="center" width="50%"><p>1.15</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£25,000</p></th><td align="center" width="50%"><p>1.15</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£10,000</p></th><td align="center" width="50%"><p>1.15</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>1.10</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£2,500</p></th><td align="center" width="50%"><p>1.05</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1</p></th><td align="center" width="50%"><p>1.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.92</p></td></tr><tr><td width="100%" align="center"><p>0.92</p></td></tr><tr><td width="100%" align="center"><p>0.92</p></td></tr><tr><td width="100%" align="center"><p>0.92</p></td></tr><tr><td width="100%" align="center"><p>0.88</p></td></tr><tr><td width="100%" align="center"><p>0.84</p></td></tr><tr><td width="100%" align="center"><p>0.80</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>1.15</p></td></tr><tr><td width="100%" align="center"><p>1.15</p></td></tr><tr><td width="100%" align="center"><p>1.15</p></td></tr><tr><td width="100%" align="center"><p>1.15</p></td></tr><tr><td width="100%" align="center"><p>1.10</p></td></tr><tr><td width="100%" align="center"><p>1.05</p></td></tr><tr><td width="100%" align="center"><p>1.00</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+
+</td>
+          </tr>
+        </table>        
+<!--next table -->        
+        
+        
+        <p>&nbsp;</p>
+        <h2><a name="bonds">Bonds</a></h2>
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="members_loyalty_bond_2nd_issue.asp"><h3>Members Loyalty Bond<br>(2nd Issue)</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>A two year investment Bond that rewards loyal savers with a guarantee to pay just 0.75% below our Standard Variable Mortgage Rate for the whole of the term.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th height="22"><p>Rates from 01 December 2001</p></th>
+            <th height="22"><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>Minimum £1,000 Maximum £25,000</p></th><td align="center" width="50%"><p>4.90</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.92</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.90</p></td></tr></table></div></td>
+  </tr>
+</table>
+</td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>Minimum £1,000 Maximum £25,000</p></th><td align="center" width="50%"><p>5.34</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.27</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>5.34</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+        <!--next account -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="tempo_.asp"><h3>Tempo</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>TEMPO offers a fixed investment plan with a guaranteed, fixed rate of interest. You choose the term that suits you best, either 6, 12 or 18 months.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th height="22"><p>Rates from 01 May 2002</p></th>
+            <th height="22"><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>6 Month Bond</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>4.30</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1,000</p></th><td align="center" width="50%"><p>4.10</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.44</p></td></tr><tr><td width="100%" align="center"><p>3.28</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.35</p></td></tr><tr><td width="100%" align="center"><p>4.14</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>6 Month Bond</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>0.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1,000</p></th><td align="center" width="50%"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+     
+
+
+            </td>
+          </tr>
+        </table>        
+        
+
+        <!--next account -->        
+        
+        
+        
+       
+        <table width="100%" border="1">
+		  <tr> 
+            <th height="22"><p>Rates from 28 March 2002</p></th>
+            <th height="22"><p>Previous Rates</p></th>
+          </tr>	
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>12 Month Bond</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>4.70</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1,000</p></th><td align="center" width="50%"><p>4.50</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.76</p></td></tr><tr><td width="100%" align="center"><p>3.60</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.70</p></td></tr><tr><td width="100%" align="center"><p>4.50</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>12 Month Bond</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>4.10</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1,000</p></th><td align="center" width="50%"><p>3.85</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>3.28</p></td></tr><tr><td width="100%" align="center"><p>3.08</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.10</p></td></tr><tr><td width="100%" align="center"><p>3.85</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+     
+
+
+            </td>
+          </tr>
+        </table>
+        <!--next account -->        
+        
+        
+        <table width="100%" border="1">
+          <tr> 
+            <th height="22"><p>Rates from 28 March 2002</p></th>
+            <th height="22"><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>18 Month Bond</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>5.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1,000</p></th><td align="center" width="50%"><p>4.80</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.00</p></td></tr><tr><td width="100%" align="center"><p>3.84</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.92</p></td></tr><tr><td width="100%" align="center"><p>4.72</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>18 Month Bond</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>£5,000</p></th><td align="center" width="50%"><p>0.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>£1,000</p></th><td align="center" width="50%"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+     
+
+
+            </td>
+          </tr>
+        </table>
+        <!--next table -->        
+        
+        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="escalator_bond_issue_6.asp"><h3>Escalator Bond Issue 6</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>Our Escalator Bond Issue 6 is a fixed term account maturing 28 February 2005, with rates guaranteed to rise each year. The AER over the period is 5.33%.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th height="22"><p>Rates from 28 March 2002</p></th>
+            <th height="22"><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b></b></p>
+</th>
+</tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>To 28.02.05</p></th><td align="center" width="50%"><p>6.50</p></td></tr><tr><th align="center" valign="top" width="50%"><p>To 28.02.04</p></th><td align="center" width="50%"><p>5.25</p></td></tr><tr><th align="center" valign="top" width="50%"><p>To 28.02.03</p></th><td align="center" width="50%"><p>4.25</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>5.20</p></td></tr><tr><td width="100%" align="center"><p>4.20</p></td></tr><tr><td width="100%" align="center"><p>3.40</p></td></tr></table></div></td>
+  </tr>
+</table>
+</td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"></p>
+</th>
+</tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>To 28.02.05</p></th><td align="center" width="50%"><p>0.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>To 28.02.04</p></th><td align="center" width="50%"><p>0.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>To 28.02.03</p></th><td align="center" width="50%"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table>
+        <!--next table here -->        
+        
+        <table width="100%" border="1">
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Monthly Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b></b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>To 28.02.05</p></th><td align="center" width="50%"><p>6.31</p></td></tr><tr><th align="center" valign="top" width="50%"><p>To 28.02.04</p></th><td align="center" width="50%"><p>5.13</p></td></tr><tr><th align="center" valign="top" width="50%"><p>To 28.02.03</p></th><td align="center" width="50%"><p>4.17</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>5.05</p></td></tr><tr><td width="100%" align="center"><p>4.10</p></td></tr><tr><td width="100%" align="center"><p>3.34</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Monthly Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b></b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>To 28.02.05</p></th><td align="center" width="50%"><p>0.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>To 28.02.04</p></th><td align="center" width="50%"><p>0.00</p></td></tr><tr><th align="center" valign="top" width="50%"><p>To 28.02.03</p></th><td align="center" width="50%"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table> 
+        
+        
+        <!--next account -->        
+        
+        <p></p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width=240><a href="black_cat_bond.asp"><h3>Black Cat Bond</h3></a></td><td width=360 valign=bottom><a href="../EIAPSInfo/introduction.asp"><img src="../images/applynow.gif" width=125 height=18 border=0 alt="Apply Now"></a></td></tr></table>
+        <p>An ideal way to give the next generation a nest egg for the future. Black Cat Bond is a four year, fixed rate bond available to anyone under 14 years old, or the account can be opened on behalf of an under 14 year old. The AER over the period is 5.74%.</p>
+        <table width="100%" border="1">
+          <tr> 
+            <th height="22"><p>Rates from 17 June 2002</p></th>
+            <th height="22"><p>Previous Rates</p></th>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>All on maturity</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>Minimum £500  Maximum £25,000</p></th><td align="center" width="50%"><p>25.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>20.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>5.74</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>All on maturity</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>Minimum £500  Maximum £25,000</p></th><td align="center" width="50%"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+
+</td>
+          </tr>
+        </table>
+                <!--next table here -->        
+        
+        <table width="100%" border="1">
+          <tr> 
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>Minimum £500  Maximum £25,000</p></th><td align="center" width="50%"><p>5.74</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>4.59</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>5.74</p></td></tr></table></div></td>
+  </tr>
+</table></td>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Annual Interest</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Gross Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>Net Rate %</b></p>
+</th>
+<th align="center" valign="top" width="25%">
+<p class="headrow"><b>AER %</b></p>
+</th>
+</tr>
+<tr>
+<td colspan="2" width="50%"><div><table border="0" cellspacing="0" width="100%"><tr><th align="center" valign="top" width="50%"><p>Minimum £500  Maximum £25,000</p></th><td align="center" width="50%"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td><td width="25%"><div align="center"><table border="0" cellspacing="0" width="100%"><tr><td width="100%" align="center"><p>0.00</p></td></tr></table></div></td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+        </table> 
+        
+        
+            
+        <p>&nbsp;</p>
+        <a href="index.asp">Investments Index </a><!-- #EndEditable --><br>
+      </td>
+    </tr>
+  </table>
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="600" height="1" valign="top" colspan="2"><img src="../images/BG.gif" width="600" height="1"></td>
+    </tr>
+    <tr> 
+      <td width="150" valign="bottom"> 
+        <p><img src="../images/up.gif" width="9" height="10"> 
+          <a href="#top">Back to Top</a></p>
+      </td>
+      <td width="450" valign="top"> <p><a href="../legal/index.asp">Terms and Conditions</a>&nbsp | &nbsp&copy; Copyright Cheshire Building Society 1998 </p>
+<!-- <p><b>This site is currently in development. Cheshire Building Society accepts no responsibility for unathorised use.</b></p> --> 
+      </td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+</div>
+
+
+
+
+</body>
+</html>
+

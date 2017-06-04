@@ -1,0 +1,454 @@
+ID=A0096
+URL=http://www.nbonline.co.uk/personal/nbon_web_per_php_038.php
+SIZE=27712
+DATE=27/06/02
+TIME=16:52:09
+DATASET=Commercial Banks
+HTML=
+<html>
+<head>
+<title>Northern Bank</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="/css/nag.css" type="text/css">
+</head>
+<body margin="0" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+<script language = "JavaScript">
+<!--//
+function preloader(){return;}
+s1 = new Image(110,33);
+s1.src = "/g_images/2b_bus_001.gif";
+s1 = new Image(110,33);
+s1.src = "/g_images/2b_bus_001h.gif";
+s1 = new Image(110,34);
+s1.src = "/g_images/2b_bus_002.gif";
+s1 = new Image(110,34);
+s1.src = "/g_images/2b_bus_002h.gif";
+s1 = new Image(110,46);
+s1.src = "/g_images/2b_bus_003.gif";
+s1 = new Image(110,46);
+s1.src = "/g_images/2b_bus_003h.gif";
+s1 = new Image(110,58);
+s1.src = "/g_images/2b_bus_004.gif";
+s1 = new Image(110,58);
+s1.src = "/g_images/2b_bus_004h.gif";
+s1 = new Image(110,22);
+s1.src = "/g_images/2b_bus_005.gif";
+s1 = new Image(110,22);
+s1.src = "/g_images/2b_bus_005h.gif";
+s1 = new Image(110,22);
+s1.src = "/g_images/2b_bus_006.gif";
+s1 = new Image(110,22);
+s1.src = "/g_images/2b_bus_006h.gif";
+s1 = new Image(110,58);
+s1.src = "/g_images/2b_bus_008.gif";
+s1 = new Image(110,58);
+s1.src = "/g_images/2b_bus_008h.gif";
+//-->
+</script><script language = "JavaScript">
+<!--//
+function preloader(){return;}
+b1 = new Image(110,34);
+b1.src = "/g_images/1b_personal.gif";
+b1 = new Image(110,34);
+b1.src = "/g_images/1b_personal_r.gif";
+b2 = new Image(110,34);
+b2.src = "/g_images/1b_business.gif";
+b2 = new Image(110,34);
+b2.src = "/g_images/1b_business_r.gif";
+b3 = new Image(110,34);
+b3.src = "/g_images/1b_aboutus.gif";
+b3 = new Image(110,34);
+b3.src = "/g_images/1b_aboutus_r.gif";
+b5 = new Image(110,34);
+b5.src = "/g_images/1b_share.gif";
+b5 = new Image(110,34);
+b5.src = "/g_images/1b_share_r.gif";
+//-->
+</script><script type="text/javascript" language="Javascript">
+<!--
+function viewper() {
+	
+	window.open("/index_dis.php","myWindow","scrollbars=yes, width=400 ,height=500");
+}
+
+function POP(the_url) {
+popup = window.open(the_url,'Demo','width=696,height=492,top=0,left=0,toolbar=no,location=no,status=yes,menubar=no,scrollbars=yes,resizable=yes');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+	popup.focus();
+}
+
+
+
+
+
+
+
+
+//-->
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="164" height="68"><img src="/g_images/logo.gif" alt="Northern Bank" /></td>
+    <td class="navbottomright" height="68">
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+		  <td height="15" class="navbottomright">
+            <!--STARTDATE-->
+            Thursday, 27.06.02            <!--ENDDATE-->
+          </td>
+		  <td class="navbottomright"><img src="/g_images/1x1space.gif" width="10" alt="" /></td>
+          <td class="navbottomright"><a href="/index.php"><img src="/g_images/1b_utilities_001.gif" border="0" alt="Home" /></a></td>
+          <td class="navbottomright"><a href="/sitemap.php"><img src="/g_images/1b_utilities_002.gif" border="0" alt="Site Map" /></a></td>
+          <td class="navbottomright"><a href="/personal/InterestRates.php"><img src="/g_images/1b_utilities_005.gif" border="0" alt="Interest Rates" /></a></td>
+		  <td class="navbottomright"><a href="javascript:void(null)" onClick="javascript:viewper()"><img src="/g_images/1b_utilities_003.gif" border="0" alt="Rules of Use" /></a></td>
+          <td class="navbottomright"><a href="/about/nbon_web_abo_php_004.php"><img src="/g_images/1b_utilities_004.gif" border="0" alt="Contact Us" /></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colpsan="3" height="1"><img src="/g_images/1x1space.gif" width="100%" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="navmenuleft">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          			
+          <td class="navmenuleft" nowrap><a href="/personal/nbon_web_per_php_000.php" onMouseOver="document.b1.src='/g_images/1b_personal_r.gif'" onMouseOut="document.b1.src='/g_images/1b_personal_r.gif'"><img src="/g_images/1b_personal_r.gif" width="110" height="34" name="b1" alt="Personal" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/business/nbon_web_bus_php_001.php" onMouseOver="document.b2.src='/g_images/1b_business_r.gif'" onMouseOut="document.b2.src='/g_images/1b_business.gif'"><img src="/g_images/1b_business.gif" width="110" height="34" name="b2" alt="Business" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/about/nbon_web_abo_php_000.php" onMouseOver="document.b3.src='/g_images/1b_aboutus_r.gif'" onMouseOut="document.b3.src='/g_images/1b_aboutus.gif'"><img src="/g_images/1b_aboutus.gif" width="110" height="34" name="b3" border="0" alt="About Us" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/personal/nbon_web_per_php_010.php" onMouseOver="document.b5.src='/g_images/1b_share_r.gif'" onMouseOut="document.b5.src='/g_images/1b_share.gif'"><img src="/g_images/1b_share.gif" width="110" height="34" name="b5" alt="Online Sharedealing" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /></td>
+                  </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2" height="1"><img src="/g_images/1x1space.gif" width="100%" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    <!-- personal level 1 -->
+
+<!-- business level 1 -->
+<!-- business level 2 -->
+
+
+
+
+
+<!-- about us level 1 -->
+<!-- about us level 2 -->
+<!-- ibank level 1 -->
+<!-- ibank level 2 -->
+
+<!-- main draw function -->
+<td width="109" class="personal">
+			<a href="/personal/nbon_web_per_php_082.php" onMouseOver="document.l13.src='/g_images/2b_pers_013h.gif'" onMouseOut="document.l13.src='/g_images/2b_pers_013.gif'"><img src="/g_images/2b_pers_013.gif" name="l13" alt="Financial Healthcheck" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/nbon_web_per_php_001.php" onMouseOver="document.l1.src='/g_images/2b_pers_001h.gif'" onMouseOut="document.l1.src='/g_images/2b_pers_001.gif'"><img src="/g_images/2b_pers_001.gif" name="l1" alt="Convenience Banking" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/nbon_web_per_php_002.php" onMouseOver="document.l2.src='/g_images/2b_pers_002h.gif'" onMouseOut="document.l2.src='/g_images/2b_pers_002.gif'"><img src="/g_images/2b_pers_002.gif" name="l2" alt="24 Hour Telephone Banking" width="110" height="46" border="0" /></a><br>
+			<a href="/personal/nbon_web_per_php_003.php" onMouseOver="document.l3.src='/g_images/2b_pers_003h.gif'" onMouseOut="document.l3.src='/g_images/2b_pers_003.gif'"><img src="/g_images/2b_pers_003.gif" name="l3" alt="Credit Cards" border="0" width="110" height="22" /></a><br>
+			<a href="/personal/nbon_web_per_php_004.php" onMouseOver="document.l4.src='/g_images/2b_pers_004h.gif'" onMouseOut="document.l4.src='/g_images/2b_pers_004.gif'"><img src="/g_images/2b_pers_004.gif" name="l4" alt="Personal Loans" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/nbon_web_per_php_005.php" onMouseOver="document.l5.src='/g_images/2b_pers_005h.gif'" onMouseOut="document.l5.src='/g_images/2b_pers_005h.gif'"><img src="/g_images/2b_pers_005h.gif" name="l5" alt="Your Home" width="110" height="22" border="0" /></a><br>
+	<img src="/g_images/1x1space.gif" width="100%" height="1" alt="" /><br>
+<table width="110" border="0" cellspacing="0" cellpadding="2">
+	
+
+	  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/nbon_web_per_php_097.php" class="businesslink">First Time Buyers</a></td>
+  </tr>
+		
+	  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/nbon_web_per_php_089.php" class="businesslink">Rapid Repay</a></td>
+  </tr>
+		
+	
+	
+	
+	  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/nbon_web_per_php_098.php" class="businesslink">Switching Your Home Loan</a></td>
+  </tr>
+		
+	  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/nbon_web_per_php_099.php" class="businesslink">Base Rate Tracker</a></td>
+  </tr>
+		
+	
+	  <tr>
+    <td width="1" class="personal_lower_high"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower_high"><a href="/personal/nbon_web_per_php_038.php" class="businesslink">Home Loans</a></td>
+  </tr>
+		
+	  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/nbon_web_per_php_042.php" class="businesslink">Buying Your First Home</a></td>
+  </tr>
+		  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/nbon_web_per_php_043.php" class="businesslink">Moving or Upgrading Your Home</a></td>
+  </tr>
+		  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/nbon_web_per_php_048.php" class="businesslink">Changing or Refinancing Your Home</a></td>
+  </tr>
+		  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/nbon_web_per_php_049.php" class="businesslink">Arranging Your Loan</a></td>
+  </tr>
+		  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/nbon_web_per_php_050.php" class="businesslink">Fees and Charges</a></td>
+  </tr>
+		  <tr>
+    <td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt="" /></td>
+    <td class="personal_lower"><a href="/personal/nbon_web_per_php_051.php" class="businesslink">Budgeting</a></td>
+  </tr>
+	</table>
+<img src="/g_images/1x1space.gif" width="100%" height="1" alt="" /><br>
+			<a href="/personal/nbon_web_per_php_006.php" onMouseOver="document.l6.src='/g_images/2b_pers_006h.gif'" onMouseOut="document.l6.src='/g_images/2b_pers_006.gif'"><img src="/g_images/2b_pers_006.gif" name="l6" alt="Savings" width="110" height="22" border="0" /></a><br>
+			<a href="/personal/nbon_web_per_php_007.php" onMouseOver="document.l7.src='/g_images/2b_pers_007h.gif'" onMouseOut="document.l7.src='/g_images/2b_pers_007.gif'"><img src="/g_images/2b_pers_007.gif" name="l7" alt="Financial planning" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/nbon_web_per_php_008.php" onMouseOver="document.l8.src='/g_images/2b_pers_008h.gif'" onMouseOut="document.l8.src='/g_images/2b_pers_008.gif'"><img src="/g_images/2b_pers_008.gif" name="l8" alt="Investment Housing Loans" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/nbon_web_per_php_009.php" onMouseOver="document.l9.src='/g_images/2b_pers_009h.gif'" onMouseOut="document.l9.src='/g_images/2b_pers_009.gif'"><img src="/g_images/2b_pers_009.gif" name="l9" alt="Private Client Investment Management" width="110" height="46" border="0" /></a><br>
+			<a href="/personal/nbon_web_per_php_010.php" onMouseOver="document.l10.src='/g_images/2b_pers_010h.gif'" onMouseOut="document.l10.src='/g_images/2b_pers_010.gif'"><img src="/g_images/2b_pers_010.gif" name="l10" alt="Online Sharedealing" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/nbon_web_per_php_079.php" onMouseOver="document.l12.src='/g_images/2b_pers_012h.gif'" onMouseOut="document.l12.src='/g_images/2b_pers_012.gif'"><img src="/g_images/2b_pers_012.gif" name="l12" alt="Euro" width="111" height="22" border="0" /></a><br>
+			<a href="/personal/nbon_web_per_php_011.php" onMouseOver="document.l11.src='/g_images/2b_pers_011h.gif'" onMouseOut="document.l11.src='/g_images/2b_pers_011.gif'"><img src="/g_images/2b_pers_011.gif" name="l11" alt="Interest Rates" width="111" height="22" border="0" /></a><br>
+	<img src="/g_images/2b_divider.gif" width="100%" height="1" alt="" /><br>
+	</td>
+
+	<!-- Page Content -->
+    <td class="content">
+      <table border="0" cellspacing="5" cellpadding="0" width="100%">
+        <tr>
+		  <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt=" "></td>
+          <td colspan="3" class="content">
+            <p class="bread"><a href="/personal/nbon_web_per_php_000.php" class="breadcrumbs">Personal</a> > <a href="/personal/nbon_web_per_php_005.php" class="breadcrumbs">Your Home</a> > <a href="/personal/nbon_web_per_php_037.php" class="breadcrumbs">Home Loans</a> > Tailoring Your Home Loan</p>
+            <p class="contentmainhead">Your Home</p>
+          </td>
+        </tr>
+		<tr>
+          <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt=" "></td>
+          <td colspan="3" height="1"><img src="/g_images/3b_blackline.gif" width="100%" height="1" alt="" /></td>
+        </tr>
+        <tr>
+          <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt=" "></td>
+          <td class="content">
+		  <p class="contentsubhead">Tailoring Your Home Loan</p>
+		  <p>The key to Tailoring your Home Loan and it’s Repayment Schedule is <strong>choice</strong>, we explain the options and help you make an informed choice.</p>
+      <p> We offer you <strong>flexibility</strong> and we give you <strong>contol</strong>. If you
+        take control and Tailor your repayment schedule you will <strong>save money</strong>
+        on interest costs and could <strong>save time</strong> by repaying your Home Loan
+        early.</p>
+      <p> You also have the <strong>peace of mind</strong> that comes from knowing that
+        <strong>you</strong> are in <strong>control of your home loan</strong> and that we have the
+        <strong>flexibility</strong> to cope with your ever changing needs. </p>
+<ul>
+<li><a href="#link1" class="link">What Could a Tailored Home Loan Mean to You </a></li>
+<li><a href="#link2" class="link">Tailoring The Structure of Your Loan</a></li>
+<li><a href="#link3" class="link">Tailoring Your Repayment Schedule </a></li>
+<li><a href="#link4" class="link">Tailoring Your Package </a></li>
+<li><a href="#link5" class="link">Bridging Finance </a></li>
+<li><a href="#link6" class="link">Ten Questions you Should Ask your Home Loan Provider</a></li>
+</ul>
+<p class="contentsubhead"><a name="link1"></a>What Could a Tailored Home Loan Mean to You </p>
+<ul>
+<li>Tailored to your individual needs</li>
+<p></p>
+<li>Save Time - could allow you to repay your Home Loan more quickly</li>
+<p></p>
+<li>Save Money - Gives you significant savings in interest costs</li>
+<p></p>
+<li>Annual review of your repayments</li>
+<p></p>
+<li>Allows you to budget on an annual basis</li>
+<p></p>
+<li>You will be cushioned from rapid fluctuations in Interest Rates</li>
+<p></p>
+<li>You can reschedule your repayments at any time</li>
+<p></p>
+<li>You can make lump sum repayments</li>
+<p></p>
+<li>You can be free to spend your disposable income at an earlier age</li>
+<p></p>
+<li>Choice of repayment frequencies</li>
+<p></p>
+<li>You have control over your Home Loan</li>
+<p></p>
+<li>Flexibility</li>
+<p></p>
+<li>Peace of mind</li>
+</ul>
+<p align="right"><a href="#top" class="link">Back to Top</a></p>
+<p class="contentsubhead"><a name="link2"></a>Tailoring The Structure of Your Loan</p>
+
+<p>There are a number of basic decisions to be made when you take out a Home Loan. </p>
+<ul>
+<li><a href="#borrow" class="link">How much to Borrow</a></li>
+<li><a href="#term" class="link">The Term</a></li>
+<li><a href="#interest" class="link">Capital and Interest Repayment or Interest Only</a></li>
+<li><a href="#rate" class="link">Fixed, Variable or Capped Rates</a></li>
+<li><a href="#repayments" class="link">Repayment Frequency</a></li>
+</ul>
+<p><a name="borrow"><strong>1. How much do you want to borrow</strong></a> - to a large extent this will be dictated by the property you want to buy. However you have the choice of how much of your own savings you wish to place as a deposit, which will influence the amount you need to borrow</p>
+<p><a name="term"><strong>2. The Term</strong></a> - historically mortgages have been taken over a period of 25 years and there is often no choice in this matter. At Northern, we realise that you may have some personal goals eg. having the mortgage repaid before the children go off to university, or perhaps you want to retire early and have a specific age in mind, we therefore offer you a choice of the term over which your Home Loan is repaid, in order to accommodate these personal aspirations. We also realise that circumstances can change quite dramatically during the term of your Home Loan, so we give you the flexibility to adjust the actual term of your loan.</p>
+<p><a name="interest"><strong>3. Capital and Interest Repayment or Interest Only</strong></a></p>
+<p><a name="rate"><strong>4. Fixed, Variable or Capped Rates</strong></a></p>
+<p><a name="repayments"><strong>5. Repayment Frequency</strong></a> - historically mortgages are repaid monthly, however Northern offers a choice of weekly, fortnightly or monthly repayments for our Home Loans, so that you can choose the frequency which best suits when you are paid. You can even choose the day of the week or the day of the month on which the repayment is made</p>
+<p>At Northern we use the term "Home Loan" rather than "Mortgage". That’s because, technically speaking, a "Mortgage" is a legal document which secures a loan against property. What the Bank actually provides is a Loan which helps you to buy your Home, hence the term "Home Loan".</p>
+<p>Making these initial choices about amount, term, type of loan, interest rates and repayment frequency, are the first steps in identifying what exactly you need from your Home Loan and making sure that it suits those needs. We call this process "Tailoring" and hence what we provide is a Tailored Financial Solution.</p>
+<p align="right"><a href="#top" class="link">Back to Top</a></p>
+<p class="contentsubhead"><a name="link3"></a>Tailoring Your Repayment Schedule </p>
+<p>Once the basic structure of your Home Loan is determined we then work out your repayment schedule, we want to put you, the customer, in control - it is after all your Home Loan and Your Repayment Schedule.</p>
+<p>With a Standard Northern Home Loan, your repayments go towards paying back interest only or a combination of both capital and interest. At today’s interest rates, your total interest payments can amount to a substantial sum. With a Northern Tailored Home Loan, you are encouraged to increase your Gross Repayments by an amount which you can comfortably afford.</p>
+<p>There are a number of ways in which you can do this :</p>
+<ul>
+<li><a href="#monthly" class="link">Increase your monthly repayments</a></li>
+<li><a href="#stepups" class="link">Annual Step-ups in repayments</a></li>
+<li><a href="#adhoc" class="link">Ad-hoc Lump Sum repayments</a></li>
+</ul>
+<p><a name="monthly"><strong>1. Increase your monthly repayments</strong></a><br>
+With this option you choose exactly how much you wish to repay each month, as long as it is greater than the minimum.  The amount you choose can be adjusted at any time, so you can pay extra when you can comfortably afford it and reduce your repayments at times of heavy expenditure such as Christmas and holidays.</p>
+<p><a name="stepups"><strong>2. Annual Step-ups in repayments</strong></a><br>
+With this option, your repayments remain the same throughout each year, however at the end of each year your repayments are "stepped up" by a percentage which you choose  eg. if you choose a 1% step up on your repayments of £500, your repayments will be increased by £5 (1%) at the end of year one and you will pay £505 each month the following year (year two) and so on.</p>
+<p><a name="adhoc"><strong>3. Ad-hoc Lump Sum repayments</strong></a><br>
+You may not want to pay an increased repayment amount every month and prefer to simply make extra lump sum repayments every now and again. If you receive a quarterly commission payment or perhaps an annual bonus, these can be used to pay off your home loan.</p>
+<p align="right"><a href="#top" class="link">Back to Top</a></p>
+<p class="contentsubhead"><a name="link4"></a>Tailoring Your Package </p>
+<p>The Home Loan is a core relationship product around which many of your other financial needs can be met.  Some of these are required from the start of your Home Loan (a) but others will develop as the term of the Home Loan progresses and your circumstances change (b)</p>
+            <ol type="a">
+              <li>Life Assurance
+                <!-- (Regulated)-->
+                <br>
+                Home & Contents Insurance<br>
+                Payment Protection<br>
+                Home Owners - Personal Loan<br>
+                Home Owners - Cash Reserve<br>
+                Current Account<br>
+                <br>
+              </li>
+              <li>Personal Banker Service
+                <!-- (Regulated)-->
+                <br>
+                Financial Planning Service<br>
+                Savings Accounts<br>
+                Other Money Transmission Services<br>
+                Credit Cards<br>
+                Other Lending<br>
+                General Insurance<br>
+                <br>
+              </li>
+            </ol>
+<p align="right"><a href="#top" class="link">Back to Top</a></p>
+<p class="contentsubhead"><a name="link5"></a>Bridging Finance</p>
+<p>Bridging Finance is sometimes required to assist with the purchase of new property, either to provide the interim deposit payable when you exchange contracts or to provide additional funds between buying a new property and selling your existing one. It can also be used to make "stage payments" for properties under construction.</p>
+<p>Your Mortgage Officer can assess your needs and where appropriate, arrange bridging finance. Security will be required.</p>
+<p>The cost of this type of borrowing depends on the amount and duration of the loan and the interest rate charged. There may also be an arrangement fee based on the percentage of the amount advanced. These costs are therefore variable and should be considered independently after consultation with your local branch.</p>
+<p align="right"><a href="#top" class="link">Back to Top</a></p>
+      <p class="contentsubhead"><a name="link6"></a>Ten Questions you Should Ask your Home Loan Provider</p>
+      <p> 1. Can I save thousands of pounds in interest charges on my Home Loan?</p>
+      <p> 2. Can I repay my Home Loan years early, if I choose to do so?</p>
+      <p> 3. Can I make repayments weekly or fortnightly, as well as monthly?</p>
+      <p> 4. Can I make lump sum repayments when I can afford to do so, without
+        penalty?</p>
+      <p> 5. Can I vary my repayments if my financial circumstances change?</p>
+      <p> 6. Is the interest on my Home Loan calculated daily to minimise the
+        overall cost?</p>
+      <p> 7. Will I be charged interest in arrears, rather than in advance, so
+        that my Home Loan reduces more quickly?</p>
+      <p> 8. Will you contact me on a regular basis to review my Home Loan?</p>
+      <p> 9. Do you have the flexibility to cope with my changing circumstances
+        during the term of my Home Loan?</p>
+      <p> 10. Who is in control of my Home Loan?</p>
+      <p> <em>With Northern the answer is always <strong>yes</strong> and you the Customer
+        are in control.</em></p>
+		<p align="right"><a href="#top" class="link">Back to Top</a></p>
+		  <table width="100%" border="0" cellspacing="0" cellpadding="1">
+  <tr>
+    <td class="border">
+	  <table width="100%" border="0" cellspacing="0" cellpadding="5">
+	    <tr>
+		  <td class="foreground">
+		  <span class="contenttextbold">IMPORTANT INFORMATION</span>
+		  <p>The savings compare the Tailored Home Loan with our standard 25 year repayment Home Loan of the same amount.</p>
+		  <p>Written quotations are available on request.  All loans are subject to status and applicants must be 18 or over. Security is required.  One or more of the following policies may be required : Endowment, Pension Plan, Mortgage Guarantee.</p>
+		  <p>Interest rates and charges are correct as at <strong>16 November 2001</strong> but these may vary, which could affect repayments.  Typical example : A Tailored Home Loan of £50,000 at <strong>5.99%</strong> variable with <strong>220</strong> monthly repayments increased by approximately £50 to <strong>£375.00</strong> saves <strong>£14,125.29</strong> in interest charges and <strong>6 years 8 months</strong> on the loan term. The <strong>APR 6.3% variable</strong> and total amount repayable <strong>£82,734.28</strong> include £552.50 estimate for arrangement fee, legal and valuation costs.  The maximum loan is 95%for First Time Buyers, 90% for existing property owners, based on the lower of the purchase price or valuation.  For loans in excess of 90% of the lower of the cost or valuation of the property, Mortgage Guarantee Insurance is required.</p>
+		  <p>YOUR HOME IS AT RISK IF YOU DO NOT KEEP UP REPAYMENTS ON A MORTGAGE OR OTHER LOAN SECURED ON IT</p>
+		    <p>Northern is a trading name of Northern Bank Limited and is regulated by the Financial Services Authority. It is a member of the National Australia Bank Group. It represents only the National Australia Life Marketing Group, whose companies are regulated by the Financial Services Authority for the purpose of advising on and selling life assurance products, pensions, adopted stakeholder pensions, ISAs and collective investment products. The sale and advice on personal loans, general insurance products and mortgages are not currently regulated by the Financial Services Authority.</p>
+		  <p>Northern Bank Limited, Registered in Northern Ireland No. R568, Registered Office: Donegall Square West, Belfast, BT1 6JS.</p>
+		  <p>Mortgages are not regulated by the Financial Services Authority.</p>
+          </td>
+        </tr>
+	  </table>
+    </td>
+  </tr>
+</table>
+		  
+          </td>
+          <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt=" "></td>
+          <td width="131" class="content">
+            <table width="131" border="0" cellspacing="0" cellpadding="2">
+
+
+
+  <tr>
+    <td class="termenuleft"><a href="/personal/nbon_web_per_php_038.php" class="termenu">Tailoring Your Home Loan</a></td>
+	<td class="termenuright"><a href="/personal/nbon_web_per_php_038.php" class="termenu"><img src="/g_images/3b_arrow.gif" border="0" alt="" /></a></td>
+  </tr>
+  <tr>
+  	<td colspan="2" height="1"><img src="/g_images/3b_blackline.gif" width="131" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    <td class="termenuleft"><a href="/personal/nbon_web_per_php_039.php" class="termenu">Home Loan Choices</a></td>
+	<td class="termenuright"><a href="/personal/nbon_web_per_php_039.php" class="termenu"><img src="/g_images/3b_arrow.gif" border="0" alt="" /></a></td>
+  </tr>
+  <tr>
+  	<td colspan="2" height="1"><img src="/g_images/3b_blackline.gif" width="131" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    <td class="termenuleft"><a href="/personal/nbon_web_per_php_040.php" class="termenu">Saving Time and Money</a></td>
+	<td class="termenuright"><a href="/personal/nbon_web_per_php_040.php" class="termenu"><img src="/g_images/3b_arrow.gif" border="0" alt="" /></a></td>
+  </tr>
+  <tr>
+  	<td colspan="2" height="1"><img src="/g_images/3b_blackline.gif" width="131" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    <td class="termenuleft"><a href="/personal/nbon_web_per_php_041.php" class="termenu">Interest Rate Types</a></td>
+	<td class="termenuright"><a href="/personal/nbon_web_per_php_041.php" class="termenu"><img src="/g_images/3b_arrow.gif" border="0" alt="" /></a></td>
+  </tr>
+  <tr>
+  	<td colspan="2" height="1"><img src="/g_images/3b_blackline.gif" width="131" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    <td class="termenuleft"><a href="/personal/nbon_web_per_php_080.php" class="termenu">Find Out More</a></td>
+	<td class="termenuright"><a href="/personal/nbon_web_per_php_080.php" class="termenu"><img src="/g_images/3b_arrow.gif" border="0" alt="" /></a></td>
+  </tr>
+  <tr>
+  	<td colspan="2" height="1"><img src="/g_images/3b_blackline.gif" width="131" height="1" border="0" alt="" /></td>
+  </tr>
+
+
+
+
+
+
+
+</table>          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+	<td width="109" class="personal">&nbsp;</td>
+<td class="disclaimer">
+      <table width="100%" border="0" cellspacing="9" cellpadding="0">
+        <tr>
+			<td class="disclaimer">&copy; Northern Bank Limited 2001. Use of the information contained on this page is subject to certain rules. To view the Rules of Use, <a href="javascript:void(null)" onClick="javascript:viewper()" class="disclaimerlink">click here.</a></td>
+        </tr>
+      </table>
+</td>  </tr>
+</table>
+</body>
+</html>
+

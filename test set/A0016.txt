@@ -1,0 +1,831 @@
+ID=A0016
+URL=http://www.banking.hsbc.co.uk/stakeholder/decision-tree.htm
+SIZE=47687
+DATE=27/06/02
+TIME=16:50:12
+DATASET=Commercial Banks
+HTML= 
+<html>
+<!-- #BeginTemplate "/Templates/sp_t3.dwt" --> 
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>HSBC - Stakeholder Pensions</title>
+<SCRIPT LANGUAGE="JavaScript" src= "print.js"></script>
+<SCRIPT LANGUAGE="JavaScript" src= "stakeholder.js"></script>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+	function popUp(URL) {
+		day = new Date();
+		id = day.getTime();
+		eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=630,height=500,top=0,left=0');");
+	}
+// End -->
+</SCRIPT>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../css/bankinguk.css">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#000000" text="#000000" vlink="#000000" alink="#000000">
+<table width="99%" border="0" cellspacing="0" cellpadding="0" height align="left""100%">
+  <tr> 
+    <td valign="top" colspan="4" height="78"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="60"><img src="../common/hsbc.gif" width="380" height="60" alt="HSBC Bank plc" border="0"></td>
+          <td height="60">&nbsp;</td>
+          <td height="60"> 
+            <div align="right"></div>
+          </td>
+        </tr>
+        <tr> 
+          <td width="49%" bgcolor="#000000" height="20"><img src="../common/hsbcbank.gif" width="338" height="20" alt="HSBC Bank plc"></td>
+          <td width="2%" bgcolor="#000000" height="20">&nbsp;</td>
+          <td width="49%" bgcolor="#000000" height="20"> 
+            <div align="right"><a href="../personal/default.htm"><img src="../common/navbar_personal.gif" width="104" height="20" border="0" alt="Click here for Personal Banking"></a><a href="../business/default.htm"><img src="../common/navbar_business.gif" width="88" height="20" border="0" alt="Click here for Business Banking"></a><a href="../news/news.htm" target="_blank"><img src="../common/navbar_news.gif" width="62" height="20" border="0" alt="Click here for the Latest News"></a><a href="../default.htm"><img src="../common/navbar_home.gif" width="64" height="20" border="0" alt="Click here for the Home page"></a></div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC" height="33" align="left">&nbsp;</td>
+    <!-- #BeginEditable "strap" --> 
+    <td colspan="3" height="33" background="assets/115_bg.gif" align="left"><img src="assets/stakeholderstrap.gif" width="369" height="33" alt="Heading - Stakeholder Pensions" align="left"></td>
+    <!-- #EndEditable --> </tr>
+  <tr> 
+    <td valign="top" width="140" bgcolor="#CCCCCC" height="697"> <!-- #BeginEditable "lefthandnav" --> 
+      <table width="140" border="0" cellspacing="0" cellpadding="0" align="left">
+        <tr> 
+          <td width="25" height="45" align="center" valign="top"><img src="../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="45" width="115" valign="top" colspan="2"><a href="default.htm"><span class="leftnavredboldtextunderline">Stakeholder<br>
+            Pensions</span></a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="30" align="center" valign="top"><img src="../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="30" width="115" class="leftnavblackboldtext" valign="top" colspan="2">Decision 
+            Tree</td>
+        </tr>
+        <tr> 
+          <td width="25" height="45" align="center" valign="top">&nbsp;</td>
+          <td width="20" height="45" align="left" valign="top"><img src="../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="45" valign="top" class="leftnavtextunderline"><a href="javascript:popUp('self-employed/decision-tree/default.htm')">I 
+            am<br>
+            self-employed</a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="30" align="center" valign="top">&nbsp;</td>
+          <td width="20" height="30" align="left" valign="top"><img src="../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="30" valign="top" class="leftnavtextunderline"><a href="javascript:popUp('employee/decision-tree/default.htm')">I 
+            am employed</a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="45" align="center" valign="top">&nbsp;</td>
+          <td width="20" height="45" align="left" valign="top"><img src="../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="45" valign="top" class="leftnavtextunderline"><a href="javascript:popUp('non-earner/decision-tree/default.htm')">I 
+            am a<br>
+            non-earner</a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="60" align="center" valign="top"><img src="../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="60" width="115" valign="top" class="leftnavtextunderline" colspan="2"><a href="setting-up/default.htm">Setting 
+            up a Stakeholder Pension online</a> </td>
+        </tr>
+        <tr> 
+          <td width="25" height="45" align="center" valign="top"><img src="../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="45" width="115" valign="top" class="leftnavtextunderline" colspan="2"><a href="investment-choice-calculator/default.htm">Investment 
+            choice calculator</a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="60" align="center" valign="top"><img src="../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="60" width="115" valign="top" class="leftnavtextunderline" colspan="2"><a href="javascript:popUp('eligibility-questionnaire/default.htm')">Apply 
+            for a Stakeholder Pension online</a> </td>
+        </tr>
+        <tr> 
+          <td width="25" height="30" align="center" valign="top"><img src="../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="30" width="115" valign="top" colspan="2"><a href="javascript:popUp('jargon-buster.htm')" class="leftnavtextunderline">Jargon 
+            buster</a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="30" align="center" valign="top"><img src="../common/sidearrow.gif" width="13" height="14" alt="sidearrow"></td>
+          <td height="30" width="115" valign="top" colspan="2"><a href="important-notes.htm" class="leftnavtextunderline">Important 
+            notes</a></td>
+        </tr>
+        <tr> 
+          <td width="25" height="35" align="center" valign="top">&nbsp;</td>
+          <td height="35" width="115" valign="top" colspan="2">&nbsp;</td>
+        </tr>
+      </table>
+      <!-- #EndEditable --> </td>
+    <td width="20" valign="top"> 
+      <p>&nbsp;</p>
+    </td>
+    <td width="430" valign="top"> <!-- #BeginEditable "body" --> 
+      <table width="450" border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top"> 
+          <td> 
+            <p>&nbsp;</p>
+            <p class="introtitle">Stakeholder Pensions Decision Trees </p>
+            <p><span class="body">You should read these notes before using the 
+              Decision Trees. </span></p>
+            <p><span class="body">Decision Trees provide information to help you 
+              answer the question: "Would a Stakeholder Pension be a good choice 
+              for me as part of my financial planning for retirement?" </span></p>
+            <p><span class="bodytitle">What is a Stakeholder Pension? </span><br>
+              <span class="body">A Stakeholder Pension is a <span class="bodyItalic">new 
+              private pension</span>, it's <span class="bodyItalic">not a State 
+              pension</span>. You can get a Stakeholder Pension if your are in 
+              employment, a fixed contract worker, self-employed or even not working 
+              but able to afford contributions. You can get one from a bank, building 
+              society, insurance company, investment company or through a financial 
+              adviser. </span></p>
+            <p><span class="body">You pay contributions regularly which are invested 
+              to build up your own pension fund. You can also pay lump-sum contributions 
+              whenever you like. </span></p>
+            <p><span class="body">When you retire, you use your fund to buy an 
+              &quot;annuity&quot;. The annuity will pay you a regular income during 
+              your retirement. That income will depend on the size of your fund 
+              and the annuity rates at the time you take your pension. </span></p>
+            <p><span class="body">You can't withdraw any money from your fund 
+              before you take your pension. But when you take your pension you 
+              can choose to have up to 25% of your fund as a tax-free lump sum. 
+              </span></p>
+            <p><span class="bodytitle">What's new about Stakeholder pensions? 
+              </span><br>
+              <span class="body">Stakeholder Pensions must meet the standards 
+              laid down by the Government. </span> </p>
+            <p class="bodybold">The standards include: </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="255"> 
+                  <ul>
+                    <li><span class="bodybold">Charges</span><br>
+                      <span class="body">Providers of Stakeholder Pensions usually 
+                      charge for managing your money. There is an upper limit 
+                      on this charge. The limit is 1% of the value of your fund 
+                      each year. The charge is taken from your fund. So if your 
+                      fund is worth £5,000, a 1% charge would be £50. </span><br>
+                      <br>
+                    </li>
+                    <li><span class="bodybold">Flexibility</span> <br>
+                      <span class="body">You can contribute regularly or occasionally. 
+                      It is always best to make regular weekly or monthly contributions 
+                      but you can change the amount. You can pay in as little 
+                      as £20, and you can stop paying in without having to pay 
+                      any penalty and restart later.<br>
+                      <br>
+                      If you are employed and your employers provide a Stakeholder 
+                      Pension, they may, if you wish, deduct your contributions 
+                      direct from your pay and put them into your pension fund. 
+                      <br>
+                      <br>
+                      You can take your Stakeholder Pension with you when you 
+                      change jobs. You can switch to another Stakeholder Pension 
+                      at any time if you want to, without having to pay any charges 
+                      for the transfer.</span><br>
+                      <br>
+                    </li>
+                    <li><span class="bodybold">Information </span><br>
+                      <span class="body">Your Stakeholder Pension provider must 
+                      give you regular information about your fund. This will 
+                      include an annual statement to let you know how much you 
+                      have paid in and how your fund is growing. It may also include 
+                      a forecast of how much your pension might be.</span></li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+            <span class="bodytitle">Will I get any tax relief?<br>
+            <span class="body">Everybody who contributes to a Stakeholder Pension 
+            will get tax relief on their contributions.</span></span> 
+            <p><span class="body">Under present tax arrangements, for each £1 
+              you pay in to your Stakeholder Pension fund, the Inland Revenue 
+              will pay an additional 28p to your fund, even if you don't normally 
+              pay income tax.</span> </p>
+            <table width="100%" border="1" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+              <tr bgcolor="#CCCCCC"> 
+                <td><span class="bodybold">Example -</span> <span class="body"><span class="bodyItalic">If 
+                  you pay in £50 a month, the income tax relief will increase 
+                  your contribution to £64.10</span>.</span></td>
+              </tr>
+            </table>
+            <p><span class="body">Anyone can contribute up to £3,600 to a Stakeholder 
+              Pension in any tax year, including basic-rate tax relief. What this 
+              means is that you could pay in £2,808 and the income tax relief 
+              would increase your contribution to £3,600.</span></p>
+            <p><span class="body"> If you are employed or self-employed you might 
+              be able to contribute more than £3,600 and still get income tax 
+              relief, depending on your age and earnings. For example, up to age 
+              35 you can contribute up to 17.5% of earnings in any tax year. If 
+              you are over 35, there is a scale that allows you to contribute 
+              higher percentages of your earnings. The Inland Revenue sets the 
+              limits on what you can contribute to a pension scheme. </span></p>
+            <p><span class="body">If you pay income tax at the higher rate you 
+              will be able to claim back the extra tax from the Inland Revenue 
+              at the end of each tax year. </span></p>
+            <p class="bodytitle">Won't the State pensions be enough for me to 
+              retire on?<br>
+              <span class="body">To answer this question, you need to think about 
+              three things: </span></p>
+            <p><span class="bodybold">BASIC STATE RETIREMENT PENSION</span> <br>
+              <span class="body">If you have a full National Insurance contribution 
+              record, you are entitled to the full basic State Retirement Pension. 
+              You cannot get your basic State Retirement Pension until you reach 
+              State pension age (currently 65 for men and 60 for women) </span></p>
+            <p><span class="body">The Government reviews the State basic pension 
+              every year. The rates applying from April 2001 are shown further 
+              on in these notes.</span> </p>
+            <span class="bodybold">ADDITIONAL STATE PENSION (CURRENTLY SERPS)</span> 
+            <br>
+            <span class="body"><span class="bodybold">Only people in employment 
+            qualify for the State Earnings Related Pension Scheme (SERPS).</span> 
+            <span class="body">The SERPS pension, payable when you reach State 
+            pension age, depends on your earnings while you were in employment 
+            and the national insurance contributions you paid. SERPS is paid in 
+            addition to the basic State Retirement Pension. </span></span> 
+            <p><span class="body"><span class="bodybold">The Government proposes 
+              to change SERPS in 2002 and rename it the State Second Pension.</span> 
+              This will give more help than SERPS to the lowest earners, particularly 
+              those earning less than about £10,000 a year. </span></p>
+            <p class="bodybold">Self-employed people do not qualify for the additional 
+              State pension (currently SERPS). </p>
+            <p><span class="bodybold">GUARANTEED MINIMUM INCOME AND PENSION CREDIT 
+              </span><br>
+              <span class="body">The current Minimum Income Guarantee (MIG) is 
+              a benefit that helps people with low incomes in retirement. MIG 
+              is means-tested. If you apply, the Department of Social Security 
+              assesses your income and decides whether you get a top-up. If you 
+              qualify for a MIG top-up, or have an income just about the MIG level, 
+              you may also qualify for other benefits, such as housing benefit. 
+              </span></p>
+            <p><span class="body">The government has announced plans to introduce 
+              a new pension credit from 2003 that includes a guaranteed minimum 
+              income. </span></p>
+            <p class="bodybold">The basic State Retirement Pension and MIG rates 
+              given are those announced by the Government on 8 November 2000 as 
+              applying from April 2001.</p>
+            <table width="100%" border="1" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
+              <tr> 
+                <td width="60%" valign="top" height="260"> 
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr> 
+                      <td height="40">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="40"><span class="body">One person</span></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="40"><span class="body">Man with dependant wife</span></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="60"><span class="body">Couples who have <span class="bodyItalic">both</span> 
+                        paid full national insurance contribution</span></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="60"><span class="bodybold">If you get the full 
+                        MIG top-up, your income would rise to:</span> </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="40"><span class="body">Single person</span></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="20"><span class="body">Couple</span></td>
+                    </tr>
+                  </table>
+                </td>
+                <td width="20%" valign="top" height="260"> 
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr valign="top"> 
+                      <td height="40"> 
+                        <div align="center"><span class="bodybold">Weekly</span></div>
+                      </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="40"> 
+                        <div align="center"><span class="body">£72.50</span></div>
+                      </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="40"> 
+                        <div align="center"><span class="body">£115.90</span></div>
+                      </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="60"> 
+                        <div align="center"><span class="body">£72.50 each</span></div>
+                      </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="60"> 
+                        <div align="center"></div>
+                      </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="40"> 
+                        <div align="center"><span class="body">£92.15</span> </div>
+                      </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="20"> 
+                        <div align="center"><span class="body">£104.55</span></div>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td width="20%" valign="top" height="260"> 
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr valign="top"> 
+                      <td height="40"> 
+                        <div align="center"><span class="bodybold">Monthly<br>
+                          equivalent</span></div>
+                      </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="40"> 
+                        <div align="center"><span class="body">£314.17 </span></div>
+                      </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="40"> 
+                        <div align="center"><span class="body">£502.23</span></div>
+                      </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="60"> 
+                        <div align="center"><span class="body">£314.17 each</span></div>
+                      </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="60"> 
+                        <div align="center"></div>
+                      </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="40"> 
+                        <div align="center"><span class="body">£399.32</span></div>
+                      </td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td height="20"> 
+                        <div align="center"><span class="body">609.05 </span></div>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <p><span class="bodytitle">How do I get more information on my State 
+              pensions?</span><br>
+              <span class="body">Rates of State pensions and benefits change every 
+              year. These notes can only give you basic information about what 
+              is available. Other information you can get:</span> </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="213"> 
+                  <ul>
+                    <li><span class="body">A forecast of your State basic pension 
+                      by calling the Retirement Forecasting and Advice Unit (RPFA) 
+                      on 0191 218 7585 between 9am and 5pm. You can complete an 
+                      application form over the phone or ask for the forecast 
+                      form. BR19 to be sent to you. Or you can write to:<br>
+                      <br>
+                      RPFA<br>
+                      Pensions and Overseas Directorate <br>
+                      Tyneview Park <br>
+                      Whitley Road <br>
+                      Newcastle upon Tyne <br>
+                      NE98 1BA <br>
+                      <br>
+                      You can also complete and send the form direct on the internet 
+                      at the DSS website, <a href="javascript:leavingHSBC('leaving-hsbc.htm','http://www.dss.gov.uk')">www.dss.gov.uk</a> or send it by post in the normal way.<br>
+                      <br>
+                      </span></li>
+                    <li><span class="body"> There are changes to the State pension 
+                      age which affect women born on or after 6 April 1950. Women 
+                      born on or after 6 April 1955 will not get a State pension 
+                      until age 65. For more information on these changes, see 
+                      the DSS guide<span class="bodyItalic"> Pensions for women 
+                      - Your guide (PM6). <br>
+                      </span><br>
+                      </span></li>
+                    <li><span class="body">The DSS produces a series of guides 
+                      that give basic information on pensions. You can get copies 
+                      by calling the Pensions Info-Line on 0845 731 3233. The 
+                      line is open 24 hours and calls are charged at local rate. 
+                      A textphone service is available on 0845 604 1210. You can 
+                      also order copies of these information guides on the internet 
+                      at <a href="javascript:leavingHSBC('leaving-hsbc.htm','http://www.dss.gov.uk')">www.dss.gov.uk</a>.</span></li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+            <p class="bodytitle">Do I need to save more for my retirement?<br>
+              <span class="body">You need to make your own judgement about whether 
+              State retirement pensions and any existing private pensions will 
+              be enough for you to live on when you retire. Ask yourself: </span></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="99"> 
+                  <ul>
+                    <li><span class="bodybold"> Roughly how much will I need to 
+                      live on when I retire? <br>
+                      <br>
+                      </span> 
+                      <ul type="disc">
+                        <li><span class="bodybold">Is the basic State Retirement 
+                          Pension likely to be enough for me? </span></li>
+                        <li><span class="bodybold"> Will I qualify for an additional 
+                          pension through SERPS and the State Second Pension? 
+                          <br>
+                          <br>
+                          </span></li>
+                      </ul>
+                    </li>
+                    <li><span class="bodybold">Have I got any other private pensions, 
+                      maybe from previous employers' schemes or from personal 
+                      pension schemes? If so, how much income will they give me?</span></li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+            <p class="bodytitle">Can I afford to contribute regularly to a Stakeholder 
+              Pension? <br>
+              <span class="body">Before you answer this question, you should ask 
+              yourself: </span></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="123"> 
+                  <ul>
+                    <li><span class="bodybold">What are my other financial commitments?</span><br>
+                      <span class="body">For example, mortgage repayments, rent, 
+                      life assurance, and credit cards. Make sure you do your 
+                      sums before using the Decision Trees.</span><br>
+                      <br>
+                    </li>
+                    <li><span class="bodyItalic">Would I be prepared, if necessary, 
+                      to give up anything so that I can pay into a Stakeholder 
+                      Pension?</span> <br>
+                      <br>
+                    </li>
+                    <li><span class="bodybold">Should I be thinking of other things 
+                      first?</span><br>
+                      <span class="body">For example, life assurance protection 
+                      for me and my family, or building up some "rainy-day" cash 
+                      savings.</span> </li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+            <p class="body"> Whatever you decide you can afford, think about increasing 
+              your contributions, especially when your earnings rise.</p>
+            <p class="bodytitle">I can't afford to contribute much regularly - 
+              won't the MIG make my contributions a waste of money? <br>
+              <span class="body">The Government has said that it intends to ensure 
+              that all those who have saved already, or who wish to save in the 
+              future, can benefit from those savings when they retire. </span></p>
+            <p><span class="body">To achieve this, the government has announced 
+              proposals to introduce a new pension credit which will overhaul 
+              the current MIG arrangements from 2003. </span></p>
+            <p><span class="body">The proposals are designed to alter the present 
+              situation where those who have saved to build up a second pension 
+              to add to the State Retirement Pension, might be little or no better 
+              off than those who haven't saved. </span></p>
+            <p><span class="body">A lot depends on the final rules for pension 
+              credit and how it works out in practice. Of course, future governments 
+              can change State pensions and benefits at any time and it may be 
+              unwise to rely on any particular type or level being available when 
+              you retire.</span> </p>
+            <p class="bodytitle">I can't afford to contribute much regularly - 
+              so what will I get from my Stakeholder Pension? <br>
+              <span class="body">Stakeholder Pensions allow contributions as low 
+              as £20. But a regular monthly contribution of £20 will not produce 
+              a large pension when you retire. And the older you are when you 
+              start saving, the less time there will be for your pension fund 
+              to grow to something worthwhile. The tables in the Decision Trees 
+              will give you a fair idea of the pension you could get, depending 
+              on your age and contributions. </span></p>
+            <p><span class="bodybold">The figures in the tables, however, are 
+              only estimates and are not guaranteed.</span> <span class="body">They 
+              are also shown before income tax. When you receive your pension 
+              during retirement you may be taxed on it.</span> </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+              <tr> 
+                <td colspan="2" class="bodybold" height="35" valign="middle"> 
+                  <p>The figures are calculated on the following basis:</p>
+                </td>
+              </tr>
+              <tr> 
+                <td height="35" width="57%"> 
+                  <ul>
+                    <li><span class="bodybold">Before you retire</span></li>
+                  </ul>
+                </td>
+                <td height="35" width="43%">&nbsp;</td>
+              </tr>
+              <tr> 
+                <td width="57%" class="body" height="35">Your monthly contributions 
+                  increase in line<br>
+                  with inflation.......................................................</td>
+                <td width="43%" class="body" height="35">2.5% a year</td>
+              </tr>
+              <tr> 
+                <td width="57%" class="body" height="35">Before charges, your 
+                  fund grows by.............</td>
+                <td width="43%" class="body" height="35">7% a year</td>
+              </tr>
+              <tr> 
+                <td width="57%" class="body" height="35"> 
+                  <p>Charges deducted from your fund................</p>
+                </td>
+                <td width="43%" class="body" height="35"> 
+                  <p>1% of fund a year</p>
+                </td>
+              </tr>
+              <tr> 
+                <td width="57%" height="35" valign="bottom"> 
+                  <ul>
+                    <li><span class="bodybold">When you retire</span></li>
+                  </ul>
+                </td>
+                <td width="43%" height="35">&nbsp;</td>
+              </tr>
+              <tr> 
+                <td width="57%" height="35"> 
+                  <p class="body">Annuity rates assume that the investment return 
+                    after retirement is.................................</p>
+                </td>
+                <td width="43%" class="body" height="35">5.5% a year<br>
+                  <span class="copyrightT3">(After a 4% charge has been deducted 
+                  from your fund)</span> </td>
+              </tr>
+              <tr> 
+                <td width="57%" class="body" height="35">Your pension increases 
+                  by............................</td>
+                <td width="43%" class="body" height="35">2.5% a year</td>
+              </tr>
+              <tr> 
+                <td width="57%" class="body" height="35">Your spouse will receive 
+                  half your pension<br>
+                  on your death </td>
+                <td width="43%" height="35">&nbsp;</td>
+              </tr>
+            </table>
+            <p class="bodytitle">What does contracting out of the additional State 
+              pension (currently SERPS) mean for me? <br>
+              <span class="body">Everyone in employment is automatically included 
+              in SERPS unless they decide to leave it. This is called 'contracting 
+              out'. If you contract out, you give up any SERPS entitlement and 
+              build up a replacement for it in your own private pension arrangement 
+              instead. The private pension could be an employer's pension scheme 
+              or your own Stakeholder Pension scheme or other personal pension. 
+              </span></p>
+            <p><span class="body">Some employers' occupational pension schemes 
+              contract out all scheme members automatically. Other employers' 
+              occupational schemes are 'contracted in' and the scheme pensions 
+              are paid on top of any SERPS pensions. If you are in one of these 
+              contracted in schemes, you can still decide to contract out. </span></p>
+            <p><span class="body">You can also decide to contract out if you are 
+              not a member of an employer's occupational pension scheme. If you 
+              contract out of SERPS this way, the Inland Revenue will pay a rebate 
+              on your National Insurance contributions into your private pension 
+              fund. The rebate is invested along with your own pension contributions 
+              and you build up a replacement pension for the SERPS pension given 
+              up. </span></p>
+            <p><span class="body">With Stakeholder and other personal pension 
+              schemes, the Government sets the rebate. The rebate is set to give 
+              a reasonable chance that the replacement pension will be at least 
+              as big as if you had remained in SERPS. There's no guarantee that 
+              you'll be better off by contracting out but generally the younger 
+              you are and the more you are earning the more you stand to gain 
+              if you do contract out.</span></p>
+            <p><span class="body"> Contracting out is an important decision and 
+              you need to consider all the implications. If you want help with 
+              your decision, you should consult a financial adviser. You may have 
+              to pay for this help. Or you can ask your Stakeholder Pension scheme 
+              provider for a comparison of the SERPS pension you'll be giving 
+              up and the possible replacement pension you might get from a private 
+              arrangement. </span></p>
+            <p><span class="body">Deciding to contract out in one tax year does 
+              not commit you to do the same in later years. In fact, it's a good 
+              idea to review your decision regularly. You should do this, for 
+              example, when the State Second Pension starts in 2002. </span></p>
+            <p class="bodytitle">What else do I need to check? </p>
+            <p><span class="bodybold">IF YOU ARE EMPLOYED</span><br>
+              <span class="body">Employers' pension plans are always worth checking 
+              first as they usually provide extra benefits, such as added contributions 
+              from your employer or free life assurance.</span></p>
+            <p><span class="bodybold">You need to check:</span> </p>
+            <ul>
+              <li><span class="bodyboldItalic">Does your employer provide a pension 
+                plan? </span></li>
+              <li><span class="bodyboldItalic">Are you a member of your employer's 
+                pension plan? </span></li>
+              <li><span class="bodyboldItalic">If you are not a member, could 
+                you join now or later?</span> </li>
+            </ul>
+            <p><span class="bodybold">If your employers <span class="bodyboldItalic">does 
+              not</span> provide a pension plan for you</span> <span class="body">at 
+              the moment, they <span class="bodyItalic">may</span> have to arrange 
+              for a Stakeholder Pension to be available to you by<span class="bodybold"> 
+              October 2001</span>. </span></p>
+            <ul>
+              <li><span class="bodybold">Ask your employers if they intend to 
+                arrange a new pension plan for staff as it might be better than 
+                a private pension you arrange yourself. </span></li>
+              <li><span class="bodybold">Your employer might agree to pay the 
+                Stakeholder Pension annual charge or make payments to your fund 
+                on top of your own contributions, but they don't have to. </span></li>
+            </ul>
+            <p><span class="bodybold">IF YOU ARE SELF-EMPLOYED </span></p>
+            <ul>
+              <li><span class="bodybold">Are you contributing to a pension plan?</span> 
+              </li>
+            </ul>
+            <p class="body">If you have no pension to look forward to except the 
+              basic State Retirement Pension, you should consider setting up a 
+              personal pension, such as a Stakeholder Pension. </p>
+            <p class="bodybold">IF YOU HAVE NO FORM OF PAID EMPLOYMENT </p>
+            <ul>
+              <li><span class="bodybold">Can you afford to contribute to a pension 
+                plan? </span><br>
+              </li>
+            </ul>
+            <p><span class="body">You can now set up a new Stakeholder Pension. 
+              You can then benefit from tax relief on your contributions, even 
+              if your don't normally pay income tax.</span> </p>
+            <p class="bodybold">EVERYBODY<br>
+              <span class="body">Check on the pension plans you have contributed 
+              to in the past but no longer pay into today. You need to have some 
+              idea of the retirement income you might get from an old pension 
+              plan. </span></p>
+            <p><span class="body">To check on the value of old pension plans, 
+              look at the most recent benefit statements you have been sent. If 
+              you cannot find any statements, contact the pension plan provider, 
+              for example the insurance company or the employer that offered the 
+              pension to you. </span></p>
+            <p><span class="body">Alternatively, the Pension Schemes Registry 
+              provides a free tracing service. It can help you identify pension 
+              schemes you have belonged to in the past. To contact the Pensions 
+              Scheme Registry, phone them on 0191 225 6393 and ask for a tracing 
+              request form or write to them at: </span></p>
+            <p><span class="bodyboldItalic">Pension Schemes Registry <br>
+              PO Box 1NN <br>
+              Newcastle upon Tyne <br>
+              NE99 1NN </span></p>
+            <p class="bodybold">AND FINALLY<br>
+            <span class="body">You should consider getting advice if you're 
+              not sure that saving in a pension plan is right for you, or if you 
+              want to look at other ways of saving and investing for the long-term. 
+              </span></p>
+            <p><span class="body">If you are not sure what's the best thing for 
+              you to do, get help. The Decision Trees suggest some organisations 
+              that might be able to help you. </span></p>
+            <p class="bodytitle">How to use the Decision Trees </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+              <tr> 
+                <td colspan="2" height="126"> 
+                  <ul>
+                    <li><span class="body">These Decision Trees have been designed 
+                      to help you decide whether a Stakeholder Pension would be 
+                      a good choice for you. Please take the time to read and 
+                      use them carefully, giving accurate answers to the questions. 
+                      The decision you take will be your responsibility. <br>
+                      <br>
+                      </span></li>
+                    <li><span class="body">There are three sets of Decision Trees. 
+                      Click on the relevant link below to go to the correct decision 
+                      tree. Make sure you use the right one. There is a different 
+                      set of trees for: </span></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr> 
+                <td width="6%" height="49">&nbsp;</td>
+                <td width="94%" height="49"> 
+                  <ul>
+                    <li><span class="body"><a href="javascript:popUp('employee/decision-tree/default.htm')">Employed 
+                      people</a> </span></li>
+                    <li><span class="body"><a href="javascript:popUp('self-employed/decision-tree/default.htm')">Self-employed 
+                      people</a></span></li>
+                    <li><span class="body"><a href="javascript:popUp('non-earner/decision-tree/default.htm')">People 
+                      who are not employed</a> </span></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr> 
+                <td colspan="2"> 
+                  <ul>
+                    <li><span class="body">If the tree asks you a question about your 
+                      present pension arrangements and you are not sure about 
+                      the correct answer, find out the right information - don't 
+                      guess.</span></li>
+                  </ul>
+                  <p class="body"> If the tree recommends you to take advice, 
+                    or if you are uncertain about what is right for you, then 
+                    you should seek advice. You may have to pay for this advice. 
+                  </p>
+                </td>
+              </tr>
+            </table>
+            <p class="bodybold">To proceed to your relevant decision tree, click 
+              one of the links below:</p>
+            <p class="body"> <a href="javascript:popUp('employee/decision-tree/default.htm')">I 
+              am employed</a> <br>
+              <a href="javascript:popUp('self-employed/decision-tree/default.htm')">I 
+              am self-employed</a> <br>
+              <a href="javascript:popUp('non-earner/decision-tree/default.htm')">I 
+              am not employed</a></p>
+            <p class="body">&nbsp;</p>
+			<table width="90%" border="1" cellspacing="0" cellpadding="0" align="center">
+              <tr>
+                <td class="bodybold">Some of the information used in these materials 
+                  comes from sources outside the FSA and PIA. Neither the FSA 
+                  nor PIA guarantee or warrant the accuracy of the information 
+                  included in these materials, and does not accept any liability 
+                  for errors or omissions. Neither the FSA nor PIA shall be liable 
+                  for any damages arising in contract, tort or otherwise from 
+                  any action or decision taken as a result of using these materials 
+                  or any of them.</td>
+              </tr>
+            </table>
+            <p class="body">&nbsp;</p>
+            </td>
+        </tr>
+      </table>
+      <!-- #EndEditable --> </td>
+    <td valign="top" width="175" align="right" height="697"> 
+      <table width="160" border="0" cellspacing="0" cellpadding="0" align="right">
+        <tr valign="top" align="right"> 
+          <td width="26" height="10">&nbsp;</td>
+          <td width="124" height="10">&nbsp;</td>
+        </tr>
+        <tr valign="top" align="right"> 
+          <td rowspan="6" height="400" width="26"> 
+            <div align="left"><img src="assets/9_grey_s.gif" width="26" height="306" alt="Grey brushstroke" align="left"></div>
+          </td>
+          <td rowspan="6" height="222"> 
+            <div align="left"></div>
+            <div align="left"></div>
+            <div align="left"> <!-- #BeginEditable "righthandtools" --> 
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr align="right" valign="top"> 
+                  <td width="124" height="50">&nbsp; </td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="19"> 
+                    <div align="left"></div>
+                  </td>
+                </tr>
+				<tr align="right" valign="top"> 
+                  <td width="124" height="50"> 
+                    <div align="center"><a href="javascript:printWindow()"><img src="../common/print_button.gif" width="74" height="64" border="0" alt="Click here to print" align="middle"></a></div>
+                  </td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="10">&nbsp;</td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="50"> 
+                    <div align="center"><a href="../lad/country.asp"><img src="assets/103_ab_t_fab.gif" width="74" height="64" border="0" alt="Click here to find a branch" align="middle"></a></div>
+                  </td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="10">&nbsp;</td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="50"> 
+                    <div align="left"></div>
+                  </td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="10">&nbsp;</td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="50"> 
+                    <div align="left"></div>
+                  </td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="10">&nbsp;</td>
+                </tr>
+                <tr align="right" valign="top"> 
+                  <td width="124" height="50"> 
+                    <div align="left"></div>
+                  </td>
+                </tr>
+              </table>
+              <!-- #EndEditable --> </div>
+          </td>
+        </tr>
+        <tr valign="top" align="right"> </tr>
+        <tr valign="top" align="right"> </tr>
+        <tr valign="top" align="right"> </tr>
+        <tr valign="top" align="right"> </tr>
+        <tr valign="top" align="right"> </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+<!-- #EndTemplate -->
+</html>
+

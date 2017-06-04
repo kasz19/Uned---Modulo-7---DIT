@@ -1,0 +1,443 @@
+ID=A0062
+URL=http://www.cbonline.co.uk/ibank/terms.php
+SIZE=50923
+DATE=27/06/02
+TIME=16:51:24
+DATASET=Commercial Banks
+HTML=
+<html>
+<head>
+<title>Clydesdale Bank</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../css/nag.css" type="text/css">
+</head>
+<body margin="0" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+<script language = "JavaScript">
+<!--//
+function preloader(){return;}
+b1 = new Image(110,34);
+b1.src = "/g_images/1b_personal.gif";
+b1 = new Image(110,34);
+b1.src = "/g_images/1b_personal_r.gif";
+b2 = new Image(110,34);
+b2.src = "/g_images/1b_business.gif";
+b2 = new Image(110,34);
+b2.src = "/g_images/1b_business_r.gif";
+b3 = new Image(110,34);
+b3.src = "/g_images/1b_aboutus.gif";
+b3 = new Image(110,34);
+b3.src = "/g_images/1b_aboutus_r.gif";
+b4 = new Image(110,34);
+b4.src = "/g_images/1b_ibank.gif";
+b4 = new Image(110,34);
+b4.src = "/g_images/1b_ibank_r.gif";
+b5 = new Image(110,34);
+b5.src = "/g_images/1b_share.gif";
+b5 = new Image(110,34);
+b5.src = "/g_images/1b_share_r.gif";
+//-->
+</script><script type="text/javascript" language="Javascript">
+<!--
+function viewper() {
+	
+	window.open("/index_dis.php","myWindow","scrollbars=yes, width=400 ,height=500, menubar=yes");
+}
+function POP() {
+popup = window.open('http://www.cbonline.co.uk/cb_demo/html/index.htm','Demo','width=696,height=492,top=0,left=0,toolbar=yes,location=no,status=yes,menubar=no,scrollbars=yes,resizable=yes');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+}
+
+function POPLOG() {
+popup = window.open('http://ib.cbonline.co.uk/login.jsp','popUp','width=696,height=492,top=0,left=0,toolbar=no,location=no,status=yes,menubar=no,scrollbars=no,resizable=no');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+}
+
+function ibankPOP() {
+popup = window.open('http://ib.cbonline.co.uk/enrollbanking.jsp','popUp','width=696,height=492,top=0,left=0,toolbar=no,location=no,status=yes,menubar=no,scrollbars=no,resizable=no');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+}
+
+function ibankHELP() {
+popup = window.open('/about/ibanking_help.php','popUp','width=300,height=150,top=0,left=0,toolbar=no,location=no,status=yes,menubar=no,scrollbars=no,resizable=no');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+}
+//-->
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="164" height="68"><img src="/g_images/logo.gif" alt="Clydesdale Bank" /></td>
+    <td class="navtopleft" height="68">
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+		  <td><img src="/g_images/1x1space.gif" width="20" alt="" /></td>
+          <td><a href="/index.php"><img src="/g_images/1b_utilities_001.gif" border="0" alt="Home" /></a></td>
+          <td><a href="/sitemap.php"><img src="/g_images/1b_utilities_002.gif" border="0" alt="Site Map" /></a></td>
+          <td><a href="/personal/InterestRates.php"><img src="/g_images/1b_utilities_003.gif" border="0" alt="Interest Rates" /></a></td>
+          <td><a href="javascript:void(null)" onclick="javascript:viewper()"><img src="/g_images/1b_utilities_004.gif" border="0" alt="Rules of Use" /></a></td>
+          <td><a href="/about/201.php"><img src="/g_images/1b_utilities_005.gif" border="0" alt="Contact Us" /></a></td>
+        </tr>
+      </table>
+    </td>
+    <td class="navbottomright" height="68">
+      <table border="0" cellspacing="5" cellpadding="0">
+        <tr>
+          <td height="15" class="navbottomright"><!--STARTDATE-->Thursday, 27.06.02<!--ENDDATE--></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colpsan="3" height="1"><img src="/g_images/1x1space.gif" width="100%" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/g_images/1b_spacer.gif">
+        <tr>
+	
+
+			<td class="navmenuleft" nowrap><a href="/ibank/index.php" onMouseOver="document.b4.src='/g_images/1b_ibank_r.gif'" onMouseOut="document.b4.src='/g_images/1b_ibank_r.gif'"><img src="/g_images/1b_ibank_r.gif" width="110" height="34" name="b4" alt="Internet Banking" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/personal/63.php" onMouseOver="document.b1.src='/g_images/1b_personal_r.gif'" onMouseOut="document.b1.src='/g_images/1b_personal.gif'"><img src="/g_images/1b_personal.gif" width="110" height="34" name="b1" alt="Personal" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/business/243.php" onMouseOver="document.b2.src='/g_images/1b_business_r.gif'" onMouseOut="document.b2.src='/g_images/1b_business.gif'"><img src="/g_images/1b_business.gif" width="110" height="34" name="b2" alt="Business" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/about/159.php" onMouseOver="document.b3.src='/g_images/1b_aboutus_r.gif'" onMouseOut="document.b3.src='/g_images/1b_aboutus.gif'"><img src="/g_images/1b_aboutus.gif" width="110" height="34" name="b3" border="0" alt="About Us" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/personal/211.php" onMouseOver="document.b5.src='/g_images/1b_share_r.gif'" onMouseOut="document.b5.src='/g_images/1b_share.gif'"><img src="/g_images/1b_share.gif" width="110" height="34" name="b5" alt="Online Sharedealing" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /></td>
+
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2" height="1"><img src="/g_images/1x1space.gif" width="100%" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    
+
+
+
+
+
+
+
+
+
+<!-- ibank level 1 -->
+<!-- ibank level 2 -->
+
+
+
+
+<!--- how to register --->
+
+<!-- main draw function -->
+<td width="109" class="ibank">
+	<!-- ibank level 1 -->
+	<a href="/ibank/index.php" onMouseOver="document.l1.src='/g_images/2b_ibank_011h.gif'" onMouseOut="document.l1.src='/g_images/2b_ibank_011.gif'"><img src="/g_images/2b_ibank_011.gif" name="l1" alt="Introduction" border="0" width="110" height="22" /></a><br>
+
+	<a href="#" onMouseOver="document.l4.src='/g_images/2b_ibank_012h.gif'" onMouseOut="document.l4.src='/g_images/2b_ibank_012.gif'" onClick="javascript:POP()"><img src="/g_images/2b_ibank_012.gif" name="l4" alt="Demo" border="0" width="110" height="22" /></a><br>
+
+	<a href="registration.php" onMouseOver="document.l2.src='/g_images/2b_ibank_013h.gif'" onMouseOut="document.l2.src='/g_images/2b_ibank_013.gif'"><img src="/g_images/2b_ibank_013.gif" name="l2" alt="Registration" border="0" width="110" height="22" /></a><br>
+
+	<a href="#" onMouseOver="document.l6.src='/g_images/2b_ibank_014h.gif'" onMouseOut="document.l6.src='/g_images/2b_ibank_014.gif'" onClick="javascript:POPLOG()"><img src="/g_images/2b_ibank_014.gif" name="l6" alt="Login" border="0" width="110" height="24" /></a><br>
+
+
+
+	<a href="sup_intro.php" onMouseOver="document.l3.src='/g_images/2b_ibank_015h.gif'" onMouseOut="document.l3.src='/g_images/2b_ibank_015.gif'"><img src="/g_images/2b_ibank_015.gif" name="l3" alt="Support" border="0" width="110" height="22" /></a><br>
+
+	<a href="/ibank/terms.php" onMouseOver="document.l7.src='/g_images/2b_ibank_016h.gif'" onMouseOut="document.l7.src='/g_images/2b_ibank_016h.gif'"><img src="/g_images/2b_ibank_016h.gif" name="l7" alt="Terms and Conditions" border="0" width="110" height="36" /></a><br>
+	
+
+
+
+</td>
+
+	<!-- Page Content -->
+    <td class="content">
+      <table border="0" cellspacing="5" cellpadding="0" width="100%">
+        <tr>
+		  <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt=" "></td>
+          <td colspan="3" class="content">
+            <p class="bread"><a href="/ibank/index.php" class="breadcrumbs">Internet Banking</a> > Terms and Conditions</p>
+            <p class="contentmainhead">Terms and Conditions</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt=" "></td>
+          <td colspan="3" height="1"><img src="/g_images/3b_blackline.gif" width="100%" height="1" alt="" /></td>
+        </tr>
+        <tr>
+          <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt=" "></td>
+          <td class="content">
+		  	<p class="contentsubhead">CLYDESDALE BANK PUBLIC LIMITED COMPANY TRANSACTIONAL INTERNET BANKING</p>
+            <p class="contentsubhead">TERMS AND CONDITIONS</p>
+            <p class="contenttextbold">THINGS YOU SHOULD KNOW</p>
+            <p>These terms and conditions may be:</p>
+            <ul>
+			  <li>viewed on <span class="contenttextbold">Clydesdale Bank's</span> web site at www.CBonline.co.uk;</li>
+              <li>obtained from any <span class="contenttextbold">Clydesdale Bank</span> branch or by phoning <span class="contenttextbold">Clydesdale Bank</span> Internet Banking Support on 0845 6011801;</li>
+              <li>printed out by clicking on the PRINT button.</li>
+            </ul>
+            <p>If <span class="contenttextbold">you</span> believe that <span class="contenttextbold">your</span> password has become known to anyone other than yourself please refer to Clause 21 for the action to take to limit <span class="contenttextbold">your</span> liability.</p>
+            <p>For queries concerning the <span class="contenttextbold">service</span> contact <span class="contenttextbold">Clydesdale Bank</span> Internet Banking Support on 0845 6011801.Please note that if <span class="contenttextbold">you</span> do not actively terminate <span class="contenttextbold">your</span> session with the <span class="contenttextbold">service</span> for <span class="contenttextbold">your</span> security the session will stay active for a further 10 minutes before automatically terminating. Please ensure that <span class="contenttextbold">you</span> exit the <span class="contenttextbold">service</span> by using the exit key in the top right hand corner of the screen. This ensures that people using the computer after <span class="contenttextbold">you</span> cannot access any of <span class="contenttextbold">your</span> account information.</p>
+            <p>The meaning of words printed <span class="contenttextbold">in bold</span> in these terms and conditions are explained in Clause 1 below.</p>
+            <ol>
+			  <p class="contenttextbold">Meaning of words</p>
+              <li><span class="contenttextbold">account</span> means an account <span class="contenttextbold">you</span> have with <span class="contenttextbold">Clydesdale Bank</span> or any other third party <span class="contenttextbold">Clydesdale Bank</span> allows which <span class="contenttextbold">Clydesdale Bank</span> has determined is accessible by the <span class="contenttextbold">service</span>.<br>
+			<span class="contenttextbold">accountholder</span> means a person who has entered into an arrangement with <span class="contenttextbold">Clydesdale Bank</span> for the <span class="contenttextbold">Clydesdale Bank 24 Hour Telephone Banking Service</span> and who has an <span class="contenttextbold">account</span> in their own name or, if in joint names, in respect of which <span class="contenttextbold">Clydesdale Bank</span> may act on the instructions of any one or more of them.<br>
+			<span class="contenttextbold">banking business day</span> means any day with the exception of Saturdays, Sundays and Scottish bank holidays.<br>
+			<span class="contenttextbold">billing account</span> means the <span class="contenttextbold">account</span> selected by <span class="contenttextbold">Clydesdale Bank</span> or <span class="contenttextbold">you</span> under these terms and conditions as the <span class="contenttextbold">account</span> to which fees relating to the <span class="contenttextbold">service</span> in respect of transactions that do not themselves attract any fees or charges, such as accessing financial information about an <span class="contenttextbold">account</span>, and bill payments may be debited unless the description of a fee in <span class="contenttextbold">Clydesdale Bank's</span> Current Account Tariff for Personal Customers or Business Banking Tariff Guide, as appropriate specifies another <span class="contenttextbold">account</span> to which that particular fee will be debited in which case <span class="contenttextbold">"billing account"</span> means that other <span class="contenttextbold">account</span>.<br>
+			<span class="contenttextbold">cut-off time</span> in respect of a <span class="contenttextbold">banking business day</span> means, for the purposes of payments or any other purpose under this agreement, the time or times by which the instruction relating to that purpose must be completed, which times are determined by <span class="contenttextbold">Clydesdale Bank</span> from time to time.  Different times of the day may be specified for different purposes.<br>
+			<span class="contenttextbold">Clydesdale Bank</span> is <span class="contenttextbold">Clydesdale Bank</span> Public Limited Company, Registered in Scotland (Number SC001111) and having its Registered Office at 30 St Vincent Place, Glasgow G1 2HL and its successors and assignees.<br>
+			<span class="contenttextbold">Clydesdale Bank 24 Hour Telephone Banking Service</span> means <span class="contenttextbold">Clydesdale Bank's</span> 24 hour telephone banking the terms and conditions of which are set out in <span class="contenttextbold">Clydesdale Bank's</span> booklet entitled "Telephone banking" (and which is currently known as "24 Hour Telephone Banking").<br>
+			<span class="contenttextbold">nominated user</span> means a person who <span class="contenttextbold">you</span> have nominated under Clause 7 to operate an <span class="contenttextbold">account</span> through the use of the <span class="contenttextbold">service</span> and who has entered into an arrangement with <span class="contenttextbold">Clydesdale Bank</span> for the <span class="contenttextbold">Clydesdale Bank 24 Hour Telephone Banking Service</span>.<br>
+			<span class="contenttextbold">service</span> means the service <span class="contenttextbold">Clydesdale Bank</span> makes available through the internet network to enable the electronic receipt and transmission of information (including, without limitation, in relation to an <span class="contenttextbold">account</span>).<br>
+			<span class="contenttextbold">site disclaimers</span> means the disclaimers associated with <span class="contenttextbold">Clydesdale Bank's</span> internet site which are found by selecting on the button "Rules of Use" on any page of the site, as the same may be amended from time to time.<br>
+			<span class="contenttextbold">source account</span> means the <span class="contenttextbold">account</span> from which a transaction was effected from and to which a fee relating to the <span class="contenttextbold">service</span> in respect of a transaction will be debited.<br>
+			<span class="contenttextbold">user</span> means <span class="contenttextbold">you</span> or a nominated user or both, as the context requires.<br>
+			<span class="contenttextbold">you</span> means an <span class="contenttextbold">accountholder</span> who has accepted these terms and conditions and the site disclaimers (and includes a <span class="contenttextbold">nominated user</span> as the context requires) and <span class="contenttextbold">your</span> has a corresponding meaning.</li>
+
+
+
+              <p class="contenttextbold">Offer</p>
+			  
+              <li><span class="contenttextbold">Clydesdale Bank</span> offers to make the <span class="contenttextbold">service</span> available to <span class="contenttextbold">you</span> on these terms and conditions and subject to the <span class="contenttextbold">site disclaimers</span>.</li>
+              <li><span class="contenttextbold">You</span> will be taken to have accepted these terms and conditions and the <span class="contenttextbold">site disclaimers</span> when <span class="contenttextbold">you</span>  select on the "ACCEPT" button.</li>
+
+
+              <p class="contenttextbold">Account</p>
+
+              <li>These terms and conditions are in addition to any of <span class="contenttextbold">Clydesdale Bank's</span> terms and conditions for an <span class="contenttextbold">account</span> or a <span class="contenttextbold">service</span> provided by <span class="contenttextbold">Clydesdale Bank</span>.</li>
+              <li>If there is any inconsistency between these terms and conditions and the terms and conditions applying to an <span class="contenttextbold">account</span> or to a service provided by <span class="contenttextbold">Clydesdale Bank</span>, the terms and conditions applying to such <span class="contenttextbold">account</span> or service provided by <span class="contenttextbold">Clydesdale Bank</span> shall apply to the extent of that inconsistency.</li>
+              <li>The <span class="contenttextbold">site disclaimers</span> are incorporated in and form part of these terms and conditions.  In the event of any inconsistency between the <span class="contenttextbold">site disclaimers</span> and these terms and conditions or the terms and conditions applying to an <span class="contenttextbold">account</span> or to a <span class="contenttextbold">service</span> provided by <span class="contenttextbold">Clydesdale Bank</span>, these terms and conditions or the terms and conditions applying to an <span class="contenttextbold">account</span> or to a <span class="contenttextbold">service</span> provided by <span class="contenttextbold">Clydesdale Bank</span> (as appropriate) apply to the extent of that inconsistency.</li>
+
+
+              <p class="contenttextbold">Nominated user</p>
+
+              <li>	<span class="contenttextbold">Clydesdale Bank</span> may allow any person who is more than 16 years old nominated by <span class="contenttextbold">you</span> in accordance with the terms of <span class="contenttextbold">Clydesdale Bank 24 Hour Telephone Banking Service</span> to be a <span class="contenttextbold">nominated user</span>.</li>
+              <li>	An <span class="contenttextbold">nominated user</span> user is able to use the <span class="contenttextbold">service</span> to access and operate an <span class="contenttextbold">account</span> in every way available to <span class="contenttextbold">you</span>.  For example, a <span class="contenttextbold">nominated user</span> may use the <span class="contenttextbold">service</span> to:
+	            <ol type="a">
+	              <li>	conduct debit or credit transactions on an <span class="contenttextbold">account</span>; and</li>
+                  <li>	access financial information about an <span class="contenttextbold">account</span>.</li>
+                </ol>
+              </li>
+              However, <span class="contenttextbold">you</span> may notify <span class="contenttextbold">Clydesdale Bank</span> by telephone or in writing (including electronically) in accordance with Clause 47 that a <span class="contenttextbold">nominated user</span> is restricted to only accessing financial information about an <span class="contenttextbold">account</span>.
+	          <li>	Subject to Clause 10, <span class="contenttextbold">you</span> are liable for any use of an <span class="contenttextbold">account</span> by a <span class="contenttextbold">nominated user</span> as if the <span class="contenttextbold">account</span> had been used by <span class="contenttextbold">you</span>.  <span class="contenttextbold">You</span> should ensure that any nominated user has read and understood these terms and conditions and the <span class="contenttextbold">site disclaimers</span>.</li>
+              <li>	A <span class="contenttextbold">nominated user's</span> right to use the <span class="contenttextbold">service</span> to access and operate an <span class="contenttextbold">account</span> will be withdrawn when <span class="contenttextbold">you</span> have notified <span class="contenttextbold">Clydesdale Bank</span> in accordance with Clause 47 when <span class="contenttextbold">you</span> want that to happen.</li>
+              <li>	Once a <span class="contenttextbold">nominated user</span> has:
+	            <ol type="a">
+	              <li>	accessed the <span class="contenttextbold">service</span> by entering the user number and password issued to the <span class="contenttextbold">nominated user</span> under the <span class="contenttextbold">Clydesdale Bank 24 Hour Telephone Banking Service</span>; and</li>
+                  <li>	selected a different password (which password shall not be the same as the <span class="contenttextbold">user's</span> password) to be used to access the <span class="contenttextbold">service</span> in the future;</li>
+                </ol>
+              </li>
+              <span class="contenttextbold">Clydesdale Bank</span> will register the <span class="contenttextbold">nominated user</span> as a <span class="contenttextbold">user</span> of the <span class="contenttextbold">service</span> in accordance with the terms of <span class="contenttextbold">Clydesdale Bank 24 Hour Telephone Banking Service</span>.
+
+	          <p class="contenttextbold">Use of the service</p>
+              <li>	Once:
+	            <ol type="a">
+	              <li>	<span class="contenttextbold">you</span> have accepted these terms and conditions including, without limitation, the <span class="contenttextbold">site disclaimers</span>; and</li>
+                  <li>	<span class="contenttextbold">you</span> have accessed the <span class="contenttextbold">service</span> by entering <span class="contenttextbold">your</span> user number and password issued to <span class="contenttextbold">you</span> under <span class="contenttextbold">Clydesdale Bank 24 Hour Telephone Banking Service</span>; and</li>
+                  <li>	<span class="contenttextbold">you</span> have selected a different password to be used to access the <span class="contenttextbold">service</span> in the future; and</li>
+                  <li>	<span class="contenttextbold">Clydesdale Bank</span> has selected a <span class="contenttextbold">billing account</span> (another <span class="contenttextbold">billing account</span> may be subsequently selected by <span class="contenttextbold">you</span> with <span class="contenttextbold">Clydesdale Bank's</span> agreement);</li>
+                </ol>
+              </li>
+              <p class="contenttext"><span class="contenttextbold">Clydesdale Bank</span> will register <span class="contenttextbold">you</span> as a <span class="contenttextbold">user</span> of the <span class="contenttextbold">service</span>.</p>
+              <li>	Once a <span class="contenttextbold">user</span> is registered, the <span class="contenttextbold">user</span> may use the <span class="contenttextbold">service</span> in accordance with these terms and conditions. However, <span class="contenttextbold">Clydesdale Bank</span> may only allow the user access to certain functionalities of the <span class="contenttextbold">service</span> if <span class="contenttextbold">Clydesdale Bank</span> has not received in a form, and in the manner, satisfactory to it any document or information, including, without limitation, any document which identifies the <span class="contenttextbold">user</span>, as <span class="contenttextbold">Clydesdale Bank</span> reasonably requires.</li>
+              <li>	The <span class="contenttextbold">user</span> may continue to use the <span class="contenttextbold">service</span> unless:
+	            <ol type="a">
+
+	              <li>	it is cancelled under this agreement; or</li>
+                  <li>	access to the <span class="contenttextbold">service</span> is denied under this agreement.</li>
+                </ol>
+              </li>
+              <li>	Access to the <span class="contenttextbold">service</span> will be denied to a <span class="contenttextbold">user</span> if the <span class="contenttextbold">user</span> enters an incorrect password on three consecutive occasions.  If this occurs then <span class="contenttextbold">you</span> should contact <span class="contenttextbold">Clydesdale Bank</span> Internet Banking Support on 0845 6011801.
+
+	            <p class="contenttextbold">Functionalities of the service</p>
+                <li><span class="contenttextbold">Clydesdale Bank</span> may add to, remove, change or impose restrictions on, the functionalities of the <span class="contenttextbold">service</span> at any time.</li>
+	<p class="contenttextbold"><span class="contenttextbold">Your</span> responsibilities</p>
+	<li>	<span class="contenttextbold">You</span> agree:
+	<ol type="a">
+	<li>	that the password <span class="contenttextbold">you</span> choose to access the <span class="contenttextbold">service</span> will not be the same as, or similar to, any other personal identification number <span class="contenttextbold">you</span> have for any <span class="contenttextbold">account</span> <span class="contenttextbold">you</span> have with, or other <span class="contenttextbold">service</span> provided by, <span class="contenttextbold">Clydesdale Bank</span>;</li>
+	<li>	not to permit any other person to use <span class="contenttextbold">your</span> password;</li>
+	<li>	not to disclose <span class="contenttextbold">your</span> password to any other person;</li>
+	<li>	not to record or store <span class="contenttextbold">your</span> password anywhere but to commit it to memory;</li>
+	<li>	to take reasonable care when accessing the <span class="contenttextbold">service</span> to ensure that <span class="contenttextbold">your</span> password is not disclosed to any other person, in particular ensuring that <span class="contenttextbold">you</span> are not observed whilst entering <span class="contenttextbold">your</span> password.</li>
+	<li>	to check <span class="contenttextbold">your account</span> records carefully.</li>
+	</ol>
+	</li>
+	<li>	<span class="contenttextbold">you</span> must ensure that a <span class="contenttextbold">nominated user</span> protects, stores and uses their password in the same manner as Clause 17 requires <span class="contenttextbold">you</span> to protect, store and use <span class="contenttextbold">yours</span>. </li>
+	<li>	Subject to Clause 28, <span class="contenttextbold">you</span> agree that:
+	<ol type="a">
+	<li>	an instruction to <span class="contenttextbold">Clydesdale Bank</span> by a <span class="contenttextbold">user</span> using the <span class="contenttextbold">service</span> constitutes a valid and irrevocable authority to <span class="contenttextbold">Clydesdale Bank</span> to follow that instruction; and</li>
+	<li>	a payment instruction which is given before the <span class="contenttextbold">cut-off time</span> for a <span class="contenttextbold">banking business day</span> will be processed on the same day but if it is given after the <span class="contenttextbold">cut-off time</span> it will be processed on the next <span class="contenttextbold">banking business day</span> after the instruction is given.</li>
+	</ol>
+	</li>
+	<li>	<span class="contenttextbold">You</span> are responsible and liable for all instructions authorised by a <span class="contenttextbold">user's</span> use of their password or undertaken by another person with a <span class="contenttextbold">user's</span> knowledge or consent.</li>
+	<li>	If:
+	<ol type="a">
+	<li>a <span class="contenttextbold">user's</span> password becomes known or <span class="contenttextbold">you</span> suspect it has become known to anyone other than the user;</li>
+	<li>a <span class="contenttextbold">user's</span> computer which the <span class="contenttextbold">user</span> uses to access and use the <span class="contenttextbold">service</span> is lost, stolen or fraudulently accessed; </li>
+	<li><span class="contenttextbold">you</span> become aware of any unauthorised transaction or error on an <span class="contenttextbold">account</span> using the <span class="contenttextbold">service</span>; or</li>
+	<li><span class="contenttextbold">you</span> think someone else may try to access <span class="contenttextbold">your account</span>.</li>
+	</ol>
+	<span class="contenttextbold">You</span> must immediately change <span class="contenttextbold">your</span> password by using the "Change Password" section within the Administration Centre of the <span class="contenttextbold">service</span>.</li>
+	<li>It is <span class="contenttextbold">your</span> responsibility to use other means of effecting transactions and giving and obtaining information if for any reason the <span class="contenttextbold">service</span> is unavailable for use or malfunctioning. Other means include the <span class="contenttextbold">Clydesdale Bank 24 Hour Telephone Banking Service</span>.</li>
+
+
+	<p class="contenttextbold">Allocation of liabilities</p>
+
+	<li><span class="contenttextbold">You</span> are not liable for any losses:
+	<ol type="a">
+	<li>where <span class="contenttextbold">you</span> have not contributed to those losses; or</li>
+	<li>that are caused by the fraudulent or negligent conduct of <span class="contenttextbold">Clydesdale Bank's</span> employees or agents; or</li>
+	<li>resulting from unauthorised transactions occurring after <span class="contenttextbold">you</span> notify <span class="contenttextbold">Clydesdale Bank</span> by telephone or in writing (including, without limitation, electronically) that a <span class="contenttextbold">user's</span> password has become known to someone else.</li>
+	</ol>
+	</li>
+	<li>Subject to Clauses 25 and 26, you are only liable to pay a maximum of £50 for any losses resulting from unauthorised transactions on an <span class="contenttextbold">account</span> using the <span class="contenttextbold">service</span>.</li>
+	<li>Where it is clear that <span class="contenttextbold">you</span> have contributed in any way to the losses because <span class="contenttextbold">you</span> have acted fraudulently or negligently, or if <span class="contenttextbold">you</span> or any <span class="contenttextbold">nominated user</span> (deliberately or accidentally) disclose your password to someone else and this action constitutes fraud or negligence by <span class="contenttextbold">you</span> or any <span class="contenttextbold">nominated user</span> then <span class="contenttextbold">you</span> will be liable for all losses so occasioned. </li>
+	<li><span class="contenttextbold">You</span> will be liable for any loss or damage incurred by another party due to breach of these terms and conditions by <span class="contenttextbold">you</span> or any <span class="contenttextbold">nominated user</span> where such breach constitutes fraud or negligence by <span class="contenttextbold">you</span> or any <span class="contenttextbold">nominated user</span> and <span class="contenttextbold">you</span> shall indemnify <span class="contenttextbold">Clydesdale Bank</span> for any such claims made against <span class="contenttextbold">Clydesdale Bank</span> by other parties and for any costs incurred in respect of such claims.</li>
+	<li><span class="contenttextbold">You</span> acknowledge that, subject to <span class="contenttextbold">your</span> rights implied at law which cannot be excluded, <span class="contenttextbold">Clydesdale Bank</span> is not liable:
+	<ol type="a">
+	<li>for any breakdown or interruption in the <span class="contenttextbold">service</span> due to circumstances beyond its control or for periods of planned downtime, including, without limitation, for routine maintenance to computing equipment;</li>
+	<li>for any breakdown, interruption or errors caused to a <span class="contenttextbold">user's</span> computer or computing equipment as a result of using the <span class="contenttextbold">service</span>;</li>
+	<li>for the failure of the <span class="contenttextbold">service</span> to perform in whole or in part any function which <span class="contenttextbold">Clydesdale Bank</span> has specified it will perform;</li>
+	<li>for any delays or errors in the execution of any transaction or instruction in respect of an <span class="contenttextbold">account</span> because of any breakdown or interruption in the <span class="contenttextbold">service</span> due to circumstances beyond its control;</li>
+	<li>to a party to a payment instruction made by a <span class="contenttextbold">user</span>, who does not receive funds because of a problem with the information provided by the <span class="contenttextbold">user</span> (for example a <span class="contenttextbold">user</span> provides <span class="contenttextbold">Clydesdale Bank</span> with the wrong <span class="contenttextbold">account</span> number);</li>
+	<li>for any delays or errors by other parties (for example, the failure of a financial institution to credit or debit an <span class="contenttextbold">account</span> in a timely manner);</li>
+	<li>for any direct or indirect economic or consequential loss or damage (including, without limitation, foreseeable or direct loss of profit, which arises as a natural consequence from the event or omission giving rise to such claim) suffered by <span class="contenttextbold">you</span>, any <span class="contenttextbold">nominated user</span> or another party;</li>
+	<li>for loss or damage which arises due to <span class="contenttextbold">your</span> fraud or negligence or through breach of these terms and conditions by <span class="contenttextbold">you</span> or any <span class="contenttextbold">nominated user</span> or otherwise through use of the <span class="contenttextbold">service</span> where such use involves fraud or negligence by <span class="contenttextbold">you</span> or any <span class="contenttextbold">nominated user</span> or as a result of <span class="contenttextbold">Clydesdale Bank's</span> failure to act or delay in acting; or</li>
+	<li>for any reliance placed by <span class="contenttextbold">you</span> or any <span class="contenttextbold">nominated user</span> on any part of this site or these terms and conditions which may have been stored by <span class="contenttextbold">you</span> or any <span class="contenttextbold">nominated user</span> and may be out of date at any time and from time to time.</li>
+	</ol>
+	</li>
+	
+	
+	<p class="contenttextbold">Clydesdale Bank's responsibilities</p>
+	
+	<li><span class="contenttextbold">You</span> acknowledge that, subject to <span class="contenttextbold">your</span> rights implied at law which cannot be excluded:
+	<ol type="a">
+	<li><span class="contenttextbold">Clydesdale Bank</span> need not act or may delay acting on any instruction given by a <span class="contenttextbold">user</span> through the use of the <span class="contenttextbold">service</span>, where, in <span class="contenttextbold">Clydesdale Bank's</span> opinion, there is a good reason for doing so, including, without limitation, processing any instruction on the next <span class="contenttextbold">banking business day</span> after the instruction is given; and</li>
+	<li>that <span class="contenttextbold">Clydesdale Bank</span> is not liable for any loss or damage caused to <span class="contenttextbold">you</span> as a result of <span class="contenttextbold">Clydesdale Bank's</span> failure to act or delay in acting; and</li>
+	<li>a transaction sought to be made on an <span class="contenttextbold">account</span> may be rejected by <span class="contenttextbold">Clydesdale Bank</span> where, in <span class="contenttextbold">Clydesdale Bank's</span> opinion, there is a good reason for doing so (including, without limitation, because of lack of funds or because the <span class="contenttextbold">account</span> has less than the required minimum balance) in which circumstances <span class="contenttextbold">Clydesdale Bank</span> will advise <span class="contenttextbold">you</span> of the reason for such a decision as soon as is practicable in the circumstances; and</li>
+	<li><span class="contenttextbold">Clydesdale Bank</span> may reverse the linking of an <span class="contenttextbold">account</span> to the <span class="contenttextbold">service</span> for any reason (including, without limitation, because the relevant <span class="contenttextbold">account</span> has been closed).</li>
+	</ol>
+	</li>
+	<li><span class="contenttextbold">You</span> acknowledge that the correctness of information about an <span class="contenttextbold">account</span> a <span class="contenttextbold">user</span> obtains through the <span class="contenttextbold">service</span> is subject to checking by <span class="contenttextbold">Clydesdale Bank</span> as part of its normal procedures and reflects the entries that have been posted to the relevant <span class="contenttextbold">account</span> at the time the information is obtained.</li>
+	<p class="contenttextbold">Changes by <span class="contenttextbold">Clydesdale Bank</span></p>
+	<li><span class="contenttextbold">Clydesdale Bank</span> may:
+	<ol type="a">
+	<li>vary the amount, frequency or time for payment of any fees or charges relating to the <span class="contenttextbold">service</span>;</li>
+	<li>introduce a new fee or charge relating to the <span class="contenttextbold">service</span>; </li>
+	<li>vary any other provision of these terms and conditions; and</li>
+	<li>amend or update the site or these terms and conditions from time to time, so that at any one time a stored copy of any of the pages or these terms and conditions may be out of date.</li>
+	</ol>
+	</li>
+	<li><span class="contenttextbold">Clydesdale Bank</span> will notify <span class="contenttextbold">you</span> of the introduction of a new fee or charge by one of the following methods (1) in writing or (2) by e-mail at least 30 days before the variation takes effect. <span class="contenttextbold">Clydesdale Bank</span> will notify <span class="contenttextbold">you</span> of any other variation by advertisement in the national press, by notification in <span class="contenttextbold">Clydesdale Bank</span> branches, in writing, by putting a message on <span class="contenttextbold">Clydesdale Bank's</span> website or by e-mail, at least 30 days before the variation takes effect (unless the law requires a more immediate change). If the variation is significant, in <span class="contenttextbold">Clydesdale Bank's</span> reasonable opinion, it will be advised to <span class="contenttextbold">you</span> by notice in writing via e-mail. If <span class="contenttextbold">you</span> or any <span class="contenttextbold">nominated user</span> then continues to use the <span class="contenttextbold">service</span>, it will mean that <span class="contenttextbold">you</span> and any <span class="contenttextbold">nominated user</span> have agreed to the change.</li>
+
+
+	<p class="contenttextbold">Fees</p>
+	
+	<li><span class="contenttextbold">You</span> must pay <span class="contenttextbold">Clydesdale Bank's</span> standard fees relating to the <span class="contenttextbold">service</span>, including, without limitation, the use of the <span class="contenttextbold">service</span>, in accordance with Clauses 33 to 35.</li>
+	<li><span class="contenttextbold">Clydesdale Bank</span> may debit <span class="contenttextbold">your billing account</span> or the <span class="contenttextbold">source account</span> with its standard fees relating to the <span class="contenttextbold">service</span>, (including, without limitation, the use of the <span class="contenttextbold">service</span>) the amount and nature of which are detailed in <span class="contenttextbold">Clydesdale Bank's</span> Current <span class="contenttextbold">account</span> Tariff for Personal Customers or Business Banking Tariff Guide, as appropriate available from <span class="contenttextbold">Clydesdale Bank</span> at any time.  Fees are calculated monthly on the last <span class="contenttextbold">banking business day</span> of each month, and where the fees relate to the use of the <span class="contenttextbold">service</span>, are calculated in respect of the use of the <span class="contenttextbold">service</span> which occurs before 5.00 pm of the last <span class="contenttextbold">banking business day</span> for each month, and are debited on the first <span class="contenttextbold">banking business day</span> of the following month.</li>
+	<li>If there are insufficient funds in <span class="contenttextbold">your billing account</span> or the <span class="contenttextbold">source account</span>:
+	<ol type="a">
+	<li><span class="contenttextbold">you</span> authorise <span class="contenttextbold">Clydesdale Bank</span> to debit relevant fees or charges to the relevant <span class="contenttextbold">account</span> even if that causes the relevant <span class="contenttextbold">account</span> to become overdrawn (but not if it causes an <span class="contenttextbold">account</span> with a person other than <span class="contenttextbold">Clydesdale Bank</span> to be overdrawn); or </li>
+	<li><span class="contenttextbold">Clydesdale Bank</span> may require <span class="contenttextbold">you</span> to pay the fees in any other manner <span class="contenttextbold">Clydesdale Bank</span> determines.</li>
+	</ol>
+	</li>
+	<li>If <span class="contenttextbold">you</span> close <span class="contenttextbold">your billing account</span>, <span class="contenttextbold">Clydesdale Bank</span> will automatically select another <span class="contenttextbold">account</span> to which fees and charges relating to the <span class="contenttextbold">service</span> may be debited.  If no <span class="contenttextbold">account</span> satisfactory to <span class="contenttextbold">Clydesdale Bank</span> exists, <span class="contenttextbold">Clydesdale Bank</span> may immediately cancel the availability of the <span class="contenttextbold">service</span> to <span class="contenttextbold">you</span> until such time that <span class="contenttextbold">you</span> open an <span class="contenttextbold">account</span> satisfactory to <span class="contenttextbold">Clydesdale Bank</span> or <span class="contenttextbold">Clydesdale Bank</span> may require <span class="contenttextbold">you</span> to pay the fees in any other manner <span class="contenttextbold">Clydesdale Bank</span> determines.</li>
+
+
+	<p class="contenttextbold">Termination</p>
+	
+	<li><span class="contenttextbold">You</span> may end this agreement at any time by giving written or telephone notice to <span class="contenttextbold">Clydesdale Bank</span> in accordance with the terms of <span class="contenttextbold">Clydesdale Bank 24 Hour Telephone Banking Service</span> and Clause 47. <span class="contenttextbold">Clydesdale Bank</span> may end this agreement at any time by giving at least 30 days notice to <span class="contenttextbold">you</span>.  If a <span class="contenttextbold">user</span> does not use the <span class="contenttextbold">service</span> for 12 months, <span class="contenttextbold">Clydesdale Bank</span> may end this agreement without notice to <span class="contenttextbold">you</span>.</li>
+	<li><span class="contenttextbold">Clydesdale Bank</span> may terminate this agreement immediately where there is a justifiable, financial or legal reason for <span class="contenttextbold">Clydesdale Bank</span> to do so, for example in the event that:
+	<ol type="a">
+	<li><span class="contenttextbold">you</span> or a <span class="contenttextbold">nominated user</span> acts, or is suspected of acting fraudulently or with negligence;</li>
+	<li><span class="contenttextbold">you</span> or a <span class="contenttextbold">nominated user</span> significantly breaches, or threatens to breach significantly these terms and conditions;</li>
+	<li><span class="contenttextbold">Clydesdale Bank</span> suspects that there is a threat to the security of its systems; </li>
+	<li><span class="contenttextbold">your</span> (or a <span class="contenttextbold">nominated user's</span>) <span class="contenttextbold">Clydesdale Bank 24 Hour Telephone Banking Service</span> is withdrawn.</li>
+	</ol>
+	<p class="contenttextbold">General matters</p>
+	<li><span class="contenttextbold">Clydesdale Bank</span> will have available for <span class="contenttextbold">you</span> upon request information on <span class="contenttextbold">Clydesdale Bank's</span> current interest rates, fees and charges.</li>
+	<li>Unless <span class="contenttextbold">you</span> have advised <span class="contenttextbold">Clydesdale Bank</span> that the <span class="contenttextbold">service</span> will not be acquired wholly and exclusively for private or domestic use, the provisions of the Banking Code that are relevant to the <span class="contenttextbold">service</span> will apply.</li>
+	<li><span class="contenttextbold">Clydesdale Bank</span> will provide a copy of the Banking Code to <span class="contenttextbold">you</span> on request.</li>
+	<li>In the event of unauthorised use of the <span class="contenttextbold">service</span> <span class="contenttextbold">Clydesdale Bank</span> may disclose any relevant information to the appropriate authorities and <span class="contenttextbold">you</span> and any <span class="contenttextbold">nominated user</span> agrees to assist <span class="contenttextbold">Clydesdale Bank</span> and such authorities.</li>
+	<li><span class="contenttextbold">Clydesdale Bank</span> will not disclose information about <span class="contenttextbold">you</span> or <span class="contenttextbold">your</span> name and address to a third party except with <span class="contenttextbold">your</span> consent or otherwise in accordance with the Data Protection Act 1998 or the Banking Code.</li>
+	<li><span class="contenttextbold">Clydesdale Bank</span> will not give information about <span class="contenttextbold">you</span> to subsidiaries or associated companies for marketing purposes without <span class="contenttextbold">your</span> permission.</li>
+	<li><span class="contenttextbold">You</span> can choose not to receive any marketing information relating to <span class="contenttextbold">Clydesdale Bank's</span> products and <span class="contenttextbold">service</span>s by notifying <span class="contenttextbold">your</span> <span class="contenttextbold">Clydesdale Bank</span> branch in writing.</li>
+	<li><span class="contenttextbold">Clydesdale Bank</span> will at all times comply with the Data Protection Act 1998 when obtaining and processing data and <span class="contenttextbold">you</span> are entitled to obtain a copy of the information <span class="contenttextbold">Clydesdale Bank</span> holds on computer about <span class="contenttextbold">you</span> by contacting <span class="contenttextbold">your</span> branch and upon payment of the appropriate fee.</li>
+	<li>For security purposes and to maintain a high standard of <span class="contenttextbold">service</span>, telephone conversations may be recorded or monitored.</li>
+
+
+	<p class="contenttextbold">Notices</p>
+
+	<li>Notices, certificates, consents, approvals and other communications in connection with this agreement must be given using the <span class="contenttextbold">service</span> unless:
+	<ul type="i">
+	<li>otherwise specified in this agreement; or </li>
+	<li><span class="contenttextbold">Clydesdale Bank</span> otherwise determines.</li>
+	</ul>
+	</li>
+	<li>Communications for <span class="contenttextbold">Clydesdale Bank</span> may be provided by a <span class="contenttextbold">user</span> using the <span class="contenttextbold">service</span>.</li>
+	<li>A communication is deemed to be received when the communication enters a recipient's computer and is effective when received even if no person is aware of its receipt.</li>
+	<li>Clause 49 applies even if the place where the computer is located is different from the place where the communication is considered to be received under Clause 49.</li>
+	<li>A communication is deemed to be sent from where the sender has its place of business and is deemed to be received where the recipient has its place of business.  For the purposes of this Clause:
+	<ol type="a">
+	<li>if the sender or recipient has more than one place of business, the place of business is the sender's or recipient's principal place of business; and</li>
+	<li>if the sender or recipient does not have a place of business, the place of business is the sender's or recipient's usual place of residence.</li>
+	</ol>
+	</li>
+
+
+	<p class="contenttextbold">Enforceability</p>
+
+	<li>In the event any provision of these terms and conditions is held to be unenforceable, it will not affect the validity and enforceability of the remaining provisions and will be replaced by an enforceable provision that comes closest to the intention underlying the unenforceable provision.</li>
+
+	<p class="contenttextbold">Governing law</p>
+
+	<li>This agreement and the transactions contemplated by this agreement are governed by and construed in accordance with the law of Scotland and each party irrevocably and unconditionally submits to the non-exclusive jurisdiction of the Scottish courts.</li>
+
+	<p class="contenttext">Clydesdale Bank Public Limited Company subscribes to the Banking Code.</p>
+	<p class="contenttext">Clydesdale Bank Public Limited Company. Registered on Scotland (No. SC001111). Registered Office: 30 St Vincent Place, Glasgow G1 2HL </p>
+	<p class="contenttext">Clydesdale Bank Public Limited Company is a member of National Australia Bank Group.</p>
+            </ol>
+          </td>
+          <td width="20"><img src="/g_images/1x1space.gif" width="20" height="1" alt=" "></td>
+          <td width="131" class="content">
+            <table width="131" border="0" cellspacing="0" cellpadding="2">
+
+
+
+
+
+</table>          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+	<td class="ibank">&nbsp;</td><td class="disclaimer">		
+
+
+
+				      			<table width="100%" border="0" cellspacing="9" cellpadding="0">
+									<tr>
+			                                                                                                                                                                                                                                                                                                                                                                                                                     
+												<td class="disclaimer">
+												&copy; Clydesdale Bank PLC 2001. Use of the information contained on this page is subject to certain rules. To view the Rules of Use, 
+												<a href="javascript:void(null)" onclick="javascript:viewper()" class="disclaimerlink">
+												click here.</a>
+						</td>                                                   
+			                                                                                                                                                                                                                                                                                                                                                                                                                                              
+					</tr>                                                                                                                                                                                                                                                                                                                                                                                                                                           
+			    </table>                                                                                                                                                                                                                                                                                                                                                                                                                                            
+			</td>                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+
+
+  </tr>
+</table>
+</body>
+</html>
+

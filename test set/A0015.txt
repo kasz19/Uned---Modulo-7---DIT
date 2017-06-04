@@ -1,0 +1,415 @@
+ID=A0015
+URL=http://www.hoaresbank.co.uk/html/home_content.html
+SIZE=13581
+DATE=27/06/02
+TIME=16:50:09
+DATASET=Commercial Banks
+HTML=<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>C. Hoare &amp; Co. Home Page</title>
+		<script language="JavaScript"><!--
+function popupWindow() {
+    window.open("https://www.hoaresbank.co.uk/shtml/index3.html", "Hoare", "toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no,resizable=no,width=773,height=500,left=20,top=20");
+}
+// -->
+		</script>
+		<csactions>
+			<csaction name="B4FD47DA1" class="Netscape CSS Fix" type="ONLOAD">
+			<csaction name="B505A60255" class="Open Window" type="ONEVENT" val0="legal_fset.html" val1="new" val2="340" val3="321" val4="false" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+			<csaction name="about on" class="Action Group" type="UNBOUND" val0="B505DE652,B505DE7E3">
+			<csaction name="B505DE652" class="Set Image URL" type="ONEVENT" val0="about" val1="../images/home_content_image1on.jpg">
+			<csaction name="B505DE7E3" class="Set Image URL" type="ONEVENT" val0="about button" val1="../images/home_navon1.gif">
+			<csaction name="B505DF407" class="Call Action" type="ONEVENT" val0="about on">
+			<csaction name="B505DF688" class="Call Action" type="ONEVENT" val0="about on">
+			<csaction name="about off" class="Action Group" type="UNBOUND" val0="B505E03610,B505E06911">
+			<csaction name="B505E03610" class="Set Image URL" type="ONEVENT" val0="about" val1="../images/home_content_image1.jpg">
+			<csaction name="B505E06911" class="Set Image URL" type="ONEVENT" val0="about button" val1="../images/home_nav1.gif">
+			<csaction name="B505E07B12" class="Call Action" type="ONEVENT" val0="about off">
+			<csaction name="B505E08513" class="Call Action" type="ONEVENT" val0="about off">
+			<csaction name="B505E14B20" class="Call Action" type="ONEVENT" val0="history on">
+			<csaction name="B505E14B21" class="Call Action" type="ONEVENT" val0="history off">
+			<csaction name="B505E14C23" class="Call Action" type="ONEVENT" val0="account on">
+			<csaction name="B505E14C24" class="Call Action" type="ONEVENT" val0="account off">
+			<csaction name="B505E14D26" class="Call Action" type="ONEVENT" val0="contact on">
+			<csaction name="B505E14D27" class="Call Action" type="ONEVENT" val0="contact off">
+			<csaction name="B505E14F29" class="Call Action" type="ONEVENT" val0="history on">
+			<csaction name="B505E14F30" class="Call Action" type="ONEVENT" val0="history off">
+			<csaction name="history on" class="Action Group" type="UNBOUND" val0="B505E18A38,B505E20339">
+			<csaction name="B505E18A38" class="Set Image URL" type="ONEVENT" val0="history" val1="../images/home_content_image2on.jpg">
+			<csaction name="B505E20339" class="Set Image URL" type="ONEVENT" val0="history button" val1="../images/home_navon2.gif">
+			<csaction name="history off" class="Action Group" type="UNBOUND" val0="B505E21C41,B505E25042">
+			<csaction name="B505E21C41" class="Set Image URL" type="ONEVENT" val0="history" val1="../images/home_content_image2.jpg">
+			<csaction name="B505E25042" class="Set Image URL" type="ONEVENT" val0="history button" val1="../images/home_nav2.gif">
+			<csaction name="contact on" class="Action Group" type="UNBOUND" val0="B505E30047,B505E36157">
+			<csaction name="B505E30047" class="Set Image URL" type="ONEVENT" val0="contact" val1="../images/home_content_image3on.jpg">
+			<csaction name="B505E31F52" class="Call Action" type="ONEVENT" val0="contact on">
+			<csaction name="B505E31F53" class="Call Action" type="ONEVENT" val0="contact off">
+			<csaction name="B505E32155" class="Call Action" type="ONEVENT" val0="account on">
+			<csaction name="B505E32156" class="Call Action" type="ONEVENT" val0="account off">
+			<csaction name="B505E36157" class="Set Image URL" type="ONEVENT" val0="contact button" val1="../images/home_navon4.gif">
+			<csaction name="contact off" class="Action Group" type="UNBOUND" val0="B505E38059,B505E38460">
+			<csaction name="B505E38059" class="Set Image URL" type="ONEVENT" val0="contact" val1="../images/home_content_image3.jpg">
+			<csaction name="B505E38460" class="Set Image URL" type="ONEVENT" val0="contact button" val1="../images/home_nav4.gif">
+			<csaction name="account on" class="Action Group" type="UNBOUND" val0="B505E52C65,B505E52F66">
+			<csaction name="B505E52C65" class="Set Image URL" type="ONEVENT" val0="account" val1="../images/home_content_image4on.jpg">
+			<csaction name="B505E52F66" class="Set Image URL" type="ONEVENT" val0="account button" val1="../images/home_navon3.gif">
+			<csaction name="account off" class="Action Group" type="UNBOUND" val0="B505E5A368,B505E5A769">
+			<csaction name="B505E5A368" class="Set Image URL" type="ONEVENT" val0="account" val1="../images/home_content_image4.jpg">
+			<csaction name="B505E5A769" class="Set Image URL" type="ONEVENT" val0="account button" val1="../images/home_nav3.gif">
+			<csaction name="B5DC2B3F2" class="Open Window" type="ONEVENT" val0="index3.html" val1 val2="773" val3="500" val4="false" val5="false" val6="false" val7="false" val8="false" val9="false" val10="false">
+		</csactions>
+		<csactionitem name="B4FD47DA1"></csactionitem>
+		<csactionitem name="about on"></csactionitem>
+		<csactionitem name="about off"></csactionitem>
+		<csactionitem name="history on"></csactionitem>
+		<csactionitem name="history off"></csactionitem>
+		<csactionitem name="contact on"></csactionitem>
+		<csactionitem name="contact off"></csactionitem>
+		<csactionitem name="account on"></csactionitem>
+		<csactionitem name="account off"></csactionitem>
+		<csscriptdict>
+			<script><!--
+CSStopExecution = false;
+CSInit = new Array;
+function CSScriptInit() {
+if(typeof(skipPage) != "undefined") { if(skipPage) return; }
+idxArray = new Array;
+for(var i=0;i<CSInit.length;i++)
+	idxArray[i] = i;
+CSAction2(CSInit, idxArray);
+}
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
+function IsIE() { return CSAg.indexOf("MSIE") > 0;}
+function CSIEStyl(s) { return document.all.tags("div")[s].style; }
+function CSNSStyl(s) { return CSFindElement(s,0); }
+function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
+	var curDoc = ly ? ly.document : document; var elem = curDoc[n];
+	if (!elem) { for (var i=0;i<curDoc.layers.length;i++) {
+		elem = CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
+	return elem;
+}
+function CSButtonReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return false; // follow link
+	else return true; // follow link
+}
+CSIm = new Object();
+function CSIShow(n,i) {
+	if (document.images) {
+		if (CSIm[n]) {
+			var img = (!IsIE()) ? CSFindElement(n,0) : document[n];
+			if (img && typeof(CSIm[n][i].src) != "undefined") {img.src = CSIm[n][i].src;}
+			if(i != 0)
+				self.status = CSIm[n][3];
+			else
+				self.status = " ";
+			return true;
+		}
+	}
+	return false;
+}
+function CSILoad(action) {
+	im = action[1];
+	if (document.images) {
+		CSIm[im] = new Object();
+		for (var i=2;i<5;i++) {
+			if (action[i] != '') { CSIm[im][i-2] = new Image(); CSIm[im][i-2].src = action[i]; }
+			else CSIm[im][i-2] = 0;
+		}
+		CSIm[im][3] = action[5];
+	}
+}
+CSStopExecution = false;
+
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+
+function CSFixFct() {
+	var d = document; var w = window;
+	if (d.cs.csFix.w != w.innerWidth || d.cs.csFix.h != w.innerHeight) {
+		d.location = d.location; }
+}
+function CSNSFix(action) { 
+	var d = document; var w = window;
+	if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
+		if (typeof d.cs == 'undefined') { 
+			d.cs = new Object;
+			d.cs.csFix = new Object; 
+		} else if (CSIsFrame (w) == true) CSFixFct();
+		d.cs.csFix.w = w.innerWidth;
+		d.cs.csFix.h = w.innerHeight; 
+		window.onresize = CSFixFct;
+	  }
+}
+function CSIsFrame (window) {
+	var rootWindow = window.parent;
+	if (rootWindow == 'undefined') return false;
+	for (i = 0; i < rootWindow.frames.length; i++)
+		if (window == rootWindow.frames[i]) return true;
+	return false;
+}
+function CSOpenWindow(action) {
+	var wf = "";	
+	wf = wf + "width=" + action[3];
+	wf = wf + ",height=" + action[4];
+	wf = wf + ",resizable=" + (action[5] ? "yes" : "no");
+	wf = wf + ",scrollbars=" + (action[6] ? "yes" : "no");
+	wf = wf + ",menubar=" + (action[7] ? "yes" : "no");
+	wf = wf + ",toolbar=" + (action[8] ? "yes" : "no");
+	wf = wf + ",directories=" + (action[9] ? "yes" : "no");
+	wf = wf + ",location=" + (action[10] ? "yes" : "no");
+	wf = wf + ",status=" + (action[11] ? "yes" : "no");		
+	window.open(action[1],action[2],wf);
+}
+function CSActionGroup (action) {
+	for(var i=1;i<action.length;i++) { CSAction(new Array(action[i])); }
+}
+function CSSetImageURL(action) {
+	var img = null;
+	if (document.images) {
+		if (!IsIE()) img = CSFindElement(action[1],0);
+		else img = document.images[action[1]];
+		if (img) img.src = action[2];
+	}
+}
+function CSCallAction(action)
+{
+	CSAction(new Array(action[1]));
+}
+
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button5',/*URL*/'../images/home_nav5.gif',/*URL*/'../images/home_navon5.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSNSFix);
+CSAct[/*CMP*/ 'B505A60255'] = new Array(CSOpenWindow,/*URL*/ 'legal_fset.html','new',340,321,false,false,false,false,false,false,false);
+CSAct[/*CMP*/ 'about on'] = new Array(CSActionGroup,/*CMP*/ 'B505DE652', /*CMP*/ 'B505DE7E3');
+CSAct[/*CMP*/ 'B505DE652'] = new Array(CSSetImageURL,/*CMP*/ 'about',/*URL*/ '../images/home_content_image1on.jpg');
+CSAct[/*CMP*/ 'B505DE7E3'] = new Array(CSSetImageURL,/*CMP*/ 'about button',/*URL*/ '../images/home_navon1.gif');
+CSAct[/*CMP*/ 'B505DF407'] = new Array(CSCallAction,/*CMP*/'about on');
+CSAct[/*CMP*/ 'B505DF688'] = new Array(CSCallAction,/*CMP*/'about on');
+CSAct[/*CMP*/ 'about off'] = new Array(CSActionGroup,/*CMP*/ 'B505E03610', /*CMP*/ 'B505E06911');
+CSAct[/*CMP*/ 'B505E03610'] = new Array(CSSetImageURL,/*CMP*/ 'about',/*URL*/ '../images/home_content_image1.jpg');
+CSAct[/*CMP*/ 'B505E06911'] = new Array(CSSetImageURL,/*CMP*/ 'about button',/*URL*/ '../images/home_nav1.gif');
+CSAct[/*CMP*/ 'B505E07B12'] = new Array(CSCallAction,/*CMP*/'about off');
+CSAct[/*CMP*/ 'B505E08513'] = new Array(CSCallAction,/*CMP*/'about off');
+CSAct[/*CMP*/ 'B505E14B20'] = new Array(CSCallAction,/*CMP*/'history on');
+CSAct[/*CMP*/ 'B505E14B21'] = new Array(CSCallAction,/*CMP*/'history off');
+CSAct[/*CMP*/ 'B505E14C23'] = new Array(CSCallAction,/*CMP*/'account on');
+CSAct[/*CMP*/ 'B505E14C24'] = new Array(CSCallAction,/*CMP*/'account off');
+CSAct[/*CMP*/ 'B505E14D26'] = new Array(CSCallAction,/*CMP*/'contact on');
+CSAct[/*CMP*/ 'B505E14D27'] = new Array(CSCallAction,/*CMP*/'contact off');
+CSAct[/*CMP*/ 'B505E14F29'] = new Array(CSCallAction,/*CMP*/'history on');
+CSAct[/*CMP*/ 'B505E14F30'] = new Array(CSCallAction,/*CMP*/'history off');
+CSAct[/*CMP*/ 'history on'] = new Array(CSActionGroup,/*CMP*/ 'B505E18A38', /*CMP*/ 'B505E20339');
+CSAct[/*CMP*/ 'B505E18A38'] = new Array(CSSetImageURL,/*CMP*/ 'history',/*URL*/ '../images/home_content_image2on.jpg');
+CSAct[/*CMP*/ 'B505E20339'] = new Array(CSSetImageURL,/*CMP*/ 'history button',/*URL*/ '../images/home_navon2.gif');
+CSAct[/*CMP*/ 'history off'] = new Array(CSActionGroup,/*CMP*/ 'B505E21C41', /*CMP*/ 'B505E25042');
+CSAct[/*CMP*/ 'B505E21C41'] = new Array(CSSetImageURL,/*CMP*/ 'history',/*URL*/ '../images/home_content_image2.jpg');
+CSAct[/*CMP*/ 'B505E25042'] = new Array(CSSetImageURL,/*CMP*/ 'history button',/*URL*/ '../images/home_nav2.gif');
+CSAct[/*CMP*/ 'contact on'] = new Array(CSActionGroup,/*CMP*/ 'B505E30047', /*CMP*/ 'B505E36157');
+CSAct[/*CMP*/ 'B505E30047'] = new Array(CSSetImageURL,/*CMP*/ 'contact',/*URL*/ '../images/home_content_image3on.jpg');
+CSAct[/*CMP*/ 'B505E31F52'] = new Array(CSCallAction,/*CMP*/'contact on');
+CSAct[/*CMP*/ 'B505E31F53'] = new Array(CSCallAction,/*CMP*/'contact off');
+CSAct[/*CMP*/ 'B505E32155'] = new Array(CSCallAction,/*CMP*/'account on');
+CSAct[/*CMP*/ 'B505E32156'] = new Array(CSCallAction,/*CMP*/'account off');
+CSAct[/*CMP*/ 'B505E36157'] = new Array(CSSetImageURL,/*CMP*/ 'contact button',/*URL*/ '../images/home_navon4.gif');
+CSAct[/*CMP*/ 'contact off'] = new Array(CSActionGroup,/*CMP*/ 'B505E38059', /*CMP*/ 'B505E38460');
+CSAct[/*CMP*/ 'B505E38059'] = new Array(CSSetImageURL,/*CMP*/ 'contact',/*URL*/ '../images/home_content_image3.jpg');
+CSAct[/*CMP*/ 'B505E38460'] = new Array(CSSetImageURL,/*CMP*/ 'contact button',/*URL*/ '../images/home_nav4.gif');
+CSAct[/*CMP*/ 'account on'] = new Array(CSActionGroup,/*CMP*/ 'B505E52C65', /*CMP*/ 'B505E52F66');
+CSAct[/*CMP*/ 'B505E52C65'] = new Array(CSSetImageURL,/*CMP*/ 'account',/*URL*/ '../images/home_content_image4on.jpg');
+CSAct[/*CMP*/ 'B505E52F66'] = new Array(CSSetImageURL,/*CMP*/ 'account button',/*URL*/ '../images/home_navon3.gif');
+CSAct[/*CMP*/ 'account off'] = new Array(CSActionGroup,/*CMP*/ 'B505E5A368', /*CMP*/ 'B505E5A769');
+CSAct[/*CMP*/ 'B505E5A368'] = new Array(CSSetImageURL,/*CMP*/ 'account',/*URL*/ '../images/home_content_image4.jpg');
+CSAct[/*CMP*/ 'B505E5A769'] = new Array(CSSetImageURL,/*CMP*/ 'account button',/*URL*/ '../images/home_nav3.gif');
+CSAct[/*CMP*/ 'B5DC2B3F2'] = new Array(CSOpenWindow,/*URL*/ 'index3.html','',773,500,false,false,false,false,false,false,false);
+
+// --></script>
+		</csactiondict>
+		<link href="bodytext.css" rel="styleSheet" type="text/css">
+	</head>
+
+	<body background="../images/tile.jpg" topmargin="1" leftmargin="1" link="#702372" alink="#702372" vlink="#702372" onload="CSScriptInit();">
+		<table border="0" cellpadding="0" cellspacing="0" width="430">
+			<tr>
+				<td width="240" valign="top">
+					<table border="0" cellpadding="0" cellspacing="0" width="240">
+						<tr>
+							<td align="left">
+								<table border="0" cellpadding="0" cellspacing="0" width="230">
+									<tr>
+										<td width="20"><img height="10" width="20" src="../images/blank.gif"></td>
+										<td>
+											<table border="0" cellpadding="0" cellspacing="0" width="210">
+												<tr>
+													<td>
+														<table border="0" cellpadding="0" cellspacing="0">
+															<tr>
+																<td><img height="10" width="69" src="../images/blank.gif"></td>
+																<td><img height="43" width="52" src="../images/home_bottle.jpg" alt="Logo"></td>
+															</tr>
+														</table>
+													</td>
+												</tr>
+												<tr>
+													<td><img height="11" width="10" src="../images/blank.gif"></td>
+												</tr>
+												<tr>
+													<td><img height="36" width="190" src="../images/home_logotype.jpg" alt="logo"></td>
+												</tr>
+												<tr>
+													<td><img height="12" width="10" src="../images/blank.gif"></td>
+												</tr>
+												<tr>
+													<td>
+														<table border="0" cellpadding="0" cellspacing="0">
+															<tr>
+																<td><img height="8" width="32" src="../images/blank.gif"></td>
+																<td><img height="8" width="130" src="../images/home_since1672.jpg" alt="Logo"></td>
+															</tr>
+														</table>
+													</td>
+												</tr>
+												<tr>
+													<td><img height="19" width="10" src="../images/blank.gif"></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td><span class="bodycopy">A bank dedicated to high quality personal service is a rarity today. At C. Hoare &amp; Co., we combine an intelligent, professional approach to banking and investment management with care and courtesy. Our exclusive service is delivered by experienced managers who know and understand their customers.<br>
+								</span><span class="bodycopy"><br>
+								Founded over 300 years ago and still owned and managed by the Hoare family, our strengths lie in our continued independent ownership, our long banking history and our commitment to providing the best possible service.<br>
+								<br>
+								Please read our </span><a href="#" target="content" csclick="B505A60255" onclick="CSAction(new Array(/*CMP*/'B505A60255'));return CSClickReturn();"><span class="links">legal information</span></a><span class="bodycopy"> before proceeding further.</span><span class="bodycopy"><br>
+								<br>
+								</span></td>
+						</tr>
+					</table>
+				</td>
+				<td width="30"><img height="10" width="30" src="../images/blank.gif"></td>
+				<td width="160" valign="top">
+					<table border="0" cellpadding="0" cellspacing="0" width="160">
+						<tr>
+							<td><img height="102" width="10" src="../images/blank.gif"></td>
+						</tr>
+						<tr>
+							<td>
+								<table border="0" cellpadding="0" cellspacing="0" width="160">
+									<tr>
+										<td width="154">
+											<table border="0" cellpadding="0" cellspacing="0" width="154" height="114">
+												<tr>
+													<td><a href="about_fset.html" target="fset" csover="B505DF688" csout="B505E08513" onmouseover="CSAction(new Array(/*CMP*/'B505DF688'));return true;" onmouseout="CSAction(new Array(/*CMP*/'B505E08513'));"><img height="57" width="77" src="../images/home_content_image1.jpg" border="0" name="about" alt="About Us"></a></td>
+													<td><a href="history_fset.html" target="fset" csover="B505E14B20" csout="B505E14B21" onmouseover="CSAction(new Array(/*CMP*/'B505E14B20'));return true;" onmouseout="CSAction(new Array(/*CMP*/'B505E14B21'));"><img height="57" width="77" src="../images/home_content_image2.jpg" border="0" name="history" alt="History"></a></td>
+												</tr>
+												<tr>
+													<td><a href="account_fset.html" target="fset" csover="B505E14C23" csout="B505E14C24" onmouseover="CSAction(new Array(/*CMP*/'B505E14C23'));return true;" onmouseout="CSAction(new Array(/*CMP*/'B505E14C24'));"><img height="57" width="77" src="../images/home_content_image4.jpg" border="0" name="account" alt="Your Account"></a></td>
+													<td><a href="contact_fset.html" target="fset" csover="B505E14D26" csout="B505E14D27" onmouseover="CSAction(new Array(/*CMP*/'B505E14D26'));return true;" onmouseout="CSAction(new Array(/*CMP*/'B505E14D27'));"><img height="57" width="77" src="../images/home_content_image3.jpg" border="0" name="contact" alt="Contact Us"></a></td>
+												</tr>
+											</table>
+										</td>
+										<td><img height="114" width="6" src="../images/home_frame1.gif"></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td><img height="6" width="160" src="../images/home_frame2.gif"></td>
+						</tr>
+						<tr>
+							<td>
+								<table border="0" cellpadding="0" cellspacing="0" width="75">
+									<tr>
+										<td><img height="9" width="10" src="../images/blank.gif"></td>
+									</tr>
+									<tr>
+										<td><a href="#" csover="B505DF407" csout="B505E07B12" onmouseover="CSAction(new Array(/*CMP*/'B505DF407'));return true;" onmouseout="CSAction(new Array(/*CMP*/'B505E07B12'));" onclick="parent.location.href='about_fset.html'"><img height="14" width="132" src="../images/home_nav1.gif" border="0" name="about button" alt="About Us"></a></td>
+									</tr>
+									<tr>
+										<td><img height="6" width="10" src="../images/blank.gif"></td>
+									</tr>
+									<tr>
+										<td><a href="#" csover="B505E14F29" csout="B505E14F30" onmouseover="CSAction(new Array(/*CMP*/'B505E14F29'));return true;" onmouseout="CSAction(new Array(/*CMP*/'B505E14F30'));" onclick="parent.location.href='history_fset.html'"><img height="14" width="132" src="../images/home_nav2.gif" border="0" name="history button" alt="History"></a></td>
+									</tr>
+									<tr>
+										<td><img height="6" width="10" src="../images/blank.gif"></td>
+									</tr>
+									<tr>
+										<td><a href="#" csover="B505E31F52" csout="B505E31F53" onmouseover="CSAction(new Array(/*CMP*/'B505E31F52'));return true;" onmouseout="CSAction(new Array(/*CMP*/'B505E31F53'));" onclick="parent.location.href='contact_fset.html'"><img height="14" width="132" src="../images/home_nav4.gif" border="0" name="contact button" alt="Contact Us"></a></td>
+									</tr>
+									<tr>
+										<td><img height="6" width="10" src="../images/blank.gif"></td>
+									</tr>
+									<tr>
+										<td><a href="#" csover="B505E32155" csout="B505E32156" onmouseover="CSAction(new Array(/*CMP*/'B505E32155'));return true;" onmouseout="CSAction(new Array(/*CMP*/'B505E32156'));" onclick="parent.location.href='account_fset.html'"><img height="14" width="132" src="../images/home_nav3.gif" border="0" name="account button" alt="Your Account"></a></td>
+									</tr>
+									<tr>
+										<td><img height="9" width="10" src="../images/blank.gif"></td>
+									</tr>
+									<tr>
+										<td><img height="1" width="160" src="../images/home_breakline.gif"></td>
+									</tr>
+									<tr>
+										<td><img height="9" width="10" src="../images/blank.gif"></td>
+									</tr>
+									<tr>
+										<td><csobj w="132" h="14" t="Button" ht="../images/home_navon5.gif" csclick="B5DC2B3F2"><a href="#" onmouseover="return CSIShow(/*CMP*/'button5',1)" onmouseout="return CSIShow(/*CMP*/'button5',0)" onclick="popupWindow();"><img src="../images/home_nav5.gif" width="132" height="14" name="button5" border="0"></a></csobj></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</body>
+
+</html>
+

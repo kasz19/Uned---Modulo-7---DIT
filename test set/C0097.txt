@@ -1,0 +1,294 @@
+ID=C0097
+URL=http://ladymotor.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41
+SIZE=29364
+DATE=10/07/2002
+TIME=13:18:15
+DATASET=Insurance Agencies
+HTML=<html><head>
+<title>Female Motor Insurance Quotes UK - Instant Quote</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="InsuranceNow - motor insurance quotes for female uk residents. InsuranceNow provides competitive online instant quotes for most types of female motor insurance in the UK.">
+<meta name="keywords" content="Lady, Female, Motor, Insurance, Quotes, UK, Instant, Quote, Online, Motor Insurance, Motor Insurance Quotes, uk, motor insurance quotes uk, on-line">
+<meta name="generator" content="OneUpOneDown (c)">
+<!-- Developed by OneUpOneDown (c) -->
+<link rel="stylesheet" href="/misc/insure.css">
+<link rel="shortcut icon" href="/misc/insure.ico">
+<!-- JAVASCRIPT START -->
+<script language="JavaScript">
+<!-- START HIDE
+// CREATE SID
+var sid = "session_id=5ff236fc04d8b62b570bb78c7df2ff41";
+// POLICY SELECT
+function getPolicy(form) {
+var target = form.policySelect.selectedIndex;
+if (form.policySelect.options[target].value) {
+window.parent.location = form.policySelect.options[target].value + "?" + sid;
+}
+}
+// FIND OLD BROWSERS
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+if ((bName == "Netscape" && bVer >= 3) || 
+(bName == "Microsoft Internet Explorer" && bVer >= 4)) br = "n3"; 
+else br = "n2";
+// CHECK BROWSER TYPE
+if (br== "n3") {
+// IMAGE ARRAY
+if (document.images) {
+im = new Array();
+imag = new Array();
+imag[0] = "/images/sp.gif"
+imag[1] = "/images/spbl.gif"
+imag[2] = "/images/about.gif"
+imag[3] = "/images/about_over.gif"
+imag[4] = "/images/contact.gif"
+imag[5] = "/images/contact_over.gif"
+imag[6] = "/images/terms.gif"
+imag[7] = "/images/terms_over.gif"
+imag[8] = "/images/profileopen_white.gif"
+imag[9] = "/images/profileopen_green.gif"
+imag[10] = "/images/profileclose_white.gif"
+imag[11] = "/images/profileclose_red.gif"
+imag[12] = "/images/gisc.gif"
+imag[13] = "/images/gisc_over.gif"
+for (var i = 0; i < imag.length; i++) {
+im[i] = new Image();
+im[i].src = imag[i];
+}
+}
+}
+// ROLL FUNCTION
+function roll(imgname,num) {
+// CHECK BROWSER TYPE
+if (br== "n3") {
+if (document.images && imgname) {
+imgname.src = im[num].src;
+}
+}
+return;
+}
+// THAWTE WINDOW
+function OpenCertDetails() {
+thewindow = window.open('https://www.thawte.com/cgi/server/certdetails.exe?code=UKINSU2', 'anew', config='height=400,width=450,toolbar=no,menubar=no,scrollbars=yes,resizable=no,location=no,directories=no,status=yes');
+}
+// CLOSE WINDOW
+function closeWindow() {
+window.close("_self");
+}
+// FINISH HIDE -->
+</script>
+<!-- JAVASCRIPT FINISH -->
+</head>
+<body bgcolor="#FFFFFF" text="#5E6666" link="#333366" vlink="#FF9900">
+<!-- IDENTITY START -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr bgcolor="#FFFFFF">
+<td>
+<!-- NESTED PAD TABLE START - TOP -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="186" align="left"><a name="top" href="http://www.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41"><img src="/images/logo_border.gif" width="186" height="22" border="0" alt="insurancenow home page"></a></td>
+<td width="100%" align="right" nowrap background="/images/logo_back.gif"><a href="http://www.insurancenow.com/aboutus.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(ab_top,3);" onmouseout="roll(ab_top,2);" target="_top"><img name="ab_top" src="/images/about.gif" width="62" height="22" border="0" alt="about insurancenow"></a><a href="http://www.insurancenow.com/contact.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(co_top,5);" onmouseout="roll(co_top,4);" target="_top"><img name="co_top" src="/images/contact.gif" width="75" height="22" border="0" alt="contact insurancenow"></a><a href="http://www.insurancenow.com/gisc.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(gi_top,13);" onmouseout="roll(gi_top,12);" target="_top"><img name="gi_top" src="/images/gisc.gif" width="38" height="22" border="0" alt="gisc"></a><a href="http://www.insurancenow.com/terms.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(te_top,7);" onmouseout="roll(te_top,6);" target="_top"><img name="te_top" src="/images/terms.gif" width="138" height="22" border="0" alt="insurancenow terms and conditions"></a><img src="/images/end.gif" width="1" height="22" border="0"></td>
+</tr>
+</table>
+<!-- NESTED PAD TABLE FINISH - TOP -->
+</td>
+</tr>
+</table>
+<!-- IDENTITY FINISH -->
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0"><tr><td><img src="/images/sp.gif" width="1" height="2" border="0"></td></tr></table>
+
+<!-- BANNER START -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="1" align="left" bgcolor="#999999"><img src="/images/sp.gif" width="1" height="1" border="0"></td>
+<td width="100%" align="left" bgcolor="#FFFFFF" background="/images/bg_motor.gif"><img src="/images/sp.gif" width="1" height="1" border="0"></td>
+<td width="468" align="left" bgcolor="#FFFFFF"><img src="/images/banner.gif" width="468" height="60" border="0" alt="insurancenow"></td>
+</tr>
+</table>
+<!-- BANNER FINISH -->
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0"><tr><td><img src="/images/sp.gif" width="1" height="2" border="0"></td></tr></table>
+
+<!-- MAIN NAV START - NAV -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr bgcolor="#FFFFFF">
+<td width="42" align="center"><a href="http://motor.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(mo_nav,1);" onmouseout="roll(mo_nav,0);" target="_top"><img src="/images/nav_motor.gif" width="42" height="20" border="0" alt="motor insurance: car, special schemes, motorbike, scooter, sports and prestige cars, breakdown rescue insurance"></a></td>
+<td width="66" align="center"><a href="http://ladymotor.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41"  target="_top"><img src="/images/nav_lady_motor.gif" width="66" height="20" border="0" alt="lady motor insurance: female car, special schemes, motorbike, scooter, sports and prestige cars, breakdown rescue insurance"></a></td>
+<td width="60" align="center"><a href="http://household.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(ho_nav,1);" onmouseout="roll(ho_nav,0);" target="_top"><img src="/images/nav_household.gif" width="60" height="20" border="0" alt="household insurance: contents and buildings, personal possessions only, high value homes, holiday homes, stately homes, country estates"></a></td>
+<td width="27" align="center"><a href="http://pet.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(pe_nav,1);" onmouseout="roll(pe_nav,0);" target="_top"><img src="/images/nav_pet.gif" width="27" height="20" border="0" alt="pet insurance: cat, dog, rabbit, horse"></a></td>
+<td width="41" align="center"><a href="http://travel.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(tr_nav,1);" onmouseout="roll(tr_nav,0);" target="_top"><img src="/images/nav_travel.gif" width="41" height="20" border="0" alt="travel insurance: summer single trip, winter single trip, annual multi trip, backpackers, family travel"></a></td>
+<td width="45" align="center"><a href="http://marine.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(ma_nav,1);" onmouseout="roll(ma_nav,0);" target="_top"><img src="/images/nav_marine.gif" width="45" height="20" border="0" alt="marine insurance: small craft, large craft"></a></td>
+<td width="52" align="center"><a href="http://personal.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(per_nav,1);" onmouseout="roll(per_nav,0);" target="_top"><img src="/images/nav_personal.gif" width="52" height="20" border="0" alt="personal: life assurance, term life assurance, wedding insurance, mortgage protection plan, income protection, critical illness protection, private medical cover "></a></td>
+<td width="50" align="center"><a href="http://student.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(st_nav,1);" onmouseout="roll(st_nav,0);" target="_top"><img src="/images/nav_student.gif" width="50" height="20" border="0" alt="student insurance: car, personal possessions only"></a></td>
+<td width="54" align="center"><a href="http://business.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(bu_nav,1);" onmouseout="roll(bu_nav,0);" target="_top"><img src="/images/nav_business.gif" width="54" height="20" border="0" alt="business insurance: professional indemnity, liability, industry schemes, buildings, office equipment, fleets, commercial vehicles and vans, employee protection benefits; group life assurance, income protection, medical cover, critical illness"></a></td>
+<td width="40" align="center"><a href="http://cyber.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" onmouseover="roll(cy_nav,1);" onmouseout="roll(cy_nav,0);" target="_top"><img src="/images/nav_cyber.gif" width="40" height="20" border="0" alt="cyber insurance: virus protection, false trading, copyright protection"></a></td>
+<td width="100%" background="/images/slider.gif" align="right"><img src="/images/sp.gif" width="1" height="1" border="0"><img src="/images/sp_tram_end.gif" width="1" height="18" border="0"></td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td colspan="12" nowrap background="/images/sp_tram.gif"><img src="/images/sp_tram_start.gif" width="1" height="2" border="0"><img name="mo_nav" src="/images/sp_tram.gif" width="41" height="2" border="0"><img name="la_nav" src="/images/spora.gif" width="66" height="2" border="0"><img name="ho_nav" src="/images/sp_tram.gif" width="60" height="2" border="0"><img name="pe_nav" src="/images/sp_tram.gif" width="27" height="2" border="0"><img name="tr_nav" src="/images/sp_tram.gif" width="41" height="2" border="0"><img name="ma_nav" src="/images/sp_tram.gif" width="45" height="2" border="0"><img name="per_nav" src="/images/sp_tram.gif" width="52" height="2" border="0"><img name="st_nav" src="/images/sp_tram.gif" width="50" height="2" border="0"><img name="bu_nav" src="/images/sp_tram.gif" width="54" height="2" border="0"><img name="cy_nav" src="/images/sp_tram.gif" width="40" height="2" border="0"></td>
+</tr>
+</table>
+<!-- MAIN NAV FINISH - NAV -->
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0"><tr><td><img src="/images/sp.gif" width="1" height="20" border="0"></td></tr></table>
+
+<!-- BODY LAYOUT START -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tr>
+<td width="120" align="left" valign="top">
+<!-- LEFT AD COLUMN START -->
+<img src="/images/sp.gif" width="120" height="10" border="0"><tt><br></tt>
+<a href="/quote-bin/xlist.php?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top"><img src="/images/120_cantfindit.gif" width="120" height="60" border="0" alt="click here to locate the policy you require"></a>
+<img src="/images/sp.gif" width="120" height="10" border="0"><tt><br></tt><a href="http://adserver.insurancenow.com/click.php?session_id=5ff236fc04d8b62b570bb78c7df2ff41&bannerID=28" target="_top"><img src="http://adserver.insurancenow.com/viewbanner.php?bannerID=28" width="120" height="60" alt="life assurance" title="life assurance" border="0"></a>
+<img src="/images/sp.gif" width="120" height="10" border="0"><tt><br></tt><a href="http://adserver.insurancenow.com/click.php?session_id=5ff236fc04d8b62b570bb78c7df2ff41&bannerID=26" target="_top"><img src="http://adserver.insurancenow.com/viewbanner.php?bannerID=26" width="120" height="60" alt="travel insurance" title="travel insurance" border="0"></a>
+<img src="/images/sp.gif" width="120" height="10" border="0"><tt><br></tt><a href="http://adserver.insurancenow.com/click.php?session_id=5ff236fc04d8b62b570bb78c7df2ff41&bannerID=18" target="_top"><img src="http://adserver.insurancenow.com/viewbanner.php?bannerID=18" width="120" height="60" alt="marine insurance" title="marine insurance" border="0"></a>
+<!-- LEFT AD COLUMN FINISH -->
+</td>
+<td width="10"><img src="/images/sp.gif" width="10" height="1"></td>
+<td width="100%" valign="top">
+
+<!-- POLICY TABLE START -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<!-- SECTION NAV START -->
+<form method="POST" name="nav" action="/quote-bin/nav.php?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top">
+<tr>
+<td width="20" valign="top"><img src="/images/policy_tl_corner.gif" width="20" height="25" border="0"></td>
+<td width="26" valign="middle" background="/images/policy_top_line.gif"><img src="/images/sp.gif" width="1" height="1"><img src="/images/arrow.gif" alt="select the policy you require here" width="30" height="13" border="0"><img src="/images/sp.gif" width="5" height="1"></td>
+<td width="100%" valign="top" background="/images/policy_top_line.gif">
+<select name="policySelect" onChange = "getPolicy(this.form)">
+<option value="http://ladymotor.insurancenow.com/index.html">select the ladymotor policy you require here</option>
+<option value="">________________________________________</option>
+<option value="http://ladymotor.insurancenow.com/index.html">a guide to: ladymotor insurance</option>
+<option value="">________________________________________</option>
+<option value="http://ladymotor.insurancenow.com/policy_car_lm.html">car insurance</option>
+<option value="http://ladymotor.insurancenow.com/policy_car_ylm.html">young lady (aged 17-24) car insurance</option>
+<option value="http://ladymotor.insurancenow.com/policy_car50_lm.html">over 50's car insurance</option>
+<option value="http://ladymotor.insurancenow.com/policy_high_value_car_lm.html">high value car insurance</option>
+<option value="http://ladymotor.insurancenow.com/policy_motorbike_lm.html">motorbike insurance</option>
+<option value="http://ladymotor.insurancenow.com/policy_scooter_lm.html">scooter insurance</option>
+<option value="http://ladymotor.insurancenow.com/policy_minibus_lm.html">minibus insurance</option>
+<option value="http://ladymotor.insurancenow.com/policy_collectors_car_lm.html">collectors car insurance</option>
+<option value="http://ladymotor.insurancenow.com/policy_caravan_lm.html">touring caravan insurance</option>
+<option value="http://business.insurancenow.com/policy_fleets.html">business: fleet insurance</option>
+</select><img src="/images/sp.gif" width="13" height="1"><input type="submit" value="GO"></td>
+<td width="20" valign="top"><img src="/images/policy_tr_corner.gif" width="20" height="25" border="0"></td>
+</tr>
+</form>
+<!-- SECTION NAV FINISH -->
+<tr>
+<td width="10" valign="top" background="/images/policy_left_line.gif"><img src="/images/sp.gif" width="10" height="1" border="0"></td>
+<td width="100%" valign="top" colspan="2">
+<img src="/images/sp.gif" width="1" height="5" border="0">
+
+<!-- CONTENT START -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100%" align="left" valign="top">
+<!-- GUIDE CONTENT START -->
+<tt><p>Listed below is a helpful guide to some of the terminology that you will encounter. You should read this prior to selecting a policy from the menu above.</p></tt>
+<a href="#females">Why are insurance rates cheaper for females</a><br>
+<a href="#premiums">How are motor insurance premiums calculated</a><br>
+<a href="#cover">What are the different types of cover available</a><br>
+<a href="#bonuses">What does no claims bonus mean</a><br>
+<a href="#bonusacc">What is a bonus accelerator policy</a><br>
+<a href="#drivers">How many other drivers can I include on my policy</a><br>
+<a href="#excesses">What does excess and voluntary excess mean</a><br>
+<a href="#legal">What is motor legal expenses insurance</a><br>
+<a href="#newold">What does the term new for old mean</a><br>
+<a href="#trailers">Am I insured to tow trailers</a><br>
+<a href="#abroad">Am I insured to drive abroad</a><br>
+<a href="#protection">How can I protect my vehicle</a><br>
+<a href="#accident">What should I do if I have an accident</a><br>
+<a href="#propprotection">How can I protect my property</a><br><br><br></p></tt>
+
+
+<tt><p><b><a name="females" href="#top">Why are insurance rates cheaper for females</a></b><br><br>Car insurance rates are cheaper for females because, statistically, female drivers are careful and more safety conscious and also cover a lower mileage. They also have fewer accidents than men and when accidents occur they usually incur less damage.<br><br></p></tt>
+<tt><p><a name="premiums" href="#top"><b>How are motor insurance premiums calculated</b></a><br><br>Premiums vary between individuals because they are calculated based upon a large number of criteria, i.e. the driver's age, experience, driving record, occupation, the type of vehicle and the insurance group that it fits into, where it is kept, the uses it is put to and the type of cover required.</p></tt>
+<tt><p>When buying motor insurance you must give the insurer full information. Please note that it is an offence under the Road Traffic Act to make a false statement or withhold information for the purposes of obtaining a certificate of motor insurance and it may also invalidate your policy.<br><br></p></tt>
+<tt><p><b><a name="cover" href="#top">What are the different types of cover available</a></b><br><br>The Road Traffic Act requires that anyone who uses a motor vehicle on the public highway must have cover for liability for death or bodily injury to a third party (including passengers), and cover for liability for damage to third party property caused by an accident involving the vehicle. This type of cover is termed 'Act Only', but is usually only used where an insurer feels that a driver's record is so bad, that this is the maximum cover the insurer is prepared to grant.</p></tt>
+<tt><p>The most commonly selected form of cover is Comprehensive which covers the insured's vehicle for accidental damage in addition to the third party fire and theft risks.</p></tt>
+<tt><p><b>Third Party Only</b> covers the following:<ul><li>Liability for injuries to other people, including passengers</li><li>Liability for damage to other people's property</li><li>Liability of passengers for accidents caused by them</li><li>Liability arising from the use of a caravan or trailer, while attached to the car</li></ul></p></tt>
+<tt><p><b>Third Party Fire and Theft</b> covers the following:<ul>as for Third Party Only but includes;<li>Damage to your vehicle due to fire</li><li>Theft of your vehicle</li><li>Damage to your vehicle due to attempted theft</li></ul></p></tt>
+<tt><p><b>Comprehensive</b> covers the following:<ul>as for Third Party Fire and Theft but includes;</li><li>Accidental and malicious damage to your own vehicle</li><li>A personal accident benefit</li><li>Medical expenses (up to a specified amount)</li><li>Loss of or damage to personal effects in the vehicle (up to a specified amount)</li><li>Replacement of broken glass in windscreen, windows or sunroof</li><li>Depending on the insurer, benefits may also include cover for push chairs in the vehicle, christmas luggage in boot and roadside breakdown</li></ul><br></p></tt>
+<tt><p><b><a name="bonuses" href="#top">What does no claims bonus mean</a></b><br><br>No claims bonuses are awarded according to the number of years you have held car insurance in your own name and have not claimed for any accidents, fires or thefts. Scales do vary from insurer to insurer but usually range from 30% for one claim free year up to 70% or more after four or five years.</p></tt>
+<tt><p><b>Protected Bonuses</b><br>If you have 4 or more years no claim bonus most insurers offer you the option of protecting them by paying a small additional amount (usually between 10% to 15% of the premium). Your bonus is then protected provided that you do not make more than two non recoverable claims in any period of five years.</p></tt>
+<tt><p><b>Guaranteed Bonuses</b><br>Some insurers now offer a 'guaranteed' bonus which is maintained / upheld regardless of how many times you make a claim.<br><br></p></tt>
+<tt><p><b><a name="bonusacc" href="#top">What is a bonus accelerator policy</a></b><br><br>A bonus accelerator policy is a policy that runs for less than the usual 12 months whilst allowing you to earn the equivalent of a full year's No Claims Bonus (providing you haven't made a claim within the duration of the policy) with the added advantage of a reduced initial outlay. Bonus accelerator policies vary in duration but are usually for 8 months or 10 months. Be aware when getting your quotes that you compare the policy durations as well as the premiums.<br><br></p></tt>
+<tt><p><b><a name="drivers" href="#top">How many other drivers can I include on my policy</a></b><br><br>The fewer drivers you include on your policy the cheaper your premium. Options for including additional drivers on your insurance policy are as follows:<li>Yourself and your spouse</li><li>Yourself and 1, 2, 3 or 4 named drivers</li><li>Yourself and any driver over 35</li><li>Yourself and any driver over 25</li><li>Yourself and any driver</li></ul></p></tt>
+<tt><p>'Named driver' policies are usually cheaper than 'any driver' policies as the insurer knows about the drivers, their history and the risks involved.<br><br></p></tt>
+<tt><p><b><a name="excesses" href="#top">What does excess and voluntary excess mean</a></b><br><br>Excesses are the amounts of a claim that <b>you</b> have to pay.</p></tt>
+<tt><p>In the case of a third party fire and theft policy, your insurers will not pay the first &pound;100 of either a fire or theft claim. An excess does not apply to the third party aspect.</p></tt>
+<tt><p>With a comprehensive policy, most insurers will not pay the first &pound;100 applying to drivers aged over 25. This amount will be increased by any young drivers included under the policy.</p></tt>
+<tt><p>Excesses may be increased due to the type of car you are driving, i.e. sports or high performance.</p></tt>
+<tt><p>In some cases you may elect to pay a voluntary additional excess for a reduction in the premium.<br><br></p></tt>
+<tt><p><a name="legal" href="#top"><b>What is motor legal expenses insurance</b></a><br><br>Motor legal expenses insurance provides cover for your uninsured losses in the event that you have a non-fault road traffic accident.</p></tt>
+<tt><p>This additional cover will assist you in recovering any or all of the following uninsured losses: policy excess, personal injury compensation, loss of earnings, replacement car hire charges, loss of use and damage to personal possessions. In the case of third party or third party fire and theft, non fault claims persue a recovery for the accidental damage caused by the third party.</p></tt>
+<tt><p>Following such an accident you simply call a 24hr freephone helpline where the friendly operator will immediately start to arrange: replacement car hire, credit repair and legal representation - when required.</p></tt>
+<tt><p>We strongly advise anyone taking out third party, fire and theft car insurance to supplement the policy with motor legal expenses cover.<br><br></p></tt>
+<tt><p><a name="newold" href="#top"><b>What does the term new for old mean</b></a><br><br>The term new for old means that in the event of a claim where the  damage exceeds 60% of the car value, the vehicle would be replaced with no deduction for wear and tear. This only applies to vehicles under 12 months old.<br><br></p></tt>
+<tt><p><a name="trailers" href="#top"><b>Am I insured to tow trailers</b></a><br><br>Trailers and their contents are not covered under you motor insurance. However you are covered for the legal liability of towing the trailer.<br><br></p></tt>
+<tt><p><b><a name="abroad" href="#top">Am I insured to drive abroad</a></b><br><br>If you are planning to take your motor vehicle abroad, tell your insurers in advance so that they can extend your cover if necessary and they can also supply a Green Card which is recognised internationally as evidence that you have insurance which meets local law. Some insurers automatically include cover for driving abroad and this will be stated on the certificate.<br><br></p></tt>
+<tt><p><b><a name="protection" href="#top">How can I protect my vehicle</a></b><ul><li>At night always leave your car in a well-lit place</li><li>Don't leave car ownership information in the car, such as certificate of insurance and registration documents</li><li>Don't leave the key in the car, behind the sun visor or in the ignition</li><li>When you leave the car, close the windows and sun roof</li><li>Use a visible anti-theft device</li><li>Always lock the doors and boot even when the car is in your own driveway or garage</li><li>Never leave young children or animals alone in a parked car. With the windows or sun roof open you run the risk of theft, with them closed there is a danger of suffocation</li><li>Never leave valuable items on display in the vehicle</li></ul><br></p></tt>
+<tt><p><b><a name="accident" href="#top">What should I do if I have an accident</a></b><br><br>After the accident get as much on the spot information as possible. Get hold of the names and addresses of independent witnesses. It is a good idea to have a cheap disposable camera in the car so that in the event of an accident you can get pictures before the vehicles and/or property are moved. Make a sketch plan of the accident while the details are fresh in your mind.<ul><li>Ask the other drivers involved for their names and addresses and make a note of their car registration numbers together with the make and model</li><li>Ask for the name of their insurers and also, if possible, their policy number or certificate number</li><li>If anyone is injured, produce your certificate of insurance. If you cannot do this at the scene you must produce it at a police station within 24 hours</li><li>There may be injury to people or animals or damage to vehicles or property. If so, you are required to give your name and address, the name and address of the owner of the car you are driving and its registration number to anyone with reasonable grounds for wanting them</li><li>You must tell your insurers as soon as possible - even if you don't intend to make a claim. This is a condition of your policy</li><li>Ask your insurers for an accident report form. When completing the form include as much information as you can</li></ul></p></tt>
+<tt><p><b>How to get your vehicle repaired if you have a third party fire and theft policy</b><br><br>Your policy will not cover accidental damage to your car. You therefore have to pay the repair bill yourself or claim from the other driver if he or she was legally liable for the damage. If you have purchased a motor legal expenses policy, then you will be fully supported in pursuing a claim and receiving compensation.<br><br></p></tt>
+<tt><p><b>How to get your vehicle repaired if you have a comprehensive policy</b><ul><li>Report the accident to the company helpline. Many insurers operate with approved repairers and will advise you who to contact. In most instances the repairers will collect the vehicle, provide a courtesy car, return the vehicle cleaned and guarantee the repair work</li><li>Unless your insurer has special arrangements, send a repairer's estimate to them</li><li>They will check it and if it is agreed they will authorise repairs subject to you completing a satisfactory claim form.</li></ul></p></tt>
+<tt><p><b><a name="propprotection" href="#top">How can I protect my property</a></b><br><br>Many insurers offer premium discounts for improved security. Having good quality locks, an approved burglar alarm, being a member of a police-approved neighbourhood watch scheme and being in the property during daylight hours can all mean a cheaper premium.<br><br></p></tt>
+<tt><p><div align="right"><a href="#top">to top</a></div></p></tt>
+<!-- GUIDE CONTENT FINISH -->
+</td>
+</tr>
+</table>
+<!-- CONTENT FINISH -->
+
+</td>
+<td width="20" align="right" background="/images/policy_right_line.gif"><img src="/images/sp.gif" width="20" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="20" valign="top"><img src="/images/policy_bl_corner.gif" width="20" height="20" border="0"></td>
+<td width="100%" valign="top" colspan="2" background="/images/policy_bottom_line.gif"><img src="/images/sp.gif" width="1" height="1" border="0"></td>
+<td width="20" valign="top" align="right"><img src="/images/policy_br_corner.gif" width="20" height="20" border="0"></td>
+</tr>
+</table>
+<!-- POLICY TABLE FINISH -->
+</td>
+</tr>
+</table>
+<!-- BODY LAYOUT FINISH -->
+
+<tt><br><br></tt>
+
+<!-- FOOTER NAV START -->
+<table border="0" width="100%" cellspacing="1" cellpadding="0" bgcolor="#999999">
+<tr bgcolor="#999999">
+<td width="100%" nowrap align="right"><img src="/images/logowog.gif" width="185" height="20" border="0" alt="insurancenow.co.uk"></td>
+</tr>
+<tr>
+<td>
+<!-- SITE MAP START -->
+<table border="0" width="100%" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
+<tr>
+<td>
+<small>
+<a href="http://ladymotor.insurancenow.com/index.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top"><small>a guide to: ladymotor insurance</small></a> | <a href="http://ladymotor.insurancenow.com/policy_car_lm.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top"><small>car insurance</small></a> | <a href="http://ladymotor.insurancenow.com/policy_car_ylm.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top"><small>young lady (aged 17-24) car insurance</small></a> | <a href="http://ladymotor.insurancenow.com/policy_car50_lm.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top"><small>over 50's car insurance</small></a> | <a href="http://ladymotor.insurancenow.com/policy_high_value_car_lm.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top"><small>high value car insurance</small></a> | <a href="http://ladymotor.insurancenow.com/policy_motorbike_lm.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top"><small>motorbike insurance</small></a> | <a href="http://ladymotor.insurancenow.com/policy_scooter_lm.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top"><small>scooter insurance</small></a> | <a href="http://ladymotor.insurancenow.com/policy_minibus_lm.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top"><small>minibus insurance</small></a> | <a href="http://ladymotor.insurancenow.com/policy_collectors_car_lm.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top"><small>collectors car insurance</small></a> | <a href="http://ladymotor.insurancenow.com/policy_caravan_lm.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top"><small>touring caravan insurance</small></a> | <a href="http://business.insurancenow.com/policy_fleets.html?session_id=5ff236fc04d8b62b570bb78c7df2ff41" target="_top"><small>business: fleet insurance</small></a></small>
+</td>
+</tr>
+<tr>
+<td>
+<!-- COPYRIGHT START -->
+<small>&copy; 1999-2002 InsuranceNow Services Limited.
+All rights reserved.</small>
+
+<!-- COPYRIGHT FINISH -->
+</td>
+</tr>
+</table>
+<!-- SITE MAP FINISH -->
+</td>
+</tr>
+</table>
+<!-- FOOTER NAV FINISH -->
+</body>
+</html>
+

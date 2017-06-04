@@ -1,0 +1,1490 @@
+ID=C0056
+URL=http://www.theinsurancecentre.co.uk/glossary.html
+SIZE=95403
+DATE=10/07/2002
+TIME=13:17:18
+DATASET=Insurance Agencies
+HTML=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<LINK href="lloydstyle.css" rel="STYLESHEET">
+<SCRIPT language="JavaScript" src="newmenu_array.js" type="text/javascript"></SCRIPT>
+<SCRIPT language="JavaScript" src="mmenu.js" type="text/javascript"></SCRIPT>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="GENERATOR" CONTENT="Mozilla/4.04 [en] (X11; I; SunOS 5.6 i86pc) [Lloyd Amsdon">
+<TITLE>car insurance uk, free online quotes for home, travel and bike.</TITLE>
+<META NAME="keywords" CONTENT="car insurance uk car insurance quote travel home insurance quotes holiday cheap holiday insurance uk travel insurance">
+<META NAME="description" CONTENT="We provide free online quotes for car insurance uk, home, travel and bike.">
+<script language="JavaScript">
+<!--
+function openWindow(url,name,scroll,width,height,top,left) {
+  popupWin = window.open(url,name, 'scrollbars='+scroll+',width='+width+',height='+height+',top='+top+',left='+left)
+}
+file://-->
+</script>
+</head>
+<BODY bgColor="#ffffff" leftMargin="0" link="#333399" topMargin="5" vLink="#666666" marginheight="5" marginwidth="0"><!-- start of navigation -->
+<TABLE border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tr>
+<TD width="30%">
+<TABLE border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tr>
+<TD bgColor="#ffffff"><IMG alt="" border="0" height="13" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD bgColor="#ffffff"><IMG alt="" border="0" height="1" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD bgColor="#ffffff"><IMG alt="" border="0" height="72" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD bgColor="#ffffff"><IMG alt="" border="0" height="1" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD bgColor="#ffffff"><IMG alt="" border="0" height="21" src="images/blank.gif" width="1"></TD></tr>
+</TABLE></TD>
+<TD bgColor="#ffffff" vAlign="top" width="760">
+<TABLE border="0" cellPadding="0" cellSpacing="0" width="760">
+<tr>
+<TD align="right" bgColor="#ffffff" colSpan="3"></TD></tr>
+<tr>
+<TD align="middle" width="230"><!-- MAIN LOGO -->
+<a NAME="top"><a href="http://www.theinsurancecentre.co.uk/index1.html"><IMG align="top" alt="car insurance uk" border="0" height="55" src="images/inslogo.gif" width="269">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></a><br></TD><!-- END MAIN LOGO -->
+<TD><div align="left"><P><i>Car insurance uk, free online quotes for home, travel and bike.</i></P> </div></TD>
+<TD align="right" width="295"></TD></tr>
+<tr>
+<TD bgColor="white" colSpan="3">
+<IMG alt="" border="0" height="1" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD colSpan="3">
+<TABLE border="0" cellPadding="0" cellSpacing="0" width="760">
+<tr>
+<TD bgColor="#ff9900" width="149"></TD>
+<TD bgColor="#ff9900" height="21" width="611">
+<TABLE border="0" cellPadding="0" cellSpacing="0" height="21">
+<tr><!-- top nav bar table rollovers????? -->
+<td><IMG border="0" height="22" name="placeholder" src="images/transparent.gif" width="10"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</TABLE>
+</TD></tr>
+</TABLE>
+</TD></tr>
+</TABLE>
+</TD>
+<TD width="30%">
+<TABLE border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tr>
+<TD bgColor="#ffffff"><IMG alt="" border="0" height="13" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD bgColor="#ffffff"><IMG alt="" border="0" height="1" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD bgColor="#ffffff"><IMG alt="" border="0" height="72" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD bgColor="#ffffff"><IMG alt="" border="0" height="1" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD bgColor="#ffffff"><IMG alt="" border="0" height="21" src="images/blank.gif" width="1"></TD></tr></TABLE></TD></tr>
+<tr>
+<TD bgColor="#9d9d9d" colSpan="3"><IMG alt="" border="0" height="1" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD bgColor="#606060" colSpan="3"><IMG alt="" border="0" height="1" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD bgColor="#969696" colSpan="3"><IMG alt="" border="0" height="1" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD bgColor="#bababa" colSpan="3"><IMG alt="" border="0" height="1" src="images/blank.gif" width="1"></TD></tr>
+</TABLE><!-- END of navigation -->
+<CENTER>
+<P>
+<TABLE border="0" cellPadding="0" cellSpacing="0" width="760"><!-- insurance quick find -->
+<tr>
+<TD vAlign="top" width="145">
+<TABLE border="0" cellPadding="0" cellSpacing="0" width="145">
+<form name="ins" action="">
+<TBODY>
+<tr> <td bgColor="white" > <p><font color="#ffffff" size="2"><IMG alt="" border="0" height="21" src="images/quickquotebutton2.gif" width="116">
+&nbsp;&nbsp;&nbsp;&nbsp;<select name="quick insure" style="BACKGROUND-COLOR: #ff9900; COLOR: #ffffff; FONT-FAMILY: geneva, verdana, arial; FONT-SIZE: 10px" onchange="window.location.href=this.options[this.selectedIndex].value">
+<option value="" selected>Choose...</option>
+<option value="car.html?ID=Q62GBGZB4DT00BJ">Motor</option>
+<option value="contents.html?ID=Q62GBGZB4DT00BJ">Home</option>
+<option value="bike.html?ID=Q62GBGZB4DT00BJ">Bike</option>
+<option value="travel.html?ID=Q62GBGZB4DT00BJ">Travel</optio>
+<option value="health.html?ID=Q62GBGZB4DT00BJ">Health</option>
+</select></p></FONT>
+</td>
+<td >
+</td>
+</tr>
+</form><!-- END insurance quick find --><!-- left nav-->
+<tr>
+<td><IMG alt="" border="0" height="25" src="images/blank.gif" width="1"></td></tr>
+<tr>
+<td>
+<CENTER><IMG alt="" height="1" src="images/grey_dot.gif" width="130"></CENTER></td></tr>
+<tr>
+<td><p><font color="#ff9900">&nbsp;Insurance Products</font></p></td></tr>
+<tr>
+<td><IMG alt="" border="0" height="25" src="images/blank.gif" width="1"></td></tr>
+<tr>
+<td>
+<TABLE border="0" cellPadding="2" cellSpacing="0" width="145">
+<tr>
+<TD vAlign="baseline"><IMG alt="" border="0" height="10" src="images/infobutton3.gif" width="9"></TD>
+<TD colSpan="2" vAlign="top"><FONT color="#ff9900" face=" Verdana, Arial, Helvetica" size="-1"><A href="car.html?ID=Q62GBGZB4DT00BJ">Motor</a></FONT> </TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="default.html?ID=Q62GBGZB4DT00BJ">Quick Quote</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="motorex.html?ID=Q62GBGZB4DT00BJ">Insurance Basics</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8"></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="quotecheck.html?ID=Q62GBGZB4DT00BJ">Quote Checklist</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="motortips.html?ID=Q62GBGZB4DT00BJ">Cost Reduction Tips</a></FONT></TD></tr>
+</TABLE>
+</td>
+</tr>
+<tr>
+<td><IMG alt="" border="0" height="20" src="images/blank.gif" width="1"></td></tr>
+<tr>
+<td>
+<TABLE border="0" cellPadding="2" cellSpacing="0" width="145">
+<tr>
+<TD vAlign="baseline"><IMG alt="" border="0" height="10" src="images/infobutton3.gif" width="9"></TD>
+<TD colSpan="2" vAlign="top"><FONT color="#ff9900" face=" Verdana, Arial, Helvetica" size="-1"><A href="contents.html?ID=Q62GBGZB4DT00BJ">Home</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="default2.html?ID=Q62GBGZB4DT00BJ">Quick Quote</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="homeex.html?ID=Q62GBGZB4DT00BJ">Insurance Basics</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8"></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="quotecheck.html?ID=Q62GBGZB4DT00BJ">Quote Checklist</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="hometips.html?ID=Q62GBGZB4DT00BJ">Cost Reduction Tips</a></FONT></TD></tr>
+</TABLE>
+</td>
+</tr>
+<tr>
+<td><IMG alt="" border="0" height="20" src="images/blank.gif" width="1"></td></tr>
+<tr>
+<td>
+<TABLE border="0" cellPadding="2" cellSpacing="0" width="145">
+<tr>
+<TD vAlign="baseline"><IMG alt="" border="0" height="10" src="images/infobutton3.gif" width="9"></TD>
+<TD colSpan="2" vAlign="top"><FONT color="#ff9900" face=" Verdana, Arial, Helvetica" size="-1"><A href="travel.html?ID=Q62GBGZB4DT00BJ">Travel</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="default4.html?ID=Q62GBGZB4DT00BJ">Quick Quote</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="travelex.html?ID=Q62GBGZB4DT00BJ">Insurance Basics</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8"></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="quotecheck.html?ID=Q62GBGZB4DT00BJ">Quote Checklist</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="traveltips.html?ID=Q62GBGZB4DT00BJ">Cost Reduction Tips</a></FONT></TD></tr>
+</TABLE>
+</td>
+</tr>
+<tr>
+<td><IMG alt="" border="0" height="20" src="images/blank.gif" width="1"></td></tr>
+<tr>
+<td>
+<TABLE border="0" cellPadding="2" cellSpacing="0" width="145">
+<tr>
+<TD vAlign="baseline"><IMG alt="" border="0" height="10" src="images/infobutton3.gif" width="9"></TD>
+<TD colSpan="2" vAlign="top"><FONT color="#ff9900" face=" Verdana, Arial, Helvetica" size="-1"><A href="commercial.html?ID=Q62GBGZB4DT00BJ">Commercial</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="commercialvehicle.html?ID=Q62GBGZB4DT00BJ">Vehicle</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="commercialbusiness.html?ID=Q62GBGZB4DT00BJ">Business</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8"></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="commercialtaxi.html?ID=Q62GBGZB4DT00BJ">Taxi</a></FONT></TD></tr>
+</TABLE>
+</td>
+</tr>
+<tr>
+<td><IMG alt="" border="0" height="20" src="images/blank.gif" width="1"></td></tr>
+<tr>
+<td>
+<TABLE border="0" cellPadding="2" cellSpacing="0" width="145">
+<tr>
+<TD vAlign="baseline"><IMG alt="" border="0" height="10" src="images/infobutton3.gif" width="9"></TD>
+<TD colSpan="2" vAlign="top"><FONT color="#ff9900" face=" Verdana, Arial, Helvetica" size="-1"><A href="bike.html?ID=Q62GBGZB4DT00BJ">Motorbike</A></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="default3.html?ID=Q62GBGZB4DT00BJ">Quick Quote</A></FONT></TD></tr>
+</TABLE>
+</td>
+</tr>
+<tr>
+<td><IMG alt="" border="0" height="20" src="images/blank.gif" width="1"></td></tr>
+<tr>
+<td>
+<TABLE border="0" cellPadding="2" cellSpacing="0" width="145">
+<tr>
+<TD vAlign="baseline"><IMG alt="" border="0" height="10" src="images/infobutton3.gif" width="9"></TD>
+<TD colSpan="2" vAlign="top"><FONT color="#ff9900" face=" Verdana, Arial, Helvetica" size="-1"><A href="health.html?ID=Q62GBGZB4DT00BJ">Health</A></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="healthlife.html?ID=Q62GBGZB4DT00BJ">Life Term</A></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="-2"><A href="healthcritical.html?ID=Q62GBGZB4DT00BJ">Critical Illness</A></FONT></TD></tr>
+</TABLE>
+</td>
+</tr>
+<tr>
+<td><IMG alt="" border="0" height="20" src="images/blank.gif" width="1"></td></tr>
+<tr>
+<td>
+<TABLE border="0" cellPadding="2" cellSpacing="0" width="145">
+<tr>
+<TD vAlign="baseline"><IMG alt="" border="0" height="10" src="images/infobutton3.gif" width="9"></TD>
+<TD colSpan="2" vAlign="top"><FONT color="#ff9900" face=" Verdana, Arial, Helvetica" size="-1">Other Services</FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="1">Competition</FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="1"><A href="news.html?ID=Q62GBGZB4DT00BJ">News</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="1">Recommended Buys</FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="1"><A href="links.html?ID=Q62GBGZB4DT00BJ">Links</a></FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="1">Insurance Fun</FONT></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top" width="138"><FONT face="Verdana, Arial, Helvetica" size="1"><A href="contact.html?ID=Q62GBGZB4DT00BJ">About Us</a></FONT></TD></tr>
+</TABLE>
+</td>
+</tr><!-- END left nav--></TABLE>
+<P><br><br><A href="affiliateprog.html?ID=Q62GBGZB4DT00BJ"><IMG alt="" border="0" height="56" src="images/insure-affiliate1.gif" width="128"></a><BR>
+<BR></P></TD><!--left spacer keeping the tables-->
+<TD bgColor="#ffffff" width="4"><IMG alt="" border="0" height="1" src="images/blank.gif" width="4"></TD>
+<TD bgColor="#666666" width="1"><IMG alt="" border="0" height="1" src="images/blank.gif" width="1"></TD>
+<TD bgColor="#ffffff" width="10"><IMG alt="" border="0" height="1" src="images/blank.gif" width="10"></TD><!-- END left spacer keeping the tables--><!--seperates right from left @ center top-->
+<TD bgColor="#ffffff" vAlign="top" width="440">
+<P><!--seperates right from left @ center top--><!--MAIN CONTENT AREA-->
+<TABLE border="0" cellPadding="0" cellSpacing="0" width="440" style="HEIGHT: 462px; WIDTH: 440px">
+<TBODY><!-- BANNER ADVERT -->
+<div align="center"><BR><BR>
+<OAS URL="www.theinsurancecentre.co.uk/index.html?ID=Q62GBGZB4DT00BJ@Bottom,Top!Bottom">
+<SCRIPT LANGUAGE="JavaScript"> <!-- 
+_version=10; //--> </SCRIPT>
+<SCRIPT LANGUAGE="JavaScript1.1"> <!--
+_version=11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1){
+_version=10;} // --> </SCRIPT>
+<SCRIPT LANGUAGE="JavaScript"> <!-- 
+var server = 'oas-1.rmuk.co.uk';
+var sitepage = "www.theinsurancecentre.co.uk/index.html?ID=Q62GBGZB4DT00BJ";
+var position ="Bottom,Top!Bottom";
+if (! (RN)) {
+var RN = new String (Math.random());
+var RNS = RN.substring (2, 11);
+}
+var oas='http://' + server + '/RealMedia//';
+var oaspage= sitepage + '/1' + RNS + '@' + position;
+if (_version < 11) {
+  document.write ('<A HREF="' + oas + 'click_nx.ads/'+ oaspage + '" TARGET="_new" ><IMG SRC="' + oas + 'adstream_nx.ads/' + oaspage + '"  BORDER="0"  WIDTH="468" HEIGHT="60"  ALT="" ></a>');
+} else {
+  document.write ('<SCRIPT LANGUAGE="JavaScript1.1" SRC="' + oas + 'adstream_jx.ads/' + oaspage + '">');
+  document.write ('\<\!-- --\>');
+  document.write ('\<\/SCRIPT\>');
+  document.write ('\<\!-- --\>');
+}
+// -->
+</SCRIPT>
+<P></P>
+</OAS>
+</div><!-- END BANNER ADVERT -->
+<TR>
+<TD class="text8" vAlign="top" width="440"><FONT color="#0000ff" face="Verdana"><STRONG>A - Z Glossary</STRONG></FONT> </TD></TR>
+<TR>
+<TD class="text8" vAlign="top" width="440"><P><br><font face="Verdana" size="3"><center><b></b><A href="#A">A</A>&nbsp;<A href="#B">B</A>&nbsp;<A href="#C">C</A>&nbsp;<A href="#D">D</A>&nbsp;<A href="#E">E</A>&nbsp;<A href="#F">F</A>&nbsp;<A href="#G">G</A>&nbsp;<A href="#H">H</A>&nbsp;<A href="#I">I</A>&nbsp;<A href="#J">J</A>&nbsp;<A href="#K">K</A>&nbsp;<A href="#L">L</A>&nbsp;<A href="#M">M</A>&nbsp;<A href="#N">N</A>&nbsp;<A href="#O">O</A>&nbsp;<A href="#P">P</A>&nbsp;<A href="#Q">Q</A>&nbsp;<A href="#R">R</A>&nbsp;<A href="#S">S</A>&nbsp;<A href="#T">T</A>&nbsp;<A href="#U">U</A>&nbsp;<A href="#V">V</A>&nbsp;<A href="#W">W</A>&nbsp;<A href="#X">X</A>&nbsp;<A href="#Y">Y</A>&nbsp;<A href="#Z">Z</A></font></CENTER></TD></TR>
+<tr>
+<TD class="text8" vAlign="top" width="440"><br>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="3"><a NAME="A">A</a><br><br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Accident &amp; Health<br></font></b></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400"><font face="Verdana" size="1">Class of insurance under the Insurance Companies Act including two main types of business - personal accident and medical expenses. Personal accident policies will pay a lump sum or weekly benefits in the event of accidental death or injury. Medical expenses insurance will pay the costs of treatment for acute conditions.</font></TD>
+<TD align="right" bgColor="white" class="tablet" width="19"></TD></TR></TABLE>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Act of God <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">An event, which is not the fault of any individual. Acts of God can be insurable.</font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Actuary<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">A professional person qualified to apply mathematical principles to solving long-term financial problems, primarily in connection with pensions, life insurance and investment.</font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Additional Voluntary Contributions <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Additional contributions made voluntarily by pension scheme members to boost their eventual retirement income.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Agent<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">A person who acts for one or small number of companies, particularly in selling insurance.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">All Risks <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Wider cover than given under a normal property insurance policy. Covers any loss or damage apart from exclusions stated in the policy. <br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Annual Premium <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">See "Yearly Premium".<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Annuity<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">An arrangement by which an insurance company pays someone a regular income, usually for life, in return for a lump sum premium. <br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Assistance<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">The provision by an insurer or a service company of immediate practical help to resolve an insured problem (e.g. arranging medical treatment abroad/organising a roadside repair).<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Assurance<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">See "Insurance".<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">AVCs<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">See "Additional Voluntary Contributions".<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Average<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">A policy condition that requires the amount of a claim payment to be reduced proportionately if the policyholder has not insured his property for the full amount of its value or replacement cost. <br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><B><FONT face="Verdana" size="3"><a NAME="B">B</a><br><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1"><b>Benefit</b><br></font></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400"><font face="Verdana" size="1">The money paid by the life insurance company when a claim is made.<br></font></TD>
+<TD align="right" bgColor="white" class="tablet" width="19"></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Betterment<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">The principle by which a claimant has to make a payment towards the cost of the claim because his or her property will be in better condition after repair than before the loss or damage occurred.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Bonus<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Amount of money added to the sum insured of a "with-profits" policy. It may be added during the term of the policy (reversionary) or when the policy matures (terminal), or both. <br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Broker<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">An "intermediary" registered with the Insurance Brokers Registration Council (IBRC) under the Insurance Brokers (Registration) Act 1977.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1"><a name="bi">Buildings Insurance</a><br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">A policy covering the structure of a house or other building against a number of different risks.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Business Interruption <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">See "Consequential Loss".<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><B><FONT face="Verdana" size="3"><a NAME="C">C</a><br><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1"><b>Capacity</b><br></font></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400"><font face="Verdana" size="1">Capacity is the measure of an insurer's ability to write new business. It depends on the maintenance of adequate reserves. <br></font></TD>
+<TD align="right" bgColor="white" class="tablet" width="19"></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Captive Insurer <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">An insurance company set up by an industrial or commercial company, for example an oil company, to provide insurance to that company only.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Certificate<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Document issued by insurers as evidence that insurance is in force to meet the requirements of the law (notably for motor and employers' liability insurance).<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Claim<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">When a policyholder or beneficiary seeks payment or settlement under the terms of a policy.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Co-Insurance <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">An arrangement whereby a number of separate insurance companies share in the cover of one particular risk.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Collective Life Policies <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Group life policies, which do not relate to schemes established by an employer for the benefit of employees. Commonly used by credit companies to cover loans made.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Commercial Business <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Any policy taken out by a company, partnership or organisation to cover their business. Would include fleet policies for motor business.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Commission<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Money paid by an insurance company to a broker/ independent intermediary/agent for selling policies.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Company Representative <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">An agent appointed by a life insurance company who is authorised to sell only that company's products.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Composite Insurer <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">A company which transacts both life and non-life insurance.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Comprehensive Insurance <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">A policy covering a number of types of loss or damage. The name is used mainly in motor insurance.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Condition<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Part of a policy stating that certain rules must be followed, for example, the duty to take reasonable care to protect property, or to report claims to the insurance company promptly.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Consequential Loss <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Insurance covering the loss of profits of a business and certain other costs resulting from fire or other insured event (also known as Business Interruption).<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1"><a name="ci">Contents Policy</a><br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">A policy covering the contents of a home or other building against a number of different risks. <br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Contingent Annuities <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Annuities paid if a certain event (events) happen.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Contribution<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">The principle of contribution applies where a risk is insured on more than one insurance policy (for example on a travel and household policy), and the two insurers concerned may share the cost of any claim.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Convertible Term <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">A term insurance policy which gives the policyholder an option to convert the policy to a whole life or endowment insurance without giving further evidence of health.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Cover Note <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">A document giving temporary evidence of cover while the policy and certificate are being prepared.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Critical Illness Insurance <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Pays out a lump sum on the diagnosis of certain life-threatening illnesses specified in the policy.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><B><FONT face="Verdana" size="3"><a NAME="D">D</a><br><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1"><b>Decreasing Term </b><br></font></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400"><font face="Verdana" size="1">A term insurance policy in which the sum insured is reduced by a fixed amount each year, decreasing to nil at the end of the term.<br></font></TD>
+<TD align="right" bgColor="white" class="tablet" width="19"></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Deferred Annuities <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Annuities that commence after a specified number of years or at a specified age (usually on retirement), usually continuing through the policyholder's life.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Direct Sources of Business <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Insurance business where no intermediary is involved, including marketing sources (e.g. newspaper advertisements), telephone sales and business through branch offices.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Disability Benefit <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Certain life policies will pay out if the policyholder becomes permanently disabled. No further benefit is paid on the policyholder's subsequent death. (See also "Critical Illness Insurance".)<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><B><FONT face="Verdana" size="3"><a NAME="E">E</a><br><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1"><b>Employers' Liability </b><br></font></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400"><font face="Verdana" size="1">A compulsory class of insurance, which most employers must have to cover them against, claims by employees who are injured at work.<br></font></TD>
+<TD align="right" bgColor="white" class="tablet" width="19"></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Endorsement<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">A written amendment to an insurance policy that becomes part of it.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Endowment Policy <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">A life insurance policy that pays a sum of money after an agreed period of time, or on the death of the policyholder, whichever happens first.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1"><a name="excess">Excess</a><br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">An amount of money that the policyholder has to pay towards the cost of a claim, for example, the first £50.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Excess of Loss Policy <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Covers claims costs exceeding an amount specified in the policy.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Exclusion<br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Specified property, person or event that the policy does not cover.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1">Ex Gratia Payment <br></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1">Any payment made by an insurance company that is not strictly necessary, under the terms of the policy.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400">
+<TR>
+<TD colSpan="3"><b><font face="Verdana" size="1" >Export Credit Insurance <br ></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Provides cover for exporters' losses arising from non-payment.<br ></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Exposure<br ></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Whether, and the extent to which, an insurer is subject to losses arising from a particular risk.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="F">F</a><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Family Income Policy </b><br></font></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >A type of term insurance policy that, on the death of the life insured, pays benefits by instalments until the end of a specified period.<br ></font></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Fatal Accident Benefit <br ></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Certain life policies will make an additional payment - over and above the sum insured - if the policyholder dies as a result of an accident.<br ></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Fidelity Guarantee Policy <br ></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A policy covering the risk of dishonesty on the part of an employee who holds a position of trust, for example, a wages clerk.<br ></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Freestanding AVCs <br ></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Additional contributions paid voluntarily into personal pension policies by employees in occupational schemes who wish to top up their pensions, but keep the money separate from the occupational scheme.<br ></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Friendly Society <br ></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Similar to a mutual insurance company. A friendly society is owned by and established for the benefit of its members, mainly through the provision of life insurance and sickness benefit.<br ></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Fully Contracted-out <br ></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Pension policy where the only premium received is the DSS rebate.<br ></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="G">G</a><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>General Insurance </b><br></font></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >Insurance of (non-life) risks where the policy offers cover for a limited period, usually one year.<br ></font></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >General Liability <br ></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Covers the policyholder's legal liability for injury, property damage or financial loss caused to others.<br></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Green Card <br ></font></b></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A document issued to policyholders motoring abroad as evidence that they have the minimum insurance cover required by the law of the country visited. Not essential for European travel, because minimum legal cover is automatically included in UK policies.<br ></font></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Group Life <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A term that relates to the provision of lump sum death in service benefits for groups of employees.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Group Permanent Health Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Policies arranged by employers for their employees, providing for the payment of income during a period of incapacity due to ill health or accident. The benefit is usually payable until retirement.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Group Personal Pensions <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >An arrangement made for the employees of a particular employer to participate in a personal pension scheme on a group basis. This is not a separate, or occupational, pension scheme, but merely a collecting arrangement.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Group Sponsored Schemes <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Scheme set up by employers for the benefit of their employees to provide life cover or a pension on retiring, or both.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="H">H</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Holiday Insurance </B><br></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >A policy covering certain risks connected with holidays. Usually includes cover for the costs of unavoidable cancellation, personal accident, medical treatment abroad and lost or stolen luggage.<br ></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Home-foreign <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Home foreign policies are issued to provide insurance where the business is written in one country, although the risk is actually situated abroad.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Home Service <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The provision and servicing of life and non-life insurance by company agents calling regularly at policyholders' homes. (See also Industrial Branch)<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Household Business <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Includes insurance of both structure and contents, along with any "add-ons" included within the policy such as legal expenses.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="I">I</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Immediate Annuities </B><br></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >Annuities that commence immediately, or shortly after, purchase.<br></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Impaired Lives Register <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Lists individuals who have been refused, or charged more for, life insurance, for medical reasons.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Increasing Term <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A term insurance policy in which the sum insured increases each year by a fixed percentage of the original sum insured. Designed to increase policyholders' life cover as their earnings increase.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Indemnity<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The principle by which policyholders are put in the same financial position after a loss as they were immediately before it.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Independent Financial Adviser <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A broker or other intermediary authorised to sell or advise on the policies of any life insurance company, as well as other financial products (e.g. unit trusts).<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Index-linked <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Insurance where the amount of cover changes automatically in line with an index. Examples are the cost of rebuilding a house or replacing its contents.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Individual Permanent Health Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Policies arranged by an individual providing for the payment of income during a period of incapacity due to ill health or accident. The benefit is paid to the policyholder until he/she is able to return to work, or until retirement. <br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Individual Policy <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Insurance taken out by an individual on his or her own life or by an individual or legal person on the life of another.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Industrial Branch <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Life insurance where premiums are collected by an insurance company agent at the policyholder's home, at intervals of less than two months, often for a relatively small amount. Whole life and endowment contracts are the only types of business written in the industrial branch.<br></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Insurable Interest <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A principle of insurance which states that someone may only take out insurance if he/she stands to suffer a financial loss from an event covered by a policy. Individuals have an unlimited insurable interest in their own life and that of their spouse.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Insurance<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A service that offers financial compensation for something that may or may not happen. Originally the term assurance was generally used for life insurance, but now the two words are interchangeable. <br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Insurance Company <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A company that takes on risks under the policies it sells in return for the payment of premiums. Companies may be "mutual" (owned by the policyholders) or "proprietary" (owned by the shareholders). <br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Insurance Premium Tax <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A tax imposed on most non-life insurance premiums.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Insured<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A person covered by an insurance policy.<br></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Insurer<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >See "Insurance Company"/"Lloyd's".<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Intermediary<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Person or organisation that offers advice and arranges policies for clients. Intermediaries may be either "tied" - representing one company in the case of life business or a limited number of companies for general business, or "independent" - with no limit on the number of companies with which they can deal.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Investment<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The act of allowing someone else to have use of your money in return for payment of interest and/or a share in profits that may be made.<br ></FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Investment Income <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Income earned on the money held by insurers on behalf of policyholders, having been received in premiums but not yet paid out on claims.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="J">J</A><br ></FONT></B></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="K">K</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Key Person Insurance </B><br></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >In the event of the death of a key employee on whom the business depends for its continued profitability, or even existence, this type of cover provides a sum of money which can be used to pay for the cost of finding and training a successor, and to compensate for reduced profitability.<br></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Knock-for-Knock <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >An agreement whereby each motor insurer paid for damage to its policyholder's car, regardless of which driver was to blame, providing the policy covered damage to the policyholder's own car. Currently rarely applies.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="L">L</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Legal Expenses Insurance </B><br></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >Covers the cost of legal proceedings in circumstances defined in the policy.<br ></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Level Premium <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The same premium paid throughout the term of a policy.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Liability<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Legal responsibility for causing loss to someone else by injuring him or her or damaging their property.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Life Assurance Premium Relief <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Tax relief on life insurance premiums. Applies only to policies taken out before 14 March 1984.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Life Expectancy <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The average length of time people are likely to live, taking into account such factors as their present age, health and occupation.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Life Fund <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The pool of money, maintained by an insurance company, into which all its life insurance policyholders' premiums are paid and out of which all claims are paid.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Linked<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Describes any savings product where the saver's money buys, or is deemed to buy, "units" in an investment fund and the value of the saver's fund is thus linked to the value of the units.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Lloyd's Members <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Individuals on whose behalf Lloyd's policies are issued. They pledge all their personal wealth to pay losses. Corporate members were also introduced in 1994.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Lloyd's of London <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >An insurance market organised into syndicates, which underwrites most types of policy.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Loading<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The extent to which an individual is charged more than the "average" for his/her insurance.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Long-Term Care Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Provides for the cost of long-term care. Intended mainly to cover the costs of elderly people being looked after either at home or in residential care.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Long-Term Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Insurance of risks where cover extends over a period of more than a year, and where predetermined premiums are often paid on a regular basis over a long period. Frequently, these insurance contracts are intended to provide an investment vehicle as well as risk insurance, e.g. endowment policies.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Loss Adjuster <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A person, independent of an insurance company but engaged and paid by it, who checks that a claim is covered and negotiates with the policyholder the amount payable for a claim.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Loss Assessor <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A person who negotiates claims on behalf of policyholders.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="M">M</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Managed Funds </B><br></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >Schemes by which the pension funds for a group of employees buy units in various funds managed by an insurance company.<br></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Marine Aviation and Transport <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The class of insurance which embraces damage to the hull and cargo of ships and aeroplanes, and liability for property damage, injury and death to passengers and others.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Maturity<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >An agreed date when an endowment policy comes to an end, and the sum insured plus any bonuses earned is payable.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Mechanical Breakdown Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Covers against the cost of breakdowns of household appliances or motor vehicles.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Mortgage Indemnity Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Provides cover for a mortgage lender for any loss they might suffer as a result of a property on which they provided a loan being sold for less than the amount of the loan.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Mortgage Payment Protection Policy <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Cover for monthly mortgage repayments in the event of accident, sickness or unemployment</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Mortgage Protection Policy <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A life insurance policy that covers the outstanding amount of mortgage if the policyholder dies before the loan is repaid.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Mortgage-Related Policies <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Policies used both to provide protection for a mortgage loan and as a savings vehicle to repay the loan at maturity.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Motor Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Covers legal liabilities arising from the use of a motor vehicle. Comprehensive policies also cover damage to the vehicle.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Mutual<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >An insurance company that is owned by its policyholders.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="N">N</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>New-For-Old </B><br></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >Cover for property where an item lost or destroyed would be replaced with a brand new one, with no deduction for wear and tear. Also called "replacement as new".<br></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >No Claim Discount (or Bonus) <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A reduction in a renewal premium to reflect a claim-free record; used most often in motor insurance.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Non-Motor <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Non-motor includes all business written under the accident and health, general liability, pecuniary loss and property damage classes. Also known as Fire and Accident.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Not Contracted-out <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Someone who is not contracted out of the State Earnings-Related Pension Scheme (SERPS).</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="O">O</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Occupational Pensions </B><br></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >Pension scheme provided by an employer for its employees. Contributions will be paid by the employer and often by employees also.<br>Schemes may be either "defined benefit" where the pension entitlement of an employee is determined by, for example, number of years' service and salary; or "defined contribution" whereby an employee's pension entitlement depends only on how much has been paid into the scheme in the form of contributions on his/her account, and the value at retirement of the sum thus accumulated.<br><br >Employers may delegate responsibility for the running of their pension scheme to an insurance company.<br></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Ordinary Branch <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Life insurance and pensions business where the premiums are usually paid through the banking system by cheque, standing order or direct debit.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Outgo<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The total expenditure of an insurer in relation to any class of insurance business, comprising the cost of claims and the insurer's business expenses, including any commission paid to sales staff, brokers or intermediaries.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="P">P</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Partially Contracted-out </B><br></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >Pension policy that receives both a premium from the policyholder and a DSS rebate.<br ></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Pecuniary Loss <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Covers any financial loss that may have been incurred, e.g. business interruption and mortgage indemnity policies.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Pension<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A regular income paid to a person when he/she retires from work. A life company pays an insured pension from funds built up from contributions paid while working.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Pension Annuities <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Annuities which become payable on the vesting of pension policies. </FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Permanent Health Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A policy that pays an income for as long as the policyholder is unable to work as a result of accident or illness. The benefit is usually payable until retirement date.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Persistency<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The rate at which policyholders keep their policies with a life insurer.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Personal Accident Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A policy that pays specified amounts of money if the policyholder is injured in an accident. Depending on the type of disability, the payments may be made weekly, for a set period, or as a lump sum. </FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Personal Lines of Business <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Any policy taken out by an individual in his/her private capacity.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Personal Pensions <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Contracts under which payments are made to an insurance company by an individual policyholder during his/her working life, in return for a regular income, to be paid after retirement. </FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Pluvius Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Covers against losses arising as a result of bad weather.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Policy<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The document providing full details of the contract between the insurer and the policyholder.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Policyholder<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Person or organisation to which the insurer issues the policy. Normally the person to whom benefits are payable.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Pool Re <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A Government-backed reinsurance scheme that meets the cost of claims over £100,000 occurring as a result of terrorist attacks in Great Britain.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Premium<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The amount paid by the policyholder for insurance.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Private Medical Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A policy that covers the cost of private medical treatment.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Product Liability Policy <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Protects businesses against liability claims resulting from defects in the products they sell.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Professional Indemnity Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Protects professionals against liability claims resulting from negligent work.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Property Damage <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Property policies cover specified property that may be damaged or destroyed by events or perils, such as fire, storm or theft. </FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Proposal Form <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >An application for insurance cover.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Proposer<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Person or company who applies to take out insurance.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Public Liability Policy <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Covers legal liability for injury or damage caused to others.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="Q">Q</A><br ></FONT></B></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="R">R</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Rate</B><br ></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >The price of insurance, usually expressed as the cost of a unit of cover, e.g. £x per £1,000.<br ></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Reinsurance<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Reinsurance is the cover insurance companies can purchase to protect themselves against large losses.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Renewable Single Premium Policy <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Policies under which additional premiums can be paid later to provide increased benefits; these are at the policyholder's discretion and are non-contractual.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Renewable Term <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A term insurance policy that gives the policyholder the option, after a specified period, to take out a further term policy without the need for any further evidence of health, providing the policy will not continue beyond age 65.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Renewal Notice <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Notice sent to the policyholder inviting him/her to renew a policy for a further period and stating the premium payable. </FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Replacement-as-New <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >See "New-for-Old".</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Reversionary Bonus <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A bonus that is added to the policyholder's investment during the course of the policy.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="S">S</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Savings Policies </B><br></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >Policies used as a savings vehicle.<br ></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Single Premium Policy <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A long-term insurance policy where the premium is paid in a single lump sum.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Solvency Margin <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The solvency margin is the excess of the reserves the insurance company holds over its liabilities. </FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Subrogation<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The right of an insurer who has indemnified a policyholder to take over any legal rights the policyholder may have had in respect of that particular claim.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Sum Insured <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The amount for which property is insured, and the maximum amount which the insurance company will pay for any claim. In life insurance, the amount which is guaranteed to be paid and to which bonuses may be added.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Surrender Value <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The amount of money paid to the policyholder when certain types of life policy are discontinued before the full benefit becomes payable. Not all life policies have a surrender value.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Syndicate <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Group of underwriters at Lloyd's.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="T">T</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Temporary Policy </B><br></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >See "Term Policy".<br ></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Terminal Bonus <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A bonus paid on certain life insurance policies either at maturity, or if a claim is made.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Term Policy <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Life cover provided for a specified number of years. The insurer only pays out if the policyholder dies within this time.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Third Party <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Someone involved in a claim who is neither the policyholder nor the insurer.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Trading Result <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >An insurer's overall profit/loss calculated as the underwriting result plus investment income.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="U">U</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b >Underinsurance</B><br ></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >When the sum insured is not enough to cover the maximum possible loss or damage.<br ></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Underwriter<br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Person who decides whether to accept a risk and calculates the premium to be charged.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Uninsurable Risk <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A risk where loss is either inevitable (e.g. a house already on fire or a person suffering from a terminal illness). Also applies where damage is gradual e.g. rust and corrosion.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Unitised With-Profit <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >Contracts where premiums are invested in units, either in the with-profits fund or in linked funds or in a mix of both.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Unit-Linked <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >See "Linked".</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Utmost Good Faith <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >The principle of insurance that requires proposers to give all relevant information to the insurer.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="V">V</A><br ></FONT></B></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="W">W</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Waiver of Premium </B><br></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >An optional extra on a life policy that means that the insurance company will pay the premiums if the policyholder is unable to because of illness or injury.<br ></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Warranty Insurance <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >This type of insurance provides cover against the cost of repairs to broken down household appliances.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Whole Life Policy <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A policy where premiums are paid for the rest of an individual's life, or up to a specified advanced age, and benefit is paid on the death of the person insured, whenever that occurs.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >With-Profit Bonds <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A single premium policy where a lump sum is paid into a with-profits fund made up of investments like company shares, fixed interest securities, commercial property and money.</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><b ><font face="Verdana" size="1" >Write-Off <br ></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" >A damaged vehicle which is not repairable, or one that would cost more to repair than the car was worth before the damage occurred. Also known as a "total loss".</FONT></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="X">X</A><br ></FONT></B></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="Y">Y</A><br ><br></FONT></B></TD></TR>
+<TR>
+<TD colSpan="3"><font face="Verdana" size="1" ><b>Yearly Premium </B><br></FONT></TD></TR>
+<TR>
+<TD bgColor="white" class="tablet" width="400" ><font face="Verdana" size="1" >Recurring premiums paid over the term of the policy, at intervals specified in the policy.<br ></FONT></TD>
+<TD align="right" bgColor="white" class="tablet" width="19" ></TD></TR></TABLE></P>
+<P>
+<TABLE align="center" border="0" cellPadding="0" cellSpacing="0" width="400" >
+<TR>
+<TD colSpan="3"><B ><FONT face="Verdana" size="3" ><a name="Z">Z</A><br ></FONT></B></TD></TR></TABLE></P>
+<TR>
+<TD class="text8" vAlign="top" width="440">
+<P><br><font face="Verdana" size="3">
+<center><b></B><A href="#A" >A</A>&nbsp;<A href="#B" >B</A>&nbsp;<A href="#C" >C</A>&nbsp;<A href="#D" >D</A>&nbsp;<A href="#E" >E</A>&nbsp;<A href="#F" >F</A>&nbsp;<A href="#G" >G</A>&nbsp;<A href="#H" >H</A>&nbsp;<A href="#I" >I</A>&nbsp;<A href="#J" >J</A>&nbsp;<A href="#K" >K</A>&nbsp;<A href="#L" >L</A>&nbsp;<A href="#M" >M</A>&nbsp;<A href="#N" >N</A>&nbsp;<A href="#O" >O</A>&nbsp;<A href="#P" >P</A>&nbsp;<A href="#Q" >Q</A>&nbsp;<A href="#R" >R</A>&nbsp;<A href="#S" >S</A>&nbsp;<A href="#T" >T</A>&nbsp;<A href="#U" >U</A>&nbsp;<A href="#V" >V</A>&nbsp;<A href="#W" >W</A>&nbsp;<A href="#X" >X</A>&nbsp;<A href="#Y" >Y</A>&nbsp;<A href="#Z" >Z</A></FONT></CENTER></TD></TR>
+<P>&nbsp; <P></P>
+<P>&nbsp;</P>
+</TD></tr>
+<P></P></P></TBODY></TABLE></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></TD><!--/middle column--><!--right spacer-->
+<TD bgColor="#ffffff" width="10"><IMG alt="" border="0" height="1" src="images/blank.gif" width="10" ></TD><!--/right spacer--><!--right column-->
+<TD bgColor="#ffffff" vAlign="top" width="150">
+<TABLE border="0" cellPadding="0" cellSpacing="0" width="150">
+<tr>
+<TD width="150">
+<TABLE border="0" cellPadding="2" cellSpacing="0" width="155">
+<tr>
+<TD colSpan="2" vAlign="top"><FONT face="Verdana, Arial, Helvetica" size="-2"><B>Exclusive Deals</B></FONT></TD></tr>
+<tr>
+<TD colSpan="2"><IMG alt="" border="0" height="3" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top">
+<P><FONT face="Verdana, Arial, Helvetica"><A href="comp.html?ID=Q62GBGZB4DT00BJ"></b></font></a></FONT></P>
+</TD></tr>
+<tr>
+<TD colSpan="2" vAlign="top"><IMG alt="" border="0" height="3" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top">
+<P><FONT face="Verdana, Arial, Helvetica"><A href="affiliateprog.html?ID=Q62GBGZB4DT00BJ">Join our successful Affiliate Program and benefit from a working revenue stream.</A></FONT></P></TD></tr>
+<tr>
+<TD colSpan="2"><IMG alt="" border="0" height="3" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD vAlign="top"><IMG alt="" border="0" height="12" src="images/arrow.gif" width="8" ></TD>
+<TD vAlign="top">
+<P><FONT face="Verdana, Arial, Helvetica" color="Red"><b>NEW:</b></FONT><br><FONT face="Verdana, Arial, Helvetica"><a href="commercialvehicle.html?ID=Q62GBGZB4DT00BJ">Commercial Vehicle</a><br><a href="commercialbusiness.html?ID=Q62GBGZB4DT00BJ">Commercial Business</a><br><a href="commercialtaxi.html?ID=Q62GBGZB4DT00BJ">Commercial Taxi</b></a></FONT></P>
+</TD></tr>
+<tr>
+<TD colSpan="2" vAlign="top"><IMG alt="" border="0" height="3" src="images/blank.gif" width="1"></TD></tr>
+<tr>
+<TD colSpan="2" vAlign="top"><IMG alt="" border="0" height="3" src="images/blank.gif" width="1" ></TD></TR>
+<tr>
+<TD vAlign="top"></TD>
+<TD vAlign="top"></TD></TR>
+<tr></TR></TABLE></TD></TR></TABLE><!--/right column--><!--/Front Door Content--></TD></TR>
+<tr>
+<TD width="145"><IMG alt="" height="25" src="images/blank.gif" width="145" ></TD>
+<TD bgColor="#ffffff" width="4"><IMG alt="" border="0" height="25" src="images/blank.gif" width="4" ></TD>
+<TD bgColor="#666666" width="1"><IMG alt="" border="0" height="25" src="images/blank.gif" width="1" ></TD>
+<TD bgColor="#ffffff" width="10"><IMG alt="" border="0" height="25" src="images/blank.gif" width="10" ></TD>
+<TD colSpan="3"><IMG alt="" border="0" height="25" src="images/blank.gif" width="1" ></TD></TR></TBODY></TABLE>
+<P>
+<TABLE border="0" cellPadding="0" cellSpacing="0" width="760">
+<tr>
+<TD bgColor="#666666" colSpan="4"><IMG alt="" border="0" height="1" src="images/blank.gif" width="1" ></TD></TR>
+<tr>
+<TD vAlign="top" width="160"><FONT color="#666666" face="Verdana, Arial, Helvetica" size="-2"><A href="contact.html?ID=Q62GBGZB4DT00BJ" >Contact Us</A></FONT></TD>
+<TD vAlign="top" width="480">
+<P><FONT color="#666666" face="Verdana, Arial, Helvetica" size="-2"><FONT face="arial" size="1"><A href="ppolicy.html?ID=Q62GBGZB4DT00BJ" >Privacy Policy</A> | <A href="mailto:tom@affiliatefinder.co.uk" >Feedback</A> | <A href="copyright.html?ID=Q62GBGZB4DT00BJ" >Copyright &amp; Legal</A> | <A href="contact.html?ID=Q62GBGZB4DT00BJ" >Company Profile</A> | <A href="jobs.html?ID=Q62GBGZB4DT00BJ">Jobs@The Insurance Centre</a><br><br>Recomended Group Sites <br>
+<A href="http://www.theinsurancecentre.co.uk"> car insurance uk, home insurance, travel insurance, bike insurance, cheapest insurance quotes @ www.theinsurancecentre.co.uk </A>
+<br><br>
+<A href="http://www.carsource.co.uk"> used cars, car insurance, used car prices, car prices, the best cars and deals @ www.carsource.co.uk"</A>
+<br><br>
+<A href="http://www.carprices.co.uk"> used car prices, car prices and used car price guide, the best cars and deals @ www.carprices.co.uk </A></FONT> </FONT><FONT color="#666666" face="Verdana, Arial, Helvetica" size="-2" ><FONT face="arial" size="1"><BR ></P></FONT></FONT></TD>
+<TD width="10"><IMG alt="" border="0" height="1" src="images/blank.gif" width="10" ></TD>
+<TD align="right" vAlign="top" width="150"><FONT color="#666666" face="Verdana, Arial, Helvetica" size="-2" ><A href="#top" >return to top</A> </FONT><IMG alt="" border="0" height="10" src="images/bullet_up.gif" width="7" ></TD></TR></TABLE><BR><BR></CENTER></P>
+</BODY>
+</HTML>
+

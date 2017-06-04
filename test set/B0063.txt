@@ -1,0 +1,438 @@
+ID=B0063
+URL=http://www.holmesdale.org.uk/investment.htm
+SIZE=29422
+DATE=28/06/2002
+TIME=12:47:09
+DATASET=Building Societies
+HTML=<html>
+
+<head>
+<title>Investment Guide</title>
+<meta name="description"
+content="The Holmesdale Building Society - Investments, Loans and Mortgages">
+<meta name="keywords"
+content="building society, investment, savings, mortgages, isa,mutual,loans">
+</head>
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+
+<body topmargin="3" leftmargin="5"
+onLoad="MM_preloadImages('images/btnInfoOver.gif','images/btnHomeOver.gif','images/btnInvestmentOver.gif','images/btnMortgagesOver.gif','images/btnCalculatorOver.gif','images/btnContactOver.gif','images/btnGuideOver.gif','images/btnSpecialOver.gif','images/btnBenefitOver.gif','images/btnMonthlyOver.gif','images/btnThriftOver.gif','images/btnRegularOver.gif','images/btnInstantOver.gif','images/btnOrdinaryOver.gif','images/btnOverseaOver.gif','images/btnISAOver.gif','images/btnTESSAOver.gif')"
+bgcolor="#FFFFFF">
+
+<table border="0" width="100%" font face="Arial,Verdanna">
+  <tr>
+    <td rowspan="2" height="98"><p align="center"><img src="images/logo.gif" WIDTH="111"
+    HEIGHT="82"></td>
+    <td height="54"><p align="center"><img src="images/title.gif" WIDTH="459" HEIGHT="54"></td>
+    <td rowspan="2" height="98"><p align="center"><img src="images/logo.gif" WIDTH="111"
+    HEIGHT="82"></td>
+  </tr>
+  <tr>
+    <td height="38"><p align="center"><font face="Arial"><strong>&quot;Large enough to cope,
+    small enough to care.&quot;</strong></font></td>
+  </tr>
+  <tr>
+    <td colspan="3" height="11"><img src="images/horline.gif" width="100%" height="10"></td>
+  </tr>
+</table>
+
+<table border="0" width="100%">
+  <tr>
+    <td valign="top" width="110"><a href="index.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image8','','images/btnHomeOver.gif',1)"><img name="Image8"
+    border="0" src="images/btnHome.gif" WIDTH="74" HEIGHT="20"></a><a href="investment.htm"
+    onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image7','','images/btnInfoOver.gif',1)"><br>
+    <img name="Image7" border="0" src="images/btnInfo.gif" WIDTH="74" HEIGHT="20"></a><br>
+    <a href="investment.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image9','','images/btnInvestmentOver.gif',1)"><img
+    name="Image9" border="0" src="images/btnInvestment.gif" WIDTH="74" HEIGHT="20"><br>
+    </a>&nbsp;&nbsp;&nbsp; <a href="investment.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image13','','images/btnGuideOver.gif',1)"><img name="Image13"
+    border="0" src="images/btnGuide.gif" WIDTH="87" HEIGHT="17"></a><br>
+    &nbsp;&nbsp;&nbsp; <a href="special.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image14','','images/btnSpecialOver.gif',1)"><img name="Image14"
+    border="0" src="images/btnSpecial.gif" WIDTH="87" HEIGHT="17"></a><br>
+    &nbsp;&nbsp;&nbsp; <a href="benefit.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image15','','images/btnBenefitOver.gif',1)"><img name="Image15"
+    border="0" src="images/btnBenefit.gif" WIDTH="87" HEIGHT="17"></a><br>
+    &nbsp;&nbsp;&nbsp; <a href="monthly.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image16','','images/btnMonthlyOver.gif',1)"><img name="Image16"
+    border="0" src="images/btnMonthly.gif" WIDTH="87" HEIGHT="17"></a><br>
+    &nbsp;&nbsp;&nbsp; <a href="thrift.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image17','','images/btnThriftOver.gif',1)"><img name="Image17"
+    border="0" src="images/btnThrift.gif" WIDTH="87" HEIGHT="17"></a><br>
+    &nbsp;&nbsp;&nbsp; <a href="regular.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image18','','images/btnRegularOver.gif',1)"><img name="Image18"
+    border="0" src="images/btnRegular.gif" WIDTH="87" HEIGHT="17"></a><br>
+    &nbsp;&nbsp;&nbsp; <a href="instant.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image19','','images/btnInstantOver.gif',1)"><img name="Image19"
+    border="0" src="images/btnInstant.gif" WIDTH="87" HEIGHT="17"></a><br>
+    &nbsp;&nbsp;&nbsp; <a href="ordinary.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image20','','images/btnOrdinaryOver.gif',1)"><img
+    name="Image20" border="0" src="images/btnOrdinary.gif" WIDTH="87" HEIGHT="17"></a><br>
+    &nbsp;&nbsp;&nbsp; <a href="oversea.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image21','','images/btnOverseaOver.gif',1)"><img name="Image21"
+    border="0" src="images/btnOversea.gif" WIDTH="87" HEIGHT="17"></a><br>
+    &nbsp;&nbsp;&nbsp; <a href="isa.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image22','','images/btnISAOver.gif',1)"><img name="Image22"
+    border="0" src="images/btnISA.gif" WIDTH="87" HEIGHT="17"></a><br>
+    &nbsp;&nbsp;&nbsp; <a href="tessa.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image23','','images/btnTESSAOver.gif',1)"><img name="Image23"
+    border="0" src="images/btnTESSA.gif" WIDTH="87" HEIGHT="17"></a> <a href="mortgages.htm"
+    onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image10','','images/btnMortgagesOver.gif',1)"><br>
+    <img name="Image10" border="0" src="images/btnMortgages.gif" WIDTH="74" HEIGHT="20"></a><br>
+    <a href="calculator.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image11','','images/btnCalculatorOver.gif',1)"><img
+    name="Image11" border="0" src="images/btnCalculator.gif" WIDTH="74" HEIGHT="20"></a><br>
+    <a href="contact.htm" onMouseOut="MM_swapImgRestore()"
+    onMouseOver="MM_swapImage('Image12','','images/btnContactOver.gif',1)"><img name="Image12"
+    border="0" src="images/btnContact.gif" WIDTH="74" HEIGHT="20"></a><p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</td>
+    <td valign="top"><img src="images/verline.gif" WIDTH="12" HEIGHT="492"></td>
+    <td valign="top"><p align="center"><br>
+    <font face="Arial"><a name="Top"><font color="#0000FF"><font size="4">INTEREST RATES FROM
+    1st December 2001</font></font><font color="#000000" size="4"><br>
+    </font></a><strong><font color="#000000" size="2">MINIMUM WAIVED IF ACCOUNT HOLDER IS
+    UNDER 18 YEARS OF AGE<br>
+    </font></strong></font></p>
+    <p align="center"><big><u><font face="Arial" color="#0000FF"><big>Investment Guide</big></font></u></big></p>
+    <div align="center"><center><table border="0" width="60%">
+      <tr>
+        <td width="50%"><font face="Arial"><a href="#Interest">Interest</a></font></td>
+        <td width="50%"><font face="Arial"><a href="#Procedure to open a new account">Procedure to
+        open a new account</a></font></td>
+      </tr>
+      <tr>
+        <td width="50%"><font face="Arial"><a href="#Interest Rate Variation">Interest Rate
+        Variation</a></font></td>
+        <td width="50%"><font face="Arial"><a href="#Identification">Identification</a></font></td>
+      </tr>
+      <tr>
+        <td width="50%"><font face="Arial"><a href="#A.E.R.">A.E.R.</a></font></td>
+        <td width="50%"><font face="Arial"><a href="#Bank Payments">Bank Payments</a></font></td>
+      </tr>
+      <tr>
+        <td width="50%"><font face="Arial"><a href="#Cleared Funds">Cleared Funds</a></font></td>
+        <td width="50%"><font face="Arial"><a href="#Withdrawals">Withdrawals</a></font></td>
+      </tr>
+      <tr>
+        <td width="50%"><font face="Arial"><a href="#Cheques">Cheques</a></font></td>
+        <td width="50%"><font face="Arial"><a href="#Taxation">Taxation</a></font></td>
+      </tr>
+      <tr>
+        <td width="50%"><font face="Arial"><a href="#Data Protection Act 1984">Data Protection Act
+        1998</a></font></td>
+        <td width="50%"><font face="Arial"><a href="#Passbook Entries">Passbook Entries</a></font></td>
+      </tr>
+      <tr>
+        <td width="50%"><font face="Arial"><a href="#Confidentiality">Confidentiality</a></font></td>
+        <td width="50%"><a href="#Compensation"><font face="Arial">The Financial Services
+        Compensation Scheme</font></a></td>
+      </tr>
+      <tr>
+        <td width="50%"><font face="Arial"><a href="#Marketing">Marketing</a></font></td>
+        <td width="50%"><font face="Arial"><a href="#Cooling-Off">Cooling-Off</a></font></td>
+      </tr>
+      <tr>
+        <td width="50%"><a href="#Complaints"><font face="Arial">Complaints Procedure</font></a></td>
+        <td width="50%"><font face="Arial"><a href="#Joint Accounts">Joint Accounts</a></font></td>
+      </tr>
+      <tr>
+        <td width="50%"><font face="Arial"><a href="#Tariff of Charges">Tariff of Charges</a></font></td>
+        <td width="50%"><font face="Arial"><a href="#Society's Discretion">Society's Discretion</a></font></td>
+      </tr>
+      <tr>
+        <td width="50%"><font face="Arial"><a href="#Code of Practice">Code of Practice</a></font></td>
+        <td width="50%"><font face="Arial"><a href="#Help us">Help us to help you</a></font></td>
+      </tr>
+      <tr>
+        <td width="50%"><font face="Arial"><a href="#Ombudsman">Ombudsman</a></font></td>
+        <td width="50%"><font face="Arial"><a href="termsandconditions.htm">Full Investment Terms
+        And Conditions</a></font></td>
+      </tr>
+    </table>
+    </center></div><p>&nbsp;</p>
+    <p><font face="Arial"><strong><a name="Interest"><font color="#0000FF">Interest</font></a>
+    </strong>- <small>Interest is calculated on a daily basis from the day following the date
+    of investment until the date prior to withdrawal. If you ask, we will give you a full
+    explanation of how we work out interest.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Interest Rate Variation"><font color="#0000FF">Interest
+    Rate Variation</font></a> </strong>- <small>Variations are publicised in the Times and
+    Surrey Mirror and in the Society's offices.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="A.E.R."><font color="#0000FF">A.E.R.</font></a> </strong>-<small>
+    This is the annual equivalent rate if interest is credited to the account. Except where
+    stated, interest is paid or added on 30th September and 31st March. Interest rates are
+    variable. Variations are publicised in selected newspapers and a list is available on
+    request.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Cleared Funds"><font color="#0000FF">Cleared Funds</font></a>
+    </strong>- <small>Although the Society is pleased to accept investment by cheque, we do
+    ask that you allow a period of seven clear working days to elapse before withdrawing
+    against such investment.</small></font></p>
+    <p><em><strong><font face="Arial"><small>In the case of unpaid cheques, no interest will
+    be earned and any interest so credited on the assumption that your cheque would be met
+    will be taken from the account.</small></font></strong></em></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Cheques"><font color="#0000FF">Cheques</font></a> </strong>-<small>
+    Cheques drawn by the Society on a customer's account, to a third party, will not normally
+    be stopped. &nbsp;However, in extreme circumstances this can be done, provided the account
+    holder notifies the Society in writing and pays the <a href="#Tariff of Charges">tariff
+    charge</a>. Cheques must be presented within six months or they become out of date. &nbsp;
+    Warrants drawn by the Society must be presented within three months or they will become
+    out of date.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Data Protection Act 1984"><font color="#0000FF">Data
+    Protection Act 1998</font></a> </strong>- <small>Customers have the right of access to
+    their personal details held on our computer files and within manual files, although we may
+    wish to make a reasonable charge for providing this.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Confidentiality"><font color="#0000FF">Confidentiality</font></a>
+    </strong>- <small>We will treat all your personal information as private and confidential
+    (even when you are no longer a customer). We will not reveal your name and address or
+    details about your account to anyone, including other companies in our group, other than
+    in the following four exceptional cases when we are allowed to do this by law.</small></font></p>
+    <p><font face="Arial"><small>1. If we have to give the information by law.</small><br>
+    <small>2. If there is a duty to the public to reveal the information.</small><br>
+    <small>3. If it is in our interests to give the information. But we will not use this as a
+    reason for giving information about you or your accounts (including your name and address)
+    to anyone else including other companies in our group for marketing purposes.</small><br>
+    <small>4. If you ask us to reveal the information, or if we have your permission.</small><br>
+    <br>
+    <a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Marketing"><font color="#0000FF">Marketing</font></a>
+    </strong>- <small>Please confirm in writing if you do not wish to receive advertising or
+    general material relating to the services the Society or an associated body can provide.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial" color="#0000FF"><strong>Internal <a name="Complaints">Complaints
+    Procedure</a></strong></font></p>
+    <p><small><font face="Arial">We hope that you are fully satisfied with the service you
+    receive from the Society. However, if you are not, we have an internal complaints
+    procedure (ICP) which is designed to help resolve your complaints in a fair and speedy
+    manner.</font></small></p>
+    <p><strong><small><font face="Arial">Making a complaint - ICP procedure</font></small></strong></p>
+    <p><small><font face="Arial">You may make a complaint by any reasonable means, for
+    example, by letter, telephone, e-mail or in person. All complaints should be directed to
+    the Chief Executive and confirmed in writing.</font></small></p>
+    <p><small><font face="Arial">We will send a written acknowledgement of your complaint
+    within five working days (working days exclude weekends and bank holidays).</font></small></p>
+    <p><small><font face="Arial">Within four weeks of receiving your complaint, the Society
+    will either send you a final response or a holding response, which will explain:-</font></small><ul>
+      <li><small><font face="Arial">why we are not yet in a position to resolve the complaint, and</font></small></li>
+      <li><font face="Arial"><small>indicate when the Society will make further contact, which
+        will be no later then eight weeks after the complaint was received.</small></font></li>
+    </ul>
+    <p><font face="Arial"><small>By the end of eight weeks after receiving your complaint, the
+    Society will send you either:-</small></font></p>
+    <p><font face="Arial"><small>a final response which</small></font><ul>
+      <li><font face="Arial"><small>accepts the complaint and, where applicable, offers redress,</small></font></li>
+      <li><font face="Arial"><small>offers redress without accepting the complaint, or</small></font></li>
+      <li><font face="Arial"><small>rejects the complaint and gives reasons for doing so, and
+        contains information about the right to complain to the Financial Ombudsman Service or,</small></font></li>
+    </ul>
+    <p><font face="Arial"><small>a response which</small></font><ul>
+      <li><font face="Arial"><small>explains that the Society is still not in a position to make a
+        final response, give reasons for the further delay and indicates when the Society expects
+        to be able to provide a final response and</small></font></li>
+      <li><font face="Arial"><small>informs the complainant that he/she may refer the complaint to
+        the Financial Ombudsman Service if he/she is dissatisfied with the delay, and enclose a
+        copy of the Financial Ombudsman Service explanatory leaflet relating to complaints.</small></font></li>
+    </ul>
+    <p><font face="Arial"><small>If you decide to pursue your complaint through the Financial
+    Ombudsman Service you must do so within six months of the date of the final response.</small></font></p>
+    <p><font face="Arial"><small>Further information relating to the current Financial
+    Ombudsman Service complaints scheme is available from this Society or direct from
+    Financial Ombudsman Service, South Quay Plaza, 183 Marsh Wall, London, E14 9SR, telephone
+    number 0845 080 1800; e-mail: <a href="mailto:enquiries@financial-ombudsman.org.uk">enquiries@financial-ombudsman.org.uk</a>
+    or website <a href="http://www.financial-ombudsman.org.uk" target="_blank">www.financial-ombudsman.org.uk</a>.
+    </small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Tariff of Charges"><font color="#0000FF">Tariff of
+    Charges</font></a> </strong>- <small>Charges are levied for certain transactions.&nbsp;
+    The Society needs to make these charges to cover the costs incurred.</small></font></p>
+    <table border="0" width="100%">
+      <tr>
+        <td width="60%"><small><font face="Arial">Unpaid Cheques</font></small></td>
+        <td width="40%"><font face="Arial"><small>£15</small></font></td>
+      </tr>
+      <tr>
+        <td width="60%"><small><font face="Arial">CHAPS payments for telegraphic transfer of
+        monies</font></small></td>
+        <td width="40%"><font face="Arial"><small>£25</small></font></td>
+      </tr>
+      <tr>
+        <td width="60%"><small><font face="Arial">Stopped Cheques - where the customer has taken
+        the cheque</font></small></td>
+        <td width="40%"><font face="Arial"><small>£10</small></font></td>
+      </tr>
+      <tr>
+        <td width="60%"><small><font face="Arial">Special Presentation of cheques for early
+        clearing</font></small></td>
+        <td width="40%"><font face="Arial"><small>£15</small></font></td>
+      </tr>
+    </table>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Code of Practice"><font color="#0000FF">Code of
+    Practice</font></a> </strong>- <small>We subscribe to the Banking Code of Practice and
+    copies are available upon request. Alternatively, please click on the following link to
+    visit their own web-site and download the appropriate documentation. <a
+    href="http://www.bankingcode.org.uk" target="_blank">http://www.bankingcode.org.uk</a></small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Procedure to open a new account"><font
+    color="#0000FF">Procedure to open a new account</font></a> </strong>- <small>An Investment
+    Application form and blue signature card should be completed and forwarded to the Society
+    with the cash or cheque(s). To add to an existing account, all you have to do is send the
+    pass book with the amount you wish to invest.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Identification"><font color="#0000FF">Identification</font></a>
+    </strong>- <small>In accordance with the code of Banking Practice and Money Laundering
+    Regulations this Society has a legal responsibility to confirm the true identity of all
+    applicants seeking to open an account. In order to comply with these requirements for
+    POSTAL APPLICATIONS, we will need sight of <u>FOUR</u> of the following; Original
+    documents <u>TWO FROM EACH SECTION</u>.</small></font></p>
+    <p><font face="Arial"><u><small>SECTION ONE</small></u><br>
+    <small>a) driving licence.</small><br>
+    <small>b) pay-slip which is less than three months old.</small><br>
+    <small>c) bank statement, building society statement or credit card statement which is
+    less than three months old.</small><br>
+    <small>d) mortgage statement which is less than three months old.</small><br>
+    <small>e) P60 which must be for the current year.</small></font></p>
+    <p><font face="Arial"><u><small>SECTION TWO</small></u><br>
+    <small>a) Utility bill (gas, electricity, water, telephone or council tax) which is less
+    than three months old.</small><br>
+    <small>b) Inland Revenue communication.</small></font></p>
+    <p><font face="Arial"><small><u>FOR PERSONAL APPLICATIONS</u> we will need sight of <u>TWO</u>
+    of the following; Original documents <u>ONE FROM EACH SECTION</u>.</small></font></p>
+    <p><font face="Arial"><small>SECTION ONE</small><br>
+    <small>a) passport</small><br>
+    <small>b) identity card</small><br>
+    <small>c) driving licence</small><br>
+    <small>d) credit card</small><br>
+    <small>e) birth certificate</small><br>
+    <small>f) pay-slip which is less than three months old</small></font></p>
+    <p><font face="Arial"><small>SECTION TWO</small><br>
+    <small>a) Utility bill (gas, electricity, water, telephone or council tax) which is less
+    than three months old.</small><br>
+    <small>b) Inland Revenue communication.</small><br>
+    <small>c) bank statement, building society statement or credit card statement which is
+    less than three months old.</small></font></p>
+    <p><font face="Arial"><small>If the account is to be opened in joint names, the Society
+    will require proof of identity of all applicants. All documents will be returned promptly.</small></font></p>
+    <p><small><font face="Arial"><strong>IMPORTANT NOTE: </strong>We regret that it will not
+    be possible to open an account unless suitable proof of identity is provided and if
+    adequate identity is not provided it will be necessary to return your remittance to you.</font></small></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Bank Payments"><font color="#0000FF">Bank Payments</font></a>
+    </strong>- <small>Arrangements can be made to make further payments at any branch of any
+    bank, or by bank order, to the Society's account, No 27584798 (60-17-27) at the National
+    Westminster Bank Plc, 21 High Street, Reigate, RH2 9AD. National Girobank payments should
+    be made to the Society's account No. 3051714.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Withdrawals"><font color="#0000FF">Withdrawals</font></a>
+    </strong>- <small>Unless otherwise stated, within the terms of the account and the <a
+    href="termsandconditions.htm">Terms and Conditions</a> relating to Investments,
+    withdrawals can be made on demand up to £100,000 but for larger withdrawals we require
+    one day's written notice.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Taxation"><font color="#0000FF">Taxation</font></a>
+    </strong>- <small>On 6th April 1991 the system for taxing interest paid by banks, building
+    societies and other financial institutions was changed. You can now arrange for the
+    interest on your accounts to be paid with no tax deducted if you are not liable to income
+    tax. That is, your total taxable income is less than your total tax allowance. Further
+    details are available on request from the Society.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Passbook Entries"><font color="#0000FF">Passbook
+    Entries</font></a> </strong>- <small>If your passbook has an entry which seems to be
+    wrong, you should tell us as soon as possible so that we can resolve matters.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Compensation"><font color="#0000FF">The Financial
+    Services Compensation Scheme</font></a> </strong>- <small>The Holmesdale Building Society
+    is a participant in the Financial Services Compensation Scheme established under the
+    Financial Services and Markets Act 2000. Payments under the Scheme are limited to a
+    maximum of £31,700, that is 100% of the first £2,000 of an investor's total shares
+    and/or deposits, and 90% of the next £33,000. Most investors are covered, including
+    individuals and small firms. A small number of categories of shares and deposits are not
+    covered. Although most shares and deposits are denominated in sterling, all other
+    currencies are covered. Further details are available on request from the Society.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Cooling-Off"><font color="#0000FF">Cooling-Off</font></a>
+    </strong>- <small>If you are unhappy about your choice of account within 15 days of
+    opening it, you must tell us in writing, when we will help you switch accounts or give you
+    your money back with interest. The 15 day period commences on the day the account is
+    opened. We will ignore any notice period or any additional charges.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Joint Accounts"><font color="#0000FF">Joint
+    Accounts</font></a> </strong>- <small>Two or more persons may jointly hold a share, unless
+    the terms of the share forbid a joint holding. Persons jointly holding a share shall be
+    entitled to choose the order in which they are named in the Society's records. However,
+    the first named of the joint holders will be regarded by the Society as the representative
+    joint holder.</small></font></p>
+    <p><font face="Arial"><small>All joint holders of a share may authorise in writing one of
+    their number to withdraw the share or receive interest or bonus paid in respect thereof.
+    However, if one joint holder is given authority to operate the account and the Society
+    becomes aware of a dispute between the joint holders then both signatures will be required
+    to operate the account. These circumstances may prevail in the case of a divorce or
+    separation. If this is the case you should both come to the Society to arrange for the
+    joint accounts to be closed and new accounts opened in your sole names. If no such
+    authorisation is made all joint holders must sign notices of withdrawal and interest and
+    bonus payments will be made in the names of all joint holders.</small><br>
+    <small>Any reference in the Rules to any number of members of the Society shall be read as
+    if any shares held jointly were held by the representative joint holder only.</small></font></p>
+    <p><font face="Arial"><small>No joint holder of shares, other than the representative
+    joint holder, may attend a meeting except as a proxy, or exercise any right conferred by
+    the Rules on a member.</small></font></p>
+    <p><font face="Arial"><small>A member of the Society who is a representative joint holder
+    and who holds shares at the voting date is entitled to vote on a resolution subject to the
+    Rules of the Society.</small></font></p>
+    <p><font face="Arial"><small>Notice of every Annual General Meeting or Special General
+    Meeting shall be sent to the representative joint holder.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><font face="Arial"><strong><a name="Society's Discretion"><font color="#0000FF">Society's
+    Discretion</font></a> </strong>- <small>The Society may at its absolute discretion and
+    without giving any reason, refuse to issue a share to any person or accept a person as a
+    member.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></p>
+    <p><strong><font face="Arial" color="#0000FF"><a name="Help us">Help us to help you</a> </font></strong><font
+    face="Arial">- <small>It will help us to provide you with a high standard of service if
+    you make sure you let us know as soon as possible when you change your: name, address or
+    phone number.</small><br>
+    <strong><br>
+    </strong><a href="#Top">Back </a>to the top</font></p>
+    <p><strong><a name="Ombudsman"><font face="Arial" color="#0000FF">Ombudsman </font></a></strong><font
+    face="Arial">- <small>Member of the Financial Ombudsman Service Scheme.</small></font></p>
+    <p><font face="Arial"><a href="#Top">Back </a>to the top</font></td>
+  </tr>
+</table>
+</body>
+</html>
+

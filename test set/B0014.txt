@@ -1,0 +1,346 @@
+ID=B0014
+URL=http://www.thehanley.co.uk/savings/savmenu.asp
+SIZE=32339
+DATE=28/06/2002
+TIME=12:46:29
+DATASET=Building Societies
+HTML=<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>The Hanley Economic Building Society Savings</title>
+<base target="_self">
+<style>
+<!--
+.Arialbluesmall { font-family: Arial; font-size: 8pt; color: #000080 }
+-->
+</style>
+</head>
+
+<body background="../images/poundback.gif" link="#000080" vlink="#008000" style="font-family: Arial; font-size: 8pt; color: #000080; line-height: 150%" class="Arialbluesmall" leftmargin="5">
+<table width="100%" cellspacing="0" cellpadding="0" style="font-size: 8pt; font-family: Arial; color: #002D64" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="SavTypeID,SavTypeName,SavTypeImage" s-columntypes="3,200,200"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="SavTypeImage" s-menuvalue="SavTypeImage" b-tableborder="FALSE"
+    b-tableexpand="TRUE" b-tableheader="FALSE" b-listlabels="TRUE"
+    b-listseparator="TRUE" i-ListFormat="0" b-makeform="TRUE"
+    s-recordsource="Savingstype" s-displaycolumns="SavTypeImage"
+    s-criteria="{SavTypeID} EQ 1  +" s-order
+    s-sql="SELECT * FROM Savingstype WHERE (SavTypeID =  1)" b-procedure="FALSE"
+    clientside SuggestedExt="asp" s-DefaultFields
+    s-NoRecordsFound="No records returned." i-MaxRecords="256" i-GroupSize="0"
+    BOTID="1" u-dblib="../_fpclass/fpdblib.inc"
+    u-dbrgn1="../_fpclass/fpdbrgn1.inc" u-dbrgn2="../_fpclass/fpdbrgn2.inc"
+    tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>"
+    b-WasTableFormat="TRUE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+<table width="100%" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="ProductID,ProductName,Faq1,Faqtext1,Faq2,Faqtext2,Faq3,Faqtext3,Faq4,Faqtext4,Faq5,Faqtext5,Faq6,Faqtext6,Faq7,Faqtext7,Faq8,Faqtext8,Faq9,Faqtext9,Faq10,Faqtext10,Faq11,Faqtext11,Show,SavTypeID"
+    s-columntypes="3,200,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,3"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="ProductName" s-menuvalue="ProductName" b-tableborder="FALSE"
+    b-tableexpand="TRUE" b-tableheader="FALSE" b-listlabels="TRUE"
+    b-listseparator="TRUE" i-ListFormat="0" b-makeform="FALSE"
+    s-recordsource="Savings" s-displaycolumns="ProductName"
+    s-criteria="{SavTypeID} EQ 1  + [Show] EQ [y] +" s-order="[ProductName] +"
+    s-sql="SELECT * FROM Savings WHERE (SavTypeID =  1 AND Show =  'y') ORDER BY ProductName ASC"
+    b-procedure="FALSE" clientside SuggestedExt="asp" s-DefaultFields
+    s-NoRecordsFound="Currently No Products Available" i-MaxRecords="256" i-GroupSize="0" BOTID="0"
+    u-dblib="../_fpclass/fpdblib.inc" u-dbrgn1="../_fpclass/fpdbrgn1.inc"
+    u-dbrgn2="../_fpclass/fpdbrgn2.inc" tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>"
+    b-WasTableFormat="TRUE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="SavTypeID,SavTypeName,SavTypeImage" s-columntypes="3,200,200"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="SavTypeImage" s-menuvalue="SavTypeImage" b-tableborder="FALSE"
+    b-tableexpand="TRUE" b-tableheader="FALSE" b-listlabels="TRUE"
+    b-listseparator="TRUE" i-ListFormat="0" b-makeform="TRUE"
+    s-recordsource="Savingstype" s-displaycolumns="SavTypeImage"
+    s-criteria="{SavTypeID} EQ 9  +" s-order
+    s-sql="SELECT * FROM Savingstype WHERE (SavTypeID =  9)" b-procedure="FALSE"
+    clientside SuggestedExt="asp" s-DefaultFields
+    s-NoRecordsFound="No records returned." i-MaxRecords="256" i-GroupSize="0"
+    BOTID="2" u-dblib="../_fpclass/fpdblib.inc"
+    u-dbrgn1="../_fpclass/fpdbrgn1.inc" u-dbrgn2="../_fpclass/fpdbrgn2.inc"
+    tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>"
+    b-WasTableFormat="TRUE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+<table width="100%" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="ProductID,ProductName,Faq1,Faqtext1,Faq2,Faqtext2,Faq3,Faqtext3,Faq4,Faqtext4,Faq5,Faqtext5,Faq6,Faqtext6,Faq7,Faqtext7,Faq8,Faqtext8,Faq9,Faqtext9,Faq10,Faqtext10,Faq11,Faqtext11,tob,Show,SavTypeID,Grap"
+    s-columntypes="3,200,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,200,3,200"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="ProductName" s-menuvalue="ProductName" b-tableborder="FALSE" b-tableexpand="TRUE"
+    b-tableheader="FALSE" b-listlabels="TRUE" b-listseparator="TRUE"
+    i-ListFormat="0" b-makeform="TRUE" s-recordsource="Savings"
+    s-displaycolumns="ProductName" s-criteria="{SavTypeID} EQ 9  +" s-order="[ProductName] +"
+    s-sql="SELECT * FROM Savings WHERE (SavTypeID =  9) ORDER BY ProductName ASC" b-procedure="FALSE" clientside
+    SuggestedExt="asp" s-DefaultFields s-NoRecordsFound="Currently No Products Available"
+    i-MaxRecords="256" i-GroupSize="0" BOTID="3"
+    u-dblib="../_fpclass/fpdblib.inc" u-dbrgn1="../_fpclass/fpdbrgn1.inc"
+    u-dbrgn2="../_fpclass/fpdbrgn2.inc" tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>" b-WasTableFormat="TRUE" b-ReplaceDatabaseRegion="FALSE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="SavTypeID,SavTypeName,SavTypeImage" s-columntypes="3,200,200"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="SavTypeImage" s-menuvalue="SavTypeImage" b-tableborder="FALSE"
+    b-tableexpand="TRUE" b-tableheader="FALSE" b-listlabels="TRUE"
+    b-listseparator="TRUE" i-ListFormat="0" b-makeform="TRUE"
+    s-recordsource="Savingstype" s-displaycolumns="SavTypeImage"
+    s-criteria="{SavTypeID} EQ 3  +" s-order
+    s-sql="SELECT * FROM Savingstype WHERE (SavTypeID =  3)" b-procedure="FALSE"
+    clientside SuggestedExt="asp" s-DefaultFields
+    s-NoRecordsFound="No records returned." i-MaxRecords="256" i-GroupSize="0"
+    BOTID="4" u-dblib="../_fpclass/fpdblib.inc"
+    u-dbrgn1="../_fpclass/fpdbrgn1.inc" u-dbrgn2="../_fpclass/fpdbrgn2.inc"
+    tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>"
+    b-WasTableFormat="TRUE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+<table width="100%" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="ProductID,ProductName,Faq1,Faqtext1,Faq2,Faqtext2,Faq3,Faqtext3,Faq4,Faqtext4,Faq5,Faqtext5,Faq6,Faqtext6,Faq7,Faqtext7,Faq8,Faqtext8,Faq9,Faqtext9,Faq10,Faqtext10,Faq11,Faqtext11,Show,SavTypeID"
+    s-columntypes="3,200,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,3"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="ProductName" s-menuvalue="ProductName" b-tableborder="FALSE" b-tableexpand="TRUE"
+    b-tableheader="FALSE" b-listlabels="TRUE" b-listseparator="TRUE"
+    i-ListFormat="0" b-makeform="TRUE" s-recordsource="Savings"
+    s-displaycolumns="ProductName" s-criteria="{SavTypeID} EQ 3  + [Show] EQ [y] +" s-order="[ProductName] +"
+    s-sql="SELECT * FROM Savings WHERE (SavTypeID =  3 AND Show =  'y') ORDER BY ProductName ASC" b-procedure="FALSE" clientside
+    SuggestedExt="asp" s-DefaultFields s-NoRecordsFound="Currently No Products Available"
+    i-MaxRecords="256" i-GroupSize="0" BOTID="5"
+    u-dblib="../_fpclass/fpdblib.inc" u-dbrgn1="../_fpclass/fpdbrgn1.inc"
+    u-dbrgn2="../_fpclass/fpdbrgn2.inc" tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>" b-WasTableFormat="TRUE" b-ReplaceDatabaseRegion="FALSE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="SavTypeID,SavTypeName,SavTypeImage" s-columntypes="3,200,200"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="SavTypeImage" s-menuvalue="SavTypeImage" b-tableborder="FALSE"
+    b-tableexpand="TRUE" b-tableheader="FALSE" b-listlabels="TRUE"
+    b-listseparator="TRUE" i-ListFormat="0" b-makeform="TRUE"
+    s-recordsource="Savingstype" s-displaycolumns="SavTypeImage"
+    s-criteria="{SavTypeID} EQ 4  +" s-order
+    s-sql="SELECT * FROM Savingstype WHERE (SavTypeID =  4)" b-procedure="FALSE"
+    clientside SuggestedExt="asp" s-DefaultFields
+    s-NoRecordsFound="No records returned." i-MaxRecords="256" i-GroupSize="0"
+    BOTID="6" u-dblib="../_fpclass/fpdblib.inc"
+    u-dbrgn1="../_fpclass/fpdbrgn1.inc" u-dbrgn2="../_fpclass/fpdbrgn2.inc"
+    tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>"
+    b-WasTableFormat="TRUE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+<table width="100%" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="ProductID,ProductName,Faq1,Faqtext1,Faq2,Faqtext2,Faq3,Faqtext3,Faq4,Faqtext4,Faq5,Faqtext5,Faq6,Faqtext6,Faq7,Faqtext7,Faq8,Faqtext8,Faq9,Faqtext9,Faq10,Faqtext10,Faq11,Faqtext11,Show,SavTypeID"
+    s-columntypes="3,200,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,3"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="ProductName" s-menuvalue="ProductName" b-tableborder="FALSE" b-tableexpand="TRUE"
+    b-tableheader="FALSE" b-listlabels="TRUE" b-listseparator="TRUE"
+    i-ListFormat="0" b-makeform="TRUE" s-recordsource="Savings"
+    s-displaycolumns="ProductName" s-criteria="{SavTypeID} EQ 4  + [Show] EQ [y] +" s-order="[ProductName] +"
+    s-sql="SELECT * FROM Savings WHERE (SavTypeID =  4 AND Show =  'y') ORDER BY ProductName ASC" b-procedure="FALSE" clientside
+    SuggestedExt="asp" s-DefaultFields s-NoRecordsFound="Currently No Products Available"
+    i-MaxRecords="256" i-GroupSize="0" BOTID="7"
+    u-dblib="../_fpclass/fpdblib.inc" u-dbrgn1="../_fpclass/fpdbrgn1.inc"
+    u-dbrgn2="../_fpclass/fpdbrgn2.inc" tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>" b-WasTableFormat="TRUE" b-ReplaceDatabaseRegion="FALSE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="SavTypeID,SavTypeName,SavTypeImage" s-columntypes="3,200,200"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="SavTypeImage" s-menuvalue="SavTypeImage" b-tableborder="FALSE"
+    b-tableexpand="TRUE" b-tableheader="FALSE" b-listlabels="TRUE"
+    b-listseparator="TRUE" i-ListFormat="0" b-makeform="TRUE"
+    s-recordsource="Savingstype" s-displaycolumns="SavTypeImage"
+    s-criteria="{SavTypeID} EQ 5  +" s-order
+    s-sql="SELECT * FROM Savingstype WHERE (SavTypeID =  5)" b-procedure="FALSE"
+    clientside SuggestedExt="asp" s-DefaultFields
+    s-NoRecordsFound="No records returned." i-MaxRecords="256" i-GroupSize="0"
+    BOTID="8" u-dblib="../_fpclass/fpdblib.inc"
+    u-dbrgn1="../_fpclass/fpdbrgn1.inc" u-dbrgn2="../_fpclass/fpdbrgn2.inc"
+    tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>"
+    b-WasTableFormat="TRUE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+<table width="100%" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="ProductID,ProductName,Faq1,Faqtext1,Faq2,Faqtext2,Faq3,Faqtext3,Faq4,Faqtext4,Faq5,Faqtext5,Faq6,Faqtext6,Faq7,Faqtext7,Faq8,Faqtext8,Faq9,Faqtext9,Faq10,Faqtext10,Faq11,Faqtext11,Show,SavTypeID"
+    s-columntypes="3,200,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,3"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="ProductName" s-menuvalue="ProductName" b-tableborder="FALSE" b-tableexpand="TRUE"
+    b-tableheader="FALSE" b-listlabels="TRUE" b-listseparator="TRUE"
+    i-ListFormat="0" b-makeform="TRUE" s-recordsource="Savings"
+    s-displaycolumns="ProductName" s-criteria="{SavTypeID} EQ 5  + [Show] EQ [y] +" s-order="[ProductName] +"
+    s-sql="SELECT * FROM Savings WHERE (SavTypeID =  5 AND Show =  'y') ORDER BY ProductName ASC" b-procedure="FALSE" clientside
+    SuggestedExt="asp" s-DefaultFields s-NoRecordsFound="Currently No Products Available"
+    i-MaxRecords="256" i-GroupSize="0" BOTID="9"
+    u-dblib="../_fpclass/fpdblib.inc" u-dbrgn1="../_fpclass/fpdbrgn1.inc"
+    u-dbrgn2="../_fpclass/fpdbrgn2.inc" tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>" b-WasTableFormat="TRUE" b-ReplaceDatabaseRegion="FALSE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="SavTypeID,SavTypeName,SavTypeImage" s-columntypes="3,200,200"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="SavTypeImage" s-menuvalue="SavTypeImage" b-tableborder="FALSE"
+    b-tableexpand="TRUE" b-tableheader="FALSE" b-listlabels="TRUE"
+    b-listseparator="TRUE" i-ListFormat="0" b-makeform="TRUE"
+    s-recordsource="Savingstype" s-displaycolumns="SavTypeImage"
+    s-criteria="{SavTypeID} EQ 6  +" s-order
+    s-sql="SELECT * FROM Savingstype WHERE (SavTypeID =  6)" b-procedure="FALSE"
+    clientside SuggestedExt="asp" s-DefaultFields
+    s-NoRecordsFound="No records returned." i-MaxRecords="256" i-GroupSize="0"
+    BOTID="10" u-dblib="../_fpclass/fpdblib.inc"
+    u-dbrgn1="../_fpclass/fpdbrgn1.inc" u-dbrgn2="../_fpclass/fpdbrgn2.inc"
+    tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>"
+    b-WasTableFormat="TRUE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+<table width="100%" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="ProductID,ProductName,Faq1,Faqtext1,Faq2,Faqtext2,Faq3,Faqtext3,Faq4,Faqtext4,Faq5,Faqtext5,Faq6,Faqtext6,Faq7,Faqtext7,Faq8,Faqtext8,Faq9,Faqtext9,Faq10,Faqtext10,Faq11,Faqtext11,Show,SavTypeID"
+    s-columntypes="3,200,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,3"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="ProductName" s-menuvalue="ProductName" b-tableborder="FALSE" b-tableexpand="TRUE"
+    b-tableheader="FALSE" b-listlabels="TRUE" b-listseparator="TRUE"
+    i-ListFormat="0" b-makeform="TRUE" s-recordsource="Savings"
+    s-displaycolumns="ProductName" s-criteria="{SavTypeID} EQ 6  + [Show] EQ [y] +" s-order="[ProductName] +"
+    s-sql="SELECT * FROM Savings WHERE (SavTypeID =  6 AND Show =  'y') ORDER BY ProductName ASC" b-procedure="FALSE" clientside
+    SuggestedExt="asp" s-DefaultFields s-NoRecordsFound="Currently No Products Available"
+    i-MaxRecords="256" i-GroupSize="0" BOTID="11"
+    u-dblib="../_fpclass/fpdblib.inc" u-dbrgn1="../_fpclass/fpdbrgn1.inc"
+    u-dbrgn2="../_fpclass/fpdbrgn2.inc" tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>" b-WasTableFormat="TRUE" b-ReplaceDatabaseRegion="FALSE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="SavTypeID,SavTypeName,SavTypeImage" s-columntypes="3,200,200"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="SavTypeImage" s-menuvalue="SavTypeImage" b-tableborder="FALSE"
+    b-tableexpand="TRUE" b-tableheader="FALSE" b-listlabels="TRUE"
+    b-listseparator="TRUE" i-ListFormat="0" b-makeform="TRUE"
+    s-recordsource="Savingstype" s-displaycolumns="SavTypeImage"
+    s-criteria="{SavTypeID} EQ 7  +" s-order
+    s-sql="SELECT * FROM Savingstype WHERE (SavTypeID =  7)" b-procedure="FALSE"
+    clientside SuggestedExt="asp" s-DefaultFields
+    s-NoRecordsFound="No records returned." i-MaxRecords="256" i-GroupSize="0"
+    BOTID="12" u-dblib="../_fpclass/fpdblib.inc"
+    u-dbrgn1="../_fpclass/fpdbrgn1.inc" u-dbrgn2="../_fpclass/fpdbrgn2.inc"
+    tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>"
+    b-WasTableFormat="TRUE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+<table width="100%" class="Arialbluesmall">
+  <tbody>
+    <!--webbot bot="DatabaseRegionStart" startspan
+    s-columnnames="ProductID,ProductName,Faq1,Faqtext1,Faq2,Faqtext2,Faq3,Faqtext3,Faq4,Faqtext4,Faq5,Faqtext5,Faq6,Faqtext6,Faq7,Faqtext7,Faq8,Faqtext8,Faq9,Faqtext9,Faq10,Faqtext10,Faq11,Faqtext11,Show,SavTypeID"
+    s-columntypes="3,200,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,201,200,3"
+    s-dataconnection="hanley" b-tableformat="TRUE" b-menuformat="FALSE"
+    s-menuchoice="ProductName" s-menuvalue="ProductName" b-tableborder="FALSE" b-tableexpand="TRUE"
+    b-tableheader="FALSE" b-listlabels="TRUE" b-listseparator="TRUE"
+    i-ListFormat="0" b-makeform="TRUE" s-recordsource="Savings"
+    s-displaycolumns="ProductName" s-criteria="{SavTypeID} EQ 7  + [Show] EQ [y] +" s-order="[ProductName] +"
+    s-sql="SELECT * FROM Savings WHERE (SavTypeID =  7 AND Show =  'y') ORDER BY ProductName ASC" b-procedure="FALSE" clientside
+    SuggestedExt="asp" s-DefaultFields s-NoRecordsFound="Currently No Products Available"
+    i-MaxRecords="256" i-GroupSize="0" BOTID="13"
+    u-dblib="../_fpclass/fpdblib.inc" u-dbrgn1="../_fpclass/fpdbrgn1.inc"
+    u-dbrgn2="../_fpclass/fpdbrgn2.inc" tag="TBODY"
+    local_preview="&lt;tr&gt;&lt;td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Database Results regions will not preview unless this page is fetched from a Web server with a web browser. The following table row will repeat once for every record returned by the query.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;"
+    preview="<tr><td colspan=64 bgcolor=&quot;#FFFF00&quot; align=&quot;left&quot; width=&quot;100%&quot;><font color=&quot;#000000&quot;>This is the start of a Database Results region. The page must be fetched from a web server with a web browser to display correctly; the current web is stored on your local disk or network.</font></td></tr>" b-WasTableFormat="TRUE" b-ReplaceDatabaseRegion="FALSE" --><tr><td colspan=1 color=#000000 bgcolor=#ffff00><tt><b>Database Results Error</b><br>[Microsoft][ODBC Microsoft Access Driver] Cannot open database '(unknown)'.  It may not be a database that your application recognizes, or the file may be corrupt.</tt></td></tr>
+<!--webbot bot="DatabaseRegionEnd" i-CheckSum="56926" endspan -->
+  </tbody>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0" class="Arialbluesmall">
+  <tbody>
+  </tbody>
+</table>
+<table width="100%" class="Arialbluesmall">
+  <tbody>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+  </tbody>
+</table>
+<table style="font-family: Arial; font-size: 8pt">
+  <tbody>
+  </tbody>
+</table>
+
+</body>
+
+</html>
+

@@ -1,0 +1,2736 @@
+ID=B0007
+URL=http://www.cheshirebs.co.uk/MortgageInsurance/statement_of_cover.asp
+SIZE=110341
+DATE=28/06/2002
+TIME=12:46:20
+DATASET=Building Societies
+HTML=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<meta name="Approved" content="Yes">
+<meta name="title" content="Cheshire Building Society: Statement Of Cover (Sample Document)">
+<meta name="ReadTag" content="\CBSVocab\YesNo\yes">
+<meta name="ReadTagDisplay" content="Yes">
+<meta name="keywords" content="Cheshire Building Society, mutuality, building society, insurance, buildings, contents, statement, cover, sample">
+<meta name="description" content="Sample Statement of Cover for buildings and contents insurance">
+<meta name="Owner" content="asarfas">
+<meta name="SubmitTime" content="2002/05/17 12:54:38">
+<meta name="ContentType" content="MortgageInsurance">
+<!-- #BeginTemplate "/Templates/mortgage_content.dwt" -->
+<!-- #BeginEditable "doctitle" -->
+<title>Cheshire Building Society: Statement Of Cover (Sample Document)</title>
+<!-- #EndEditable -->
+<!-- #BeginEditable "headercontent" -->
+<!-- #EndEditable -->
+<link rel="stylesheet" href="../stylesheets/exp3.css">
+<script type="text/javascript" language="JavaScript">
+function OpenNewWin(url){
+
+ var attribs = "height=400,width=700,locationbar=yes,menubar=yes,scrollbars=yes,status=yes,resizable=yes,toolbar=yes";
+
+ if(typeof(new_win) == "undefined"){
+  new_win = window.open(url,"",attribs);
+ }else{
+ 	if(new_win.closed){
+		new_win = window.open(url,"",attribs);
+	}else{
+	  new_win.location.href = url;
+	}
+ }
+ if (navigator.appName == "Netscape" || navigator.appVersion >= 5)
+ new_win.focus();
+}
+
+
+// Open the window at the right of the screen more or less
+// Check the screen size and sutract the help window width to
+// get the left position
+
+var screenWid = 600;
+// The following line errors in IE3.01
+//if (parseInt(navigator.appVersion) >= 4 ) { screenWid = screen.width };
+
+var WinWidth = 380;
+WinLeft = screenWid - WinWidth - 30;
+
+// Force number into string 
+var strHelpLeft = "";
+strHelpLeft = WinLeft; 
+
+// Build up the window parameters
+var strHelpOptions = "location=no";
+
+strHelpOptions += ",toolbar=no";
+
+strHelpOptions += ",menubar=no";
+
+strHelpOptions += ",status=no";
+
+strHelpOptions += ",scrollbars=yes";
+
+strHelpOptions += ",resizable=yes";
+
+strHelpOptions += ",width="+WinWidth;
+
+strHelpOptions += ",height=200";
+
+// IE positioning params
+strHelpOptions += ",top=50";
+strHelpOptions += ",left="+strHelpLeft;
+
+// Netscape positioning params
+strHelpOptions += ",screenY=40";
+strHelpOptions += ",screenX="+strHelpLeft;
+
+
+function HelpOpen(strUrl)
+
+{
+	var popUrl = strUrl;
+	window.open(popUrl, "PopupWin", strHelpOptions);
+}
+
+function PloanWinOpen(ref)
+		{
+			window.open(ref, "affinity" , "toolbar=no,width=645,height=320,directories=no,status=no,scrollbars=yes,resize=yes,menubar=no");
+		}
+
+</script>
+
+<SCRIPT LANGUAGE="JavaScript1.2" SRC="../stylesheets/displaystyles2.js"></SCRIPT>
+</head>
+<body bgcolor="#FFFFFF" topmargin="0">
+<div align="center"><a name="top"></a>
+
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      
+    <td rowspan="2" width="21" height="75"><img name="header3_r1_c1" src="../images/header3_r1_c1.gif" width="20" height="75" border="0"></td>
+      
+    <td bgcolor="#0033CC" height="24" background="../images/bg.gif" width="341"><img src="../images/arrow.gif" width="5" height="11" border="0"> 
+      <a href="../index.asp" class="topnav">Home</a>&nbsp; &nbsp;<img src="../images/arrow.gif" width="5" height="11" border="0"> 
+      <a href="../search/index.asp" class="topnav">Search</a> &nbsp;<img src="../images/arrow.gif" width="5" height="11" border="0"> 
+      <a href="../help/sitemap.asp" class="topnav">Site Map</a>&nbsp; <img src="../images/arrow.gif" width="5" height="11" border="0"> 
+      <a href="../contact/index.asp" class="topnav">Contact Us</a>&nbsp; <img src="../images/arrow.gif" width="5" height="11" border="0"> 
+      <a href="../help/index.asp" class="help">Help&nbsp;</a></td>
+      
+    <td rowspan="2" width="238" height="75"><a href="../index.asp"><img name="header3_r1_c3" src="../images/header3_r1_c3.gif" width="238" height="75" border="0"></a></td>
+    </tr>
+    <tr> 
+      
+    <td width="341" height="51"><img name="header3_r2_c2" src="../images/header3_r2_c2.gif" width="342" height="51" border="0"></td>
+    </tr>
+  </table>
+<table width="600" border="0" cellspacing="0" cellpadding="0" height="321">
+    <tr>
+      <td width="150" height="10" valign="top">&nbsp;</td>
+      <td width="450" valign="top">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="150" height="10" background="../images/line2.gif" valign="top"><!-- #BeginEditable "product_index" -->
+        
+<!-- #BeginLibraryItem "/Library/mortgage button.lbi" --><a href="../MortgageProduct/index.asp"><img src="../images/mortgagesbar.gif" width="149" height="17" border="0" alt="Mortgages from the Cheshire"></a><!-- #EndLibraryItem -->
+ 
+<ul class="mainnav1">
+  <li><a href="../viewdisplay/mortgagermview.asp" class="leftnav">Remortgaging</a> 
+  <li><a href="../viewdisplay/mortgagemoveview.asp" class="leftnav">Home Mover</a>
+  <li><a href="../viewdisplay/mortgageftbview.asp" class="leftnav">First Time Buyer </a> 
+  <li><a href="../mortgageproduct/productrange.asp" class="leftnav">Our Mortgage Range</a> 
+  <li><a href="../mortgageproduct/additional_loans_index.asp" class="leftnav">Additional Loans for existing Cheshire borrowers</a>   
+  <li><a href="../Pressroom/member_benefits_index.asp" class="leftnav">Member Benefits</a>
+  <li><a href=http://www.thecheshire.co.uk/emapsinfo/welcome.asp class="leftnav">Apply Online</a>
+  <li><a href=redirect.asp?go=http://www.thecheshire.co.uk/Quotewizard/iseta.iseta?Action=LogonUnknownUser&CurrentPage=QW_DefaultHTML&Event=Forward class="leftnav">Quick Quote</a> 
+  <li><a href="../calculators/howmuch.asp" class="leftnav">How much can I borrow?</a>
+  <li><a href="../applicationforms/index.asp" class="leftnav">Printable Application Forms</a>
+  <li><a href="../mortgageinsurance/insurance_services.asp" class="leftnav">Insurance Services</a>  
+  <li><a href="../MortgageProduct/survey.asp" class="leftnav">Valuation Services</a>
+  <li><a href="../faq/mortgage_faqs.asp" class="leftnav">FAQs</a>
+  <li><a href="../viewdisplay/jargonm.asp" class="leftnav">Jargon Buster</a>
+  <li><a href="../mortgageinformation/guides_index_mtg.asp" class="leftnav">Guiding You Through The Process</a>
+  <li><a href="../legal/index.asp" class="leftnav">Important Information</a> 
+</ul>
+   <br>
+     
+<p><!-- #BeginLibraryItem "/Library/investment button.lbi" --><a href="../InvestmentProduct/index.asp"><img src="../images/investbar.gif" width="149" height="17" border="0" alt="Investments from the Cheshire"></a><!-- #EndLibraryItem --></p>
+ 
+<p><!-- #BeginLibraryItem "/Library/property button.lbi" --><a href="../EstateAgency/index.asp"><img src="../images/propertybar.gif" width="149" height="17" border="0" alt="Property Services from the Cheshire"></a><!-- #EndLibraryItem --></p>
+
+<p> <!-- #BeginLibraryItem "/Library/offshore button.lbi" --><a href="../LocalInformation/about_the_cheshire_index.asp")"><img src="../images/aboutbar.gif" width="149" height="17" border="0" alt="About The Cheshire"></a><!-- #EndLibraryItem --></p>         
+        
+<p><!-- #BeginLibraryItem "/Library/online button.lbi" --><a href="../AdditionalServices/online_services_index.asp"><img src="../images/onlinebar.gif" width="149" height="18" alt="Online Services From the Cheshire" border="0"></a><!-- #EndLibraryItem --></p>
+
+<p><!-- #BeginLibraryItem "/Library/other button.lbi" --><a href="../AdditionalServices/financial_services_index.asp"><img src="../images/financial.gif" width="149" height="18" border="0" alt="Financial Services from the Cheshire"></a><!-- #EndLibraryItem --></p>        
+
+         <p>&nbsp;</p> <!-- #EndEditable --></td>
+      <td width="450" valign="top">
+<!-- #BeginEditable "banner_ad" --> <!-- #EndEditable -->
+        <div align="right">
+          <table width="430" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="430">
+                    <!-- #BeginEditable "content" -->
+<h1>Statement Of Cover (Sample Document)</h1>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<p>Please read this Statement of Cover now and make sure you understand your cover.
+It has been arranged in accordance with your requirements and on the basis of information
+provided by you, details of which may be supplied on request.</p>
+<p>If you decide that you do not want this insurance, please return the Statement
+of Cover to the Cheshire Building Society, Head Office, Castle Street, Macclesfield,
+Cheshire SK11 6AF within 28 days of commencement of cover.  No charge for cover will
+apply providing no claim has been made.</p>
+<p>If your circumstances or requirements change please make sure you notify the Society,
+for example if:</p>
+<ul>
+<li><p>anything happens to change the use or nature of your home;</p>
+<li><p>you leave your Home unoccupied for longer than 60 consecutive days - the Society
+will let you know if any special conditions will apply to your insurance while you
+are away;</p>
+<li><p>you do anything which may affect its rebuilding cost - for example, extending
+the property, installing central heating or double glazing, or <b>You </b>add to the
+number of bedrooms to <b>Your Home.</b></p>
+</ul>
+<p>We wish to give our customers a high standard of service at all times. If you have
+any comment or query about your insurance please contact <a href="Statement_Of_Cover.asp#cbsaddress">the
+Society</a>.</p>
+<h5>24 Hour Helpline Service</h5>
+<p>As a Cheshire policyholder, you and members of your household have access, free
+of charge, 24 hours a day, 365 days a year, to two <a href="Statement_Of_Cover.asp#helplines">helplines</a>.</p>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<h2>Contents</h2>
+<p><a href="Statement_Of_Cover.asp#definitions">Definitions</a></p>
+<p class="alta">______________________________________</p>
+<p>Section 1  - The Buildings<br><a href="Statement_Of_Cover.asp#sec1basiccover">A
+- Basic Cover</a><br><a href="Statement_Of_Cover.asp#sec1addcover">B - Additional
+Cover</a><br><a href="Statement_Of_Cover.asp#sec1accdamcover">C - Accidental Damage
+Cover</a><br><a href="Statement_Of_Cover.asp#sec1suminsprot">D - Sum Insured Protection</a></p>
+<p class="alta">______________________________________</p>
+<p><a href="Statement_Of_Cover.asp#sec2">Section 2  - Owners Liability to The Public</a></p>
+<p class="alta">______________________________________</p>
+<p>Section 3  - Contents In Your Home<br><a href="Statement_Of_Cover.asp#sec3basiccover">A
+- Basic Cover</a><br><a href="Statement_Of_Cover.asp#sec3addcover">B - Additional
+Cover</a><br><a href="Statement_Of_Cover.asp#sec3accdamcover">C - Accidental Damage
+Cover</a></p>
+<p class="alta">______________________________________</p>
+<p>Section 4  - Third Party Liability<br><a href="statement_of_cover.asp#sec4to">A
+- Liability To Third Parties</a><br><a href="statement_of_cover.asp#sec4of">B - Liability
+Of Third Parties</a></p>
+<p class="alta">______________________________________</p>
+<p><a href="Statement_Of_Cover.asp#sec5">Section 5  - Personal Possessions</a></p>
+<p class="alta">______________________________________</p>
+<p>Section 6  - Basis of Claims Settlement<br><a href="statement_of_cover.asp#sec6buildings">A
+- Claims Settlement For Section 1 - The Buildings</a><br><a href="statement_of_cover.asp#sec6contents">B
+- Claim Settlement For Section 3 - Contents In Your Home</a><br><a href="statement_of_cover.asp#sec6personal">C
+- Claim Settlement For Section 5 - Personal Possessions</a></p>
+<p class="alta">______________________________________</p>
+<p><a href="Statement_Of_Cover.asp#sec7">Section 7  - Exceptions which apply to the
+whole Policy</a></p>
+<p class="alta">______________________________________</p>
+<p><a href="Statement_Of_Cover.asp#sec8">Section 8  - Conditions which apply to the
+whole Policy</a></p>
+<p class="alta">______________________________________</p>
+<p><a href="Statement_Of_Cover.asp#sec9">Section 9  - Making a Claim</a></p>
+<p class="alta">______________________________________</p>
+<p>Section 10 - Emergency Assistance<br><a href="statement_of_cover.asp#sec10cover">A
+- Cover</a><br><a href="statement_of_cover.asp#sec10emergency">B - Claims Settlement
+For Emergency Assistance</a></p>
+<p class="alta">______________________________________</p>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<h3><a name="definitions"></a>DEFINITIONS</h3>
+<p>Any word defined below will carry the same meaning wherever it is shown in <b>Your
+Policy </b>in bold print</p>
+<p>DEFINITIONS are listed in alphabetical order</p>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Buildings<br></b>The <b>Home</b> and domestic outbuildings,
+garages, greenhouses, swimming pools, tennis courts, patios, terraces, drives, footpaths,
+walls, gates, hedges and fences including landlords fixtures and fittings all on the
+same site</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">Property not covered:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">Aerials, satellite aerials, their
+fittings or masts</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Business Equipment<br></b>Computers, keyboards, Visual Display
+Units and printers, word processing equipment, desk top publishing units, multi-user
+small business computers, facsimile machines, photocopiers, typewriters, computer
+aided design equipment, telecommunication equipment and office furniture owned by
+<b>You</b> or any member of <b>Your Household</b> and used for business purposes</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Contents<br></b>All property <b>including Business Equipment</b>,
+<b>Valuables</b>, Clothing, <b>Personal Effects</b> and <b>Money</b> in <b>Your Home</b>
+or its domestic outbuildings, garages or greenhouses owned by any member of <b>Your
+Household</b> or for which they are responsible<br>Fixtures and fittings for which
+<b>You</b> are responsible as occupier and not owner of the <b>Buildings</b> including
+aerials, satellite aerials and their fittings or masts<br>Visitors <b>Personal Effects</b>
+not otherwise insured</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">Property not covered:</span></p>
+<ul>
+<li><p class="pintable"><b><span class="highlighti">Money</b> and stamps belonging
+to resident domestic employees</span></p>
+<li><p class="pintable"><span class="highlighti">Plants, trees and shrubs in the garden</span></p>
+<li><p class="pintable"><span class="highlighti">Living creatures</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Emergency Repairs<br></b>Such temporary or permanent works
+to protect the <b>Buildings</b> or the <b>Contents</b> that shall be necessary following
+a sudden or unforeseen event which creates the risk of damage or a potential risk
+to the health of <b>You</b> or any member of <b>Your Household</b> or third parties</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">Repairs not covered:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">Any amount in excess of that necessary
+to provide protection from further risk</span></p>
+<li><p class="pintable"><span class="highlighti">Permanent repairs which are made
+by a contractor unless authorised by <b>FirstAssist</span></b></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Fees<br></b>Architects, surveyors and other professional fees
+which <b>You</b> have to pay in connection with repairing or reinstating the <b>Buildings</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">Fees not covered:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">Those which <b>You</b> have to pay
+to prepare a claim</span></p>
+<li><p class="pintable"><span class="highlighti">Those which <b>You</b> incur without
+<b>Our</b> permission</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>FirstAssist<br></b>FirstAssist Group Limited<br>Wheatfield
+Way<br>Hinckley<br>Leicestershire<br>LE10 1YG</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Home<br></b>The house, bungalow or self-contained flat at the
+address shown in the <b>Society’s</b> records</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Local Authority Requirements<br></b>The additional costs <b>You</b>
+have to pay to repair the damage to comply with any Government or Local Authority
+requirements or regulations</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">Costs not covered:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">Any cost for complying with requirements
+or regulations of which <b>You</b> are aware before the loss or damage occurred</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Money<br></b>Cash, bank and currency notes, cheques, money
+and postal orders, postage stamps (not part of a collection), savings stamps and savings
+certificates, premium bonds, luncheon vouchers, travellers cheques, telephone cards,
+season travel tickets and gift tokens</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">Property not covered:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">Securities, certificates</span></p>
+<li><p class="pintable"><span class="highlighti">Promotional vouchers, lottery and
+raffle tickets</span></p>
+<li><p class="pintable"><span class="highlighti">Air mile vouchers</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Period of Insurance<br></b>From notification by the <b>Society</b>
+of commencement of cover until confirmation by the <b>Society</b> of termination of
+cover</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Personal Effects<br></b>Property normally worn or used and
+in either case carried about the person in everyday life including sports clothing
+and equipment</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">Property not covered:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">Living creatures</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Policy<br></b>This Statement of Cover</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Policyholder/You/Your<br></b>Whoever is named in the <b>Society’s</b>
+records as owners of the <b>Home</b> jointly with the <b>Society</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Rebuilding Cost</b></p>
+<p class="pintable">The full cost of rebuilding all the <b>Buildings</b> in the same
+form, size, style and condition as when new and including the cost of condition as
+when new including <b>Fees</b> and the cost of complying with <b>Local Authority Requirements</b></p>
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Removal of Debris<br></b>Any amount <b>We</b> agree to pay
+for removing debris, demolishing, propping or shoring up parts of the <b>Buildings</b>
+which have been damaged</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Society<br></b>Cheshire Building Society</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Unoccupied<br></b>Not lived in by <b>You</b> or any member
+of <b>Your Household</b> or by any other person with <b>Your</b> permission</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Valuables<br></b>Jewellery, watches, furs, pictures, collections
+of coins, medals, or stamps, photographic equipment, binoculars, telescopes, microscopes
+and portable electronic equipment and any other property made of precious metal</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>We/Us/Our<br></b>Royal & Sun Alliance Insurance plc<br>CGU
+Insurance plc</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Your Household<br>You<br>Your</b> family (including <b>Your</b>
+partner and all children) who normally live with <b>You<br>Your</b> resident domestic
+employees</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<h4>Property Insurance Policy Cover</h4>
+<p>The table below shows which sections of the policy are covered under each type
+of policy.</p>
+<table border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="left" valign="top">
+<p class="headrow"><b>Policy Type</b></p>
+</th>
+<th align="left" valign="top">
+<p class="headrow"><b>Safelink Plus</b></p>
+</th>
+<th align="left" valign="top">
+<p class="headrow"><b>Safelink Standard</b></p>
+</th>
+<th align="left" valign="top">
+<p class="headrow"><b>Safelink Economy Plus</b></p>
+</th>
+<th align="left" valign="top">
+<p class="headrow"><b>Safelink Economy</b></p>
+</th>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 1</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta">A, B & D</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta">A, B & D</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 2</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 3</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta">A & B</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta">A & B</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 4</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 5</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 6</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta">A & B</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta">A & B</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 7</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 8</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 9</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section&#160;10</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<table border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<th align="left" valign="top">
+<p class="headrow"><b>Policy Type</b></p>
+</th>
+<th align="left" valign="top">
+<p class="headrow"><b>Buildings Plus</b></p>
+</th>
+<th align="left" valign="top">
+<p class="headrow"><b>Buildings Standard</b></p>
+</th>
+<th align="left" valign="top">
+<p class="headrow"><b>Home Contents Plus</b></p>
+</th>
+<th align="left" valign="top">
+<p class="headrow"><b>Home Contents Standard</b></p>
+</th>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 1</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta">A, B & D</p>
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 2</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 3</b></p>
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta">A & B</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 4</b></p>
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 5</b></p>
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 6</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta">A</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta">A</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta">B & C</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta">B & C</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 7</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 8</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section 9</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Section&#160;10</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablealta"><i>YES</i></p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<p>A ‘<i>YES</i>’ means that all of the section is covered under the policy where
+a letter indicates that only that particular part of the section is covered.  If you
+are in any doubt as to what sections are covered under the individual policies, please
+<a href="../contact/contact1.asp">contact us</a> using the contact form provided.</p>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<h3>SECTION 1</h3>
+<h3>THE BUILDINGS</h3>
+<h3><a name="sec1basiccover"></a>A - BASIC COVER<br>&#160;</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>We</b> insure the <b>Buildings</b> against damage by the following
+causes:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £50 of each and every agreed
+claim:</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>a</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Fire, Explosion, Lightning, Earthquake</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>b</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Smoke</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss or damage caused by smog, agricultural
+or industrial operations</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>c</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Escape of water or oil from any fixed water or heating installation
+or domestic appliance</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Damage to the component or appliance
+from which the water or oil escapes</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage occurring after <b>Your
+Home </b>has been <b>Unoccupied</b> for 60 consecutive days</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>d</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Impact involving an aircraft, aerial device or anything falling
+from them, or by a vehicle, train or animal</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>e</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Falling trees or branches</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Damage to tennis courts</span></p>
+<li><p class="pintable"><span class="highlighti">The cost of removing a tree or branch
+unless the <b>Buildings</b> are damaged at the same time</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>f</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Falling aerials, satellite aerials, their fittings or masts</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Damage to the aerial, fitting or
+mast or satellite dish</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>g</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Riot, Civil Commotion, Strike, Labour or Political Disturbance</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>h</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Malicious persons or vandals</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss or damage occurring after <b>Your
+Home</b> has been <b>Unoccupied</b> for 60 consecutive days</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>i</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Storm or Flood</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Damage to gates, hedges, fences or
+tennis courts</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>j</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Subsidence or Heave of the site beneath the <b>Buildings</b> or
+Landslip</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £1,000 of each <b>Buildings</b>
+claim</span></p>
+<li><p class="pintable"><span class="highlighti">Damage to outdoor swimming pools,
+tennis courts, patios, terraces, drives, footpaths, walls, gates, hedges or fences
+unless <b>Your Home</b> or domestic outbuildings, garages or greenhouses are damaged
+at the same time</span></p>
+<li><p class="pintable"><span class="highlighti">Damage caused by bedding down of
+new structures or settlement of newly made up ground</span></p>
+<li><p class="pintable"><span class="highlighti">Damage to solid floor slabs, or resulting
+from their movement, unless the foundations beneath the external walls of <b>Your
+Home</b> are damaged at the same time</span></p>
+<li><p class="pintable"><span class="highlighti">Damage caused by coastal or river
+erosion</span></p>
+<li><p class="pintable"><span class="highlighti">Damage resulting from demolition
+or structural repairs or alterations to the <b>Buildings</span></b></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>k</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Theft or attempted theft</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £50 of each and every agreed
+claim</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage occurring after <b>Your
+Home </b>has been <b>Unoccupied</b> for 60 consecutive days</span></p>
+</ul>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<h3><a name="sec1addcover"></a>B - ADDITIONAL COVER<br>&#160;</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>&#160;</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>We</b> also provide insurance against:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £50 of each and every agreed
+claim</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>a</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Pipes and Cables<br></b>Accidental damage to those underground
+services supplying the <b>Buildings</b> for which <b>You</b> are legally responsible
+including septic tanks and inspection covers. The cost of clearing a blockage including
+breaking into and repairing the pipe between the main sewer and the <b>Home</b> following
+blockage</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>b</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Glass and Sanitary Ware<br></b>Breakage of fixed glass in walls,
+doors and roofs including double glazed units, solar panels, ceramic hobs or tops
+and washbasins, pedestals, shower cubicles, baths, sinks, lavatory pans and other
+sanitary ware in the <b>Buildings</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>c</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Water and Heating Installations<br></b>Damage to any fixed
+domestic water or heating installation caused by freezing or its own forcible and
+violent bursting</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Damage occurring after <b>Your Home</b>
+has been <b>Unoccupied</b> for 60 consecutive days</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>d</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Rent and Alternative Accommodation<br></b>If <b>Your Home</b>
+is made uninhabitable by any of the causes listed in Section 1 - The Buildings <b>We</b>
+will pay for:</p>
+<ul>
+<li><p class="pintable">Ground rent which <b>You</b> still have to pay for parts of
+<b>Your Home</b> which are unfit to live in</p>
+<li><p class="pintable">Rent <b>You</b> should have received but have lost while <b>Your
+Home</b> is unfit to live in</p>
+<li><p class="pintable">Reasonable additional costs of comparable alternative accommodation
+for <b>You</b> or <b>Your Household</b> until <b>Your Home</b> is fit to live in again</p>
+</ul>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Costs which <b>You</b> incur without
+<b>Our</b> permission</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>e</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Cover during sale<br></b>If <b>You</b> contract to sell the
+<b>Buildings</b>, the purchaser who completes the sale shall have the benefit of the
+insurance in respect of the <b>Buildings</b> up to the date of completion, provided
+the <b>Buildings</b> are not otherwise insured</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<h3><a name="sec1accdamcover"></a>C - ACCIDENTAL DAMAGE COVER</h3>
+<p>This cover is only operative if <b>You</b> have chosen to include it.</p>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable">What is insured:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £50 of each and every agreed
+claim:</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>We</b> insure the <b>Buildings</b> against accidental damage</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Damage while <b>Your Home</b> or
+any part of it is lent or let or occupied by paying guests</span></p>
+<li><p class="pintable"><span class="highlighti">Any loss, destruction or damage specifically
+excluded elsewhere in Section 1 - The Buildings</span></p>
+<li><p class="pintable"><span class="highlighti">Damage caused by settlement or shrinkage</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage due to contaminated
+water</span></p>
+<li><p class="pintable"><span class="highlighti">Damage caused by domestic pets owned
+by <b>Your Household</span></b></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">Legal fees which <b>You</b> have to pay to repossess <b>Your Home</b>
+following occupation by squatters - up to £10,000</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Fees incurred without <b>Our</b>
+permission</span></p>
+</ul>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<h3><a name="sec1suminsprot"></a>D - REBUILDING COST PROTECTION</h3>
+<p><b>Your Policy </b>has no sum insured and therefore ensures that the Policy wording
+automatically caters for any inflationary increase for repair or replacement costs.
+ <b>Your</b> premium will be adjusted annually to reflect any increases in the House
+Rebuilding Cost Index prepared by the Royal Institution of Chartered Surveyors.</p>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<h3>SECTION 2</h3>
+<h3><a name="sec2"></a>OWNERS LIABILITY TO THE PUBLIC<br>&#160;</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable">Insurance is provided for any amounts which <b>You</b> or any
+member of <b>Your Household </b>become legally liable to pay in respect of:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for liability
+directly or indirectly arising from:</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">Accidental bodily injury, death or disease of any person</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Any injury, death or disease of any
+member of <b>Your Household</span></b></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">Accidental loss of or damage to property</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss of or damage to property owned,
+occupied or in the custody or control of any member of <b>Your Household</span></b></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">arising</p>
+<p class="pintable"><b>a</b>  as owner (and not occupier) of <b>Your Home</b></p>
+<p class="pintable"><b>b</b>  from <b>Your</b> ownership of a previous home by virtue
+of Section 3 of the Defective Premises Act 1972 or Section 5 of the Defective Premises
+(Northern Ireland) Order 1975, provided that:</p>
+<ul>
+<li><p class="pintable">at the time of the incident giving rise to the liability <b>You</b>
+have sold that home</p>
+<li><p class="pintable">no other policy covers the liability</p>
+</ul>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">If <b>You</b> cancel or do not renew this <b>Policy</b> following
+the sale of <b>Your Home</b> the cover provided by Section 2b for <b>Your</b> present
+<b>Home</b> will continue for 7 years after the <b>Policy</b> comes to an end, provided
+<b>You</b> do not have this cover under another policy</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Limit</b></p>
+<p class="pintable"><b>We</b> will pay</p>
+<p class="pintable">up to £1,000,000 in connection with any one incident plus any
+other reasonable costs, expenses and solicitors fees which <b>You</b> or any member
+of <b>Your Household</b> have to pay, provided <b>We</b> agree by letter</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<h3>GENERAL EXCEPTIONS TO SECTION 2<br>&#160;</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for liability
+arising directly or indirectly from:</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">An agreement unless the liability
+would have existed without the agreement</span></p>
+<li><p class="pintable"><span class="highlighti">Any employment, trade, business or
+profession of You or any member of Your Household</span></p>
+<li><p class="pintable"><span class="highlighti">The use of lifts or mechanically
+or electrically propelled vehicles other than motorised gardening equipment, stairlifts,
+wheelchairs and invalid carriages</span></p>
+</ul>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<p>If <b>You</b> or any member of <b>Your Household</b> claiming should die, <b>Your</b>
+or their legal personal representatives will have the protection of this cover</p>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<h3>SECTION 3</h3>
+<h3>CONTENTS IN YOUR HOME</h3>
+<h3><a name="sec3basiccover"></a>A - BASIC COVER<br>&#160;</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>We</b> insure the <b>Contents</b> against loss or damage by
+the following causes while they are in <b>Your Home</b> or its domestic outbuildings,
+garages and greenhouses:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £50 of each and every agreed
+claim</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>a</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Fire, Explosion, Lightning, Earthquake</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>b</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Smoke</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss or damage caused by smog, agricultural
+or industrial operations</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>c</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Impact involving an aircraft, aerial device or anything falling
+from them, or by a vehicle, train or animal</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss or damage unless the <b>Buildings</b>
+are damaged at the same time</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>d</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Escape of water or oil from any fixed water or heating installation
+or domestic appliance</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Damage to the component or appliance
+from which the water or oil escapes</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage occurring after <b>Your
+Home </b>has been <b>Unoccupied</b> for 60 consecutive days</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>e</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Falling trees or branches</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>f</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Falling aerials, satellite aerials, their fittings or masts</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>g</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Riot, Civil Commotion, Strike, Labour or Political Disturbance</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>h</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Malicious persons or vandals</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss or damage occurring after <b>Your
+Home</b> has been <b>Unoccupied</b> for 60 consecutive days</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>i</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Storm or Flood</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>j</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Subsidence or Heave of the site beneath the <b>Buildings</b> or
+Landslip</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Damage caused by bedding down of
+new structures or settlement of newly made up ground</span></p>
+<li><p class="pintable"><span class="highlighti">Damage resulting from the movement
+of solid floor slabs unless the foundations beneath the external walls of <b>Your
+Home</b> are damaged at the same time</span></p>
+<li><p class="pintable"><span class="highlighti">Damage caused by river or coastal
+erosion</span></p>
+<li><p class="pintable"><span class="highlighti">Damage resulting from demolition
+or structural repairs or alteration to the <b>Buildings</span></b></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>k</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Theft or attempted theft</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £50 of each and every agreed
+claim.</span></p>
+<li><p class="pintable"><span class="highlighti">Loss while <b>Your Home</b> or any
+part of it is lent to any persons other than a member of <b>Your Household</b>, or
+let to tenants, or occupied by paying guests unless force is used to gain entry into
+or exit from <b>Your Home</b> or its domestic outbuildings, garages or greenhouses</span></p>
+<li><p class="pintable"><span class="highlighti">Loss of <b>Money</b> from <b>Your
+Home</b> unless force is used to gain entry into or exit from <b>Your Home</span></b></p>
+<li><p class="pintable"><span class="highlighti">Loss of <b>Money</b> from domestic
+outbuildings, garages or greenhouses</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage occurring after <b>Your
+Home </b>has been <b>Unoccupied</b> for 60 consecutive days</span></p>
+</ul>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<h3><a name="sec3addcover"></a>B - ADDITIONAL COVER<br>&#160;</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>We</b> also provide insurance against:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £50 of each and every agreed
+claim</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>a</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Door Locks<br></b>Replacement and installation of locks of
+any external door of <b>Your Home</b>, its domestic outbuildings, garages or greenhouses
+or any domestic safe or burglar alarm keyswitch if the keys have been stolen</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>b</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Contents in the Open<br></b>Loss of or damage to the <b>Contents</b>
+by any of the causes listed in Section 3 - Contents in Your Home, Paragraph A - Basic
+Cover occurring within the boundaries of the land belonging to <b>Your Home</b></p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss or damage caused by storm or
+flood</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>c</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Temporary Removal<br></b>Loss of or damage to the <b>Contents</b>
+by any of the causes listed in Section 3 - Contents in Your Home, Paragraph A - Basic
+Cover while temporarily removed from <b>Your Home</b> or its domestic outbuildings,
+garages or greenhouses</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>a</b>  into a bank safe deposit, occupied private dwelling
+or any building where any member of <b>Your Household</b> are living or carrying on
+their business within the British Isles</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss of <b>Money</b> by theft unless
+force is used to gain entry into or exit from a building</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>b</b>  elsewhere in the British Isles</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss or damage caused by malicious
+persons or vandals</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage caused by storm or
+flood to property not in a building</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage by theft unless force
+is used to gain entry into or exit from a building</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage in a furniture depository</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>We</b> also provide insurance against:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £50 of each and every agreed
+claim:</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>d</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Alternative Accommodation<br></b>If <b>Your Home</b> is made
+uninhabitable by any of the causes listed in Section 3 - Contents in Your Home <b>We</b>
+will pay reasonable additional costs of comparable alternative accommodation for <b>You</b>
+or <b>Your Household</b> until <b>Your Home </b>is fit to live in again</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Costs which <b>You</b> incur without
+<b>Our</b> permission</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>e</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Deep Freezer Contents<br></b>Loss of or damage to food in a
+domestic deep freezer in <b>Your Home</b> caused by a rise or fall in temperature
+or contamination from refrigerant or refrigerant fumes. <b>We</b> will also pay for
+loss or damage to food which has been removed from the deep freezer following an incident
+<b>We</b> insure</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss or damage due to the deliberate
+act of the power supply authority or the withholding or restricting of power by the
+authority</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage resulting from wilful
+neglect by <b>You</b> or <b>Your Household</span></b></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>f</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Loss of Oil and Metered Water</b></p>
+<p class="pintable"><b>i</b>   Additional metered water charges incurred by <b>You</b></p>
+<p class="pintable"><b>ii</b>  the cost of oil lost from the domestic heating installation
+following damage to any part of the domestic heating installation</p>
+<p class="pintable">by any of the causes listed in Section 3 - Contents in Your Home</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss or damage occurring after <b>Your
+Home </b>has been <b>Unoccupied</b> for 60 consecutive days</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>g</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Reinstatement of Title Documents<br></b>The cost of replacing
+Deeds, Bonds, Securities or similar private documents if they are lost or damaged
+by any of the causes listed in Section 3 - Contents in Your Home while in <b>Your
+Home</b> or lodged with <b>Your</b> Mortgage Lender, Bank or Solicitor</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Negotiable securities or negotiable
+bonds</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>We</b> also provide insurance against:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £50 of each and every agreed
+claim</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>h</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Mirrors and Glass<br></b>Breakage of mirrors, glass or ceramic
+hobs or tops to furniture and fixed glass in furniture in <b>Your Home</b></p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss or damage occurring after <b>Your
+Home</b> has been <b>Unoccupied</b> for 60 consecutive days</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>i</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>TVs, Videos, Computers<br></b>Accidental damage to televisions,
+video players, video recorders, home computer equipment and audio equipment in <b>Your
+Home </b>and their receiving aerials and satellite dishes</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Mechanical or electrical breakdown</span></p>
+<li><p class="pintable"><span class="highlighti">Damage caused by assembling or dismantling
+or the apparatus</span></p>
+<li><p class="pintable"><span class="highlighti">Damage to items designed to be portable
+(other than home computers and televisions) or to hand-held computer equipment and
+games, records, recording tapes or discs</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage occurring after <b>Your
+Home</b> has been <b>Unoccupied</b> for 60 consecutive days</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>j</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Business Equipment<br></b>Accidental damage to <b>Business
+Equipment</b> in <b>Your Home</b></p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Mechanical or electrical breakdown</span></p>
+<li><p class="pintable"><span class="highlighti">Damage caused by assembling or dismantling
+of the apparatus</span></p>
+<li><p class="pintable"><span class="highlighti">Damage to items designed to be portable
+or to hand-held computer equipment and games, records, recording tapes or discs</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage occurring after <b>Your
+Home</b> has been <b>Unoccupied</b> for 60 consecutive days</span></p>
+</ul>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<h3><a name="sec3accdamcover"></a>C - ACCIDENTAL DAMAGE</h3>
+<p>This cover is only operative if <b>You</b> have chosen to include it.</p>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>We</b> insure the <b>Contents</b> against accidental damage
+while they are in <b>Your Home</b> or its domestic outbuildings, garages or greenhouses:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £50 of each and every agreed
+claim</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Deterioration of food</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage while <b>Your Home</b>
+or any part of it is lent to any persons other than a member of <b>Your Household</b>,
+or let to tenants or occupied by paying guests unless force is used to gain entry
+into or exit from <b>Your Home</b>, or its domestic outbuildings, garages or greenhouses</span></p>
+<li><p class="pintable"><span class="highlighti">Damage caused by settlement or shrinkage</span></p>
+<li><p class="pintable"><span class="highlighti">Damage solely caused by mechanical
+or electrical fault or breakdown</span></p>
+<li><p class="pintable"><span class="highlighti">Any loss, destruction or damage specifically
+excluded elsewhere in Section 3 - Contents in Your Home</span></p>
+</ul>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<h3>SECTION 4</h3>
+<h3>THIRD PARTY LIABILITY</h3>
+<h3><a name="sec4to"></a>A - LIABILITY TO THIRD PARTIES<br>&#160;</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable">Insurance is provided for any amounts which <b>You</b> or any
+member of <b>Your Household</b> become legally liable to pay in respect of:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for liability
+directly or indirectly arising from:</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">Accidental bodily injury, death or disease of any person</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Any injury, death or disease of any
+member of <b>Your Household</b> other than <b>Your</b> domestic employees</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">Accidental loss of or damage to property arising</p>
+<p class="pintable"><b>a&#160;&#160;&#160;</b>as occupiers (but not owners) of the
+&#160;&#160;&#160;&#160;&#160;<b>Buildings</b> or the land belonging to your &#160;&#160;&#160;&#160;&#160;<b>Home</b></p>
+<p class="pintable"><b>b&#160;&#160;&#160;</b>as a Neighbourhood/Home Watch co-&#160;&#160;&#160;&#160;&#160;ordinator</p>
+<p class="pintable"><b>c&#160;&#160;&#160;</b>as an employer of any domestic employee</p>
+<p class="pintable"><b>d</b>&#160;&#160;&#160;in any other personal capacity</p>
+<p class="pintable">in the British Isles or worldwide during a temporary visit</p>
+<p class="pintable"><b>Limit</b></p>
+<p class="pintable"><b>We</b> will pay</p>
+<p class="pintable"><b>(i)</b> up to £10,000,000 in connection with any one incident
+for accidental bodily injury, death or disease of any domestic employee employed by
+<b>Your Household</b> including any other reasonable costs, expenses and solicitors
+fees which <b>You</b> or any member of <b>Your Household</b> have to pay provided
+<b>We</b> agree by letter</p>
+<p class="pintable"><b>(ii)</b>up to £1,000,000 in connection with any other single
+incident plus any other reasonable costs, expenses and solicitors fees which <b>You</b>
+or any member of <b>Your Household</b> have to pay, provided <b>We</b> agree by letter</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss or damage to property owned
+or in the custody or control of any member of <b>Your Household</span></b></p>
+</ul>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<h3>GENERAL EXCEPTIONS TO SECTION 4A<br>&#160;</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for liability
+directly or indirectly arising from:</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">An agreement unless the liability
+would have existed without the agreement</span></p>
+<li><p class="pintable"><span class="highlighti">Any employment, trade, business or
+profession of any member of <b>Your Household</span></b></p>
+<li><p class="pintable"><span class="highlighti">The transmission of any communicable
+disease or virus by any member of <b>Your Household</span></b></p>
+<li><p class="pintable"><span class="highlighti">Mechanically or electrically propelled
+vehicles other than motorised gardening equipment, wheelchairs, invalid carriages,
+toys and models</span></p>
+<li><p class="pintable"><span class="highlighti">Injury, death, disease (other than
+to a domestic employee) or damage arising out of:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">The ownership of land or buildings
+by any member of <b>Your Household</span></b></p>
+<li><p class="pintable"><span class="highlighti">The occupation of land or buildings
+by any member of <b>Your Household</b> other than the <b>Buildings</b> or the land
+belonging to <b>Your Home</span></b></p>
+<li><p class="pintable"><span class="highlighti">The use of horses for racing or steeplechasing</span></p>
+<li><p class="pintable"><span class="highlighti">Lifts (other than stairlifts) owned
+by or in the custody or control of any member of <b>Your Household</span></b></p>
+</ul>
+</ul>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<h3><a name="sec4of"></a>B - LIABILITY OF THIRD PARTIES<br>&#160;</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>We</b> will pay:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay Court Awards:</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">Any sum including interest <b>You</b> cannot recover which has
+been awarded in a court situated in the United Kingdom, Isle of Man or Channel Islands
+to <b>You</b> or any member of <b>Your Household</b> and which have not been paid
+to <b>You</b> or the member of <b>Your Household</b> within three months of the date
+of judgement</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">If there is an appeal pending</span></p>
+<li><p class="pintable"><span class="highlighti">Made outside the United Kingdom,
+Isle of Man or Channel Islands</span></p>
+<li><p class="pintable"><span class="highlighti">If <b>You</b> have not notified <b>Us</b>
+in writing before commencing the legal process</span></p>
+<li><p class="pintable"><span class="highlighti">If <b>You</b> unreasonably refuse
+to join as Defendants any person <b>We</b> specify</span></p>
+<li><p class="pintable"><span class="highlighti">Relating to accidents which occurred
+before the commencement of cover</span></p>
+<li><p class="pintable"><span class="highlighti">Relating to accidents arising in
+the course of the employment business or profession of any member of <b>Your Household</span></b></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">Provided that:</p>
+<ul>
+<li><p class="pintable">the Third Party Liability insurance provided by Section 4A
+- Third Party Liability would have covered <b>You</b> or any member of <b>Your Household</b>
+had the award been made against, rather than to, <b>You</b> or any member of <b>Your
+Household</b></p>
+</ul>
+<p class="pintable"><b>Limit</b></p>
+<p class="pintable"><b>We</b> will pay</p>
+<p class="pintable">Up to £1,000,000 in connection with any one incident plus any
+other costs, expenses and solicitors fees which <b>You</b> have to pay, provided <b>We</b>
+agree by letter</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<h3>SECTION 5</h3>
+<h3><a name="sec5"></a>PERSONAL POSSESSIONS</h3>
+<h3>VALUABLES, CLOTHING AND PERSONAL EFFECTS, PERSONAL MONEY AND CREDIT CARDS, PEDAL
+CYCLES<br>&#160;</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>We</b> insure the following types of property owned by any
+member of <b>Your Household </b>or for which they are responsible:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £50 of each and every agreed
+claim</span></p>
+<li><p class="pintable"><span class="highlighti">Damage caused solely by mechanical
+or electrical breakdown</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>(i)</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Accidental loss of or damage to <b>Valuables</b> and <b>Personal
+Effects</b>,</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Contact lenses</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage to sports equipment
+while taking part in organised racing (other than on foot) or professional sport</span></p>
+<li><p class="pintable"><span class="highlighti">Loss of or damage to racquets, cricket
+bats or golf clubs while in play</span></p>
+<li><p class="pintable"><span class="highlighti">Loss of or damage to golf balls unless
+contained in the golf bag at the time of loss or damage</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>(ii)</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Accidental loss of or damage to pedal cycles</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">Theft of the cycle or parts of the
+cycle while outside the boundaries of the land belonging to the <b>Home</b> and while
+unattended unless the cycle is in a locked building or has been attached to a permanent
+fixture and immobilised by a security device</span></p>
+<li><p class="pintable"><span class="highlighti">Loss or damage while the cycle is
+being used for racing</span></p>
+<li><p class="pintable"><span class="highlighti">Loss of or damage to tyres or accessories
+unless the cycle is lost or damaged at the same time</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+&nbsp;
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>We</b> also provide insurance against:</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">We</b> will not pay for:</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>(iii)</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Loss of <b>Money</b></p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable"><span class="highlighti">The first £50 of each and every agreed
+claim</span></p>
+<li><p class="pintable"><span class="highlighti">Depreciation in value of <b>Money</span></b></p>
+<li><p class="pintable"><span class="highlighti">Loss of <b>Money</b> caused by errors
+or omissions in payments, receipts or book-keeping</span></p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>(iv)</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Loss from fraudulent use by unauthorised persons of credit, cheque,
+debit, charge, cash cards and Building Society passbooks</p>
+<p class="pintable">Cover under this Section applies anywhere in the British Isles
+and for up to 60 days worldwide in any <b>Period of Insurance</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><span class="highlighti">&#160;</span></p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<h3>SECTION 6</h3>
+<h3>BASIS OF CLAIMS SETTLEMENT</h3>
+<h3><a name="sec6buildings"></a>A - CLAIMS SETTLEMENT FOR SECTION 1 - THE BUILDINGS</h3>
+<p><b>The Buildings - including Rebuilding Cost Guarantee</b></p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>A</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">If at the time of the damage the <b>Buildings</b> are
+in good repair and provided the damage is covered under <b>Your Policy We</b> will
+settle <b>Your</b> claim as explained below.</p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder">&#160;</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>a)</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">If the damaged parts of the <b>Buildings</b> can be economically
+repaired <b>We</b> will either arrange or authorise repair</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder">&#160;</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>b)</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">If the damaged parts of the <b>Building</b> cannot be
+economically repaired <b>We</b> will either arrange or authorise replacement. If an
+exact replacement is not available <b>We</b> will either arrange or authorise replacement
+with articles of similar quality</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder">&#160;</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>c)</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">Where <b>We</b> have offered repair or replacement but
+<b>You</b> prefer a cash settlement, <b>We</b> will pay <b>You</b> an amount equal
+to the amount <b>We</b> would have paid had the article been repaired or replaced.
+This is only available with agreement of the <b>Society</b>. The <b>Society</b> will
+not unreasonably withhold their consent</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder">&#160;</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>d)</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">Provided the damaged parts of the <b>Buildings</b> are
+repaired or replaced <b>We</b> will also pay</p>
+<p class="pintablenoborder"><b>i)</b>   <b>Fees</b></p>
+<p class="pintablenoborder"><b>ii)</b>  <b>Removal of Debris</b></p>
+<p class="pintablenoborder"><b>iii)</b> <b>Local Authority Requirements</b></p>
+<p class="pintablenoborder"><b>iv)</b> Reasonable additional costs of comparable alternative
+accommodation for <b>You</b> or <b>Your Household</b> until <b>Your Home</b> is fit
+to live in again</p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<p>The <b>Rebuilding Cost</b> of <b>Your Home</b> is guaranteed PROVIDED THAT:</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder">&#160;&#160;&#160;</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">the <b>Rebuilding Cost</b> of <b>Your Home</b> at the
+start of the insurance has been continually index-linked in accordance with Section
+1 paragraph D - Rebuilding Cost Protection alterations and/or additions materially
+affecting the reinstatement cost of the <b>Buildings</b> since the beginning of the
+insurance have been notified to the <b>Society</b> and the <b>Rebuilding Cost</b>
+of <b>Your Home </b>adjusted accordingly the damaged parts of the <b>Buildings </b>can
+be economically repaired.</p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>B</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">If the parts of the <b>Building</b> damaged by any of
+the causes insured are NOT in good repair, <b>We</b> may make a deduction for wear,
+tear and depreciation</p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<p><b>Amount Payable</b></p>
+<p>The maximum amount payable in respect of any one incident is:</p>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>i</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">for <b>Buildings</b>, <b>Fees</b>, <b>Removal of Debris</b> and
+<b>Local Authority Requirements</b></p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable">Rebuilding Cost</p>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>ii</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">for Rent and Alternative Accommodation</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable">£20,000 in addition to the amount paid for the <b>Buildings</b></p>
+</ul>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<h3><a name="sec6contents"></a>B - CLAIM SETTLEMENT FOR SECTION 3 - CONTENTS IN YOUR
+HOME</h3>
+<p>Provided the loss or damage is covered under <b>Your Policy</b>, <b>We</b> will
+settle <b>Your</b> claim as explained below, subject to the maximum amount payable.</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>1</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>a</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">Where the damage can be economically repaired, <b>We</b>
+will either arrange or authorise repair</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder">&#160;</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>b</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">Where the damaged or lost item can be replaced with an
+item of similar quality, <b>We</b> will either arrange or authorise replacement. If
+an exact replacement is not available <b>We</b> will either arrange or authorise replacement
+with an item of similar quality</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder">&#160;</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>c</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">Where <b>We</b> are unable to economically repair or replace
+the item with an item of similar quality, <b>We</b> will make a cash payment equal
+to an agreed replacement value</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder">&#160;</p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>d</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">Where <b>We</b> have offered repair or replacement but
+<b>You</b> prefer a cash settlement, <b>We</b> will pay <b>You</b> an amount equal
+to the amount <b>We</b> would have paid had the item been repaired or replaced</p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>2</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">For clothing and household linen <b>We</b> may make a
+deduction for wear, tear and depreciation</p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<p class="alta">______________________________________</p>
+<p><b>Amount Payable</b></p>
+<p>The maximum amount payable in respect of any one incident is:</p>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>1</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Contents</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Unlimited subject to the following:</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable">&#160;</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">(i)&#160;<b>Valuables</b> in total</p>
+<p class="pintable">(ii)&#160;Any one <b>Valuable</b></p>
+<p class="pintable">(iii)&#160;<b>Business Equipment</b></p>
+<p class="pintable">(iv)&#160;<b>Money</b></p>
+<p class="pintable">(v)&#160;Visitors personal possessions</p>
+<p class="pintable">(vi)&#160;Replacement Locks</p>
+<p class="pintable">(vii)&#160;Documents</p>
+<p class="pintable">(viii)&#160;Cycles</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">£15,000</p>
+<p class="pintable">£1,500</p>
+<p class="pintable">£3,000 in total</p>
+<p class="pintable">£500 in total</p>
+<p class="pintable">£300 in total</p>
+<p class="pintable">£300 in total</p>
+<p class="pintable">£300 in total</p>
+<p class="pintable">£300 for any one cycle</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>2</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b>Contents</b> in the Open</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">£300 in total</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>3</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">Alternative Accommodation</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable">£20,000</p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<h3><a name="sec6personal"></a>C - CLAIM SETTLEMENT FOR SECTION 5 - PERSONAL POSSESSIONS</h3>
+<p>Provided the loss or damage is covered under <b>Your Policy</b>, <b>We</b> will
+settle <b>Your</b> claim as explained below subject to the maximum amount payable.</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>1</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>a</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">Where the damage can be economically repaired <b>We</b>
+will either arrange or authorise repair</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>&#160;</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>b</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">Where the damaged or lost item can be replaced with an
+item of similar quality, <b>We</b> will arrange or authorise replacement</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>&#160;</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>c</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">Where <b>We</b> are unable to economically repair or replace
+the item with an item of similar quality <b>We</b> will make a cash payment equal
+to an agreed replacement value</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>&#160;</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>d</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder">Where <b>We</b> have offered repair or replacement but
+<b>You</b> prefer a cash settlement, <b>We</b> will pay <b>You</b> an amount equal
+to the amount <b>We</b> would have paid had the item been repaired or replaced</p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+<tr>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>2</b></p>
+</td>
+<td align="left" valign="top">
+<p class="pintablenoborder"><b>We</b> may make a deduction for wear, tear and depreciation
+for clothing</p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<p class="alta">______________________________________</p>
+<p><b>Amount Payable</b></p>
+<p>The maximum amount payable in respect of any one incident is:</p>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>Valuables</b>, <b>Personal Effects</b>, <b>Money</b>, Credit
+Cards and Pedal Cycles</p>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><p class="pintable">in total £10,000 subject to a maximum amount of £1,000 in
+respect of any one item other than:<br>(i)&#160;Compact discs, cassettes and records
+£100<br>(ii)&#160;<b>Money</b> £500<br>(iii)&#160;Credit, cheque, debit, charge and
+cash cards £500<br>(iv)&#160;Pedal cycles £300 any one cycle<br>(v)&#160;Tools £250</p>
+</ul>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<h3>SECTION 7</h3>
+<h3><a name="sec7"></a>EXCEPTIONS WHICH APPLY TO THE WHOLE POLICY</h3>
+<p><b><span class="highlighti">We</b> do not insure:</span></p>
+<p class="alta"><b><span class="highlighti">=================================</span></b></p>
+<ol>
+<li><p><b><span class="highlighti">Radioactive Contamination and War Risks</b><br>Any
+loss or damage to property, legal liability, expense, consequential loss or bodily
+injury directly or indirectly caused by or arising from or contributed to by</span></p>
+<ol type="a">
+<li><p><span class="highlighti">ionising radiations or contamination by radioactivity
+from any nuclear fuel or from any nuclear waste from the combustion of nuclear fuel</span></p>
+<li><p><span class="highlighti">the radioactive, toxic, explosive or other hazardous
+properties of any explosive nuclear assembly or nuclear component of it</span></p>
+<li><p><span class="highlighti">war, invasion, act of foreign enemy, hostilities (whether
+war is declared or not), civil war, rebellion, revolution, insurrection or military
+or usurped power</span></p>
+</ol>
+<li><p><b><span class="highlighti">Sonic Bangs</b><br>Loss or damage caused by pressure
+waves from aircraft or other aerial devices travelling at sonic or supersonic speed</span></p>
+<li><p><b><span class="highlighti">Existing and Deliberate Damage</span></b></p>
+<ul>
+<li><p><span class="highlighti">Any loss or damage occurring before cover starts or
+arising from an event before cover starts</span></p>
+<li><p><span class="highlighti">Loss or damage caused deliberately by <b>You</b> or
+any member of <b>Your</b> <b>Household</span></b></p>
+</ul>
+<li><p><b><span class="highlighti">Loss of Value</b><br>Depreciation or loss in value
+of property</span></p>
+<li><p><b><span class="highlighti">Wear and Tear, Maintenance, Breakdowns, Leaks and
+Gradually Operating Causes</span></b></p>
+<ul>
+<li><p><span class="highlighti">Wear and tear, rusting or corrosion</span></p>
+<li><p><span class="highlighti">Wet or dry rot, fungus, mildew or any other gradually
+operating cause</span></p>
+<li><p><span class="highlighti">Frost, (other than bursting of water tanks, pipes
+or appliances caused by freezing) atmospheric or climatic conditions</span></p>
+<li><p><span class="highlighti">Damage caused by cleaning, repairing, restoring or
+renovating or dyeing</span></p>
+<li><p><span class="highlighti">The cost of maintenance and normal redecoration</span></p>
+<li><p><span class="highlighti">Failure of double glazing seals</span></p>
+</ul>
+<li><p><b><span class="highlighti">Consequential Loss</b><br>Consequential Loss of
+any kind or description incurred by <b>You</b> or any member of <b>Your Household</span></b></p>
+<li><p><b><span class="highlighti">Matching of Items</b><br>The cost of replacing
+any undamaged item or parts of items forming part of a set, suite, carpet or other
+article of a uniform nature, colour or design where the remaining item or items are
+still usable and the loss or damage occurs within a clearly identifiable area or to
+a specific part</span></p>
+<li><p><b><span class="highlighti">Dangerous Dogs Act 1991</b><br><b>We</b> will not
+pay for liability arising directly or indirectly from injury, death, disease (other
+than to domestic employees) or damage caused by any dog to which Section 1 (1) of
+the Dangerous Dogs Act 1991 applies or specified in Dogs (Muzzling) Regulations (Northern
+Ireland) 1991</span></p>
+<li><p><b><span class="highlighti">Insects and Vermin</span></b></p>
+<ul>
+<li><p><span class="highlighti">Damage caused by insects and vermin</span></p>
+</ul>
+<li><p><b><span class="highlighti">Loss by Deception</b><br>Loss by deception unless
+it is only entry into <b>Your Home</b> that is gained by deception</span></p>
+<li><p><b><span class="highlighti">Defective and Faulty Workmanship</span></b></p>
+<ul>
+<li><p><span class="highlighti">Loss or damage caused by faulty workmanship</span></p>
+<li><p><span class="highlighti">Loss or damage caused by defective design or the use
+of defective materials</span></p>
+</ul>
+<li><p><b><span class="highlighti">Business Use</span></b></p>
+<ul>
+<li><p><span class="highlighti">Property used or held for business or professional
+purposes, other than <b>Business Equipment</span></b></p>
+<li><p><b><span class="highlighti">Money</b> used or held for business or professional
+purposes</span></p>
+</ul>
+<li><p><b><span class="highlighti">Money, Credit, Charge, Cheque, Debit and Cash Cards
+Losses</span></b></p>
+<ul>
+<li><p><span class="highlighti">Loss of <b>Money</b> not reported to the Police within
+24 hours of discovery</span></p>
+<li><p><span class="highlighti">Losses of cards not reported to the Police and the
+issuing organisation within 24 hours of discovery</span></p>
+</ul>
+<li><p><b><span class="highlighti">Property Excluded or More Specifically Insured</span></b></p>
+<ul>
+<li><p><span class="highlighti">Property more specifically insured by another policy</span></p>
+<li><p><span class="highlighti">Motor vehicles, trailers, caravans, boats, vessels,
+aircraft and their respective parts or accessories while attached (other than motorised
+garden equipment, wheelchairs, stairlifts and invalid carriages, toys and models)</span></p>
+</ul>
+<li><p><b><span class="highlighti">Confiscation</b><br>Loss or damage caused by nationalisation
+or confiscation by any authority</span></p>
+<li><p><b><span class="highlighti">Date Change and Computer Viruses</span></b></p>
+<ul>
+<li><p><span class="highlighti">Direct or indirect loss or damage caused:</span></p>
+<p><span class="highlighti">- to equipment by its failing correctly to recognise data
+representing year 2000 or any other date in such a way that it does not work properly
+or at all</span></p>
+<p><span class="highlighti">- by computer viruses</span></p>
+<li><p><span class="highlighti">Liability arising directly or indirectly from:</span></p>
+<p><span class="highlighti">- equipment failing correctly to recognise data representing
+year 2000 or any other date in such a way that it does not work properly at all</span></p>
+<p><span class="highlighti">- computer viruses</span></p>
+<p><span class="highlighti">Equipment includes computers and anything else insured
+by <b>Your Policy</b> which has a microchip in it. Computers include hardware, software,
+data, electronic data processing equipment and other computing and electronic equipment
+linked to a computer<br>Microchips include integrated circuits and microcontrollers<br>Computer
+viruses include any program or software which prevents any operating system, computer
+program or software working properly or at all</span></p>
+</ul>
+<li><p><b><span class="highlighti">Pollution and Contamination</b><br>Any loss or
+damage to property, legal liability, expense, consequential loss, bodily injury or
+claim arising directly or indirectly from pollution or contamination which</span></p>
+<ul>
+<li><p><span class="highlighti">was the result of an intentional act, or</span></p>
+<li><p><span class="highlighti">was expected or should have been expected, or</span></p>
+<li><p><span class="highlighti">was not sudden, or</span></p>
+<li><p><span class="highlighti">was not during any insurance period</span></p>
+</ul>
+</ol>
+<p><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></p>
+<h3>SECTION 8</h3>
+<h3><a name="sec8"></a>CONDITIONS WHICH APPLY TO THE WHOLE POLICY</h3>
+<ol>
+<li><p><b>Precautions<br>You</b> and any member of <b>Your Household</b> must take
+all reasonable steps to prevent or minimise loss, damage or accident and maintain
+the insured property in a sound condition and good repair.</p>
+<li><p><b>Other Insurance<br></b>Where a claim is covered under <b>Your Policy</b>
+and this claim is covered by any other insurance, <b>We</b> will pay our rateable
+proportion</p>
+<li><p><b>Cancellation<br>You</b> may cancel <b>Your Policy</b> by giving the <b>Society</b>
+written instructions and complying with any appropriate conditions.<br><b>We</b> may
+cancel <b>Your Policy</b>. If <b>We</b> cancel <b>Your Policy</b>, <b>We</b> will
+write to <b>You</b> at <b>Your</b> last known address confirming that all cover will
+cease 14 days after the date of <b>Our</b> letter.<br>If <b>Your Policy</b> is cancelled
+either by <b>You</b> or <b>Us</b>, <b>You</b> will receive a full refund of premium
+for any unexpired period of cover.</p>
+<li><p><b>Notification of a Claim<br>You</b> must notify <b>Us</b> when <b>You</b>
+become aware of a claim under <b>Your Policy</b> as soon as possible. If there has
+been theft, attempted theft, vandalism or any malicious act <b>You</b> must tell the
+Police as soon as possible.<br><b>You</b> must at <b>Your</b> own expense provide
+<b>Us</b> with all details and evidence <b>We</b> reasonably request, including written
+estimates and proof of ownership and value. Do not dispose of any damaged items until
+<b>We</b> have had the opportunity to inspect them. Any writs, summons, other legal
+documents, letter of claim or other correspondence served on <b>You</b> or any member
+of <b>Your Household</b> in connection with a claim must be sent to <b>Us</b> as soon
+as possible. <b>You</b> must not answer any correspondence without <b>Our</b> written
+consent. <b>We</b> will not unreasonably withhold <b>Our</b> consent.</p>
+<li><p><b>Conduct of the Claim<br>You</b> must give <b>Us</b> whatever information
+or assistance <b>We</b> reasonably request and must not admit, deny, negotiate or
+promise to pay any claim without <b>Our</b> written consent. <b>We</b> will not unreasonably
+withhold <b>Our</b> consent.<br>No property may be abandoned to <b>Us</b>.</p>
+<li><p><b>Subrogation<br></b>Before or after <b>We</b> pay <b>Your</b> or any member
+of <b>Your Household’s</b> claim under <b>Your Policy</b>, <b>You</b> or any member
+of <b>Your Household</b> must, if <b>We</b> ask, take or allow <b>Us</b>, to take
+in <b>Your</b> or any member of <b>Your Household’s</b> name, all the steps needed
+to enforce <b>Your Household’s</b> rights against any other person including the defence
+or settlement of any claim or the pursuit of any claim in any person’s name<br><b>We</b>
+will pay any costs and expenses involved.</p>
+<li><p><b>Alteration in Risk<br>You</b> must notify <b>Us</b> as soon as possible
+of any alteration in risk which materially affect this insurance.<br>Material information
+would include any special feature of <b>Your</b> property or member of <b>Your Household</b>
+which makes losses more likely to happen or more serious if they do.<br><b>We</b>
+may re-assess <b>Your Policy</b> cover and premium following notification of material
+information. Failure to disclose all material information may result in the wrong
+terms being quoted, a claim being rejected or reduced, or <b>Your Policy</b> being
+invalid.</p>
+<li><p><b>Fraud<br></b>If any claim is in any respect fraudulent or if any fraudulent
+means or devices are used by <b>You</b>, any member of <b>Your Household</b> or anyone
+acting on <b>Your</b> or their behalf to obtain benefit under <b>Your Policy</b> then
+all benefits under <b>Your Policy </b>will be lost.</p>
+</ol>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<h3>SECTION 9</h3>
+<h3><a name="sec9"></a>MAKING A CLAIM</h3>
+<p>Naturally <b>We</b> hope <b>You</b> won’t have any accidents or misfortune, but
+if <b>You</b> do, the following advice will be useful.</p>
+<ul>
+<li><p>Remember that <b>You</b> may use the domestic helpline which is provided free
+of charge with <b>Your Policy</b></p>
+<li><p>Telephone <b>Us</b> immediately for advice on <b>Policy</b> cover and how to
+proceed with your claim. <b>We</b> will be pleased to hear from <b>You</b>.</p>
+<li><p>If <b>You</b> are unable to contact <b>Us</b>, take any emergency action which
+may be necessary to protect <b>Your</b> property from further damage e.g. switch off
+the gas, electricity, water etc. If <b>You</b> have to arrange for a contractor to
+carry out emergency work please keep the repair account which <b>We</b> will need
+to see.</p>
+<li><p>Check <b>Your Policy</b> wording carefully to see if the loss or damage is
+covered - <b>Your Policy</b> lists the events (e.g. storm, theft etc.) which are covered
+and not covered and also the exceptions or conditions which may apply to the whole
+<b>Policy</b>.</p>
+<li><p>Remember that <b>Your Policy</b> is not a maintenance contract and does not
+cover any loss or damage caused by normal wear and tear - no insurance <b>Policy</b>
+does. Remember too that the amount <b>You</b> are entitled to claim may be reduced
+if <b>Your</b> property has not been properly maintained.</p>
+<li><p>Please do not dispose of damaged items before <b>We</b> have had the opportunity
+to inspect them.</p>
+<li><p>Report any incident involving theft, malicious damage or hit and run damage
+to the Police.</p>
+<li><p>If someone is making a claim against <b>You</b> for any injury to them or damage
+to their property, <b>You</b> must send <b>Us</b> full details, in writing, as soon
+as possible. Any letters or documents <b>You</b> receive should be sent to <b>Us</b>,
+unanswered, without delay. It is most important that <b>You</b> leave <b>Us</b> to
+deal with the matter on <b>Your</b> behalf and do not get involved in any correspondence
+or conversation with the other person.</p>
+<li><p>Depending on the type of claim and value involved <b>We</b> may:</p>
+<ul>
+<li><p>Contact <b>You</b> to progress <b>Your</b> claim</p>
+<li><p>Arrange for one of <b>Our</b> nation-wide team of Claims Advisers to personally
+call on <b>You</b></p>
+<li><p>Appoint an independent loss adjuster or representative to deal with <b>Your</b>
+claim on <b>Our</b> behalf</p>
+</ul>
+<li><p><b>Our</b> aim is to deal with <b>Your</b> claim promptly, efficiently and
+fairly. At all times <b>We</b> will try to provide <b>You</b> with the highest standard
+of service.</p>
+<li><p>If <b>You</b> have any comment or complaint about the handling of <b>Your</b>
+claim please contact the <b>Society</b> at the following address - <b>We</b> will
+investigate:</p>
+<p><a name="cbsaddress"></a>Cheshire Building Society, Mortgage Services Manager,
+Head Office, Castle Street, Macclesfield, Cheshire, SK11 6AF. Telephone 01625 613612<b>*</b></p>
+</ul>
+<p><b>*</b>For your protection, your calls may be recorded and may be monitored</p>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<h3>SECTION 10</h3>
+<h3>EMERGENCY ASSISTANCE</h3>
+<h3><a name="sec10cover"></a>A - COVER<br>&#160;</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintable"><b>FirstAssist</b> will arrange and pay for an Experienced and
+competent Contractor to make <b>Emergency Repairs</b> provided <b>You</b> or a member
+of <b>Your Household</b> Notifies <b>FirstAssist</b> of the emergency through a telephone
+number which will be provided on commencement of your insurance</p>
+<p class="pintable"><b>FirstAssist</b> will arrange and pay for Overnight accommodation
+of <b>Your Household</b> if <b>FirstAssist</b> accept that <b>Your Home</b> is uninhabitable
+due to the Event</p>
+</td>
+<td align="left" valign="top">
+<p class="pintable"><b><span class="highlighti">FirstAssist</b> will not pay for:</span></p>
+<ul>
+<li><p class="pintable"><span class="highlighti">Loss of or damage to walls, gates,
+hedges, fences, trees or plants unless it creates an immediate risk of further damage
+to the property or an immediate risk to health</span></p>
+<li><p class="pintable"><span class="highlighti">Costs resulting from an agreement
+which would not have arisen without the agreement</span></p>
+</ul>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<h3><a name="sec10emergency"></a>B - CLAIMS SETTLEMENT FOR EMERGENCY ASSISTANCE</h3>
+<p>When telephoning <b>FirstAssist You</b> must provide the Code Number (which will
+be provided on commencement of your insurance) and any other information <b>FirstAssist</b>
+may reasonably request</p>
+<p><b>FirstAssist</b> will make payment for <b>Emergency Repairs</b> direct to the
+contractor, not <b>You</b></p>
+<p><b>Maximum Amount Payable</b></p>
+<p>The maximum amount payable in respect of any one incident is £150</p>
+<p>Any reasonable amount in excess of £150 may be claimed under Section 1 - The Buildings
+or Section 3 - The Contents provided such loss or damage is covered under <b>Your
+Policy</b></p>
+<h3><a name="helplines"></a>24 HOUR HELPLINES</h3>
+<p>As a Cheshire <b>Policyholder</b>, <b>You</b> and members of <b>Your Household</b>
+have 24 hour access by telephone, 365 days a year, to two Helplines. When phoning
+any Helpline please quote <b>Your</b> customer number.</p>
+<p class="alta"><b>EMERGENCY HELPLINE SERVICE</b></p>
+<p>This facility, provided by <b>FirstAssist</b>, offers a 24 hour helpline and emergency
+repair service. Should you unfortunately suffer an emergency e.g. a burst pipe or
+tiles blown off your roof, simply call the 24 hour emergency number. <b>FirstAssist</b>
+will provide practical help from a competent local tradesman and we will pick up the
+bill, up to £150 for each call out.</p>
+<p>If you still need to make a claim over and above this you will need to call our
+claims unit also (<a href="statement_of_cover.asp#sec9">see Making a Claim</a>)</p>
+<p class="alta"><b><a name="emergency"></a>LEGAL ADVICE SERVICE</b></p>
+<p>FirstAssist Group Ltd can provide <b>You</b> with immediate legal advice and guidance
+on any area of private law or related problems from the simplest to the most complex
+of matters:</p>
+<p class="alta">Employment<br>Personal Taxation<br>Personal Injury Claims<br>Property
+Matters<br>Motoring Disputes<br>Domestic Problems<br>Consumer Affairs<br>Tenant/Landlord
+problems</p>
+<p>In most cases <b>You</b> will be given immediate advice by FirstAssist’s team of
+legal consultants aimed at providing practical and easily understood help.</p>
+<p>THIS SERVICE OFFERS LEGAL ADVICE ONLY. IT DOES NOT PAY LEGAL FEES OR EXPENSES FOLLOWING
+SUCH ADVICE.</p>
+<p>For your protection, your calls may be recorded and may be monitored</p>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" bgcolor="white" bordercolor="#707070">
+<tr>
+<td align="left" valign="top">
+<p class="pintablealta"><b>CUSTOMER SERVICE</b></p>
+<p class="pintable">Cheshire Building Society has a reputation for Customer Service
+and this is shared by our insurers in their commitment to <b>You</b>.</p>
+</td>
+</tr>
+</table><p class="smallBR">&nbsp;</p>
+<p class="alta"><b>“ROYAL & SUN ALLIANCE - OUR COMMITMENT TO YOU”</b></p>
+<p><b>We</b> aim to give <b>Our</b> customers a high standard of service at all times.</p>
+<p>If <b>You</b> are unhappy with <b>Our</b> service for any reason, <b>You</b> should
+write initially to the Regional Client Director of Royal & Sun Alliance, 1 St. John’s
+Centre, Leeds LS2 8LG.</p>
+<p>If matters are not resolved to <b>Your</b> satisfaction, <b>You</b> are invited
+to write to:</p>
+<p class="alta">The Customer Relations Manager<br>Royal & Sun Alliance<br>Personal
+Financial Services<br>1 St. John’s Centre<br>Leeds<br>LS2 8LG</p>
+<p>If <b>You</b> are still dissatisfied, <b>You</b> can ask the Insurance Ombudsman
+(IOB) to review <b>Your</b> case. The address of the IOB is South Quay Plaza, 183
+Marsh Wall, London E14 9SR.</p>
+<p>Royal & Sun Alliance Insurance plc is a member of both the Insurance Ombudsman
+Bureau and the General Insurance Standards Council.</p>
+<p>No promotional literature or advice booklets form part of <b>Your Policy</b>.</p>
+<p>It is possible to choose the Law applicable to a contract of insurance covering
+a risk situated in the UK. <b>We</b> have chosen Scottish Law to apply if <b>You</b>
+live in Scotland and English Law to apply if <b>You</b> live elsewhere in the UK.</p>
+<p>Payment of <b>Your</b> premium is evidence of acceptance of <b>Our</b> choice.
+If any other law is to apply, it must be agreed by both parties and evidenced in writing.</p>
+<p><b><span class="highlighti">**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**SAMPLE**</span></b></p>
+<p>&#160;</p>
+                    <!-- #EndEditable --></td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="600" height="1" valign="top" colspan="2"><img src="../images/bg.gif" width="600" height="1"></td>
+    </tr>
+    <tr>
+      <td width="150" height="10" valign="bottom">
+        <p><img src="../images/up.gif" width="9" height="10"> <a href="#top">Back
+          to Top</a></p>
+      </td>
+      <td width="450" valign="top">
+        <p><a href="../legal/index.asp">Terms and Conditions</a>&nbsp | &nbsp&copy; Copyright Cheshire Building Society 1998 </p>
+<!-- <p><b>This site is currently in development. Cheshire Building Society accepts no responsibility for unathorised use.</b></p> -->
+      </td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+</div>
+</body>
+<!-- #EndTemplate --></html>
+

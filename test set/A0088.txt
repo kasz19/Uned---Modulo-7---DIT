@@ -1,0 +1,605 @@
+ID=A0088
+URL=http://www.cbonline.co.uk/personal/622.php
+SIZE=33401
+DATE=27/06/02
+TIME=16:52:02
+DATASET=Commercial Banks
+HTML=
+<html>
+<head>
+<title>Clydesdale Bank</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../css/nag.css" type="text/css">
+</head>
+<body margin="0" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+<script language = "JavaScript">
+<!--//
+function preloader(){return;}
+b1 = new Image(110,34);
+b1.src = "/g_images/1b_personal.gif";
+b1 = new Image(110,34);
+b1.src = "/g_images/1b_personal_r.gif";
+b2 = new Image(110,34);
+b2.src = "/g_images/1b_business.gif";
+b2 = new Image(110,34);
+b2.src = "/g_images/1b_business_r.gif";
+b3 = new Image(110,34);
+b3.src = "/g_images/1b_aboutus.gif";
+b3 = new Image(110,34);
+b3.src = "/g_images/1b_aboutus_r.gif";
+b4 = new Image(110,34);
+b4.src = "/g_images/1b_ibank.gif";
+b4 = new Image(110,34);
+b4.src = "/g_images/1b_ibank_r.gif";
+b5 = new Image(110,34);
+b5.src = "/g_images/1b_share.gif";
+b5 = new Image(110,34);
+b5.src = "/g_images/1b_share_r.gif";
+//-->
+</script><script type="text/javascript" language="Javascript">
+<!--
+function viewper() {
+	
+	window.open("/index_dis.php","myWindow","scrollbars=yes, width=400 ,height=500, menubar=yes");
+}
+function POP() {
+popup = window.open('http://www.cbonline.co.uk/cb_demo/html/index.htm','Demo','width=696,height=492,top=0,left=0,toolbar=yes,location=no,status=yes,menubar=no,scrollbars=yes,resizable=yes');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+}
+
+function POPLOG() {
+popup = window.open('http://ib.cbonline.co.uk/login.jsp','popUp','width=696,height=492,top=0,left=0,toolbar=no,location=no,status=yes,menubar=no,scrollbars=no,resizable=no');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+}
+
+function ibankPOP() {
+popup = window.open('http://ib.cbonline.co.uk/enrollbanking.jsp','popUp','width=696,height=492,top=0,left=0,toolbar=no,location=no,status=yes,menubar=no,scrollbars=no,resizable=no');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+}
+
+function ibankHELP() {
+popup = window.open('/about/ibanking_help.php','popUp','width=300,height=150,top=0,left=0,toolbar=no,location=no,status=yes,menubar=no,scrollbars=no,resizable=no');
+	if (!popup.opener) {
+	    popup.opener = self;
+	}
+}
+//-->
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="164" height="68"><img src="/g_images/logo.gif" alt="Clydesdale Bank" /></td>
+    <td class="navtopleft" height="68">
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+		  <td><img src="/g_images/1x1space.gif" width="20" alt="" /></td>
+          <td><a href="/index.php"><img src="/g_images/1b_utilities_001.gif" border="0" alt="Home" /></a></td>
+          <td><a href="/sitemap.php"><img src="/g_images/1b_utilities_002.gif" border="0" alt="Site Map" /></a></td>
+          <td><a href="/personal/InterestRates.php"><img src="/g_images/1b_utilities_003.gif" border="0" alt="Interest Rates" /></a></td>
+          <td><a href="javascript:void(null)" onclick="javascript:viewper()"><img src="/g_images/1b_utilities_004.gif" border="0" alt="Rules of Use" /></a></td>
+          <td><a href="/about/201.php"><img src="/g_images/1b_utilities_005.gif" border="0" alt="Contact Us" /></a></td>
+        </tr>
+      </table>
+    </td>
+    <td class="navbottomright" height="68">
+      <table border="0" cellspacing="5" cellpadding="0">
+        <tr>
+          <td height="15" class="navbottomright"><!--STARTDATE-->Thursday, 27.06.02<!--ENDDATE--></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colpsan="3" height="1"><img src="/g_images/1x1space.gif" width="100%" height="1" border="0" alt="" /></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/g_images/1b_spacer.gif">
+        <tr>
+	
+
+			<td class="navmenuleft" nowrap><a href="/personal/63.php" onMouseOver="document.b1.src='/g_images/1b_personal_r.gif'" onMouseOut="document.b1.src='/g_images/1b_personal_r.gif'"><img src="/g_images/1b_personal_r.gif" width="110" height="34" name="b1" alt="Personal" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/business/243.php" onMouseOver="document.b2.src='/g_images/1b_business_r.gif'" onMouseOut="document.b2.src='/g_images/1b_business.gif'"><img src="/g_images/1b_business.gif" width="110" height="34" name="b2" alt="Business" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/about/159.php" onMouseOver="document.b3.src='/g_images/1b_aboutus_r.gif'" onMouseOut="document.b3.src='/g_images/1b_aboutus.gif'"><img src="/g_images/1b_aboutus.gif" width="110" height="34" name="b3" border="0" alt="About Us" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/personal/211.php" onMouseOver="document.b5.src='/g_images/1b_share_r.gif'" onMouseOut="document.b5.src='/g_images/1b_share.gif'"><img src="/g_images/1b_share.gif" width="110" height="34" name="b5" alt="Online Sharedealing" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /><a href="/ibank/index.php" onMouseOver="document.b4.src='/g_images/1b_ibank_r.gif'" onMouseOut="document.b4.src='/g_images/1b_ibank.gif'"><img src="/g_images/1b_ibank.gif" width="110" height="34" name="b4" alt="Internet Banking" border="0" /></a><img src="/g_images/1b_divider.gif" alt="" /></td>
+
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td colspan="2" height="1"><img height=1 alt="" src="/g_images/1x1space.gif" width="100%" border=0 ></td>
+  </tr>
+  <tr> 
+    
+
+
+
+
+
+
+
+
+
+<!-- ibank level 1 -->
+<!-- ibank level 2 -->
+
+
+
+
+<!--- how to register --->
+
+<!-- main draw function -->
+<td width="109" class="personal">
+	<!-- personal level 1 -->
+		<a href="/personal/322.php" onMouseOver="document.l2.src='/g_images/2b_pers_002h.gif'" onMouseOut="document.l2.src='/g_images/2b_pers_002.gif'"><img src="/g_images/2b_pers_002.gif" name="l2" alt="Convenience Banking" width="110" height="33" border="0" /></a><br>
+			<a href="/personal/109.php" onMouseOver="document.l7.src='/g_images/2b_pers_007h.gif'" onMouseOut="document.l7.src='/g_images/2b_pers_007.gif'"><img src="/g_images/2b_pers_007.gif" name="l7" alt="Saving Account" width="110" height="34" border="0" /></a><br>
+		 	<a href="/personal/finplan.php" onMouseOver="document.l15.src='/g_images/2b_pers_014h.gif'" onMouseOut="document.l15.src='/g_images/2b_pers_014.gif'"><img src="/g_images/2b_pers_014.gif" name="l15" alt="Financial Planning" width="110" height="34" border="0" /></a><br>
+	
+	
+		<a href="/personal/568.php" onMouseOver="document.l3.src='/g_images/2b_pers_015h.gif'" onMouseOut="document.l3.src='/g_images/2b_pers_015.gif'"><img src="/g_images/2b_pers_015.gif" name="l3" alt="Home Loans" border="0" /></a><br>
+		
+	
+	
+		<a href="/personal/600.php" onMouseOver="document.l8.src='/g_images/2b_pers_008h.gif'" onMouseOut="document.l8.src='/g_images/2b_pers_008h.gif'"><img src="/g_images/2b_pers_008h.gif" name="l8" alt="Interest Rates" width="110" height="22" border="0" /></a><br>
+	<img src="/g_images/1x1space.gif" width="100" height="1" alt=" "><br>
+<table width="110" border="0" cellspacing="0" cellpadding="2">
+	  <tr>
+   	<td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt=" "></td>
+    <td class="personal_lower"><a href="/personal/616.php" class="businesslink">Home Lending</a></td>
+  </tr>
+		  <tr>
+   	<td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt=" "></td>
+    <td class="personal_lower"><a href="/personal/618.php" class="businesslink">Personal Lending</a></td>
+  </tr>
+		  <tr>
+   	<td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt=" "></td>
+    <td class="personal_lower"><a href="/personal/620.php" class="businesslink">Credit Cards</a></td>
+  </tr>
+		  <tr>
+   	<td width="1" class="personal_lower_high"><img src="/g_images/1x1space.gif" width="1" height="1" alt=" "></td>
+    <td class="personal_lower_high"><a href="/personal/622.php" class="businesslink">Transaction Accounts</a></td>
+  </tr>
+		  <tr>
+   	<td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt=" "></td>
+    <td class="personal_lower"><a href="/personal/624.php" class="businesslink">Savings Accounts</a></td>
+  </tr>
+		  <tr>
+   	<td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt=" "></td>
+    <td class="personal_lower"><a href="/personal/626.php" class="businesslink">Investment Housing Loan</a></td>
+  </tr>
+		  <tr>
+   	<td width="1" class="personal_lower"><img src="/g_images/1x1space.gif" width="1" height="1" alt=" "></td>
+    <td class="personal_lower"><a href="/personal/628.php" class="businesslink">Premium Financial Services</a></td>
+  </tr>
+	</table>
+<img src="/g_images/1x1space.gif" width="100" height="1" alt=" "><br>
+			<a href="/personal/74.php" onMouseOver="document.l1.src='/g_images/2b_pers_001h.gif'" onMouseOut="document.l1.src='/g_images/2b_pers_001.gif'"><img src="/g_images/2b_pers_001.gif" name="l1" alt="Personal Loans" width="110" height="22" border="0" /></a><br>
+			<a href="/personal/211.php" onMouseOver="document.l12.src='/g_images/2b_pers_012h.gif'" onMouseOut="document.l12.src='/g_images/2b_pers_012.gif'"><img src="/g_images/2b_pers_012.gif" name="l12" alt="Online Sharedealing" width="110" height="34" border="0" /></a><br>
+		 	<a href="/personal/premium.php" onMouseOver="document.l13.src='/g_images/2b_pers_013h.gif'" onMouseOut="document.l13.src='/g_images/2b_pers_013.gif'"><img src="/g_images/2b_pers_013.gif" name="l13" alt="Premium Financial Services" width="110" height="46" border="0" /></a><br>
+			<a href="/personal/128.php" onMouseOver="document.l4.src='/g_images/2b_pers_004h.gif'" onMouseOut="document.l4.src='/g_images/2b_pers_004.gif'"><img src="/g_images/2b_pers_004.gif" name="l4" alt="Credit Cards" width="110" height="22" border="0" /></a><br>
+		<!-- 	<a href="/personal/148.php" onMouseOver="document.l5.src='/g_images/2b_pers_005h.gif'" onMouseOut="document.l5.src='/g_images/2b_pers_005.gif'"><img src="/g_images/2b_pers_005.gif" name="l5" alt="Investment and Protection" border="0" /></a><br> -->
+			<a href="/personal/310.php" onMouseOver="document.l6.src='/g_images/2b_pers_006h.gif'" onMouseOut="document.l6.src='/g_images/2b_pers_006.gif'"><img src="/g_images/2b_pers_006.gif" name="l6" alt="Telephone Banking" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/524.php" onMouseOver="document.l9.src='/g_images/2b_pers_009h.gif'" onMouseOut="document.l9.src='/g_images/2b_pers_009.gif'"><img src="/g_images/2b_pers_009.gif" name="l9" alt="Investment Management" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/526.php" onMouseOver="document.l10.src='/g_images/2b_pers_010h.gif'" onMouseOut="document.l10.src='/g_images/2b_pers_010.gif'"><img src="/g_images/2b_pers_010.gif" name="l10" alt="Wills, Trusts and Estates" width="110" height="34" border="0" /></a><br>
+			<a href="/personal/528.php" onMouseOver="document.l11.src='/g_images/2b_pers_011h.gif';document.l14.src='/g_images/1by1_pers_h.gif'" onMouseOut="document.l11.src='/g_images/2b_pers_011.gif';document.l14.src='/g_images/1by1_pers.gif'"><img src="/g_images/2b_pers_011.gif" name="l11" alt="Taxation" width="110" height="22" border="0" /></a><br>
+	<img src="/g_images/1by1_pers.gif" width="100%" height="1" name="l14" alt="" /><br>
+	</td>
+
+    <!-- Page Content -->
+    <td class="content"> 
+      <table border="0" cellspacing="5" cellpadding="0" width="100%">
+        <tr> 
+          <td width="20"><img height=1 alt=" " src="/g_images/1x1space.gif" width=20 ></td>
+          <td colspan="3" class="content"> 
+            <p class="bread"><a class=breadcrumbs href="/personal/63.php">Personal</a> 
+              &gt; <a class=breadcrumbs href="/personal/600.php">Interest Rates</a> 
+              &gt; Transaction Accounts</p>
+            <p class="contentmainhead">Interest Rates</p>
+          </td>
+        </tr>
+        <tr> 
+          <td width="20"><img height=1 alt=" " src="/g_images/1x1space.gif" width=20 ></td>
+          <td colspan="3" height="1"><img height=1 alt="" src="/g_images/3b_blackline.gif" width="100%" ></td>
+        </tr>
+        <tr> 
+          <td width="20"><img height=1 alt=" " src="/g_images/1x1space.gif" width=20 ></td>
+          <td class="content"> 
+            <p class="contentsubhead">Transaction Accounts</p>
+			<p>Rates of interest are subject to change but are correct as at 14th November 2001.</p>
+            <table width="100%" border="0" cellspacing="1" cellpadding="0">
+              <tr> 
+                <td class="border"> 
+                  <table border=0 width="100%" cellspacing=1 cellpadding=2>
+                    <thead> 
+                    <tr valign="top" align="middle"> 
+                      <th align="left" colspan=2 class="interesthead1">Credit 
+                        Interest Rates</th>
+                      <th class="interesthead1center"> Previous<br>
+                        Gross*<br>
+                        Rate %</th>
+                      <th class="interesthead1center">Current<br>
+                        Gross*<br>
+                        Rate %</th>
+                      <th class="interesthead1center">Current<br>
+                        AER++ %</th>
+                    </tr>
+                    <tr valign="top" align="left"> 
+                      <th colspan=7 class="interesthead"> Current Account Gold **</th>
+                    </tr>
+                    </thead> <tbody> 
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£250,000 
+                        and over</td>
+                      <td class="interestdetails">2.85</td>
+                      <td class="interestdetails">2.35</td>
+                      <td class="interestdetails">2.38</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£50,000 
+                        - £249,999</td>
+                      <td class="interestdetails">2.85</td>
+                      <td class="interestdetails">2.35</td>
+                      <td class="interestdetails">2.38</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£10,000 
+                        - £49,999</td>
+                      <td class="interestdetails">2.85</td>
+                      <td class="interestdetails">2.35</td>
+                      <td class="interestdetails">2.38</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£500 
+                        - £9,999</td>
+                      <td class="interestdetails">2.85</td>
+                      <td class="interestdetails">2.35</td>
+                      <td class="interestdetails">2.38</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£1 - 
+                        £499</td>
+                      <td class="interestdetails">2.85</td>
+                      <td class="interestdetails">2.35</td>
+                      <td class="interestdetails">2.38</td>
+                    </tr>
+                    <tr valign="top" align="left"> 
+                      <td colspan=7 class="interestdetails">The Current Account 
+                        Gold attracts a monthly maintenance fee of £6.25</td>
+                    </tr>
+                    <thead> 
+                    <tr valign="top" align="left"> 
+                      <th colspan=7 class="interesthead">Current Account Silver **</th>
+                    </tr>
+                    </thead> <tbody> 
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£250,000 
+                        and over</td>
+                      <td class="interestdetails">2.85</td>
+                      <td class="interestdetails">2.35</td>
+                      <td class="interestdetails">2.38</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£50,000 
+                        - £249,999</td>
+                      <td class="interestdetails">2.35</td>
+                      <td class="interestdetails">1.85</td>
+                      <td class="interestdetails">1.87</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£10,000 
+                        - £49,999</td>
+                      <td class="interestdetails">1.85</td>
+                      <td class="interestdetails">1.35</td>
+                      <td class="interestdetails">1.36</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£500 
+                        - £9,999</td>
+                      <td class="interestdetails">1.85</td>
+                      <td class="interestdetails">1.35</td>
+                      <td class="interestdetails">1.36</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£1 - 
+                        £499</td>
+                      <td class="interestdetails">0.10</td>
+                      <td class="interestdetails">0.10</td>
+                      <td class="interestdetails">0.10</td>
+                    </tr>
+                    <tr valign="top" align="left"> 
+                      <td colspan=7 class="interestdetails">The Current Account 
+                        Silver attracts a monthly maintenance fee of &pound;4.50</td>
+                    </tr>
+                    <thead> 
+                    <tr valign="top" align="left"> 
+                      <th colspan=7 class="interesthead">Current Account Extra **</th>
+                    </tr>
+                    </thead> 
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£250,000 
+                        and over</td>
+                      <td class="interestdetails">2.60</td>
+                      <td class="interestdetails">2.10</td>
+                      <td class="interestdetails">2.12</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£50,000 
+                        - £249,999</td>
+                      <td class="interestdetails">0.10</td>
+                      <td class="interestdetails">0.10</td>
+                      <td class="interestdetails">0.10</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£10,000 
+                        - £49,999</td>
+                      <td class="interestdetails">0.10</td>
+                      <td class="interestdetails">0.10</td>
+                      <td class="interestdetails">0.10</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£500 
+                        - £9,999</td>
+                      <td class="interestdetails">0.10</td>
+                      <td class="interestdetails">0.10</td>
+                      <td class="interestdetails">0.10</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£1 - 
+                        £499</td>
+                      <td class="interestdetails">0.10</td>
+                      <td class="interestdetails">0.10</td>
+                      <td class="interestdetails">0.10</td>
+                    </tr>
+                    <thead> 
+                    <tr valign="top" align="left"> 
+                      <th colspan=7 class="interesthead">Student Account **</th>
+                    </tr>
+                    </thead> 
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails">£1 and 
+                        Over </td>
+                      <td class="interestdetails">3.25</td>
+                      <td class="interestdetails">3.10</td>
+                      <td class="interestdetails">3.14</td>
+                    </tr>
+                    <thead> 
+                    <tr valign="top" align="left"> 
+                      <th colspan=7 class="interesthead">Current Account</th>
+                    </tr>
+                    </thead> 
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=8 class="interestdetails">This 
+                        is a non-interest bearing current account</td>
+                    </tr>
+                    <thead> 
+                    <tr valign="top" align="left"> 
+                      <th colspan=7 class="interesthead">Cashmaster Account</th>
+                    </tr>
+                    </thead> 
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=8 class="interestdetails">This 
+                        is a non-interest bearing current account</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <p>** Interest is calculated on a daily basis.</p>
+            <table width="100%" border="0" cellspacing="1" cellpadding="0">
+              <tr> 
+                <td class="border"> 
+                  <table border=0 width="100%" cellspacing=1 cellpadding=2>
+                    <thead> 
+                    <tr valign="top" align="middle"> 
+                      <th align="left" colspan=2 class="interesthead1">Personal 
+                        Money Transmission Products Lending</th>
+                      <th class="interesthead1center"> Previous<br>
+                        % Per month</th>
+                      <th class="interesthead1center">Previous<br>
+                        EAR+ %</th>
+                      <th class="interesthead1center">Current<br>
+                        % Per month</th>
+                      <th class="interesthead1center">Current<br>
+                        EAR+ %</th>
+                    </tr>
+                    <tr valign="top" align="left"> 
+                      <th colspan=6 class="interesthead"> Current Account Gold</th>
+                    </tr>
+                    </thead> <tbody> 
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails"> Preferential 
+                        Authorised Overdraft Rate #</td>
+                      <td class="interestdetails">0.54</td>
+                      <td class="interestdetails">6.68</td>
+                      <td class="interestdetails">0.50</td>
+                      <td class="interestdetails">6.17</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails"> Authorised 
+                        Overdraft Rate </td>
+                      <td class="interestdetails">0.71</td>
+                      <td class="interestdetails">8.86</td>
+                      <td class="interestdetails">0.67</td>
+                      <td class="interestdetails">8.34</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails"> Unauthorised 
+                        Overdraft Rate</td>
+                      <td class="interestdetails">2.38</td>
+                      <td class="interestdetails">32.61</td>
+                      <td class="interestdetails">2.33</td>
+                      <td class="interestdetails">31.84</td>
+                    </tr>
+                    <thead> 
+                    <tr valign="top" align="middle"> 
+                      <th align="left" colspan=6 class="interesthead">Current 
+                        Account Silver</th>
+                    </tr>
+                    </thead> <tbody> 
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails"> Preferential 
+                        Authorised Overdraft Rate #</td>
+                      <td class="interestdetails">0.71</td>
+                      <td class="interestdetails">8.86</td>
+                      <td class="interestdetails">0.67</td>
+                      <td class="interestdetails">8.34</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails"> Authorised 
+                        Overdraft Rate </td>
+                      <td class="interestdetails">0.88</td>
+                      <td class="interestdetails">11.09</td>
+                      <td class="interestdetails">0.83</td>
+                      <td class="interestdetails">10.43</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails"> Unauthorised 
+                        Overdraft Rate</td>
+                      <td class="interestdetails">2.38</td>
+                      <td class="interestdetails">32.61</td>
+                      <td class="interestdetails">2.33</td>
+                      <td class="interestdetails">31.84</td>
+                    </tr>
+                    <thead> 
+                    <tr valign="top" align="middle"> 
+                      <th align="left" colspan=6 class="interesthead">Current 
+                        Account Extra</th>
+                    </tr>
+                    </thead> 
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails"> Authorised 
+                        Overdraft Rate</td>
+                      <td class="interestdetails">1.50</td>
+                      <td class="interestdetails">19.56</td>
+                      <td class="interestdetails">1.50</td>
+                      <td class="interestdetails">19.56</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails"> Unauthorised 
+                        Overdraft Rate</td>
+                      <td class="interestdetails">2.50</td>
+                      <td class="interestdetails">34.49</td>
+                      <td class="interestdetails">2.50</td>
+                      <td class="interestdetails">34.49</td>
+                    </tr>
+                    <thead> 
+                    <tr valign="top" align="middle"> 
+                      <th align="left" colspan=6 class="interesthead">Student 
+                        Account </th>
+                    </tr>
+                    </thead> 
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails"> Authorised 
+                        &pound;1 - &pound;1,000 </td>
+                      <td class="interestdetails">0.46</td>
+                      <td class="interestdetails">5.66</td>
+                      <td class="interestdetails">0.42</td>
+                      <td class="interestdetails">5.16</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails"> Authorised 
+                        &pound;1,001 - &pound;3,000 </td>
+                      <td class="interestdetails">0.63</td>
+                      <td class="interestdetails">7.50</td>
+                      <td class="interestdetails">0.58</td>
+                      <td class="interestdetails">7.19</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2 class="interestdetails"> Unauthorised 
+                      </td>
+                      <td class="interestdetails">2.30</td>
+                      <td class="interestdetails">31.37</td>
+                      <td class="interestdetails">2.50</td>
+                      <td class="interestdetails">34.49</td>
+                    </tr>
+                    <thead> 
+                    <tr valign="top" align="middle"> 
+                      <th align="left" colspan=6 class="interesthead">Current 
+                        Account</th>
+                    </tr>
+                    </thead> 
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2
+					  class="interestdetails"> Authorised</td>
+                      <td class="interestdetails" colspan=6>margin above Base 
+                        Rate as specified in the facility letter</td>
+                    </tr>
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=2
+					  class="interestdetails"> Unauthorised</td>
+                      <td class="interestdetails" colspan=6>26.50% (EAR 29.97%) 
+                        Default Rate or a margin above Base Rate as specified 
+                        in the facility letter</td>
+                    </tr>
+                    <thead> 
+                    <tr valign="top" align="middle"> 
+                      <th align="left" colspan=6 class="interesthead">Cashmaster 
+                        Account </th>
+                    </tr>
+                    </thead> 
+                    <tr valign="top" align="middle"> 
+                      <td align="left" colspan=7
+					  class="interestdetails"> There is no overdraft facility 
+                        on this account.</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <p></p>
+            <p># To obtain the Preferential rate on the Current Account Gold or 
+              Silver Accounts, customers require to have their Home Loan with 
+              Clydesdale Bank PLC.</p>
+            <p><strong>Definitions</strong><br>
+              <strong>*Gross Rate</strong> - Gross Interest is interest payable 
+              without taking account of the deduction of income tax. For most 
+              customers tax will be deducted at the lower rate prevailing at the 
+              time of payment (presently 20%)<br>
+              <strong>++AER</strong> - stands for Annual Equivalent Rate and illustrates 
+              what the rate would be if interest was paid and compounded each 
+              year. <br>
+            <strong>+EAR (Effective Annual Rate)</strong> - The effective annual 
+              rate is used to express the cost of borrowing on current accounts. 
+              The EAR takes account of the rate of interest charged, the frequency 
+              it is levied to accounts and compounding of interest. It does not 
+              include overdraft fees<br>
+              </p>
+            <p>Clydesdale Bank PLC is a member of the Financial Services Compensation Scheme established under the Financial Services and Markets Act 2000. In respect of deposits with a UK office, payments under the Scheme are limited to 100% of the first £2,000 of a depositor's total deposits with the Bank and 90% of the next £33,000, resulting in a maximum payment of £31,700. Most depositors, including individuals and small firms, are covered. The Scheme covers deposits made with the offices of the Bank within the European Economic Area and deposits denominated in all currencies are treated alike. Further details of the Scheme are available on request. </p>
+          </td>
+          <td width="20"><img height=1 alt=" " src="/g_images/1x1space.gif" width=20 ></td>
+          <td width="131" class="content"> 
+            <table width="131" border="0" cellspacing="0" cellpadding="2">
+
+
+
+
+
+</table>          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td class="personal">&nbsp;</td><td class="disclaimer">		
+
+
+
+				      			<table width="100%" border="0" cellspacing="9" cellpadding="0">
+									<tr>
+									<td class="disclaimer">&copy; Clydesdale Bank PLC 2001. Use of the information contained on this page is subject to certain rules. To view the Rules of Use, <a href="javascript:void(null)" onclick="javascript:viewper()" class="disclaimerlink">click here.</a></td>                                                                                                                                                                     
+			                                                                                                                                                                                                                                                                                                                                                                                                                                              
+					</tr>                                                                                                                                                                                                                                                                                                                                                                                                                                           
+			    </table>                                                                                                                                                                                                                                                                                                                                                                                                                                            
+			</td>                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+
+
+  </tr>
+</table>
+</body>
+</html>
+
